@@ -1,4 +1,4 @@
-# aeo-app.ai — Full 90-Day Schedule & Content Library
+# aeo-app.ai — Full 90-Days Schedule & Content Library
 
 Starts: **4 September 2026**. Everything in one downloadable file: the complete day-by-day task table, plus every blog/carousel/poster topic with its full detailed prompt, linked directly from the table below (click any blog task to jump straight to its brief in this same document).
 
