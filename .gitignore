@@ -7,13 +7,13 @@ website/resources/
 website/.hugo_build.lock
 
 # Stale manual publish (superseded by website/ Hugo build)
-404.html
-index.html
-index.xml
-robots.txt
-sitemap.xml
-assets/
-categories/
-page/
-posts/
-tags/
+/404.html
+/index.html
+/index.xml
+/robots.txt
+/sitemap.xml
+/assets/
+/categories/
+/page/
+/posts/
+/tags/
