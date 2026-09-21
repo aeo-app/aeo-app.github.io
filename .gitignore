@@ -1,0 +1,19 @@
+# Generated document exports
+*.docx
+
+# Hugo build output and cache
+website/public/
+website/resources/
+website/.hugo_build.lock
+
+# Stale manual publish (superseded by website/ Hugo build)
+404.html
+index.html
+index.xml
+robots.txt
+sitemap.xml
+assets/
+categories/
+page/
+posts/
+tags/
