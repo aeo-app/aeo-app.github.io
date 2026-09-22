@@ -1,0 +1,10 @@
+:root {
+    --nav-width: 1200px;
+    --main-width: 1200px;
+}
+
+.md-content table th,
+.md-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
+    min-width: 64px;
+    padding: 6px 10px;
+}
