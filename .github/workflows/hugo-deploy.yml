@@ -7,7 +7,11 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
   build-and-deploy:
@@ -31,30 +35,8 @@ jobs:
         run: hugo --minify
 
       - name: Deploy to gh-pages branch
-        working-directory: ${{ github.workspace }}
-        env:
-          DEPLOY_KEY: ${{ secrets.AEO_APP_PAGES_DEPLOY_KEY }}
-        run: |
-          mkdir -p ~/.ssh
-          echo "$DEPLOY_KEY" > ~/.ssh/id_ed25519
-          chmod 600 ~/.ssh/id_ed25519
-          cat >> ~/.ssh/config <<'EOF'
-          Host github.com
-            HostName ssh.github.com
-            Port 443
-            User git
-            IdentityFile ~/.ssh/id_ed25519
-            StrictHostKeyChecking accept-new
-          EOF
-          ssh-keyscan -p 443 ssh.github.com >> ~/.ssh/known_hosts 2>/dev/null
-          rm -rf _deploy
-          mkdir -p _deploy
-          cp -a website/public/. _deploy/
-          git init -q _deploy
-          git -C _deploy checkout -q -b gh-pages
-          git -C _deploy config user.email "action@github.com"
-          git -C _deploy config user.name "github-actions"
-          git -C _deploy add -A
-          git -C _deploy commit -q -m "Deploy site $(date -u +%Y-%m-%dT%H:%M:%SZ)" || true
-          git -C _deploy remote add origin git@github.com:aeo-app/aeo-app.github.io.git
-          GIT_SSH_COMMAND="ssh -o IdentitiesOnly=yes" git -C _deploy push -f origin gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./website/public
+          publish_branch: gh-pages
