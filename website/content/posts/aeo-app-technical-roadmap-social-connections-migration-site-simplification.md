@@ -22,6 +22,8 @@ A public, versioned technical roadmap for the AEO Intel product platform — the
 
 The social-publishing backend already shares one execution pipeline (`backend/services/social_publish/publish_service.py` + `scheduler.py` on APScheduler), so every "connection" item is mostly **new OAuth + a platform adapter against that shared pipeline** — not a new architecture each time.
 
+**Schedule:** a **15-day sprint**, Day 1 = **Mon 28 Sep 2026** → Day 15 = **Fri 16 Oct 2026**. Full day-by-day table in the [Schedule & time frames](#schedule--time-frames) section below. Runs concurrently with the APAC Relocation sprint (ends 21 Oct) — Friday tasks double as that week's cadence review; Wed/Fri blog days are unaffected (different owners).
+
 ---
 
 ## 1. Facebook connection
@@ -135,3 +137,58 @@ Login / signup stay app routes (they already exist as `frontend/src/pages/auth/*
 ## Sequencing note
 
 Items 1–4 share the same publish pipeline, so they can proceed in parallel **per platform** (one engineer per platform, or platform-by-platform in the same order as the codebase maturity: Facebook → Google Business → LinkedIn review → YouTube last because it's the only build-from-scratch). Item 5 sits parallel with any infra change and must land before any new-pool Terraform apply touches production. Item 6 is independent and cheap — it can ship first to make everything after it look credible.
+
+---
+
+## Schedule & time frames
+
+**15-day sprint: Day 1 = Mon 28 Sep 2026 → Day 15 = Fri 16 Oct 2026.** Trust the day table below; the effort column is the estimate that produced it.
+
+### Time frames per item
+
+| Item | Effort (approx) | Target dates | External dependency (the real long pole) |
+|---|---|---|---|
+| 6 · Site simplification | ~2 days | 28–29 Sep | none — can ship first |
+| 1 · Facebook connection | ~2 days active + review wait | 30 Sep – 1 Oct | Meta app review (submit Day 3) |
+| 4 · Google Business | ~2 days active + form wait | 2 – 5 Oct | My Business API access form (submit Day 5) |
+| 2 · LinkedIn connection | ~1 day active + review wait | 6 Oct | LinkedIn partner review for Company Page |
+| 3 · YouTube connection | ~3 days | 7 – 9 Oct | Google Cloud enablement (overnight) |
+| 5 · Migration scripts | ~2 days | 12 – 13 Oct | Terraform state backup before new pool |
+| Regression + buffer + launch gate | 3 days | 14 – 16 Oct | — |
+
+### Day-by-day schedule
+
+| Day | Date | Weekday | Assigned To | Task | Exit check / Done when |
+|---|---|---|---|---|---|
+| 1 | 28 Sep 2026 | Mon | Founder, Vaishnavi | Site simplification: cut the 14-section landing page to 6 sections (Hero, What you get, How it works, Pricing, Proof/runbooks, Contact); add Home/Product/Pricing/About/Blog/Legal routes | Landing renders as ≤6 sections; each route resolves |
+| 2 | 29 Sep 2026 | Tue | Founder | Site copy: one-line value prop + real output screenshot per page, one CTA per page, legal/privacy page given a URL | Every page ≤ ~500 words, one CTA, output-first |
+| 3 | 30 Sep 2026 | Wed | Vaishnavi | Facebook: submit production app review; wire long-lived page-token refresh; persist chosen Instagram Business account id with the connection | Reviews filed; tokens refresh without human re-connect |
+| 4 | 01 Oct 2026 | Thu | Vaishnavi | Facebook E2E: scheduled photo post to a real page through the invite flow | Post lands on the page; scheduler status = posted |
+| 5 | 02 Oct 2026 | Fri | Vaishnavi, Founder | Google Business: submit My Business API access form; verify account + location discovery returns the real business | Locations API returns the target profile/location; Friday cadence review |
+| 6 | 05 Oct 2026 | Mon | Vaishnavi | Google Business E2E: LocalPost with CTA fires through the scheduler | Post appears on the live profile; status = posted |
+| 7 | 06 Oct 2026 | Tue | Founder | LinkedIn: submit Company Page (`w_organization_social`) review; validate interim personal-profile path end-to-end once | Review filed; interim path published successfully |
+| 8 | 07 Oct 2026 | Wed | Vaishnavi | YouTube: Google Cloud project + YouTube Data API v3 enabled, OAuth scopes set, refresh-token reuse from the Google Business pattern | OAuth callback stores a working refresh token |
+| 9 | 08 Oct 2026 | Thu | Vaishnavi | YouTube: resumable upload endpoint consuming a public S3 video URL | Upload returns a valid YouTube video id |
+| 10 | 09 Oct 2026 | Fri | Vaishnavi | YouTube: wire `PLATFORM_LABELS` / `publish_service` / scheduler + frontend `PLATFORM_META` + invite flow | Scheduled post uploads to the channel; status reflects result; Friday cadence review |
+| 11 | 12 Oct 2026 | Mon | Vaishnavi | Migration: `cognito_user_export` / `import` / `restore` scripts | Staging dry-run: user counts match, OTP login works, groups reapplied |
+| 12 | 13 Oct 2026 | Tue | Vaishnavi | Migration: `dynamo_export` / `import` / `migrate_verify`; back up `terraform.tfstate` | Zero-diff verify report; tfstate backup committed out of tree |
+| 13 | 14 Oct 2026 | Wed | Vaishnavi, Founder | Cross-platform regression: all 4 platforms run through one scheduler pass on staging | No auth-failure mislabels; partial/failed states accurate |
+| 14 | 15 Oct 2026 | Thu | Vaishnavi | Buffer: fix Day 13 failures; rollback drill for both migration script sets | Rollback restores staging data in under an hour |
+| 15 | 16 Oct 2026 | Fri | Founder, Vaishnavi | Launch gate: full checklist review, go/no-go for production cutover (Facebook, LinkedIn, YouTube, Google Business, migration) | Checklist signed; cutover date fixed; Friday cadence review |
+
+---
+
+## Risks & mitigations
+
+| # | Risk | Likelihood | Impact | Mitigation |
+|---|---|---|---|---|
+| 1 | **Platform review/form delays** — Meta app review, LinkedIn Company Page review, and the Google My Business access form take days-to-weeks, not hours | High | High | File all three by the schedule above (they wait in parallel while coding continues); buffer days 14–15; LinkedIn keeps the working personal-profile path as interim publishing |
+| 2 | **Cognito schema immutability** — custom attributes (`company_name`, `domain`) can't be added to an existing pool; any in-place apply fails | High | High | Provision a new pool with the schema and run the scripted migration; never add schema blocks to a live pool; dry-run on staging first |
+| 3 | **Migration data loss / partial cutover** — a bad export/import flips users or drops scheduled posts / connections | Medium | High | Duplicate import + zero-diff verify before touching env vars; rollback drill (Day 14) restores staging in <1h; `tfstate` backed up before any new-pool apply |
+| 4 | **External API/charter drift** — Meta/LinkedIn/Google deprecate a flow mid-sprint | Medium | Medium | All services pin to 2026-doc-verified flows; each platform gets an E2E day (not just coding) that re-verifies against live APIs before the next item starts |
+| 5 | **S3 public-read media URLs break uploads** — YouTube/IG fetch the media file by public URL; a bucket policy change silently breaks posting | Medium | Medium | Keep the media bucket public-read per the existing policy; part of every E2E exit check is confirming the public URL is fetchable |
+| 6 | **Auth failures misclassified** — expired tokens reported as general failures, sending users to the wrong fix (or "reconnect" loops) | Low | Medium | Centralised `_is_auth_failure()` in `publish_service.py` distinguishes auth vs rate-limit/content errors; regression day (Day 13) verifies each platform still classifies correctly |
+| 7 | **Cutover lands mid-publishing-week** — the runbook cadence (Wed/Fri blogs, Sat case studies) is live; an outage echoes it | Medium | High | Schedule the production cutover for a quiet day (post-Friday review); manual Canva-export + upload remains a fallback on the shared calendar during the cutover week |
+| 8 | **Scope creep — site rewrite becomes a redesign** | Medium | Medium | Item 6 is bounded to the page map + word-count ceilings in this post; anything visual beyond the existing brand system needs separate sign-off |
+
+**Standing guardrail (from the operating runbooks):** never publish a fabricated number, and never swap a a roadmap task for a "shipped it" unless its exit check in the table above actually passed. A checked box with no E2E test is the failure mode this schedule exists to prevent.
