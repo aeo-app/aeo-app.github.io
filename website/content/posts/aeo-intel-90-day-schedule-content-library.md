@@ -19,6 +19,8 @@ Starts: **4 September 2026**. Everything in one downloadable file: the complete 
 
 ---
 
+<a id="day-by-day-schedule"></a>
+
 ## Day-by-Day Schedule
 
 | Day | Date | Weekday | Assigned To | Blog | LinkedIn (Company) | LinkedIn (Founder) | Instagram Feed | Instagram Stories | Facebook | Notes / Checkpoint |

@@ -29,18 +29,15 @@ params:
   ShowPageNums: true
   DateFormat: "January 2, 2006"
   homeInfoParams:
-    Title: "AEO / GEO growth operations runbooks"
-    Content: >
-      Two living, day-by-day operating plans published as static sites so they stay
-      crawlable and citable by AI engines:
-      - the **AEO Intel** 90-day sprint for `aeo-app.ai`,
-      - the **APAC Relocation** aggressive 30-day AEO/GEO sprint for `apacrelocation.com`.
-      Each page is a self-contained plan document — schedule table, content library,
-      and every writing prompt.
+    Title: "Schedule and Runbook"
   socialIcons: []
 
 menu:
   main:
+    - identifier: team
+      name: Team
+      url: /team/
+      weight: 5
     - identifier: archives
       name: Archives
       url: /archives/
