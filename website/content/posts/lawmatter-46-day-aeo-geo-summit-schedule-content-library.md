@@ -1,3 +1,12 @@
+---
+title: "LawMatter — Full 46-Day AEO/GEO Schedule & Content Library"
+date: 2026-09-29
+lastmod: 2026-09-29
+tags: ["AEO", "GEO", "AI Search", "AML and CTF", "Tranche 2", "AUSTRAC", "LawTech", "46-day sprint", "content library"]
+categories: ["LawMatter"]
+summary: "The 46-day pre-event AEO/GEO push for LawMatter and Comply.LM ahead of the Lawyers Weekly LawTech: AI Summit: day-by-day schedule, a click-through library of every deliverable brief, and the Claims Ledger that gates every published claim."
+---
+
 # LawMatter — Full 46-Day AEO/GEO Schedule & Content Library
 
 Starts: **Wednesday 30 September 2026** (Day 1) → **Saturday 14 November 2026** (Day 46). Everything in one file: the day-by-day task table, and a click-through library where **every deliverable — blog post, landing page, event page, LinkedIn post, YouTube video, Short, EDM, outbound sequence, forum answer, paid ad, LawMatter claims-ledger entry and post-event follow-up — is a link to its own detailed brief** (topic, why, what to include in order, ready-to-use copy, and a publish checklist). Be detailed. The briefs are written so a non-expert operator can execute them without asking questions.
@@ -12,7 +21,7 @@ Starts: **Wednesday 30 September 2026** (Day 1) → **Saturday 14 November 2026*
 | 4 | Comply.LM demo bookings | Demo form submissions, tagged pre-summit / at-summit / post-summit. |
 | 5 | Pipeline | Demos held → opportunities → wins, reported at Day 46. |
 
-**The strategic bet (verified 29 Sep 2026):** Lawyers Weekly already publishes an authoritative entity for the LawTech: AI Summit 2026 — date, venue, audience, speakers, registration. **LawMatter's own domain contains no mention of the summit at all** (`/summit`, `/events`, `/lawtech-ai` all return 404; the word "summit" appears 0 times in the homepage HTML). An event with a strong third-party entity and no first-party entity is the cheapest SERP and AI-citation win available in this window. Phase 1 builds that entity; everything after it feeds it.
+**The strategic bet:** Lawyers Weekly already publishes an authoritative entity for the LawTech: AI Summit 2026 — date, venue, audience, speakers, registration. **LawMatter's own domain contains no mention of the summit at all** (`/summit`, `/events`, `/lawtech-ai` all return 404; the word "summit" appears 0 times in the homepage HTML). An event with a strong third-party entity and no first-party entity is the cheapest SERP and AI-citation win available in this window. Phase 1 builds that entity; everything after it feeds it.
 
 ---
 
@@ -96,7 +105,7 @@ Nothing below may be invented to fill the gap. If an answer is not supplied by t
 
 <a id="anti-hallucination-rules"></a>
 
-## Anti-hallucination rules
+## Verification Rules
 
 These are the reason this plan can be executed by someone who has never met the client. They are not style preferences.
 
