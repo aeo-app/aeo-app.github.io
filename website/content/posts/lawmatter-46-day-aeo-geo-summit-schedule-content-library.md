@@ -27,6 +27,10 @@ Starts: **Wednesday 30 September 2026** (Day 1) → **Saturday 14 November 2026*
 
 **Non-negotiables (read before anything else):** [Claims Ledger](#claims-ledger) · [Compliance Gate](#compliance-gate) · [Anti-hallucination rules](#anti-hallucination-rules) · [Funnel maths](#funnel-maths) · [UTM + tracking convention](#utm--tracking-convention)
 
+**Cross-sprint channels:** [Instagram + Facebook + Google Business Profile — the repurposing lane](#meta-lane) · [Hashtag bank](#meta-hashtags)
+
+**The Meta schedule — seven assets, each with its caption, hashtags, prompt and footer:** [#1 Day 11 — the seven obligations](#meta-1) · [#2 Day 18 — Stories only](#meta-2) · [#3 Day 25 — the compliance officer Reel](#meta-3) · [#4 Day 29 — twelve questions](#meta-4) · [#5 Day 30 — the day before](#meta-5) · [#6 Day 32 — what we heard](#meta-6) · [#7 Day 39 — a week after](#meta-7)
+
 **Phase 1 — Foundation (Days 1–6):** [Day-1 AI-citation baseline](#p1-baseline) · [Technical fixes A: canonical + schema + article markup](#p1-fixes-a) · [Rebuild `llms.txt` truthfully](#p1-llmstxt) · [Schema B: SoftwareApplication, Offer, FAQPage, WebApplication](#p1-schema-b) · [The Event Entity page + Event schema](#p1-event-entity) · [GSC + sitemap + Indexing](#p1-gsc) · [Claims Ledger build + open questions](#p1-claims) · [Tracking & conversion setup](#p1-tracking) · [Week-2 content drafting](#p1-drafting)
 
 **Week 2 (Days 7–12) — Open:** [Blog #1 Tranche 2 Compliance Checklist](#b1) · [EDM #1 Invitation](#e1) · [Short #1](#v-short-1) · [LinkedIn teaser #1](#li-teaser-1) · [LinkedIn carousel #1](#li-carousel-1) · [Outbound wave 1](#out-1) · [YouTube #1](#yt-1) · [Exec LinkedIn post #1](#li-exec-1) · [Forum wave 1](#forum-1)
@@ -66,7 +70,7 @@ These are **placeholders**. Replace each with a real name in a single pass at th
 - **Why YouTube is in here.** Video transcripts are the one AEO asset that makes an answer citable from video alone. Three long-form videos plus seven Shorts, each repurposed from a blog post, gives the AI engines seven additional machine-readable transcripts answering the same Tranche 2 questions.
 - **Why outbound is a first-class workstream.** At a A$5–8k total budget, paid media cannot buy enough of a market this small and this relationship-driven. A three-touch sequence to a named list of Australian firms is the cheapest pipeline available. Five waves across the sprint.
 - **Why forums.** AI engines weight human-authored answers as evidence. A genuine, disclosed answer in the right community is a citable brand mention no page on your own domain can buy. **Answer first, disclose that you work on the product, one link maximum.** Astroturfing is the fastest way to lose both the community and the citation.
-- **Why Instagram and Facebook stay in the calendar but are ranked Last.** You asked for all mediums and they are scheduled — but LawMatter sells AML/CTF software to managing partners, legal ops directors and compliance officers. Instagram Reels will not acquire that buyer. Facebook and Instagram are **repurposing lanes only** (roughly two posts per week, derived from the week's strongest asset), and paid Meta is held at **zero** until the Day 18 check earns it. This is stated plainly rather than padded with vanity numbers.
+- **Why Instagram, Facebook and Google Business Profile stay in the calendar but are ranked Last.** You asked for all mediums and they are scheduled — but LawMatter sells AML/CTF software to managing partners, legal ops directors and compliance officers. Instagram Reels will not acquire that buyer. Facebook and Instagram are **repurposing lanes only** (roughly two posts per week, derived from the week's strongest asset), paid Meta is held at **zero** until the Day 18 check earns it, and the [Google Business Profile](#meta-lane) work is conditional on [Q13](#open-questions) — a verified profile and a real service address. GBP is the exception worth arguing for, because it is a **search** surface with local intent rather than a social feed, and the event-day photo capture is worth keeping regardless because it cannot be made in advance. This is stated plainly rather than padded with vanity numbers.
 - **Why paid is LinkedIn-first.** LinkedIn is where managing partners, practice managers, legal operations and heads of risk actually are. Google Search captures people already searching. LinkedIn Sponsored Content and Message Ads do the demand creation; Google does the capture.
 - **Why the Law Society associations are worth more than ads.** Australian law society and specialist legal-technology association listings carry exactly the audience and the trust signal, at zero media cost. They are treated as a workstream, not a footnote.
 
@@ -98,6 +102,7 @@ Nothing below may be invented to fill the gap. If an answer is not supplied by t
 | Q10 | Australian Privacy Act position: does the EOI form collect personal information, and what is the consent/notice text? | **Day 4** | Event page, demo page, forms |
 | Q11 | ABN 52 696 453 433 — registry status unconfirmed. Confirm active before printing on any page. | Day 5 | Footer, schema, event page |
 | Q12 | Budget numbers: [LINKEDIN $___] / [GOOGLE $___] / [META $___]. Set live on Day 6, not invented here. | **Day 6** | All paid briefs and shift rules |
+| Q13 | Does a **verified Google Business Profile** exist for LawMatter / Comply.LM, and does the business have a real, verifiable physical service location? GBP is only available to a business with an actual address — do not create one on a co-working or registered-agent address. | **Day 5** | The whole GBP subsection of the [Meta lane](#meta-lane). **If the answer is no, that subsection is dropped, not improvised.** |
 
 ---
 
@@ -210,9 +215,11 @@ Built on Day 4 and maintained for the life of the plan. **Status must be `Verifi
 utm_source    = li | ig | fb | google | newsletter | lawyersweekly | lawassoc | youtube | podcast | out-organic | partner
 utm_medium    = paid-social | paid-search | organic-social | email | referral | content | cpc
 utm_campaign  = lawtech-ai-summit | comply-lm-tranche2 | always-on-dl
-utm_content   = <asset id>       e.g. li-carousel-1, e1-invite, b1-checklist, yt-1
+utm_content   = <asset id>       e.g. li-carousel-1, e1-invite, b1-checklist, yt-1, meta-w2-checklist
 utm_term      = (google search only) <exact matched/typed query>
 ```
+
+**GBP uses the same convention with a different source:** a Google Business Profile post link is `utm_source=google&utm_medium=organic&utm_campaign=lawtech-ai-summit&utm_content=gbp-event`. **A link placed in the GBP caption body rather than the CTA button is a policy breach**, so the UTM belongs on the button's destination URL. **GBP is a surface with real search intent, not a social channel** — it is the one item in the [Meta lane](#meta-lane) that can earn its place on reach alone.
 
 **Events to fire (GA4 + destinations):** `generate_lead` on the EOI form, `generate_lead` on the demo form with a `pre_summit | at_summit | post_summit` parameter, `begin_checkout` equivalent → for us, `demo_start`, `scroll_75` on the event page, and outbound `click_to_link` on LinkedIn. Every lead carries source/medium/campaign into the CRM. **No UTM, no lead source** — it goes in the tracker as `direct` and is treated as unattributed.
 
@@ -226,54 +233,54 @@ utm_term      = (google search only) <exact matched/typed query>
 
 **Escalation arc, deliberately weighted *before* the event:** Days 7–18 open (awareness → consideration), Days 19–27 decide (proof + agenda), Days 25–30 scarcity (capacity, last call, day-before), Day 31 the event, Days 32–42 conversion. **The two sharpest sends, the heaviest paid spend and the longest outbound sequence all land before 30 October.**
 
-| Day | Date | Wd | Assigned To | SEO / Site / Schema | Blog & Content | LinkedIn | YouTube | Email & Outbound | Paid & Partners | GEO / AI-Citation | Notes / Checkpoint |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 30 Sep 2026 | Wed | Tech–GEO + Founder | [Technical fixes A: canonical, schema, article markup](#p1-fixes-a) | | | | | | [Day-1 AI-citation baseline](#p1-baseline) | **Foundation opens.** Record "no mention" honestly. |
-| 2 | 01 Oct 2026 | Thu | Tech–GEO | [Schema B: SoftwareApplication, Offer, FAQPage, WebApplication](#p1-schema-b) | | | | | | | Fix `llms.txt` plan-name error [same day](#p1-llmstxt) — it is a public, citable, wrong file. |
-| 3 | 02 Oct 2026 | Fri | Tech–GEO | [The Event Entity page + Event schema](#p1-event-entity) · [GSC + sitemap + indexing](#p1-gsc) | | | | | | | Highest-leverage day of Phase 1. |
-| 4 | 03 Oct 2026 | Sat | Founder + Paid–Social | | | | | | | | [Claims Ledger + open questions](#p1-claims) (Founder) · [Tracking & conversions](#p1-tracking) (Paid–Social). **Q1, Q6, Q8, Q9, Q10 due.** |
-| 5 | 04 Oct 2026 | Sun | Content–SEO + Tech–GEO | | [Week-2 content drafting](#p1-drafting) | | | | | | Q2, Q11 due. Every drafted claim pre-checked against the ledger. |
-| 6 | 05 Oct 2026 | Mon | Founder + all | | | | | | | | **[PHASE 1 GATE — GO/NO-GO](#gate-6)**. Q12 budget set. Funnel inputs set. |
-| 7 | 06 Oct 2026 | Tue | Content–SEO + Paid–Social | | Publish [B1 Tranche 2 Compliance Checklist](#b1) | [Teaser #1](#li-teaser-1) | [Short #1](#v-short-1) | [EDM #1 Invitation](#e1) | EOI page live · Paid ON | | First day the machine runs. |
-| 8 | 07 Oct 2026 | Wed | Paid–Social + Tech–GEO | | | [Carousel #1](#li-carousel-1) | | [Outbound wave 1](#out-1) (wave sends) | | [AI-citation spot-check #1](#p1-baseline) |
-| 9 | 08 Oct 2026 | Thu | Content–SEO + Paid–Social | | Publish [B2 What Is a Tranche 2 DSP](#b2) | [Post #2](#li-post-2) | | Outbound touch 2 | | | |
-| 10 | 09 Oct 2026 | Fri | Paid–Social + Tech–GEO | | | | [YouTube #1](#yt-1) + [Short #2](#v-short-2) | [Exec post #1](#li-exec-1) · [Forum wave 1](#forum-1) | | Fill tracker; 15-min review |
-| 11 | 10 Oct 2026 | Sat | Paid–Social | | | [IG + FB repurposing](#li-carousel-1) | | | | | Weekend — lightest channel day |
-| 12 | 11 Oct 2026 | Sun | Founder | | | | | | | [Rest / catch-up](#gate-18). Q3, Q4, Q7 due. Analytics pull. |
-| 13 | 12 Oct 2026 | Mon | Content–SEO + Paid–Social | | Publish [B3 Appointing an AML/CTF Officer](#b3) | [Teaser #2](#li-teaser-2) | [Short #3](#v-short-3) | | Paid optimised against Day 8 data | |
-| 14 | 13 Oct 2026 | Tue | Paid–Social | | | [Carousel #2](#li-carousel-2) | | [EDM #2 Topic-led](#e2) · [Outbound wave 2](#out-2) | | | |
-| 15 | 14 Oct 2026 | Wed | Content–SEO + Tech–GEO | | Publish [B4 LPP and AUSTRAC reporting](#b4) | [Post #3](#li-post-3) | | | [AI-citation spot-check #2](#gate-18) | |
-| 16 | 15 Oct 2026 | Thu | Paid–Social | | | | [YouTube #2](#yt-2) | [EDM #3 Limited places](#e3) | | | |
-| 17 | 16 Oct 2026 | Fri | Founder + Paid–Social | | | [Exec post #2](#li-exec-2) | | | [PR pitch to legal media](#pr-1) | | Original 16 Oct campaign window opens |
-| 18 | 17 Oct 2026 | Sat | Founder + all | | | | | | [MID-RAMP CHECK — Day 18](#gate-18) | **Spend-shift decision made here.** |
-| 19 | 18 Oct 2026 | Sun | Content–SEO | | | | | | | Rest / catch-up. No sends. |
-| 20 | 19 Oct 2026 | Mon | Content–SEO + Paid–Social | | Publish [B5 Vendor due diligence checklist](#b5) | [Teaser #3](#li-teaser-3) | [Short #4](#v-short-4) | | | | **Q5 differentiators due** for B10 |
-| 21 | 20 Oct 2026 | Tue | Paid–Social | | | [Carousel #3](#li-carousel-3) | | [EDM #4 Agenda & speakers](#e4) | | | Speaker names only if on the page today |
-| 22 | 21 Oct 2026 | Wed | Content–SEO + Tech–GEO | Refresh [/eligibility-check](https://complylm.com.au/eligibility-check) + /pricing | Publish [B6 Summit preview](#b6) | [Post #4](#li-post-4) | | | | | |
-| 23 | 22 Oct 2026 | Thu | Paid–Social | | | | [YouTube #3](#yt-3) | [EDM #5 Last chance, early registration](#e5) | | | |
-| 24 | 23 Oct 2026 | Fri | Founder + Paid–Social | | | [Exec post #3](#li-exec-3) | | | | [Speaker re-verify #1](#speaker-check-1) | **Verify, then freeze speaker list for Week 5** |
-| 25 | 24 Oct 2026 | Sat | Tech–GEO + Founder | [Event page lock + speaker re-verify #2](#speaker-check-2) | Refresh B1 with event cross-link | | | | | | Event page frozen against fact drift |
-| 26 | 25 Oct 2026 | Sun | Paid–Social | | | | | | | | Rest. Final assets proofread. |
-| 27 | 26 Oct 2026 | Mon | Content–SEO + Paid–Social | | Publish [B7 Event-tied: compliance for an AI-enabled firm](#b7) | [Teaser #4](#li-teaser-4) | [Short #5](#v-short-5) | [EDM #6 Places remaining](#e6) | Paid to peak | | **Scarcity phase.** |
-| 28 | 27 Oct 2026 | Tue | Paid–Social | | | [Carousel #4](#li-carousel-4) | | [Outbound wave 3 — hot accounts](#out-3) | | | Longest outbound sequence of the sprint |
-| 29 | 28 Oct 2026 | Wed | Content–SEO + Tech–GEO | | Publish [B8 Day-before logistics](#b8) | [Post #5](#li-post-5) | [Short #6](#v-short-6) | | | [AI-citation spot-check #3](#gate-18) | **Last content day before the event** |
-| 30 | 29 Oct 2026 | Thu | Founder + all | | | [Exec post #4](#li-exec-4) | | [EDM #7 Day-before](#e7) | Paid at max | | **[EVENT READINESS GATE](#gate-30)**. EOIs in hand reported. |
-| 31 | **30 Oct 2026** | **Fri** | **Founder + all** | | | [Event-day LinkedIn](#d31-linkedin) | [Live clips](#d31-runsheet) | [Thank-you capture](#d31-leads) | | [Re-run baseline live](#p1-baseline) | **THE SUMMIT.** Hyatt Regency Sydney. |
-| 32 | 31 Oct 2026 | Sat | Paid–Social | | | Publish [B9 Event recap](#b9) | [Recap cut](#b9) | [48-hour attendee sequence](#fu-attendee) | | | Post-event content spike begins |
-| 33 | 01 Nov 2026 | Sun | Paid–Social | | | | | [No-show / registered-non-attendee sequence](#fu-noshow) | | | |
-| 34 | 02 Nov 2026 | Mon | Content–SEO + Paid–Social | Refresh B1 + B2 with event signal | | [Carousel — five things we heard](#li-carousel-3) | [Short #7](#v-short-7) | | Paid shifts to demand capture | | |
-| 35 | 03 Nov 2026 | Tue | Paid–Social | | | | | [EDM #8 Thank you + next step](#e8) · [Outbound wave 4 — post-event meetings](#out-3) | | | Event conversations become pipeline |
-| 36 | 04 Nov 2026 | Wed | Content–SEO | | Publish [B10 Why act now](#b10) | [Post #6](#li-post-6) | | | | | |
-| 37 | 05 Nov 2026 | Thu | Founder | | | | | | | Rest / catch-up. Full analytics pull. |
-| 38 | 06 Nov 2026 | Fri | Paid–Social + Tech–GEO | | | | | | | [Forum wave 2](#forum-2) | Mid-follow-up check |
-| 39 | 07 Nov 2026 | Sat | Paid–Social | | | [IG + FB recap](#li-carousel-3) | | | | | |
-| 40 | 08 Nov 2026 | Sun | Content–SEO | | Refresh weakest 2 pages | | | | | | Rest. |
-| 41 | 09 Nov 2026 | Mon | Content–SEO + Paid–Social | | Publish [B11 Comparison — behind the gate](#b11) | [Teaser #5](#li-teaser-5) | [Short #8](#v-short-8) | | | Q5 signed off or B11 does not ship |
-| 42 | 10 Nov 2026 | Tue | Paid–Social | | | | | [EDM #9 Last call for demo](#p4-report) | | | |
-| 43 | 11 Nov 2026 | Wed | Tech–GEO | | | | | | | [Day-43 AI-citation re-test](#p4-retest) | Identical query set to Day 1 |
-| 44 | 12 Nov 2026 | Thu | Tech–GEO + Paid–Social | | | | | | | [Full analytics pull](#p4-analytics) | GSC, GA4, YouTube, paid, CRM |
-| 45 | 13 Nov 2026 | Fri | Founder + Content–SEO | | Refresh B1 with final CTA + date stamp | | | | | | Draft the report |
-| 46 | 14 Nov 2026 | Sat | Founder + all | | | | | | | [Day 46 report and decision](#p4-report) | **Continue / adjust / expand.** Close the sprint. |
+| Day | Date | Wd | Assigned To | SEO / Site / Schema | Blog & Content | LinkedIn | YouTube | Email & Outbound | Paid & Partners | Instagram | Facebook | Google Business Profile | GEO / AI-Citation | Notes / Checkpoint |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 30 Sep 2026 | Wed | Tech–GEO + Founder | [Technical fixes A: canonical, schema, article markup](#p1-fixes-a) |  |  |  |  |  |  |  |  | [Day-1 AI-citation baseline](#p1-baseline) | **Foundation opens.** Record "no mention" honestly. |
+| 2 | 01 Oct 2026 | Thu | Tech–GEO | [Schema B: SoftwareApplication, Offer, FAQPage, WebApplication](#p1-schema-b) |  |  |  |  |  |  |  |  |  | Fix `llms.txt` plan-name error [same day](#p1-llmstxt) — it is a public, citable, wrong file. |
+| 3 | 02 Oct 2026 | Fri | Tech–GEO | [The Event Entity page + Event schema](#p1-event-entity) · [GSC + sitemap + indexing](#p1-gsc) |  |  |  |  |  |  |  |  |  | Highest-leverage day of Phase 1. |
+| 4 | 03 Oct 2026 | Sat | Founder + Paid–Social |  |  |  |  |  |  |  |  |  |  | [Claims Ledger + open questions](#p1-claims) (Founder) · [Tracking & conversions](#p1-tracking) (Paid–Social). **Q1, Q6, Q8, Q9, Q10 due.** |
+| 5 | 04 Oct 2026 | Sun | Content–SEO + Tech–GEO |  | [Week-2 content drafting](#p1-drafting) |  |  |  |  |  |  | [Q13 verify](#gate-18): exists, verified, real service address |  | Q2, Q11 due. Every drafted claim pre-checked against the ledger. **Q13 (GBP exists + real address?) due** — the [Meta lane](#meta-lane) needs it on Day 5 |
+| 6 | 05 Oct 2026 | Mon | Founder + all |  |  |  |  |  |  |  |  |  |  | **[PHASE 1 GATE — GO/NO-GO](#gate-6)**. Q12 budget set. Funnel inputs set. |
+| 7 | 06 Oct 2026 | Tue | Content–SEO + Paid–Social |  | Publish [B1 Tranche 2 Compliance Checklist](#b1) | [Teaser #1](#li-teaser-1) | [Short #1](#v-short-1) | [EDM #1 Invitation](#e1) | EOI page live · Paid ON |  |  |  |  | First day the machine runs. |
+| 8 | 07 Oct 2026 | Wed | Paid–Social + Tech–GEO |  |  | [Carousel #1](#li-carousel-1) |  | [Outbound wave 1](#out-1) (wave sends) |  |  |  |  | [AI-citation spot-check #1](#p1-baseline) |  |
+| 9 | 08 Oct 2026 | Thu | Content–SEO + Paid–Social |  | Publish [B2 What Is a Tranche 2 DSP](#b2) | [Post #2](#li-post-2) |  | Outbound touch 2 |  |  |  |  |  |  |
+| 10 | 09 Oct 2026 | Fri | Paid–Social + Tech–GEO |  |  |  | [YouTube #1](#yt-1) + [Short #2](#v-short-2) | [Exec post #1](#li-exec-1) · [Forum wave 1](#forum-1) |  |  |  | **Event post** — two weeks out, CTA-button link |  | Fill tracker; 15-min review. **GBP Event post live if Q13 = yes** ([Meta lane](#meta-lane)) — two weeks out, Google needs the lead time. |
+| 11 | 10 Oct 2026 | Sat | Paid–Social |  |  |  |  |  |  | [Meta #1](#meta-1) carousel 9 + Stories ×2 | [Meta #1](#meta-1) document |  |  | **9-slide Tranche 2 checklist re-cut.** Caption, hashtags, prompt and footer are in the [Meta #1](#meta-1) brief. Weekend — lightest channel day. |
+| 12 | 11 Oct 2026 | Sun | Founder |  |  |  |  |  |  |  |  |  |  | [Rest / catch-up](#gate-18). Q3, Q4, Q7 due. Analytics pull. |
+| 13 | 12 Oct 2026 | Mon | Content–SEO + Paid–Social |  | Publish [B3 Appointing an AML/CTF Officer](#b3) | [Teaser #2](#li-teaser-2) | [Short #3](#v-short-3) |  | Paid optimised against Day 8 data |  |  |  |  |  |
+| 14 | 13 Oct 2026 | Tue | Paid–Social |  |  | [Carousel #2](#li-carousel-2) |  | [EDM #2 Topic-led](#e2) · [Outbound wave 2](#out-2) |  |  |  |  |  |  |
+| 15 | 14 Oct 2026 | Wed | Content–SEO + Tech–GEO |  | Publish [B4 LPP and AUSTRAC reporting](#b4) | [Post #3](#li-post-3) |  |  | [AI-citation spot-check #2](#gate-18) |  |  |  |  |  |
+| 16 | 15 Oct 2026 | Thu | Paid–Social |  |  |  | [YouTube #2](#yt-2) | [EDM #3 Limited places](#e3) |  |  |  |  |  |  |
+| 17 | 16 Oct 2026 | Fri | Founder + Paid–Social |  |  | [Exec post #2](#li-exec-2) |  |  | [PR pitch to legal media](#pr-1) |  |  | Update |  | Original 16 Oct campaign window opens |
+| 18 | 17 Oct 2026 | Sat | Founder + all |  |  |  |  |  |  | [Meta #2](#meta-2) Stories ×4 (feed rests) |  |  | [MID-RAMP CHECK — Day 18](#gate-18) | **Spend-shift decision made here — the gate above. Paid Meta only; it does not touch this lane.** [Meta #2](#meta-2) Stories slot ships. |
+| 19 | 18 Oct 2026 | Sun | Content–SEO |  |  |  |  |  |  |  |  |  |  | Rest / catch-up. No sends. |
+| 20 | 19 Oct 2026 | Mon | Content–SEO + Paid–Social |  | Publish [B5 Vendor due diligence checklist](#b5) | [Teaser #3](#li-teaser-3) | [Short #4](#v-short-4) |  |  |  |  |  |  | **Q5 differentiators due** for B10 |
+| 21 | 20 Oct 2026 | Tue | Paid–Social |  |  | [Carousel #3](#li-carousel-3) |  | [EDM #4 Agenda & speakers](#e4) |  |  |  |  |  | Speaker names only if on the page today |
+| 22 | 21 Oct 2026 | Wed | Content–SEO + Tech–GEO | Refresh [/eligibility-check](https://complylm.com.au/eligibility-check) + /pricing | Publish [B6 Summit preview](#b6) | [Post #4](#li-post-4) |  |  |  |  |  |  |  |  |
+| 23 | 22 Oct 2026 | Thu | Paid–Social |  |  |  | [YouTube #3](#yt-3) | [EDM #5 Last chance, early registration](#e5) |  |  |  |  |  |  |
+| 24 | 23 Oct 2026 | Fri | Founder + Paid–Social |  |  | [Exec post #3](#li-exec-3) |  |  |  |  |  | Update | [Speaker re-verify #1](#speaker-check-1) | **Verify, then freeze speaker list for Week 5** |
+| 25 | 24 Oct 2026 | Sat | Tech–GEO + Founder | [Event page lock + speaker re-verify #2](#speaker-check-2) | Refresh B1 with event cross-link |  |  |  |  | [Meta #3](#meta-3) Reel + Stories ×2 | [Meta #3](#meta-3) native upload |  |  | Event page frozen against fact drift. **Draft [Meta #5](#meta-5) today, publish Day 30** — the day-before asset cannot be scheduled more than 48h out. |
+| 26 | 25 Oct 2026 | Sun | Paid–Social |  |  |  |  |  |  |  |  |  |  | Rest. Final assets proofread. |
+| 27 | 26 Oct 2026 | Mon | Content–SEO + Paid–Social |  | Publish [B7 Event-tied: compliance for an AI-enabled firm](#b7) | [Teaser #4](#li-teaser-4) | [Short #5](#v-short-5) | [EDM #6 Places remaining](#e6) | Paid to peak |  |  |  |  | **Scarcity phase.** |
+| 28 | 27 Oct 2026 | Tue | Paid–Social |  |  | [Carousel #4](#li-carousel-4) |  | [Outbound wave 3 — hot accounts](#out-3) |  |  |  |  |  | Longest outbound sequence of the sprint |
+| 29 | 28 Oct 2026 | Wed | Content–SEO + Tech–GEO |  | Publish [B8 Day-before logistics](#b8) | [Post #5](#li-post-5) | [Short #6](#v-short-6) |  |  | [Meta #4](#meta-4) carousel 12 + Stories ×2 | [Meta #4](#meta-4) document |  | [AI-citation spot-check #3](#gate-18) | **Last content day before the event.** [AI-citation spot-check #3](#gate-18). |
+| 30 | 29 Oct 2026 | Thu | Founder + all |  |  | [Exec post #4](#li-exec-4) |  | [EDM #7 Day-before](#e7) | Paid at max | [Meta #5](#meta-5) carousel 5 + Stories ×3 | [Meta #5](#meta-5) document |  |  | **[EVENT READINESS GATE](#gate-30)**. EOIs in hand reported. **Re-verify every [Meta #5](#meta-5) event fact against the organiser's page this morning, not on Day 25.** |
+| 31 | **30 Oct 2026** | **Fri** | **Founder + all** |  |  | [Event-day LinkedIn](#d31-linkedin) | [Live clips](#d31-runsheet) | [Thank-you capture](#d31-leads) |  |  |  | Update | [Re-run baseline live](#p1-baseline) | **THE SUMMIT.** Hyatt Regency Sydney. |
+| 32 | 31 Oct 2026 | Sat | Paid–Social |  |  | Publish [B9 Event recap](#b9) | [Recap cut](#b9) | [48-hour attendee sequence](#fu-attendee) |  | [Meta #6](#meta-6) carousel 5 + Stories ×2 | [Meta #6](#meta-6) document |  |  | Post-event content spike begins. [Meta #6](#meta-6): **no attendee identifiable without consent captured.** |
+| 33 | 01 Nov 2026 | Sun | Paid–Social |  |  |  |  | [No-show / registered-non-attendee sequence](#fu-noshow) |  |  |  |  |  |  |
+| 34 | 02 Nov 2026 | Mon | Content–SEO + Paid–Social | Refresh B1 + B2 with event signal |  | [Carousel — five things we heard](#li-carousel-3) | [Short #7](#v-short-7) |  | Paid shifts to demand capture |  |  |  |  |  |
+| 35 | 03 Nov 2026 | Tue | Paid–Social |  |  |  |  | [EDM #8 Thank you + next step](#e8) · [Outbound wave 4 — post-event meetings](#out-3) |  |  |  |  |  | Event conversations become pipeline |
+| 36 | 04 Nov 2026 | Wed | Content–SEO |  | Publish [B10 Why act now](#b10) | [Post #6](#li-post-6) |  |  |  |  |  |  |  |  |
+| 37 | 05 Nov 2026 | Thu | Founder |  |  |  |  |  |  |  |  |  |  | Rest / catch-up. Full analytics pull. |
+| 38 | 06 Nov 2026 | Fri | Paid–Social + Tech–GEO |  |  |  |  |  |  |  |  | Update | [Forum wave 2](#forum-2) | Mid-follow-up check |
+| 39 | 07 Nov 2026 | Sat | Paid–Social |  |  |  |  |  |  | [Meta #7](#meta-7) carousel 5 + Stories ×2 | [Meta #7](#meta-7) document |  |  | **[Meta #7](#meta-7) — the honest post.** What LawMatter commits to, not what it claims. |
+| 40 | 08 Nov 2026 | Sun | Content–SEO |  | Refresh weakest 2 pages |  |  |  |  |  |  |  |  | Rest. |
+| 41 | 09 Nov 2026 | Mon | Content–SEO + Paid–Social |  | Publish [B11 Comparison — behind the gate](#b11) | [Teaser #5](#li-teaser-5) | [Short #8](#v-short-8) |  |  |  |  |  |  | Q5 signed off or B11 does not ship |
+| 42 | 10 Nov 2026 | Tue | Paid–Social |  |  |  |  | [EDM #9 Last call for demo](#p4-report) |  |  |  |  |  |  |
+| 43 | 11 Nov 2026 | Wed | Tech–GEO |  |  |  |  |  |  |  |  |  | [Day-43 AI-citation re-test](#p4-retest) | Identical query set to Day 1 |
+| 44 | 12 Nov 2026 | Thu | Tech–GEO + Paid–Social |  |  |  |  |  |  |  |  |  | [Full analytics pull](#p4-analytics) | GSC, GA4, YouTube, paid, CRM |
+| 45 | 13 Nov 2026 | Fri | Founder + Content–SEO |  | Refresh B1 with final CTA + date stamp |  |  |  |  |  |  |  |  | Draft the report |
+| 46 | 14 Nov 2026 | Sat | Founder + all |  |  |  |  |  |  |  |  |  | [Day 46 report and decision](#p4-report) | **Continue / adjust / expand.** Close the sprint. |
 
 ---
 
@@ -391,7 +398,7 @@ Hook in the first **2 seconds**. If the first two seconds don't stop the scroll,
 | 0:22–0:28 | Back to face | The takeaway, one line | The takeaway |
 | 0:28–0:30 | Card with logo + URL | `complylm.com.au` | Silence |
 
-**Checklist:** subtitles burned in · captions file uploaded · thumbnail set · first comment carries the link (LinkedIn, Instagram, Facebook) · title carries the query phrase · nothing claimed that is not in the Claims Ledger.
+**Checklist:** subtitles burned in · captions file uploaded · thumbnail set · **the link goes where the platform actually makes it clickable** — LinkedIn: first comment · Facebook: in the post body · Instagram: **bio link or Stories link sticker, never the caption** (an IG caption URL is not tappable; clickable caption links are a limited Meta Verified test and must not be assumed) · title carries the query phrase · nothing claimed that is not in the Claims Ledger. See the [Meta lane](#meta-lane).
 
 ### Forum answer rule
 
@@ -607,7 +614,12 @@ Dark navy / near-black tech look, cyan and teal accents, site theme `#1E2A38`. B
      - If **Google Search branded impression share is under 20%** after 7 days → increase branded bid, reduce generic.
      - If **EOI volume is under `[X]` with 7 days to go** → the gap is creative and targeting, not budget. Cut the weakest two ads and double the best one, do not raise spend.
   7. **Confirm the event registration flow.** Lawyers Weekly's registration is an EOI on *their* system — **you may not be able to track it directly.** If not, use a LawMatter-hosted landing page that forwards to the organiser's page and measure the click-through instead, and say so in the reporting. **Do not report organiser-side registrations as your own.**
-- **Checklist before publishing:** all three tags fire and arrive in GA4 · both conversion events tested end to end with a real submission · UTM on every outbound link · dashboard built and populated with Day 1–3 data · budget loaded per Q12 · shift thresholds written into the dashboard · the tracking gap around organiser-owned registration is documented honestly.
+  8. **Set up the organic Meta and GBP measurement, which is not the same as the paid setup.** These are un-funded channels and they are on the calendar from Week 2, so they need their instrumentation on Day 4 or the first three weeks of posts are unattributable:
+     - **Instagram:** the **bio link** is the only clickable link on a feed post — set it to the current campaign destination with a UTM, and remember it has to be **swapped when the CTA changes**. Add a `utm_source=ig&utm_medium=organic-social` row to the dashboard. IG does not report link clicks from captions, so the number will be low by nature — say so rather than treating a quiet week as a failure.
+     - **Facebook:** every link goes in the post body, UTM-tagged, `utm_source=fb`. Page Insights give reach, link clicks and profile visits. **If a Meta Pixel ends up installed, the two sources overlap — do not add them together or you will double-count.**
+     - **Google Business Profile:** UTM the CTA-button destination (`utm_source=google&utm_medium=organic&utm_content=gbp-event`). **Read GBP results from the platform's own Performance report, not from GA4** — it is a separate measurement model, calls and direction requests have no GA4 equivalent, and reporting one against the other produces a number that means nothing. Add a separate `GBP (platform-reported, not GA4)` tab to the dashboard so the two are never summed.
+     - **One sheet, three new tabs, before the first post goes out.** A channel that is not instrumented before it starts cannot be retrofitted.
+- **Checklist before publishing:** all three tags fire and arrive in GA4 · both conversion events tested end to end with a real submission · UTM on every outbound link · dashboard built and populated with Day 1–3 data · budget loaded per Q12 · shift thresholds written into the dashboard · the tracking gap around organiser-owned registration is documented honestly · **IG bio link set and UTM-tagged, FB page posting rights confirmed, and the `GBP (platform-reported)` tab created — before the first Meta post on Day 11** · **Q13 answered and the GBP decision recorded either way.**
 
 <a id="p1-drafting"></a>
 
@@ -657,7 +669,7 @@ Dark navy / near-black tech look, cyan and teal accents, site theme `#1E2A38`. B
 
 **NO-GO — pre-approved cut list, in this order, no new discussion required:**
 
-1. **Cut Instagram and Facebook entirely** (saves 2 posts/week). Comply.LM's buyer is on LinkedIn and Google.
+1. **Cut the Instagram and Facebook organic lane** (saves 2 posts/week) — see the [Meta lane](#meta-lane). Comply.LM's buyer is on LinkedIn and Google. **Keep the Google Business Profile Event post and the event-day photo/video capture even under this cut** — GBP is a search surface with local intent, and the day-of footage is the only asset that cannot be made in advance. The cut removes the caption work, not the shooting.
 2. **Cut YouTube from three long-form to one** (keep the Shorts — the transcripts are the AEO asset and the Shorts are cheap).
 3. **Cut paid Meta to zero permanently.** It is already zero.
 4. **Move the entire paid budget to LinkedIn and Google Search**, weighted to whichever had the better cost per EOI at the time.
@@ -1040,7 +1052,7 @@ Dark navy / near-black tech look, cyan and teal accents, site theme `#1E2A38`. B
 | 5 | Is outbound working? | Wave 1 replies, meetings booked | If reply rate is under 5% on 40 sends, the personalisation rule is failing — fix the list, not the volume. |
 | 6 | Are the claims holding? | Count of unverified claims caught in the gate | Any caught twice is a process failure, not a person failure. Fix the process. |
 | 7 | Is the EOI number on track? | EOIs in hand vs the Day 6 target | **If under 60% of target with 12 days to go, the problem is volume — go to the NO-GO cut list's inverse: move budget from LinkedIn to Google, and extend outbound to 60 accounts.** |
-| 8 | Does paid Meta earn a test? | Nothing — it is at zero | **Decision: does Meta retargeting earn A$500? Default is no.** Only test it if LinkedIn and Google are both saturated. |
+| 8 | Does paid Meta earn a test? | Nothing — it is at zero | **Decision: does Meta retargeting earn A$500? Default is no.** Only test it if LinkedIn and Google are both saturated. **This decision is about paid spend only. It does not touch the organic [Meta lane](#meta-lane), which is un-funded and stays on the calendar either way — and does not touch GBP.** |
 | 9 | Did anyone fabricate anything? | Incidents logged | Zero tolerance. Any incident is fixed the same day and written into the Day 46 report. |
 | 10 | Are we behind schedule? | Publish log vs the table | One slip is a slip. Two in a week means the cadence itself is wrong — cut volume, not quality. |
 
@@ -1471,6 +1483,284 @@ Four further Shorts, each repackaging that week's strongest blog asset. **Every 
 
 **Standing rules for all four:** no place count, deadline or start time unless sourced from the organiser today · no speaker named unless verified today · no product capability claim outside the Claims Ledger · no speed or accuracy quantification · subtitle file uploaded · thumbnail set · title carries the query phrase · compliance gate signed.
 
+<a id="meta-lane"></a>
+
+#### INSTAGRAM + FACEBOOK + GOOGLE BUSINESS PROFILE — the repurposing lane · Paid–Social · Days 7–42, 2 posts/week
+
+- **Topic:** the week's strongest asset, re-cut for the three surfaces that are **ranked Last** in this plan and never originate anything. Roughly two posts per week, alternating IG and FB, plus a Google Business Profile post wherever the week's asset has a local or on-the-day angle.
+- **Why:** these three channels **will not acquire the buyer.** Comply.LM sells to managing partners, practice managers and compliance officers, and that audience is on LinkedIn and Google, not here. They are in the plan for three honest reasons and no others: **the event is in Sydney and GBP is a search surface with real local intent** · **event-day photos and clips are the only asset in this campaign that can only be made on the day** · **the Shorts and carousels are vertical-native and cost nothing to re-cut.** If an asset does not fit one of those three reasons, it does not post. **Do not pad this lane to hit a number.**
+- **Verified platform mechanics — read before writing a single caption, because they are not the same on any of the three surfaces:**
+
+| Surface | Is a link in the caption clickable? | Where the link goes | Reach consequence |
+|---|---|---|---|
+| **Instagram feed** | **No.** A URL in an IG caption is not tappable. Clickable caption links are a limited Meta Verified test (roughly 10/month, creator/personal accounts, in-app only) and **must not be assumed available** | **Bio link** (one per profile) or the **Stories link sticker** | A bare URL in the caption is dead weight and displaces keywords. Keep it out |
+| **Instagram Stories** | Yes — link sticker | Sticker, one per frame | The only reliable IG click surface |
+| **Facebook feed/page** | Yes | **In the post body** | Links suppress organic reach, but they work — do not hide the FB link behind a comment |
+| **Google Business Profile** | **No URLs in the post body** — it breaches Google's content policy. Phone numbers are banned there too | **The CTA button field only.** Pre-set labels: `Learn more`, `Sign up`, `Book`, `Call now` — the label is Google's, not yours | Posts drive clicks and call actions, not vanity reach |
+
+  **The three-point consequence for the copy below:** the IG caption **ends in a CTA with no URL and no "link in bio"** — it is a hook and keywords, and it earns a DM send or a profile visit; the bio link and Stories sticker carry the URL; the FB caption **is** the one that carries the tracked link in the body. Same asset, three different link treatments. Getting this wrong is the single most common error on these surfaces and it is why so many brands post a link that does nothing.
+
+- **What to include, in order — the Friday re-cut routine, 90 minutes, one session for the whole week:**
+  1. **Pick the source asset.** One per week, from the table below. Never two. If the week's source asset does not exist (a gate pushed it, a rest week), the Meta post does not happen — **post nothing rather than filler.**
+  2. **Cut the vertical version first.** 1080×1350 (4:5) for IG feed — that is the only ratio that is not cropped in the feed. The existing LinkedIn carousels are 1080×1080 and **will** get cropped; re-export at 4:5, do not re-post the square file.
+  3. **Build the image set.** Slides as one continuous PDF document-post, or as individual carousel cards. **Dark navy `#1E2A38` with cyan/teal accents, bold type, no stock photography, no AI-generated human faces, no handshake imagery.** Alt text on every slide.
+  4. **Write the caption** from the worked examples below. Answer-first, keywords in lines 1–2, **no URL**, one question the audience can actually answer.
+  5. **Write the hashtag block** from the [hashtag bank](#meta-lane). Three to five, rotated, never fifteen.
+  6. **Set the link.** IG: confirm the **bio link** points at the right destination with a UTM and swap it if not; add a Stories sticker on the same asset. FB: tracked link in the post body.
+  7. **Post, then log it** in the tracker: platform · date · slug · link · reach · profile visits · link clicks · DMs generated.
+
+- **Worked example — the Week 2 post (source: [B1](#b1) and [Carousel #1](#li-carousel-1)). This is the format every later post follows:**
+
+  **Caption — Instagram (no URL, no "link in bio"):**
+  > Tranche 2 has been live for Australian law firms since 1 July 2026. Seven obligations. Most firms own two of them.
+  >
+  > Swipe for each one, the first action it asks of you, and where the requirement comes from.
+  >
+  > Save it for the next practice meeting. If one of these is unowned in your firm, that is the conversation to have first.
+  >
+  > Which is harder to resource — the process, or the people?
+  >
+  > #Tranche2 #AMLAustralia #LegalCompliance #LawFirmManagement #ComplyLM
+
+  **Caption — Facebook (same asset, link in the body, longer):**
+  > Tranche 2 has been live for Australian law firms since 1 July 2026. Seven obligations, and the first action each one asks of you.
+  >
+  > In our experience the one that catches firms out is rarely the hardest one. It is the one nobody has been given a name for, so nobody owns it.
+  >
+  > Full checklist: `[TRACKED LINK — utm_source=fb&utm_medium=organic-social&utm_campaign=comply-lm-tranche2&utm_content=meta-w2-carousel]`
+  >
+  > Which obligation is unowned in your firm right now?
+  >
+  > #Tranche2 #AMLAustralia #LegalCompliance #LawFirmManagement
+
+  **Alt text for slide 1 (write this, do not copy the caption):** `Carousel cover: "Tranche 2 — 7 obligations, 7 first actions", for Australian law firms and conveyancers, obligations live since 1 July 2026.`
+
+  **Footer on the card itself (the last slide, and the Stories end frame):** `Full checklist and source references at Comply.LM · link in bio` + Comply.LM wordmark. **No URL text on an IG card — the bio link and the Stories sticker are the click path.**
+
+- **The Meta schedule — seven assets across the sprint. One feed asset every 7–8 days, Stories alongside it, Facebook carrying the same asset the same day. Every asset below is a re-cut of something already ledger-verified, which is the point of this lane: the claim discipline is inherited from the source, not re-litigated. A new claim never originates here. If a re-cut needs a claim the source does not carry, it is cut, not softened.**
+
+| # | Day | Slug | Source | IG | FB | Stories | One CTA |
+|---|---|---|---|---|---|---|---|
+| 1 | 11 (Sat) | `meta-w2-checklist` | [B1](#b1) + [Carousel #1](#li-carousel-1) | Carousel, 9 slides | Document post | 2 frames | Book a demo |
+| 2 | 18 (Sat) | `meta-w2-story` | [B2](#b2) | — (feed rests) | — (Stories do not run on FB) | 4 frames, tip + poll | Book a demo |
+| 3 | 25 (Sat) | `meta-w3-officer` | [B3](#b3) + [Short #3](#v-short-3) | Reel | Native video upload | 2 frames | Book a demo |
+| 4 | 29 (Wed) | `meta-w4-vendor` | [B5](#b5) + [Short #4](#v-short-4) | Carousel, 12 slides | Document post | 2 frames | Book a demo |
+| 5 | 30 (Thu) | `meta-w5-daybefore` | [B8](#b8) + [Carousel #4](#li-carousel-4) | Carousel, 5 slides | Document post | 3 frames | Register your interest |
+| 6 | 32 (Sat) | `meta-fu-recap` | [B9](#b9) | Carousel, 5 things | Document post | 2 frames | Book a demo |
+| 7 | 39 (Sat) | `meta-fu-lessons` | [B9](#b9) + [Carousel — five things we heard](#li-carousel-3) | Carousel, 5 slides | Document post | 2 frames | Book a demo |
+
+  **Google Business Profile runs on its own clock, not this one.** GBP is the only search surface in the lane, and it is scheduled off the event date rather than the feed cadence — the **Event post goes live on Day 10**, two full weeks out, because Google needs the lead time to index it and it stays visible through the event. It is then one **Update post per week maximum** (Days 17, 24, 31, 38), reusing the same ledger-gated copy with no new claims. Every GBP post puts its link in the **CTA button field**, never the post body. All of it is conditional on Q13.
+
+  **The re-cut routine, 90 minutes, one session per asset. Do all seven steps every time:**
+  1. **Open the source asset** and pull its Claims Ledger rows. Anything not in those rows does not appear in the re-cut.
+  2. **Re-export the visual at 4:5 (1080×1350) for IG.** The LinkedIn carousels are square and will be cropped. For GBP, export separately at 720p+ or square/landscape — a 4:5 crop gets cut there too.
+  3. **Build the slides** to the prompt below. Dark navy `#1E2A38`, cyan/teal accents, bold type, no stock photography, no AI-generated faces, no handshake imagery. **Alt text on every slide.**
+  4. **Write the caption** — the IG version and the FB version are below for each asset. They are not the same text. The IG caption carries no URL; the FB caption carries the tracked link in the body.
+  5. **Set the link.** IG: confirm the **bio link** points at the right destination with a UTM, and swap it if not; add the Stories link sticker on the final frame. FB: tracked link in the post body. GBP: link in the **CTA button field only**.
+  6. **Publish, then log it** in the tracker: platform · date · slug · link · reach · profile visits · link clicks · DMs · saves.
+  7. **Compliance gate.** The caption is a published claim surface. No speaker name unless verified today, no place count or deadline unless sourced from the organiser today, no product claim outside the Claims Ledger, and **beta disclosed wherever the product is mentioned.**
+
+<a id="meta-1"></a>
+
+  **1 · Day 11 (Sat 10 Oct) — `meta-w2-checklist` · the seven obligations**
+
+  *Prompt:* "Design a 9-slide Instagram carousel, 1080×1350 (4:5), dark navy `#1E2A38` background with cyan/teal accent rules, bold white typography, no photography. **Slide 1** cover: 'Tranche 2 — 7 obligations, 7 first actions', subline 'For Australian law firms & conveyancers · live since 1 July 2026'. **Slide 2** the frame: 'Most firms know two of these. Here are the other five.' **Slides 3–9** one obligation per slide, identical template each time: obligation name in 4 words max · 'What it asks of you:' one sentence · 'First action:' one imperative sentence · 'Source:' AUSTRAC. Obligations in order: enrol · appoint a compliance officer · client due diligence · suspicious matter reports · AML/CTF program · risk assessment · training. **Slide 9 footer:** 'Full checklist and source references at Comply.LM · link in bio' + Comply.LM wordmark. No logo on any other slide. Maximum 25 words per slide."
+
+  *IG caption (no URL, no "link in bio"):*
+  > Tranche 2 has been live for Australian law firms since 1 July 2026. Seven obligations. Most firms own two of them.
+  >
+  > Swipe for each one, the first action it asks of you, and where the requirement comes from.
+  >
+  > Save it for the next practice meeting. If one of these is unowned in your firm, that is the conversation to have first.
+  >
+  > Which is harder to resource — the process, or the people?
+
+  *FB caption (link in the body, one paragraph longer):*
+  > Tranche 2 has been live for Australian law firms since 1 July 2026. Seven obligations, and the first action each one asks of you.
+  >
+  > In our experience the one that catches firms out is rarely the hardest. It is the one nobody has been given a name for, so nobody owns it.
+  >
+  > Full checklist, with sources: `[TRACKED LINK — utm_source=fb&utm_medium=organic-social&utm_campaign=comply-lm-tranche2&utm_content=meta-w2-checklist]`
+  >
+  > Which obligation is unowned in your firm right now?
+
+  *Hashtags:* `#Tranche2 #AMLAustralia #LegalCompliance #LawFirmManagement #ComplyLM`
+  *Stories (2 frames):* frame 1 the cover slide with a `Swipe up` cue; frame 2 the first action only, with the **link sticker** on it.
+  *Alt text, slide 1:* `Carousel cover: "Tranche 2 — 7 obligations, 7 first actions", for Australian law firms and conveyancers, obligations live since 1 July 2026.`
+  *Checklist:* 9 slides at 4:5 · every claim traced to a ledger row · both blocked claims omitted, not softened · caption answer-first · bio link points at B1 with a UTM · Stories sticker on the last frame · FB link in the body · alt text on all 9 · compliance gate signed.
+
+<a id="meta-2"></a>
+
+  **2 · Day 18 (Sat 17 Oct) — `meta-w2-story` · Stories only, the feed rests**
+
+  *Prompt:* "Design 4 Instagram Story frames, 1080×1920, dark navy `#1E2A38` with cyan/teal accents, bold white type, no photography. **Frame 1** a single definition, one line: what a Tranche 2 designated service provider is. **Frame 2** the same definition, expanded to two lines — this is the 'aha' frame. **Frame 3** a poll: 'Is your firm enrolled?' options 'Yes' / 'Not yet'. **Frame 4** the first action, plus the footer 'Full detail at Comply.LM · link in bio' and the link sticker target. One idea per frame, generous margins, text inside the safe area."
+
+  *IG caption (Stories caption — 1–2 lines, no URL, no hashtags):*
+  > One definition, one question, thirty seconds. Swipe up.
+
+  *FB caption:* Stories do not run on Facebook. **Post nothing on FB on Day 18** — this is a Stories-only slot and the FB feed is deliberately quiet.
+
+  *Hashtags:* none on Stories. If the Story is reposted to a feed post, use `#Tranche2 #AMLAustralia #LegalCompliance` only.
+  *Footer:* frame 4 only — `Full detail at Comply.LM` + link sticker.
+  *Checklist:* definition matches [B2](#b2) word for word · poll results screen-captured for the Day 18 check · link sticker on the final frame only · no product claim beyond the definition · compliance gate signed.
+
+<a id="meta-3"></a>
+
+  **3 · Day 25 (Sat 24 Oct) — `meta-w3-officer` · the compliance officer, as a Reel**
+
+  *Prompt:* "Re-cut an existing 30-second vertical video into an Instagram Reel, 1080×1920. Keep the burned-in subtitles and the corrected captions file. **Hook frame, 0:00–0:02:** the title 'Appoint the compliance officer', large, over the first shot. **0:02–0:07:** the real workflow. **0:07–0:22:** the appointment decision, three on-screen labels. **0:22–0:28:** the takeaway line. **0:28–0:30:** a dark navy `#1E2A38` end card, Comply.LM wordmark, footer text 'Full detail at Comply.LM · link in bio' with the link sticker on the final frame. Brand colours only, no stock photography, no AI faces."
+
+  *IG caption:*
+  > One of the seven Tranche 2 obligations needs a named person, with the authority to actually do the job.
+  >
+  > Appointing a compliance officer is not a paperwork task. It is a decision about who in the firm can say no to a client — and whether anyone currently can.
+  >
+  > If nobody in your firm holds that, it is the gap to close first.
+  >
+  > Who would it be at your practice?
+
+  *FB caption (link in the body):*
+  > One of the seven Tranche 2 obligations needs a named person with the authority to do the job — not a title on a compliance policy that nobody is allowed to enforce.
+  >
+  > The appointment question, and what it actually changes: `[TRACKED LINK — …&utm_content=meta-w3-officer]`
+  >
+  > Who would you appoint, and what would stop them?
+
+  *Hashtags:* `#Tranche2 #AMLAustralia #LegalCompliance #LegalOps #ComplyLM`
+  *Stories (2 frames):* frame 1 a 3-second clip of the hook with a `Watch the full reel` cue; frame 2 the end card with the link sticker.
+  **Uploading to FB:** download the file and upload it **natively** to the Facebook page. Do not crosspost — an Instagram-watermarked Reel on Facebook reads as a repost and suppresses reach.
+  *Checklist:* subtitles burned in · corrected captions file uploaded · end card carries the sticker, not a typed URL · FB upload is native and unwatermarked · beta disclosed if the product is shown · compliance gate signed.
+
+<a id="meta-4"></a>
+
+  **4 · Day 29 (Wed 28 Oct) — `meta-w4-vendor` · twelve questions, for the buyer**
+
+  *Prompt:* "Design a 12-slide Instagram carousel, 1080×1350 (4:5), dark navy `#1E2A38`, cyan/teal accent rules, bold white type, no photography. **Slide 1** cover: '12 questions to ask ANY AML/CTF vendor — including us'. **Slides 2–12** three questions per slide in a numbered list, hardest first: data location and residency, audit-trail export format, exit and data deletion on termination, SMR workflow and timing, screen-sharing controls, model training on client data, who can see a client's file, threshold configurability, regulatory change monitoring, support response time, penetration-test evidence, total cost over three years. **Slide 12** footer: 'All twelve, with our own answers to each, at Comply.LM · link in bio' + wordmark."
+
+  *IG caption:*
+  > Twelve questions. Ask them of every AML/CTF vendor — including us.
+  >
+  > We spent a few weeks working out what separates a platform from a convincing demo. Here are twelve, hardest first.
+  >
+  > We have published our own answers to all twelve, including the two we are not comfortable with yet.
+  >
+  > Which one would you put to a vendor first?
+
+  *FB caption (link in the body):*
+  > Twelve questions separate an AML/CTF platform from a convincing demo. Data residency. Audit export. What happens to your client's data when you leave.
+  >
+  > All twelve, with our answers to each: `[TRACKED LINK — …&utm_content=meta-w4-vendor]`
+  >
+  > If you only ask one, make it the exit question.
+
+  *Hashtags:* `#AMLAustralia #LegalCompliance #VendorDueDiligence #LegalTech #ComplyLM`
+  *Stories (2 frames):* frame 1 the three hardest questions as a teaser; frame 2 a poll — 'Have you asked your vendor where your data is stored?' 'Yes' / 'No'.
+  *Alt text, slide 1:* `Carousel cover: "12 questions to ask any AML/CTF vendor, including us".`
+  *Checklist:* 12 slides at 4:5 · every question traceable to [B5](#b5) · **no competitor named and no differentiator claimed** — this is the questions post, not the comparison post · answers to all twelve published or the claim is cut · compliance gate signed.
+
+<a id="meta-5"></a>
+
+  **5 · Day 30 (Thu 29 Oct) — `meta-w5-daybefore` · the day before the summit**
+
+  **This is the most time-critical asset in the lane and it cannot be scheduled more than 48 hours ahead.** Event facts decay. Draft on Day 25, publish on Day 30, and re-verify every event fact against the organiser's page on the morning of Day 30 — the day of the check, not the day of the draft.
+
+  *Prompt:* "Design a 5-slide Instagram carousel, 1080×1350 (4:5), dark navy `#1E2A38`, cyan/teal accents, bold white type, no photography, no people. **Slide 1** cover: 'Tomorrow — 3 things to bring to a one-day legal tech summit'. **Slide 2** what the day is and who it is for, attributed to the organiser. **Slide 3** where LawMatter will be, exactly as Q7 says. **Slide 4** what to bring: a question, a specific example, a decision you are actually trying to make. **Slide 5** registration, attributed to the organiser, footer 'Details and registration at Comply.LM · link in bio' + wordmark."
+
+  *IG caption:*
+  > Tomorrow. If you are going, three things to bring: a question, a specific example, and a decision you are actually trying to make.
+  >
+  > Arrive with one of those and the day is worth ten. Arrive curious and it is a very expensive day out.
+  >
+  > We will be there. Come and find us — or tell us in a DM what you are bringing and we will come to you.
+
+  *FB caption (link in the body):*
+  > Tomorrow is the LawTech: AI Summit in Sydney.
+  >
+  > Three things to bring: a question, a specific example from your own practice, and a decision you are actually trying to make. That is the whole preparation.
+  >
+  > Details and registration: `[TRACKED LINK — …&utm_content=meta-w5-daybefore]`
+  >
+  > What are you bringing?
+
+  *Hashtags:* `#LawTechSummit #SydneyEvents #LegalTech #Tranche2 #ComplyLM`
+  *Stories (3 frames):* frame 1 the three-things slide; frame 2 a `we're here today` frame with the link sticker; frame 3 opening-hours frame, verified that morning.
+  *Checklist:* **every event fact re-verified on the morning of Day 30 against the organiser's page** · no place count, no start time unless sourced today · **LawMatter described as Event Partner, never as organiser** · no speaker name unless on the organiser's page today · GBP Event post live with the CTA button set · compliance gate signed.
+
+<a id="meta-6"></a>
+
+  **6 · Day 32 (Sat 31 Oct) — `meta-fu-recap` · what we heard, the morning after**
+
+  *Prompt:* "Design a 5-slide Instagram carousel, 1080×1350 (4:5), dark navy `#1E2A38`, cyan/teal accents, bold white type, no photography, no identifiable attendee faces. **Slide 1** cover: 'Five things we heard at the LawTech: AI Summit'. **Slides 2–6** one theme per slide, each stated as the room's view rather than LawMatter's, each attributed: what managing partners are being asked to decide · what legal ops said about evidencing an automated step · what the AI-compliance conversation actually came down to · the question that came up most · what nobody could answer yet. **Slide 6** footer: 'The full write-up at Comply.LM · link in bio' + wordmark."
+
+  *IG caption:*
+  > We spent yesterday in a room of people deciding what their firms do about AI — not whether, but what changes in the file, the evidence trail and the person who signs off.
+  >
+  > Five things we heard, in the words the room used them.
+  >
+  > Including the question nobody could answer, because we could not answer it either.
+
+  *FB caption (link in the body):*
+  > Yesterday was the LawTech: AI Summit. Five things we heard, written up honestly — including the question that came up repeatedly and that we still cannot answer.
+  >
+  > The full write-up: `[TRACKED LINK — …&utm_content=meta-fu-recap]`
+  >
+  > If you were there and we got it wrong, tell us — we will correct it.
+
+  *Hashtags:* `#LegalTech #LawTechSummit #AICompliance #Tranche2 #ComplyLM`
+  *Stories (2 frames):* frame 1 a 3-second clip from the day with a `what we heard` cue; frame 2 the link sticker.
+  *Checklist:* **no attendee identifiable without explicit consent captured** · no speaker quoted unless they said it on a recorded mic · themes attributed to the room, not claimed as LawMatter's position · partner status correct in every frame · compliance gate signed.
+
+<a id="meta-7"></a>
+
+  **7 · Day 39 (Sat 7 Nov) — `meta-fu-lessons` · the honest version, a week on**
+
+  *Prompt:* "Design a 5-slide Instagram carousel, 1080×1350 (4:5), dark navy `#1E2A38`, cyan/teal accents, bold white type, no photography. **Slide 1** cover: 'A week after the summit — what actually changed'. **Slides 2–5** four commitments, each phrased as a thing LawMatter will do, not a thing it achieved: what we are publishing next · what we could not answer at the summit and are still working on · the question we now ask every vendor, including ourselves · what we will be doing before the next renewal. **Slide 5** footer: 'Follow along at Comply.LM · link in bio' + wordmark. **Do not put a number on any slide unless it is a ledger-verified figure.**"
+
+  *IG caption:*
+  > A week after the summit. Here is what we are committing to, not what we are claiming.
+  >
+  > One of these is the question we could not answer in the room. We have not answered it since either. It is written down on the site so you can hold us to it.
+  >
+  > Which of these would you have wanted answered on the day?
+
+  *FB caption (link in the body):*
+  > A week after the LawTech: AI Summit, here is what LawMatter is committing to next — including the question we could not answer in the room and have not answered since.
+  >
+  > Written down, with the gaps named: `[TRACKED LINK — …&utm_content=meta-fu-lessons]`
+  >
+  > The honest post beats the impressive post. Especially the week after.
+
+  *Hashtags:* `#LegalTech #AICompliance #LegalCompliance #Tranche2 #ComplyLM`
+  *Stories (2 frames):* frame 1 the four commitments; frame 2 a question sticker — `What should we be publishing next?` — with replies logged.
+  *Checklist:* **no result claimed that is not measured** · the unanswered question stays unanswered and visible · no client named, no count claimed · compliance gate signed.
+
+- **Google Business Profile — the one surface here with local intent, and it is not a social channel:**
+  - **Profile first, posts second.** Confirm on Day 5 that a LawMatter/Comply.LM GBP exists, is verified, and has the correct name, category, hours, website, phone and service area. **If no verified profile exists, this lane does not start** — do not create one during the sprint without Q13, because GBP creation needs a real physical presence and a verification process that will not finish before Day 30. Log it as `direct` and move on.
+  - **Event post, published by Day 10** (two weeks out — Google needs the lead time to index it and it stays visible through the event end date). Type: **Event**. Title: `[LAW-TECH: AI SUMMIT — 30 OCT 2026]`. Start and end date/time from the organiser's page, today, not from memory. Image 720p+ or square/landscape — **a 4:5 IG crop gets cut here**, so export a separate GBP asset. CTA button: **`Learn more`**, pointing at the event page with `utm_source=google&utm_medium=organic&utm_campaign=lawtech-ai-summit&utm_content=gbp-event`. **No URL and no phone number in the post body** — that is a policy breach and the post gets rejected.
+  - **What it is worth.** GBP posts drive calls, direction requests and website clicks on a search surface, which is stronger than anything else in this lane. **It is also the only channel here that can surface for a non-branded local-ish search.** It gets a disproportionate share of the effort relative to its size.
+  - **The service-area constraint.** A GBP is for a business with a real location. **If LawMatter is a remote/digital business with no verifiable Sydney address, a GBP post is not available and this whole subsection does not apply** — that is what Q13 is for. Do not invent an address, and do not use a co-working or registered-agent address to qualify. Google removes profiles for exactly this.
+  - **One GBP post per week maximum, Update type in follow-up weeks**, same copy discipline: no place count, no speaker name, no product claim outside the Claims Ledger. **Never post an Offer post** — there is no offer, and an offer post on a compliance product is the fastest way to look like a spam listing to both Google and a managing partner.
+
+- **Standing rules for the whole lane:** answer or keyword in lines 1–2 · **no URL in an IG caption and no "link in bio"** · FB link in the body with a UTM · GBP link in the CTA button only · 3–5 hashtags, rotated · alt text on every slide and every GBP image · no speaker name unless verified today · no place count, deadline or start time unless sourced from the organiser today · no product claim outside the Claims Ledger · no stock photography, no AI faces · Australian English throughout · **never crosspost a watermarked Instagram Reel to Facebook** · compliance gate signed.
+
+- **What "did not work" looks like here, and is a valid Day 46 result.** This lane is expected to underperform on reach. Record it honestly: profile visits, link clicks, DMs, GBP calls and direction requests. **If the lane produces nothing measurable, that is a finding, and the Day 6 cut list already names it as the first thing to cut.** Do not rescue it by posting more often.
+
+<a id="meta-hashtags"></a>
+
+#### Hashtag bank · Paid–Social · standing
+
+Rotate, do not stack. Three to five per post. **Mix one broad, one sector, one brand, one event-adjacent, and leave the rest out** — a wall of hashtags reads as spam to a professional audience and to the platform.
+
+| Role | Hashtags |
+|---|---|
+| Regulatory (ledger-backed, safe to use) | `#Tranche2` `#AMLAustralia` `#AMLCFT` `#AUSTRAC` `#CTF` |
+| Sector / role | `#LegalCompliance` `#LawFirmManagement` `#LegalTech` `#PracticeManagers` `#Conveyancing` `#LegalOps` |
+| Event | `#LawTechSummit` `#SydneyEvents` |
+| Brand | `#ComplyLM` `#LawMatter` |
+| **Never use** | `#AUSTRACCompliant` — this is the **blocked claim** from Q1, and a hashtag is a published claim. `#Tranche2Ready` or any implied-compliance variant until Q1 is answered. `#LawFirmAI` only where a real claim supports it. |
+
+---
+
 <a id="out-2"></a>
 
 #### OUTBOUND WAVE 2 — engaged and registered · Paid–Social · Day 14 (Tue 13 Oct), 50 accounts
@@ -1513,6 +1803,7 @@ Four further Shorts, each repackaging that week's strongest blog asset. **Every 
 | `[+30 min]` | Hot-lead triage, in the venue or the nearest café. Not in a car park. | Founder | Prioritised list |
 | **Day 32, 09:00** | Touch 1 of the 48-hour sequence goes out. | Paid–Social | — |
 - **Checklist before leaving the venue:** every captured lead has a **named follow-up owner** · every promise made verbally is written down and owned · capture device reconciled against the paper backup · no lead captured without consent captured · nothing about the event's content, sessions or speakers characterised in any material unless published by the organiser.
+- **On-the-day Meta — the one asset that cannot be made in advance.** This is the reason the [Meta lane](#meta-lane) exists at all. **Shot on the day, posted the same day or the next morning:** 3–5 vertical clips (a 15-second answer, shot handheld, no intro) and a photo set of the booth, the banner, the stand, and the Founder at work. **No faces of attendees without their explicit permission** — a consent line in the capture form, or a verbal yes on camera. **Event Partner branding visible and correct in every frame; never position LawMatter as the organiser.** Feed it to [B9](#b9) and `meta-fu-recap` on Day 32. **Everything else on Meta waits until Day 32** — event-day posting that needs a caption written live is how a typo ships.
 
 <a id="d31-leads"></a>
 
@@ -1798,6 +2089,8 @@ Four further Shorts, each repackaging that week's strongest blog asset. **Every 
 | **Email** | Delivered, opened, clicked, replies, unsubscribes, complaints | The 8 EDMs | **Unsubscribe rate above 3% on any single send is a flag** — investigate what changed, do not just send the next one. |
 | **Outbound** | Sends, replies, meetings, opportunities | Waves 1–4 | Reply rate per wave. Wave-over-wave decline is a personalisation-quality signal. |
 | **YouTube** | Views, watch time, retention at 30s, transcript-indexed | The 3 long-form · the 8 Shorts | **Retention at 30 seconds is the hook-quality metric** — below your chosen threshold means the hooks need rewriting, not more uploads. |
+| **Instagram + Facebook** | Reach, profile visits, link clicks, **DMs generated**, saves | The weekly [Meta lane](#meta-lane) posts by slug | **DMs and saves are the metrics that matter, not reach** — a compliance audience saves a carousel for a practice meeting and does not like it. Cross-check against LinkedIn's numbers on the same source asset: if IG/FB reach is a fraction of LinkedIn's and produces no DM or lead, that is the evidence for the cut decision, recorded honestly rather than dressed up. |
+| **Google Business Profile** | Profile views, **calls**, messages, bookings, **website clicks**, direction requests | The GBP Event post · weekly Updates | **Read from the GBP Performance report, and only in trend across the sprint** — a single day is noise. **Do not report GBP numbers against a GA4 or paid baseline; it is a different surface with a different measurement model.** Say which it is. |
 | **Forums** | Answers posted, replies received, moderator actions | Waves 1–2 | **Any moderator action is an incident**, not a metric. Investigate and log. |
 | **CRM** | Leads, tier, source, demos held, opportunities, stage | Hot / Warm / Nurture / Partner | **Attribution first-touch and last-touch**, both shown. State which one you are using. |
 | **Search-console + AI** | The Day 43 delta table | All 10 queries | See [Day-43 re-test](#p4-retest). |
@@ -1813,7 +2106,7 @@ Four further Shorts, each repackaging that week's strongest blog asset. **Every 
   2. **Against the Day 6 targets.** Funnel target vs actual, stage by stage. **Show every assumption that turned out to be wrong**, next to the number it affected. A report that only shows what worked is a marketing asset, not a report.
   3. **The AI-citation delta table** from [Day 43](#p4-retest), with causes.
   4. **Search results:** indexed pages, the event page's own performance, positions on the 10 tracked queries, and the three posts that worked and two that did not — **with the reason**.
-  5. **Channel verdicts, one line each.** LinkedIn, Google Search, Meta, email, outbound, forums, YouTube, earned/association, the event page. For each: **worked / did not work / unmeasurable — and the reason.** Include the channels that did not work. That is the section the next cycle is built from.
+  5. **Channel verdicts, one line each.** LinkedIn, Google Search, **Google Business Profile**, Meta organic (IG + FB), paid Meta, email, outbound, forums, YouTube, earned/association, the event page. For each: **worked / did not work / unmeasurable — and the reason.** Include the channels that did not work. That is the section the next cycle is built from. **The [Meta lane](#meta-lane) verdict is expected to be weak on reach — report it straight, and if it earned nothing, say so, because that is the finding that justifies cutting it next cycle.**
   6. **The budget.** Actual against Q12, cost per EOI, cost per demo, and whether each shift threshold fired.
   7. **Compliance record.** Assets published, gate sign-offs, **and any incident** — a fabricated or unsourced claim caught in the gate, a stale speaker name, a moderator action, a broken suppression. **State plainly: "N incidents, all caught, all fixed" is a good result. "No incidents" after 46 days of daily publishing is not believable — treat it as a sign the reporting was not honest.**
   8. **What we learned about the buyer.** The strongest section, and the one only available if the leads were actually captured: the free-text answers, the questions that kept coming, the objections that killed deals, the vocabulary people used. **Write down what buyers called things — it is usually not what you called them.**
@@ -1845,7 +2138,8 @@ Four further Shorts, each repackaging that week's strongest blog asset. **Every 
 
 - **LinkedIn company page and personal profiles** are different channels with different voices. The page posts information; the profile posts judgement. **Never schedule an exec post that reads like a company post** — it halves the reach and the credibility simultaneously. The Founder writes their own posts.
 - **LinkedIn links go in the first comment**, always, on both pages. Put the URL in the post and you lose the reach; put it in the comment and you keep it.
-- **Instagram and Facebook** are repurposing lanes: take the week's best asset, reformat, post. Do not originate content for them. No stock photography. If the platform's feed is not a natural fit for a compliance audience, **post the carousel as a document post or do not post** — do not fill the calendar with filler.
+- **Instagram and Facebook** are repurposing lanes, and the full specification — cadence, captions, hashtags, formats, link mechanics — is the [Meta lane](#meta-lane). Take the week's best asset, reformat, post. Do not originate content for them. No stock photography. If the platform's feed is not a natural fit for a compliance audience, **post the carousel as a document post or do not post** — do not fill the calendar with filler. **The link mechanics differ per platform and getting them wrong is the usual failure:** an Instagram caption URL is not clickable (bio link or Stories sticker only), a Facebook link goes in the post body, and a Google Business Profile link goes in the CTA button field and **never in the post body, which is a policy breach.** Re-export at 4:5 for IG — the LinkedIn carousels are square and get cropped.
+- **Google Business Profile** is the one item in the [Meta lane](#meta-lane) that is a **search** surface rather than a social one, and it can surface for a non-branded local query. It is conditional on [Q13](#open-questions) — no verified profile with a real service address, no GBP. Never use a co-working or registered-agent address to qualify. Never post an Offer post: there is no offer.
 - **YouTube**: the transcript is the asset. Upload corrected captions, not auto-generated. The first 15 seconds are the answer. One CTA. `complylm.com.au` in the description.
 - **Email**: send at 08:30 AEDT for business audiences, Tuesday to Thursday. **AEST/AEDT changes on Sunday 4 October 2026** — after that it is AEDT (+11:00). Confirm the scheduling tool is on Sydney time, not machine time. The day-before email goes at **16:00**, not 08:30.
 - **Forums**: read the rules first, answer first, disclose in the same breath, one link maximum, stay in the thread. **A drive-by answer with no follow-up reads as spam and is treated as such by moderators.**
@@ -1870,7 +2164,7 @@ Four further Shorts, each repackaging that week's strongest blog asset. **Every 
 
 **Why 15 days of follow-up, and why it is not optional.** The original brief's 14-day follow-up window was right, and it is the highest-yield part of the plan per hour spent. Event marketing is routinely measured on attendance and routinely loses on revenue, because the people who gave you 15 minutes on Saturday decide in the following fortnight. **Three touches inside 48 hours to a personalised, Hot-tier list is worth more than the entire paid budget.** Days 43–46 then re-measure the Day 1 baseline, because a plan that does not re-measure is a plan that produced an anecdote.
 
-**On feasibility.** Twenty-four ramp days against four owners is tight, and the table says so honestly: Days 12, 19, 26 and 37 are rest/catch-up days, and the weekend days (11, 18, 31 after close, 39) are deliberately light. If the team is two people rather than four, the cut list in the Day 6 gate is the correct starting point — **cut Instagram, cut to one YouTube long-form, hold Meta at zero, and drop the comparison post.** Those four cuts save roughly 25% of the workload without touching the objective.
+**On feasibility.** Twenty-four ramp days against four owners is tight, and the table says so honestly: Days 12, 19, 26 and 37 are rest/catch-up days, and the weekend days (11, 18, 31 after close, 39) are deliberately light. If the team is two people rather than four, the cut list in the Day 6 gate is the correct starting point — **cut the IG/FB organic lane** (keep the GBP Event post and the day-of footage), **cut to one YouTube long-form, hold paid Meta at zero, and drop the comparison post.** Those four cuts save roughly 25% of the workload without touching the objective.
 
 ---
 
@@ -1890,6 +2184,9 @@ Four further Shorts, each repackaging that week's strongest blog asset. **Every 
 - [ ] LinkedIn company page admin + personal profiles of the Founder and whoever else will post — **Paid–Social**
 - [ ] LinkedIn Campaign Manager + **Insight Tag (not currently installed)**
 - [ ] Meta Business Manager + **Pixel (not currently installed)**
+- [ ] Instagram account confirmed, **bio link set and UTM-tagged** — this is the only clickable link on an IG feed post ([Meta lane](#meta-lane))
+- [ ] Facebook Page confirmed, posting rights checked (Page vs personal profile)
+- [ ] Google Business Profile: **exists, verified, and has a real service address?** → answer **Q13** by Day 5. If no, the GBP subsection is dropped, not improvised
 - [ ] Email platform (and the **list ownership answer, Q9**) + the EOI form platform
 - [ ] YouTube channel — **create or confirm**. If Comply.LM already has one, use it; do not create a second channel.
 - [ ] CRM or spreadsheet for lead capture, scoring and UTM storage
