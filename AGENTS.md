@@ -1,4 +1,4 @@
-# AGENTS.md — AEO/GEO Growth Operations (AEO Intel, APAC Relocation, LawMatter)
+# AGENTS.md — AEO/GEO Growth Operations (AEO Intel, APAC Relocation, LawMatter, Samudra Adjusting)
 
 Operating rules for the client growth plans held in this repo. On conflict: **this file owns operating rules; each plan file owns its own dates and day-by-day assignments** (its table is the executable source — any cadence summary here is a summary).
 
@@ -6,13 +6,14 @@ Operating rules for the client growth plans held in this repo. On conflict: **th
 
 Not a software repo. **No application code, no tests, no lint, no typecheck.** It holds client runbooks + two reusable skills, and builds a public Hugo site (`website/`) published at `https://aeo-app.github.io/` via GitHub Pages so the runbooks stay crawlable and citable — the point of the whole operation. All site content is Markdown under `website/content/`. Never commit or hand-edit HTML or build output.
 
-Three separate client operations, each a single self-contained plan file:
+Four separate client operations, each a single self-contained plan file:
 
 | Plan | Client / site | Run | Post |
 |---|---|---|---|
 | AEO Intel | aeo-app.ai | 90 days from **04 Sep 2026** | `website/content/posts/aeo-intel-90-day-schedule-content-library.md` |
 | APAC Relocation | apacrelocation.com | 30-day sprint, **22 Sep → 21 Oct 2026** | `website/content/posts/apac-relocation-30-day-schedule-content-library.md` |
 | LawMatter / Comply.LM | complylm.com.au + Lawyers Weekly LawTech: AI Summit (30 Oct 2026, Sydney) | 46 days from **30 Sep → 14 Nov 2026** | `website/content/posts/lawmatter-46-day-aeo-geo-summit-schedule-content-library.md` |
+| Samudra Adjusting | samis.com.sg | 60 days, **05 Oct → 03 Dec 2026** | `website/content/posts/samis-60-day-aeo-geo-schedule-content-library.md` |
 
 To act on "today": find the plan whose start date ≤ today, compute the day number, and read that row of its table. Do not redraft a calendar.
 
@@ -33,6 +34,7 @@ To act on "today": find the plan whose start date ≤ today, compute the day num
 - **Both skills point at exemplar paths that don't exist.** `n-day-plan` and `markdown-to-docx` reference `projects/AEO-Intel_Full_Schedule_and_Content_Library.md` and `projects/APAC-Relocation_30-Day_AEO-GEO_Schedule_and_Content_Library.md`. There is no `projects/` directory; the real exemplars are the two posts in `website/content/posts/`. So `markdown-to-docx` invoked with no path argument **fails** — always pass an explicit input, and fix the skill's paths when you touch it.
 - **The `ploutos` codebase is not in this repo.** `website/content/posts/aeo-app-technical-roadmap-social-connections-migration-site-simplification.md` documents real file paths in the external `ploutos` repo (the FastAPI + React + AWS app behind aeo-app.ai) and is a *roadmap document*, not work you can perform here. Never claim to have edited or verified that code from this repo.
 - **Skills live only in `.opencode/skills/`.** opencode loads from nowhere else — don't restore anything under `.github/skills/`. `.opencode/.gitignore` excludes `node_modules`/`package*.json`/`bun.lock`, so only the `SKILL.md` files are tracked.
+- **Samudra's whole premise rests on a measured finding: the site is unreadable.** On 29 Sep 2026 every route on `samis.com.sg` returned the **same 644-byte empty shell**, no SSR, no canonical, no OG, no schema, no real sitemap, no analytics ID, and `site:samis.com.sg` returned zero results. The blog origin `wordpress.samis.com.sg` (`18.143.103.43`) was **unreachable on port 443**. That is why the plan's Day 10 gate blocks all of Phase 2. **If you ever see a "quick win" proposed for this client that skips the Foundation phase, it is wrong.**
 - **Three referenced companion files still don't exist** — `aeo-app-ai_AEO-SEO-GEO_Growth_Report.md`, `AEO-Intel_Content_Prompts_Library.md`, `AEO-Intel_90-Day_Day-by-Day_Activity_Calendar.xlsx`. The AEO Intel plan confirms this at its "Supporting tasks" note (line ~345). Don't invent their content; the missing spreadsheet is why the Progress Tracker has nowhere to log results.
 
 ## Cross-plan guardrails
@@ -44,7 +46,7 @@ These hold for every plan regardless of deadline pressure:
 - **Never skip a phase gate.** The AEO Intel Day 14 go/no-go (crawlability) and the APAC Day 5 gate block their execution phases — publishing onto unreadable pages wastes the sprint. LawMatter uses Day 6 / 18 / 30 gates.
 - **No mid-cycle topic invention.** Each plan's 20-post / deliverable arc is deliberately sequenced. Check the plan's Content Library before proposing anything new.
 - **Log the tracker even in a bad week.** A missing row is worse than an honest slow week.
-- **Visual brand:** AEO Intel and APAC use indigo `#4F46E5` + white, bold type, no stock photography. LawMatter/Comply.LM instead uses the client's dark navy/black tech look with cyan/teal accents (see `lawmatter/about.md`) — do not apply the indigo system to LawMatter assets.
+- **Visual brand:** AEO Intel and APAC use indigo `#4F46E5` + white, bold type, no stock photography. LawMatter/Comply.LM instead uses the client's dark navy/black tech look with cyan/teal accents (see `lawmatter/about.md`) — do not apply the indigo system to LawMatter assets. Samudra uses the **client's own existing tokens** — navy `#004c8c`, gold `#f7a800`, Oswald headings, Roboto body, light bg `#f4f7f9` — verified from the shipped CSS, not chosen by us; do not introduce a new palette for them.
 - **Don't add invented people.** The AEO Intel/APAC owner trio (Nivedya, Shahana, Vaishnavi, Founder) and the LawMatter roles (Founder, Content–SEO, Paid–Social, Tech–GEO) are placeholders or real names as written. Never invent bios, credentials, metrics, or personal details for anyone.
 
 ## LawMatter-specific: the Claims Ledger gate
@@ -56,6 +58,17 @@ The newest and strictest plan. Its own §"Non-negotiables" is authoritative — 
 - **Speaker names get re-verified twice** (Day 24 and Day 29) and never published in the gap. `about.md` already records one named speaker who is absent from the organiser's current page.
 - Owner is **Founder only** — one accountable owner per deliverable, no exceptions.
 
+## Samudra-specific: the Source Ledger gate, including the rows that don't exist yet
+
+The plan has 32 sourced rows and **8 reserved, unsourced rows** (`LGL-05`–`LGL-09`, `MKT-06`–`MKT-08`). A reserved row is a Claim ID with no source behind it. Every pillar from P5 onward, plus T4, T5 and T6, cites at least one. The rule is not "find the source" — it is **"if the row is still open on the publish date, cut the sentence and ship the asset without it."**
+
+- **Never invent a deadline.** T5's claims-notification periods must be read from the Founder's own policy wordings. A wrong deadline is the most damaging single error this plan could publish, and it is a two-hour fix on Day 8 rather than a retraction on Day 46.
+- **Never state that late notice forfeits cover.** It does not; it converts the argument to one about prejudice. That is a legal statement, so it is attributed and disclaimed.
+- **Never characterise PDPA or GDPR extraterritorial reach.** T6 describes the firm's own practice and is not legal advice. It also cannot publish until `/privacy` and `/terms` are live, or it describes controls the firm does not operate.
+- **T4 does not publish at all** if `CRD-02` is unconfirmed — the SIRE/OCIMF framing is only publishable from a Founder who is an OCIMF-qualified inspector, and that is a credential claim.
+- **Samudra is not a law firm, insurer, P&I club, class society, or licensed premium adviser.** This line holds in every paragraph readable as advice. A compounding risk: T4 and P6 must never imply club membership.
+- **The honest-post beats the impressive-post.** LI-11 and LI-19 exist specifically to state what the firm *cannot* claim. Do not soften them to sound more confident.
+
 ## Synchronization
 
 When you change a plan, check the same change:
@@ -63,5 +76,6 @@ When you change a plan, check the same change:
 - Schedule post ↔ its own `Ownership Key`, phase boundaries, gate days and checkpoints (dates must stay internally consistent: Day 1 = start date, Day N = start + N − 1).
 - AEO Intel/APAC changes touching a person's lane → the technical-roadmap post if it's engineering scope; there are no longer team pages to update (see the `/team/` gotcha).
 - LawMatter plan changes ↔ `website/lawmatter/about.md` and the plan's Claims Ledger.
+- Samudra plan changes ↔ the plan's Source Ledger (32 sourced + 8 reserved rows in the Missing-row register) and the Day-by-Day Schedule. The table is canonical: pillars fall on Days 11/16/23/30/37/44/51, tacticals 18/25/32/39/46/53, YouTube 17/24/31/38/45/52, AI panel 5/14/21/28/42/49/56. **The Day 33 Midpoint reads run #4, not a fresh run** — the 24-prompt panel is fixed and seven runs is the whole dataset.
 - Anything added to `website/content/` needs Hugo frontmatter to be publishable, and a `hugo --minify` build to verify.
 - Never edit generated files under `website/public/` by hand.

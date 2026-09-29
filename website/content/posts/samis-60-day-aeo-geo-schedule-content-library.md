@@ -21,124 +21,92 @@ Starts: **Monday 5 October 2026** (Day 1) → **Thursday 3 December 2026** (Day 
 
 ## Clickable library — every deliverable, one click to its brief
 
+Every row below links to the full brief for that deliverable: topic, why it exists, what to include in order, ready-to-use copy, and the publish checklist.
+
 **Phase 1 — Foundation (Days 1–10 · Mon 5 Oct – Wed 14 Oct). No publishing. Fix the platform.**
 
-<a id="d1-audit"></a>
-
-#### Foundation F1 — Full technical + entity audit (Day 1 · Mon 5 Oct · Tech)
-<a id="d2-server-render"></a>
-
-#### Foundation F2 — Server-render decision: SSR / SSG / prerender on the existing CRA build (Day 2 · Tue 6 Oct · Tech)
-<a id="d3-metadata"></a>
-
-#### Foundation F3 — Per-route metadata: title, description, canonical, OG, Twitter (Day 3 · Wed 7 Oct · Tech)
-<a id="d4-schema"></a>
-
-#### Foundation F4 — JSON-LD schema: Organization, LegalService, Person, FAQPage, BreadcrumbList (Day 4 · Thu 8 Oct · Tech)
-<a id="d5-ai-baseline"></a>
-
-#### Foundation F5 — AI answer-engine baseline panel: 24 fixed prompts, 5 engines (Day 5 · Fri 9 Oct · Content–SEO)
-<a id="d6-analytics"></a>
-
-#### Foundation F6 — GA4 + Google Search Console + call tracking (Day 6 · Sat 10 Oct · Tech)
-<a id="d7-blog-rebuild"></a>
-
-#### Foundation F7 — Blog platform rebuild: replace the dead WordPress origin (Day 7 · Sun 11 Oct · Tech)
-<a id="d8-ledger"></a>
-
-#### Foundation F8 — Source Ledger created and seeded (Day 8 · Mon 12 Oct · Content–SEO)
-<a id="d9-entity-core"></a>
-
-#### Foundation F9 — Entity core: NAP, About, Credentials, Contact, Terms (Day 9 · Tue 13 Oct · Founder)
-<a id="d10-gate"></a>
-
-#### Foundation F10 — **GATE: Crawlability & Entity Gate** (Day 10 · Wed 14 Oct · Founder)
+| Day | Deliverable | Brief |
+|---|---|---|
+| 1 | F1 — Full technical + entity audit | [jump](#d1-audit) |
+| 2 | F2 — Server-render decision: SSR / SSG / prerender on the existing CRA build | [jump](#d2-server-render) |
+| 3 | F3 — Per-route metadata: title, description, canonical, OG, Twitter | [jump](#d3-metadata) |
+| 4 | F4 — JSON-LD structured data: Organization, LegalService, Person, FAQPage, BreadcrumbList | [jump](#d4-schema) |
+| 5 | F5 — AI answer-engine baseline panel: 24 fixed prompts, 5 engines | [jump](#d5-ai-baseline) |
+| 6 | F6 — GA4, Search Console and call tracking | [jump](#d6-analytics) |
+| 7 | F7 — Blog platform rebuild: replace the dead WordPress origin | [jump](#d7-blog-rebuild) |
+| 8 | F8 — Source Ledger created and seeded | [jump](#d8-ledger) |
+| 9 | F9 — Entity core: NAP, About, Credentials, Contact, Terms | [jump](#d9-entity-core) |
+| 10 | ⛔ **F10 — GATE: Crawlability & Entity Gate** | [jump](#d10-gate) |
 
 **Phase 2 — Execution (Days 11–56 · Thu 15 Oct – Sun 29 Nov). Publish on cadence.**
 
 **Pillars — one per week, Tuesday (Day 11 special, then Day 16 / 23 / 30 / 37 / 44 / 51):**
 
-<a id="p1"></a>
-
-#### Pillar P1 — "What an Average Adjuster Actually Does in a Marine Insurance Claim" (Day 11 · Thu 15 Oct)
-<a id="p2"></a>
-
-#### Pillar P2 — "General Average vs Particular Average: A Singapore Shipowner's Guide" (Day 23 · Tue 27 Oct)
-<a id="p3"></a>
-
-#### Pillar P3 — "Hull & Machinery Claims: The Seven Stages, End to End" (Day 30 · Tue 3 Nov)
-<a id="p4"></a>
-
-#### Pillar P4 — "P&I Letter of Underwriting in Singapore: What It Is and When You Need One" (Day 37 · Tue 10 Nov)
-<a id="p5"></a>
-
-#### Pillar P5 — "Third-Party Collision Liability: How Fault Gets Apportioned" (Day 44 · Tue 17 Nov)
-<a id="p6"></a>
-
-#### Pillar P6 — "Crew Illness and Repatriation Claims: What the Club Actually Pays" (Day 51 · Tue 24 Nov)
-<a id="p7"></a>
-
-#### Pillar P7 — "Choosing an Independent Marine Claims Adjuster in Singapore: 9 Questions" (Day 58 · Tue 1 Dec)
+| Day | Pillar | Brief |
+|---|---|---|
+| 11 | P1 — "What an Average Adjuster Actually Does in a Marine Insurance Claim" | [jump](#p1) |
+| 16 | P2 — "General Average vs Particular Average: A Singapore Shipowner's Guide" | [jump](#p2) |
+| 23 | P3 — "Hull & Machinery Claims: The Seven Stages, End to End" | [jump](#p3) |
+| 30 | P4 — "P&I Letter of Underwriting in Singapore: What It Is and When You Need One" | [jump](#p4) |
+| 37 | P5 — "Third-Party Collision Liability: How Fault Gets Apportioned" | [jump](#p5) |
+| 44 | P6 — "Crew Illness and Repatriation Claims: What the Club Actually Pays" | [jump](#p6) |
+| 51 | P7 — "Choosing an Independent Marine Claims Adjuster in Singapore: 9 Questions" | [jump](#p7) |
 
 **Tacticals — one per week, Thursday (Days 18 / 25 / 32 / 39 / 46 / 53):**
 
-<a id="t1"></a>
-
-#### Tactical T1 — "Singapore's Marine Insurance Market in 2026: The Record Year, in Numbers" (Day 18 · Thu 22 Oct)
-<a id="t2"></a>
-
-#### Tactical T2 — "The International Group P&I 2026/27 Renewal: What Changed" (Day 25 · Thu 29 Oct)
-<a id="t3"></a>
-
-#### Tactical T3 — "Wreck Removal in Singapore: When the Director of Marine Steps In" (Day 32 · Thu 5 Nov)
-<a id="t4"></a>
-
-#### Tactical T4 — "SIRE and OCIMF: Why Vessel Inspection Standards Follow Your Insurance" (Day 39 · Thu 12 Nov)
-<a id="t5"></a>
-
-#### Tactical T5 — "How to Read the Claims Notification Clause in Your Marine Policy" (Day 46 · Thu 19 Nov)
-<a id="t6"></a>
-
-#### Tactical T6 — "PDPA and GDPR in Marine Claims Handling: A Singapore Practical Guide" (Day 53 · Thu 26 Nov)
+| Day | Tactical | Brief |
+|---|---|---|
+| 18 | T1 — "Singapore's Marine Insurance Market in 2026: The Record Year, in Numbers" | [jump](#t1) |
+| 25 | T2 — "The International Group P&I 2026/27 Renewal: What Changed" | [jump](#t2) |
+| 32 | T3 — "Wreck Removal in Singapore: When the Director of Marine Steps In" | [jump](#t3) |
+| 39 | T4 — "SIRE and OCIMF: Why Vessel Inspection Standards Follow Your Insurance" | [jump](#t4) |
+| 46 | T5 — "How to Read the Claims Notification Clause in Your Marine Policy" | [jump](#t5) |
+| 53 | T6 — "PDPA and GDPR in Marine Claims Handling: A Singapore Practical Guide" | [jump](#t6) |
 
 **YouTube — one per week, Wednesday (Days 17 / 24 / 31 / 38 / 45 / 52):**
 
-<a id="y1"></a>
-
-#### YouTube Y1 — "What is General Average? A 4-minute explainer" (Day 17 · Wed 21 Oct)
-<a id="y2"></a>
-
-#### YouTube Y2 — "Inside a Hull & Machinery Claim: the 7 stages" (Day 24 · Wed 28 Oct)
-<a id="y3"></a>
-
-#### YouTube Y3 — "P&I Letter of Underwriting in 90 seconds" (Day 31 · Wed 4 Nov)
-<a id="y4"></a>
-
-#### YouTube Y4 — "Apportioning Fault in a Two-Vessel Collision" (Day 38 · Wed 11 Nov)
-<a id="y5"></a>
-
-#### YouTube Y5 — "9 Questions to Ask Before Appointing a Marine Claims Adjuster" (Day 45 · Wed 18 Nov)
-<a id="y6"></a>
-
-#### YouTube Y6 — Long-form: "The 2026/27 International Group P&I Renewal, Explained for Singapore Shipowners" (Day 52 · Wed 25 Nov)
+| Day | Video | Brief |
+|---|---|---|
+| 17 | Y1 — "What is General Average? A 4-minute explainer" | [jump](#y1) |
+| 24 | Y2 — "Inside a Hull & Machinery Claim: the 7 stages" | [jump](#y2) |
+| 31 | Y3 — "P&I Letter of Underwriting in 90 seconds" | [jump](#y3) |
+| 38 | Y4 — "Apportioning Fault in a Two-Vessel Collision" | [jump](#y4) |
+| 45 | Y5 — "9 Questions to Ask Before Appointing a Marine Claims Adjuster" | [jump](#y5) |
+| 52 | Y6 — Long-form: "The 2026/27 International Group P&I Renewal, Explained for Singapore Shipowners" | [jump](#y6) |
 
 **LinkedIn — 3 per week, Tue / Thu / Fri. Tue & Thu amplify the pillar or tactical published that day. Fri is a standalone practitioner post in the Founder's own voice.**
 
-<a id="li-standing"></a>
+| Group | Days | Brief |
+|---|---|---|
+| LI-01 · launch | 11, 12 | [Week 2 posts](#li-02) |
+| LI-02–LI-05 | 16, 18, 19 | [Week 2–3 posts](#li-02) |
+| LI-06–LI-08 | 23, 25, 26 | [Week 4 posts](#li-06) |
+| LI-09–LI-11 | 30, 32, 33 | [Week 5 posts](#li-week5) |
+| LI-12–LI-14 | 37, 39, 40 | [Week 6 posts](#li-week6a) |
+| LI-15–LI-17 | 44, 46, 47 | [Week 7 posts](#li-week7a) |
+| LI-18–LI-20 | 51, 53, 54 | [Week 8 posts](#li-week8a) |
 
-#### LinkedIn — standing playbook + all 20 post briefs (Days 11, 12, 16, 18, 19, 23, 25, 26, 30, 32, 33, 37, 39, 40, 44, 46, 47, 51, 53, 54)
+**Entity & Authority — 7 sessions across the run (Days 8, 9, 15, 22, 29, 43, 50):**
 
-**Entity & Authority — 2 sessions per week (Days 8, 13, 20, 27, 34, 41, 48, 55):**
-
-<a id="ent-standing"></a>
-
-#### Entity & Authority — standing playbook + the 8 session briefs
+| Day | Session | Brief |
+|---|---|---|
+| 8 | E1 — GIA + AAA directory submissions — *executed inside F8, Day 8* | [jump](#d8-ledger) |
+| 9 | E2 — Entity core pages live | [jump](#d9-entity-core) |
+| 15 | E3 — Partner/affiliation + credential pages + listings | [jump](#e3) |
+| 22 | E4 — Second-wave directory + association listings | [jump](#e4) |
+| 29 | E5 — Third-wave listings + first NAP consistency audit | [jump](#e5) |
+| 43 | E6 — Fourth-wave listings + backlink follow-up | [jump](#e6) |
+| 50 | E7 — Fifth-wave listings + final NAP audit | [jump](#e7) |
 
 **Outbound & PR — 1 session per week, Monday (Days 15, 22, 29, 43, 50):**
 
-<a id="ob-standing"></a>
-
-#### Outbound & PR — standing playbook + the 5 session briefs
+| Day | Session | Brief |
+|---|---|---|
+| 15 | O1 — Relationships, no ask | [jump](#ob1) |
+| 22 | O2 — The first link conversation | [jump](#ob2) |
+| 29 | O3 — Session 3 | [jump](#ob3) |
+| 43 | O4 — Session 4: the ask | [jump](#ob4) |
+| 50 | O5 — Session 5: the last one | [jump](#ob5) |
 
 **Measurement:**
 
@@ -146,11 +114,14 @@ Starts: **Monday 5 October 2026** (Day 1) → **Thursday 3 December 2026** (Day 
 
 #### Measurement — the metric block, the Day 33 Midpoint Checkpoint, and the Day 57–60 close
 
-**Phase 3 — Evaluation (Days 57–60 · Tue 1 Dec – Thu 3 Dec).**
+**Phase 3 — Evaluation (Days 57–60 · Mon 30 Nov – Thu 3 Dec).**
 
-<a id="close"></a>
-
-#### Close C1–C4 — Day 57 / 58 / 59 / 60 (Tue 1 Dec – Thu 3 Dec)
+| Day | Close deliverable | Brief |
+|---|---|---|
+| 57 | C1 — Final measurement pass and the honest report | [jump](#c1) |
+| 58 | C2 — Decision memo, and the Google Business Profile | [jump](#c2) |
+| 59 | C3 — Technical debt list for the next quarter | [jump](#c3) |
+| 60 | C4 — Final review, handoff, and the next gate | [jump](#c4) |
 
 ---
 
@@ -283,6 +254,25 @@ A marine claims firm that publishes a wrong figure about a P&I club, a bunker st
 | `AEO-09` | In July 2026 **YouTube was the largest single AI-citation source** (229.3K citations, +24.3% MoM) and **LinkedIn the largest multi-metric gainer** (+67.8% citation volume, #8 → #5, 80.3K citations). | `https://www.meltwater.com/en/blog/ai-search-visibility-report-july-2026` | 29 Sep 2026 | `VERIFIED` |
 | `AEO-10` | **86% of Perplexity mentions convert to a citation** — the strongest mention-to-citation pull of any engine measured. | `https://www.marketscale.com/state-of-geo-ai-visibility` | 29 Sep 2026 | `CONFLICT` — the same page states "93%" in its body and "86%" elsewhere. **Do not publish either number.** Recorded so nobody re-derives it wrongly later. |
 
+<a id="missing-rows"></a>
+
+### Missing-row register — claims the later briefs depend on, and the source each needs
+
+These eight rows are **reserved, not sourced.** Every pillar from P5 onward and both late tacticals cite at least one of them. Each stays `UNVERIFIED` until a row is added above it with a source URL and a status — and until the Founder approves the row, per the Day 8 rule. **If the row is still open on the publish date, the sentence using it is cut and the asset ships without it.** That is the intended behaviour, not a failure.
+
+| Reserved ID | Claim the brief wants to make | Source required — and where it must come from | Blocks | If it cannot be sourced |
+|---|---|---|---|---|
+| `LGL-05` | Third-party collision liability between two vessels, and the basis on which fault is apportioned. | **The Singapore Marine Insurance Act 1906 itself** or Singapore Maritime Law commentary. `LGL-01`–`LGL-04` all trace to one law-firm commentary, which is a concentration risk in this ledger — the collision pillar needs a second, independent source. | P5, Y4, LI-12 | Publish P5 as a general explainer of the apportionment *method* with no Singapore statutory framing. **Do not cite a section number you have not read.** |
+| `LGL-06` | The events that trigger a P&I club's crew illness, injury and repatriation cover, and what "repatriation" comprises. | **The club's own cover wording, or the standard P&I cover the Founder works with.** Not a summary blog, not a competitor. `[NOTE: "sick berth" is standard P&I language and is exactly the kind of phrase that must be confirmed against the wording before it is published.]` | P6, Y5, LI-15 | Cut the trigger list and the "sick berth" phrasing. **Repatriation-to-port-of-engagement must be softened to "often" and attributed to general practice, or cut.** Do not state it as the rule. |
+| `LGL-07` | The structure of a claims notification clause: notice of circumstance, then notice of claim, on two separate and usually short deadlines. | **The Founder's own policy wordings, read directly.** The two-obligation structure is standard in marine wordings; the periods, and whether they run from the event or from discovery, are not knowable from a general description of market practice. | T5, LI-16 | Publish the two-deadline *structure* with no number in it, or cut T5. **A wrong deadline is the most damaging single error this plan could publish.** Never state that late notice forfeits cover. |
+| `LGL-08` | The PDPA's provisions on consent, purpose limitation, retention, and transfer limitation, as at the publish date. | **PDPC's own guidance and the current text of the Act.** Check for amendment before publishing — the transfer-limitation obligations in particular have been moving. | T6, LI-19 | Cut the Singapore-framework section. Do not summarise the Act from memory. |
+| `LGL-09` | Whether and when the GDPR applies to a Singapore-registered practice handling EU crew personal data. | **A primary source, and a decision by the Founder.** This is a genuine legal question with real consequences, and it is **not** a marketing question. | T6 | Cut the GDPR section entirely and publish T6 as a PDPA-only page. **Do not characterise either regime's extraterritorial reach** — that is a legal opinion and this firm does not give legal opinions. |
+| `MKT-06` | SIRE is a joint industry initiative; OCIMF is the shipowner's recognised organisation publishing SIRE 2.0; participation or non-participation can be inspected against. | **OCIMF and SIRE's own published material.** | T4, LI-13 | **T4 does not publish at all** if `CRD-02` is also unconfirmed. The SIRE/OCIMF framing is only publishable from the Founder if he is an OCIMF-qualified inspector, and that is a credential claim. |
+| `MKT-07` | The claim's service list, drawn from the Firm Overview tab: H&M, cargo and machinery damage, loss of hire, cargo-related damage and general average, marine insurance-related claims, recovery, pollution fines and costs, strategic assessments and audits, expert and legal opinion. | **The firm's own service pages, verified route by route on the publish date.** These are the firm's own claims, so the "source" is the firm's own site — which means they must be checked against it rather than remembered. | E6, E7, C1, C2, the handoff summary | Trim the list to what is verifiable. **The handoff summary and the one-paragraph summary at C1 are the most reused text this plan produces, and an unverified service line in either propagates.** |
+| `MKT-08` | The regional coverage statement: Asia-Pacific and the Middle East, including India, Sri Lanka, Bangladesh, Vietnam, Thailand, Malaysia, Indonesia and Australia. | **Founder confirmation.** This has been `[UNVERIFIED]` since Day 1 and is asserted only from the firm's own pages and about material. It also depends on `CRD-03`. | E6, O4, P7, the handoff summary | Shorten to "Singapore and the Asia-Pacific region" and drop the country list. **Do not publish a country list the firm cannot service** — a broker in one of those countries reading the page is the test. |
+
+**How these close.** `LGL-05`–`LGL-09` are research tasks, and each is a two-hour job for someone with access to the source. `MKT-06`–`MKT-08` are client confirmations and cost the Founder one email. **Both categories should be closed during Phase 1, not in the week the asset publishes** — a tactical written on Day 46 and sourced on Day 45 is a different piece of work from one sourced on Day 8.
+
 ### CONFLICT C4 — the Singapore bunker sales figure
 
 Two figures for 2025 Singapore bunker sales are both in circulation and **they are not the same measurement**:
@@ -354,8 +344,8 @@ Set against that baseline. These are **targets, not forecasts**, and the Day 60 
 | Indexed URLs for the domain | **0** | **≥20** | `site:` + Search Console |
 | Valid XML sitemap at `/sitemap.xml` | **No** (soft-404) | **Yes** | `curl` + `hugo`/validator |
 | Working analytics + Search Console | **No** | **Yes**, with a claim-inquiry conversion event | GA4 DebugView |
-| AI panel: Samudra **named** across 24 prompts × 5 engines | **TBD — Day 5** | **≥8 of 24 prompts** | Same 24 prompts, same 5 engines, re-run Day 57 |
-| AI panel: Samudra **cited** (linked) | **TBD — Day 5** | **≥3 of 24 prompts** | As above |
+| AI panel: Samudra **named** across 24 prompts × 5 engines | **TBD — Day 5** | **≥8 of 24 prompts** | Same 24 prompts, same 5 engines, run #7 on Day 56 |
+| AI panel: Samudra **cited** (linked) | **TBD — Day 5** | **≥3 of 24 prompts** | As above. **The target is 8 named / 3 cited out of 24, not out of 120** — the 24 prompts run against 5 engines and a prompt that names Samudra on one engine and not another is counted once. |
 | Referring domains | **TBD — Day 1** | **+10** | Ahrefs/Semrush free tier or GSC |
 | Consistent NAP + credentials on ≥6 independent industry sources | **Unknown** | **6** | Manual audit, logged |
 | Logged claim inquiries attributable to organic / AI referral | **TBD — Day 6** | **≥3** | GA4 + call log |
@@ -375,7 +365,7 @@ Set against that baseline. These are **targets, not forecasts**, and the Day 60 
 
 **Rhythm:** Foundation Mon–Wed, no publishing · **Pillars Tuesday** · **Tacticals Thursday** · **YouTube Wednesday** · **LinkedIn Tuesday + Thursday (amplification) and Friday (standalone)** · **Outbound Monday** · **Entity & Authority 2× per week** · Weekends off, except the Sunday prompt panel.
 
-**Deliberately included in the plan:** 13 blog pieces (7 pillars + 6 tacticals), 6 YouTube videos, 20 LinkedIn posts, 8 entity/authority sessions, 5 outbound sessions, 7 AI-panel runs, 10 Foundation tasks and a 4-day close. That is **50 discrete deliverables over 60 days**, and it is a real load for a firm of this size. The load is spread so no single owner carries more than one deliverable a day, and the weekend and the Deepavali long weekend are genuinely clear. **If the Founder cannot carry their own column, cut the Friday LinkedIn posts first (7 posts) and the last two tacticals (T5, T6) second — never the pillars, the gate, or the YouTube cadence.**
+**Deliberately included in the plan:** 13 blog pieces (7 pillars + 6 tacticals), 6 YouTube videos, 20 LinkedIn posts, 7 entity/authority sessions, 5 outbound sessions, 7 AI-panel runs, 10 Foundation tasks and a 4-day close. That is **72 discrete deliverables over 60 days**, and it is a real load for a firm of this size. The load is spread so no single owner carries more than one deliverable a day, and the weekend and the Deepavali long weekend are genuinely clear. **If the Founder cannot carry their own column, cut the Friday LinkedIn posts first (7 posts) and the last two tacticals (T5, T6) second — never the pillars, the gate, or the YouTube cadence.**
 
 | Day | Date | Wd | Owner | Platform & Schema | Blog / Insights | LinkedIn | YouTube | Entity & Authority | Outbound & PR | Notes / Checkpoint |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -388,7 +378,7 @@ Set against that baseline. These are **targets, not forecasts**, and the Day 60 
 | 7 | Sun 11 Oct | Sun | Tech | [F7 — Blog platform rebuild](#d7-blog-rebuild) | — | — | — | — | — | Weekend exception: infra only. Bundle-size check due by end of day. |
 | 8 | Mon 12 Oct | Mon | Content–SEO | — | — | — | — | [E1 — GIA + AAA directory submissions](#ent-standing) | — | **[F8 — Source Ledger created and seeded](#d8-ledger).** Open questions Q5 due. Outbound slot unused in Foundation — deliberately. |
 | 9 | Tue 13 Oct | Tue | Founder | Verify rendered entity pages | Draft P1 | — | — | [E2 — Entity core pages live: About, Credentials, Contact, Terms](#d9-entity-core) | — | **Founder writes P1 in their own voice.** No delegate for the flagship. |
-| 10 | Wed 14 Oct | Wed | Founder | Crawl test + `curl` diff of all routes | Founder signs off P1 | — | — | — | — | ⛔ **[GATE — Crawlability & Entity Gate](#d10-gate).** NO-GO blocks all of Phase 2. GO unlocks 26 deliverables across 7 weeks. |
+| 10 | Wed 14 Oct | Wed | Founder | Crawl test + `curl` diff of all routes | Founder signs off P1 | — | — | — | — | ⛔ **[GATE — Crawlability & Entity Gate](#d10-gate).** NO-GO blocks all of Phase 2. GO unlocks the 55 Phase 2 deliverables across 7 weeks. |
 | 11 | Thu 15 Oct | Thu | Content–SEO | Live sitemap + robots sanity check | **[P1 — "What an Average Adjuster Actually Does"](#p1)** | [LI-01 — Founder personal profile launch](#li-standing) | — | — | — | 🚀 **Publication day 1.** P1 must be indexable in Google's cache within 24h — verify, don't assume. |
 | 12 | Fri 16 Oct | Fri | Content–SEO | — | — | [LI-02 — "We are new. Here is what we do."](#li-standing) | — | — | — | Verify P1 indexing. Log in the tracker. |
 | 13 | Sat 17 Oct | Sat | — | — | — | — | — | — | — | **Rest.** Tracker update only. |
@@ -404,7 +394,7 @@ Set against that baseline. These are **targets, not forecasts**, and the Day 60 
 | 23 | Tue 27 Oct | Tue | Content–SEO | — | **[P3 — "Hull & Machinery Claims: The Seven Stages"](#p3)** | [LI-06 — P3 amplification](#li-standing) | — | — | — | Pillar #3. |
 | 24 | Wed 28 Oct | Wed | Content–SEO | — | — | — | **[Y2 — "Inside a Hull & Machinery Claim"](#y2)** | — | — | Pairs with P3. |
 | 25 | Thu 29 Oct | Thu | Content–SEO | — | **[T2 — "IG P&I 2026/27 Renewal: What Changed"](#t2)** | [LI-07 — Renewal explainer](#li-standing) | — | — | — | Tactical #2. `IG-01`–`IG-04` only. Highest-value tactical in the plan. |
-| 26 | Fri 30 Oct | Fri | Content–SEO | — | — | [LI-08 — "Ten weeks to the Feb 2027 renewal"](#li-standing) | — | — | — | — | Renewal-clock messaging starts. |
+| 26 | Fri 30 Oct | Fri | Content–SEO | — | — | [LI-08 — "Sixteen weeks to the Feb 2027 renewal"](#li-standing) | — | — | — | — | Renewal-clock messaging starts. |
 | 27 | Sat 31 Oct | Sat | — | — | — | — | — | — | — | **Rest.** |
 | 28 | Sun 01 Nov | Sun | Content–SEO | — | — | — | — | — | — | **Rest** + AI panel run #4. |
 | 29 | Mon 02 Nov | Mon | BD–Entity | — | — | — | — | [E5 — Third-wave listings + first NAP consistency audit](#ent-standing) | **[O3 — Outbound session 3](#ob-standing)** | First NAP audit. Any mismatch found → fix same day. |
@@ -432,7 +422,7 @@ Set against that baseline. These are **targets, not forecasts**, and the Day 60 
 | 51 | Tue 24 Nov | Tue | Content–SEO | — | **[P7 — "Choosing an Independent Marine Claims Adjuster"](#p7)** | [LI-18 — P7 amplification](#li-standing) | — | — | — | Pillar #7. **The commercial centrepiece. Highest intended business value in the plan.** |
 | 52 | Wed 25 Nov | Wed | Content–SEO | — | — | — | **[Y6 — Long-form: IG 2026/27 Renewal Explained](#y6)** | — | — | Only long-form video. Aim it at the Feb 2027 renewal audience. |
 | 53 | Thu 26 Nov | Thu | Content–SEO | — | **[T6 — "PDPA and GDPR in Marine Claims Handling"](#t6)** | [LI-19 — Data-protection post](#li-standing) | — | — | — | Tactical #6. Highest-trust tactical — it is about the firm's own compliance. |
-| 54 | Fri 27 Nov | Fri | Founder | — | — | [LI-20 — "Ten weeks to renewal" second push](#li-standing) | — | — | — | Log every deliverable's Day-55-to-60 performance. |
+| 54 | Fri 27 Nov | Fri | Founder | — | — | [LI-20 — "Twelve weeks to renewal" second push](#li-standing) | — | — | — | Log every deliverable's Day-55-to-60 performance. |
 | 55 | Sat 28 Nov | Sat | — | — | — | — | — | — | — | **Rest.** |
 | 56 | Sun 29 Nov | Sun | Content–SEO | — | — | — | — | — | — | **Rest** + AI panel run #7. Freeze content. Move to close. |
 | 57 | Mon 30 Nov | Mon | Content–SEO | — | — | — | — | — | — | 📊 **[Close C1 — Re-measure every baseline metric](#close)**. Same 24 prompts, same 5 engines. Freeze is already in force from Day 56. |
@@ -512,6 +502,8 @@ This structure is not stylistic preference. Structured content is the documented
 - [ ] Submitted in Search Console URL Inspection → Request Indexing
 - [ ] Tracker row updated with the URL and the publish timestamp
 
+<a id="li-standing"></a>
+
 ### LinkedIn post template
 
 **The Founder posts from a personal profile, not the company page.** This is not vanity — it is the whole point. In a professional-services trade the asset is a named individual's judgment, and AI engines assemble "who is this person" from surfaces that carry a person's name and history. A company page with a logo and a tagline carries neither. See [Notes](#notes) item 3.
@@ -543,6 +535,8 @@ This structure is not stylistic preference. Structured content is the documented
 
 30 seconds maximum. Hook inside the first 2 seconds. Storyboard by beat with timing, what we see, text on screen, and what is said aloud. Captions burned in. The site URL on the final frame. One idea, one video — a Short that tries to cover a general average AND a collision claim covers neither.
 
+<a id="ent-standing"></a>
+
 ### Entity & Authority rule
 
 **Consistency beats volume.** AI engines select on consensus — the same facts, in the same wording, across multiple credible sources. So:
@@ -552,6 +546,8 @@ This structure is not stylistic preference. Structured content is the documented
 - **Substantiate the claim, do not just list the client.** A listing in the AAA Fellows directory, GIA, SMAA or AMD is worth far more than a generic business directory, because those are the sources a professional or an AI engine would treat as authoritative for "is this person a real average adjuster".
 - **The AAA Fellows directory is target #1.** It is country-filterable, public, maintained by the professional body, and it is exactly where a buyer checking whether an adjuster is real would look. `SEC-02`.
 - **Never pay for a dofollow link.** Trade directories with paid placement are watched by both Google and answer engines, and a paid link in this niche is a reputational problem, not a ranking one.
+
+<a id="ob-standing"></a>
 
 ### Outbound rule
 
@@ -898,7 +894,7 @@ Live test: P1 publishes [Day 11 date] · list view live [Day 7 date]
 
 #### Foundation F8 — Source Ledger created and seeded (Day 8 · Mon 12 Oct · Content–SEO)
 
-**Topic.** Stand up the Source Ledger as a live, versioned file seeded with the 25 verified rows in this plan's [Source Ledger](#source-ledger) section.
+**Topic.** Stand up the Source Ledger as a live, versioned file seeded with all **32 seeded rows plus the 8 open rows in the [Missing-row register](#missing-rows)** in this plan's [Source Ledger](#source-ledger) section — 40 in total, of which 8 have no source yet and must not publish until they do.
 
 **Why.** This is the mechanism that makes every other guardrail enforceable. A rule in a plan document decays; a required field in a content model does not. F7 makes `claimIds` mandatory — **this task makes it meaningful.**
 
@@ -927,7 +923,7 @@ Qualifier:   [the words that MUST accompany this claim in published copy]
 Used by:     [P2, T3, LI-10 — list the deliverables citing it]
 ```
 
-**Checklist.** [ ] File created, versioned, in one place. [ ] All 25 seed rows copied across with statuses intact. [ ] Q5 answered and recorded. [ ] `Last re-verified` column added. [ ] Founder-only approval rule written into the file header. [ ] `WITHDRAWN` recall procedure written. [ ] Content–SEO briefed.
+**Checklist.** [ ] File created, versioned, in one place. [ ] All 40 rows copied across — 32 sourced and 8 reserved, statuses intact. [ ] Q5 answered and recorded. [ ] `Last re-verified` column added. [ ] Founder-only approval rule written into the file header. [ ] `WITHDRAWN` recall procedure written. [ ] Content–SEO briefed.
 
 <a id="d9-entity-core"></a>
 
@@ -994,7 +990,7 @@ UEN 202527553G · Registered 26 June 2025
 
 **Topic.** A hard go/no-go on the entire Phase 2 content programme. **This gate can stop the plan. That is its purpose.**
 
-**Why.** AEO spend on an unindexable domain is the most expensive possible waste in this plan, and it is the mistake this Foundation phase exists to prevent. Thirteen articles, six videos and twenty LinkedIn posts landing on pages an engine cannot read is 26 deliverables spent on nothing. The gate is not process theatre.
+**Why.** AEO spend on an unindexable domain is the most expensive possible waste in this plan, and it is the mistake this Foundation phase exists to prevent. Thirteen blog pieces, six videos and twenty LinkedIn posts landing on pages an engine cannot read is **39 crawlability-dependent publishing deliverables** spent on nothing — which is why this gate, not the content calendar, is the first thing in the plan. The gate is not process theatre.
 
 **What to include, in order — all ten must pass.**
 
@@ -1013,7 +1009,7 @@ UEN 202527553G · Registered 26 June 2025
 
 **The decision.**
 
-- **GO** — all ten pass. Unlocks 26 deliverables across 7 weeks. Publish P1 on Day 11 as scheduled.
+- **GO** — all ten pass. Unlocks the 55 Phase 2 deliverables across 7 weeks. Publish P1 on Day 11 as scheduled.
 - **CONDITIONAL GO** — content routes pass (1–3, 6); one of 4, 5, 7, 8, 9, 10 fails. Founder decides in writing which one, and the named owner gets **48 hours** to fix it. Publishing starts on schedule **only** for workstreams the failure cannot affect. A broken sitemap (check 4) does not stop a blog post; a client-rendered shell (check 1) stops everything.
 - **NO-GO** — any content route still returns the empty shell, or metadata is still CRA placeholder. **Phase 2 does not start.** Two options, Founder's choice:
   - **Fix and re-gate.** Every day of slip moves every downstream day by the same amount. Day 60 moves; the cadence holds.
@@ -1047,7 +1043,7 @@ Publication starts. **Every brief below is gated on a GO or a scoped CONDITIONAL
 
 <a id="week-2"></a>
 
-## Week 2 (Days 11–14 · Thu 15 Oct – Sun 18 Oct) — launch week
+# Week 2 (Days 11–14 · Thu 15 Oct – Sun 18 Oct) — launch week
 
 <a id="p1"></a>
 
@@ -1216,7 +1212,7 @@ and I will answer it directly.
 
 <a id="p2"></a>
 
-#### Pillar P2 — "General Average vs Particular Average: A Singapore Shipowner's Guide" (Day 23 · Tue 27 Oct · Content–SEO)
+#### Pillar P2 — "General Average vs Particular Average: A Singapore Shipowner's Guide" (Day 16 · Tue 20 Oct · Content–SEO)
 
 **Topic.** The distinction that decides who pays what. Feeds **"general average claim Singapore"** and prompts 2 and 8. The most-sourced pillar in the plan.
 
@@ -1359,6 +1355,7 @@ Here is the full picture, and what it means if you have a claim to handle.
 **Checklist before publishing.** [ ] `MKT-01`–`MKT-05` carried in the draft with Claim IDs. [ ] **CONFLICT C4 read and the bunker decision made and recorded.** [ ] If a bunker figure is used, the fuel scope is in the same sentence and the source is linked. [ ] "around S$5 billion" keeps "around". [ ] "over 30" and "some 60" keep their hedges. [ ] Every figure links to the MPA source. [ ] No forecast of future volumes. [ ] No claim that Samudra is part of, or affiliated with, any of these market participants. [ ] Pillar checklist complete. [ ] Founder approved.
 
 <a id="li-tactical-week3"></a>
+<a id="li-02"></a>
 
 #### LinkedIn LI-02 to LI-05 (Days 12, 16, 18, 19) — week 2–3 posts
 
@@ -1550,7 +1547,7 @@ Samudra Adjusting & Marine Insurance Solutions Pte Ltd · UEN 202527553G
 
 <a id="p3"></a>
 
-#### Pillar P3 — "Hull & Machinery Claims: The Seven Stages, End to End" (Day 30 · Tue 3 Nov · Content–SEO)
+#### Pillar P3 — "Hull & Machinery Claims: The Seven Stages, End to End" (Day 23 · Tue 27 Oct · Content–SEO)
 
 **Topic.** The highest-volume claim type in this market, treated in full. Feeds **"hull and machinery claim Singapore"** and prompts 3 and 7.
 
@@ -1685,6 +1682,7 @@ mean.
 **Checklist before publishing.** [ ] `IG-01`–`IG-04` carried as Claim IDs. [ ] The rate table matches the source **digit for digit, including signs**. [ ] The primary IG source is linked. [ ] At least three outbound links to primary sources. [ ] The "what this means for claims" section does not overreach into prediction. [ ] No claim that Samudra is affiliated with, or works for, any club or the International Group. [ ] No promotional framing of the rate change. [ ] Pillar checklist complete. [ ] Founder approved. [ ] **Re-check this page on Day 57** — renewal news moves.
 
 <a id="li-week4"></a>
+<a id="li-06"></a>
 
 #### LinkedIn LI-06 to LI-08 (Days 23, 25, 26) — week 4 posts
 
@@ -1741,7 +1739,7 @@ reinsurer. Impartiality is not a function of the layer above.
 Container tonnage — owner or charterer? What is the 15% doing to your numbers?
 ```
 
-**LI-08 (Day 26 · Fri 30 Oct) — "Four months to the Feb 2027 renewal".** **Why.** Opens the renewal-clock narrative that runs to Day 54. **Copy:**
+**LI-08 (Day 26 · Fri 30 Oct) — "Sixteen weeks to the Feb 2027 renewal".** **Why.** Opens the renewal-clock narrative that runs to Day 54. **Copy:**
 
 ```
 The International Group P&I policy year runs 20 February to 20 February. The
@@ -1760,7 +1758,7 @@ Two practical consequences for anyone handling claims through this period:
 
 Neither is clever. Both are worth an afternoon.
 
-What else should a shipowner be doing in the four months before renewal?
+What else should a shipowner be doing in the sixteen weeks before renewal?
 ```
 
 **Checklist for LI-06 to LI-08.** [ ] Personal profile. [ ] No link in body. [ ] `IG-*` figures digit-exact. [ ] No claim of club affiliation. [ ] No prediction of a specific renewal outcome. [ ] Questions in buyer language. [ ] Founder approved each.
@@ -1838,7 +1836,7 @@ Samudra Adjusting & Marine Insurance Solutions Pte Ltd · UEN 202527553G
 
 <a id="p4"></a>
 
-#### Pillar P4 — "P&I Letter of Underwriting in Singapore: What It Is and When You Need One" (Day 37 · Tue 10 Nov · Content–SEO)
+#### Pillar P4 — "P&I Letter of Underwriting in Singapore: What It Is and When You Need One" (Day 30 · Tue 3 Nov · Content–SEO)
 
 **Topic.** A specific, high-intent instrument explained end to end. Feeds **"P&I LOU singapore"** and prompts 4 and 17.
 
@@ -1955,6 +1953,100 @@ The practical part is what happens next, and who pays.
 
 **Checklist before publishing.** [ ] `LGL-03` attributed to the commentary, disclaimer immediately beneath. [ ] Interpretive gloss clearly flagged as not a legal test. [ ] No policy terms stated as if they were ours or as if universal. [ ] Firm's role stated as adjuster/adviser, not authority or insurer. [ ] Claim IDs carried. [ ] Pillar checklist complete. [ ] Founder approved.
 
+<a id="li-week5"></a>
+
+#### LinkedIn LI-09 to LI-11 (Days 30, 32, 33) — week 5 posts
+
+**LI-09 (Day 30 · Tue 3 Nov) — P4 amplification.** **Why.** P4 is the plan's most misunderstood subject, and the misconception is that a letter of underwriting is a certificate that a ship is insured. **Correcting that publicly is more useful than publishing the explanation.** **Copy:**
+
+```
+A letter of underwriting is not a certificate that your ship is insured.
+
+This is the most common misunderstanding in this market, and it comes from
+words that sound like coverage.
+
+A letter of underwriting is a written confirmation that a P&I club has entered
+a ship into its entered ships list. That is what it is. It confirms the entry and
+the class or grouping, for the current policy period.
+
+What it is not:
+
+· Not an insurance policy. The policy is with the club, not with you.
+· Not a certificate of financial security for a charterer. That is a different
+  document and it comes from a different place.
+· Not transferable, and not a substitute for the club's policy or certificate
+  of entry.
+
+Why it matters to you: a charterer, a cargo owner, or a port state will often ask
+for it, and the reason is to check the ship is on a recognised list and entered
+in the right group — not to confirm cover.
+
+The full written version, with the differences between the LOU, the certificate
+of entry and a certificate of financial security, is in the first comment.
+
+If you have ever been handed one of these and told it was "your insurance" —
+that was wrong, and it is worth a minute to check.
+
+Charterer, owner or broker: which of the four documents do you actually ask for?
+```
+
+**LI-10 (Day 32 · Thu 5 Nov) — T3 amplification, the wreck removal post.** **Why.** Regulated, local, and — handled honestly — genuinely interesting to anyone who has seen a wreck stay where it fell. **Copy:**
+
+```
+There is an office in Singapore that can decide what happens to a wreck, and most
+people in this industry have never worked out who runs it.
+
+The Director of Marine can, in defined circumstances, order a wreck removed. That
+is not a general power and it is not a shortcut anyone can trigger on demand. It
+sits with an officer, it follows a process, and it exists because a wreck that
+stays where it is can obstruct navigation, contaminate something, or sit on a
+claim that nobody can otherwise close.
+
+Three things worth knowing about it:
+
+· It is not a substitute for the claim. A removal ordered by the Director of
+  Marine does not decide who pays for it, and the cost question is usually
+  answered later, separately.
+· The vessel owner still owns a wreck, and still has to pay to get rid of it,
+  unless someone else is made to.
+· "It will probably be salvaged" is not a plan. Salvage has its own economics and
+  its own timing, and both can be worse than removal.
+
+The Director of Marine's own page is in the first comment. Written version with
+sources in the first comment as well.
+
+If you have a vessel or a cargo sitting somewhere it should not be, what have
+you actually tried before calling someone?
+```
+
+**LI-11 (Day 33 · Fri 6 Nov) — Midpoint reflection.** **Why.** The only post in the plan written by the Founder rather than for the market, and the one post a competitor cannot write. It is also the honest one: **thirty-two days in, a public account beats a polished one.** **Copy:**
+
+```
+Halfway. Thirty-two days, so far:
+
+· The site now returns real content to a crawler. That was the whole problem and
+  it sounds trivial written like this. It was not. Every route on the site was
+  returning an empty shell, which means no search engine could read a word of it
+  and no AI engine could quote a word of it.
+· Seven guides published, all source-backed, none behind a form.
+· Every statistic on this site has a source and a verification status next to it.
+  If I cannot source a number, it does not go on the site. That rule has cost me
+  several good sentences.
+
+What I have not done: published a 2026 marine insurance trends chart. I do not
+have claim-volume statistics, and any trend line I drew from one office would be
+a line I invented. You will notice what is missing from this account and it is
+deliberate.
+
+Thirty-two days to go. The commercial piece — a page on how to actually choose a
+claims adjuster, including the question that disqualifies us more often than
+anyone else — lands in week seven.
+
+If you have told me something is wrong on here, I would rather hear it now.
+```
+
+**Checklist for LI-09 to LI-11.** [ ] Personal profile. [ ] No link in body. [ ] LI-09 distinguishes the LOU from the certificate of entry and from a certificate of financial security without reproducing club wording. [ ] LI-10 states the Director of Marine's power as a defined power with a process, and **does not imply the reader can trigger it.** [ ] LI-10 carries `LGL-03` and links the official page, not a commentary. [ ] LI-11's `CRD-01` and staffing references carry confirmed status or are removed. [ ] **LI-11's refusal to publish a fabricated trends chart stays in the first paragraph** — do not soften it. [ ] Questions in buyer language. [ ] Founder approved each.
+
 <a id="midpoint"></a>
 
 #### Day 33 — MIDPOINT CHECKPOINT (Fri 6 Nov · Founder)
@@ -1965,7 +2057,7 @@ The practical part is what happens next, and who pays.
 
 **What to include, in order.**
 1. **Technical re-measurement** against the Day 10 gate: are all 10 checks still passing? Has anything regressed? A metadata fix that silently broke is the most common failure in this kind of work.
-2. **Re-run the AI panel** (run #5 — same 24 prompts, same 5 engines, same wording). Compare to Day 5. **Report `named/24` and `cited/24` as counts, and state plainly whether the change is inside the noise of a single run.** Two data points is a trend, not a result, and the write-up must say so.
+2. **Read the AI panel** (run #4, run on Day 28 — same 24 prompts, same 5 engines, same wording). Compare to Day 5. **Do not re-run the panel for this checkpoint:** run #5 is on Day 42, and an extra unplanned run on a fixed panel spends a measurement slot and makes the series harder to read. **Report `named/24` and `cited/24` as counts, and state plainly whether the change is inside the noise of a single run.** Two data points is a trend, not a result, and the write-up must say so.
 3. **Content performance, per asset, not in aggregate:** each published piece and video — impressions, clicks, and any `generate_lead` or AI-referral signal. **Is anything outperforming expectations?** If a tactical is beating a pillar, that is a finding worth acting on.
 4. **Outbound and entity health:** replies received, listings live, NAP variances open.
 5. **Founder time actually spent** versus assumed. This is the plan's real constraint.
@@ -1981,7 +2073,7 @@ MIDPOINT CHECKPOINT — Day 33
 Elapsed 32 days · 28 remaining · Owner: [FOUNDER]
 
 1. GATE RE-TEST (all 10): [pass/fail each] · regression: [none / describe]
-2. AI PANEL run #5 — NAMED [n]/24 (Day 5: [n]) · CITED [n]/24 (Day 5: [n])
+2. AI PANEL run #4, run Day 28 — NAMED [n]/24 (Day 5: [n]) · CITED [n]/24 (Day 5: [n])
    NOTE: two data points is a trend, not a result. Not statistically meaningful
    on its own. Do not overstate this number in any external report.
 3. CONTENT, per asset:
@@ -2001,6 +2093,1146 @@ Signed: [FOUNDER NAME] · [date]
 
 ---
 
+# Week 6 (Days 36–42 · Mon 9 Nov – Sun 15 Nov) — restart, collision, vetting
+
+> **Schedule note.** Day 35 (Sun 8 Nov) and Day 36 (Mon 9 Nov) fall in the Deepavali window. **Day 35 is the blackout — nothing publishes, no outreach sends, and the Monday outbound session that would have run is skipped, not moved.** Week 6 is therefore a four-asset week: P5, Y4, T4 and three LinkedIn posts. The pillar cadence resumes on Day 37 and does not shift again.
+
+<a id="p5"></a>
+
+#### Pillar P5 — "Third-Party Collision Liability: How Fault Gets Apportioned" (Day 37 · Tue 10 Nov · Content–SEO)
+
+**Topic.** The collision claim, explained from the point where two vessels' interests diverge. Feeds **"third party collision Singapore"** and prompts 3, 4 and 7.
+
+**Why.** Collision is where an adjuster's judgment is most visible, and it is the claim type most often described badly in public — usually as "we all share the cost". It is not that simple, and the difference between the simplified version and the real one is exactly the value this page provides.
+
+**What to include, in order.**
+1. **Answer-first.** In a two-vessel collision, each vessel's claim is normally limited to the damage it caused to the other, and the question that decides most cases is how fault is apportioned between the two. The keyword phrase follows immediately.
+2. **The basic structure.** The classic arrangement has each vessel's owner responsible for damage to the other, with liability limited to the proportion of fault attributable — a **cross-liability** structure — and a **collision clause** is normally agreed between the two owners to simplify recovery. **Explain the mechanism; do not reproduce clause wording.**
+3. **Why "each pays for the other" is not the whole story.** Once blame is shared, so is the bill, and the arithmetic stops being obvious.
+4. **How fault gets apportioned.** The evidential inputs, in the order they actually get used: collision regulations, VDR and AIS data, witness statements, the damage pattern, and expert reconstruction. `[NOTE: the treaty or statutory regime that supplies the apportionment rule in Singapore must be sourced to its **primary text** and added to the Source Ledger as a new row before this section publishes — the ledger currently has no row for it (LGL-01 to LGL-04 cover general average, security, wreck removal and legalisation). Do not cite a convention the Founder has not verified as the operative one, and do not cite a convention article number from memory. If the Founder cannot confirm which regime applies, describe the apportionment method functionally and omit the treaty entirely.]`
+5. **The single-vessel case** — where the striking vessel is not identified, or is not worth pursuing, and how that is handled. `[NOTE: the "unidentified vessel" provision is a real feature of this cover and a common, expensive misunderstanding. Verify against a primary source before publishing, and state no percentage and no timescale.]`
+6. **What a claimant should do in the first 48 hours** — the practical part, and the most-shared section.
+7. **CTA** and links to P3, `/contact`.
+
+**Ready-to-use copy — the opening.**
+
+```
+In a two-vessel collision, each side normally pays for the damage it caused to
+the other, limited to its share of the fault. That is the simple version.
+
+The simple version stops working the moment blame is shared, because the bill
+stops being obvious. Everything after that — the apportionment, the evidential
+inputs, what happens when the other vessel is never identified — is where these
+claims are actually decided.
+
+Here is how it works, and what to do in the first 48 hours.
+```
+
+**Checklist before publishing.** [ ] The apportionment regime sourced to its primary text and entered in the Source Ledger, or the treaty omitted. [ ] Cross-liability and the collision clause explained mechanistically, **with no clause wording reproduced**. [ ] Unidentified-vessel provision verified against a primary source, with no percentage and no timescale. [ ] No invented fault percentages. [ ] Claim IDs carried. [ ] Pillar checklist complete. [ ] Founder approved. [ ] Cross-linked to P3, Y4, `/services`.
+
+<a id="li-week6a"></a>
+
+#### LinkedIn LI-12 (Day 37 · Tue 10 Nov) — P5 amplification
+
+**Why.** Corrects a simplification almost everyone repeats. **Copy:**
+
+```
+"Each vessel pays for the damage to the other."
+
+That is the standard one-line explanation of a two-vessel collision, and it is
+right right up until the moment it is not.
+
+Once fault is shared, the bill stops being obvious. And how fault gets
+apportioned is decided on evidence, not goodwill:
+
+· collision regulations
+· VDR and AIS data
+· witness statements
+· the damage pattern itself
+· an expert reconstruction
+
+There is usually a collision clause agreed between the two owners, which
+simplifies recovery. It does not simplify the causation question.
+
+The part nobody mentions: where the striking vessel is never identified, the
+claim does not disappear — it changes shape, and it changes who is sitting
+waiting for it.
+
+Full write-up in the first comment.
+
+Owner, charterer, or club: what did the evidence actually turn on in your last
+collision?
+```
+
+<a id="y4"></a>
+
+#### YouTube Y4 — "Apportioning Fault in a Two-Vessel Collision" (Day 38 · Wed 11 Nov · Content–SEO)
+
+**Topic.** How fault is apportioned, shown as a method rather than a lecture. Pairs with P5.
+
+**Ready-to-use copy.**
+
+```
+TITLE: Apportioning Fault in a Two-Vessel Collision
+
+DESCRIPTION (first line = the answer):
+In a two-vessel collision, each side's claim is limited to the damage it caused,
+in proportion to its share of the fault. Apportioning that fault is an evidential
+exercise, and this video walks the inputs in the order they actually get used.
+
+[FOUNDER NAME, CONFIRMED TITLE], Samudra Adjusting & Marine Insurance
+Solutions Pte Ltd — a Singapore-registered marine claims adjusting practice,
+UEN 202527553G.
+
+Chapters:
+0:00  The structure: each side pays for the damage it caused
+0:40  The collision clause, and what it does and does not simplify
+1:50  The evidential inputs, in the order they get used
+3:20  Reading a damage pattern
+4:20  When the other vessel is never identified
+5:10  What the claimant can do in the first 48 hours
+
+Full written guide: [P5 URL]
+claims@samis.com.sg · +65 9897 8654
+We adjust claims. We are not a law firm, insurer or P&I club.
+```
+
+```
+SHOT LIST
+0:00-0:40  DIAGRAM: two vessels, arrows each way
+           ON SCREEN: "You pay for what you caused — in proportion to fault"
+0:40-1:50  ON SCREEN: "The collision clause simplifies RECOVERY, not CAUSATION"
+1:50-3:20  THE INPUTS, one card at a time, in order:
+           1. collision regulations
+           2. VDR / AIS
+           3. witness statements
+           4. the damage pattern
+           5. expert reconstruction
+           VO: one sentence each. The ORDER is the point.
+3:20-4:20  STILL: a bow section with a visible indent
+           VO: reading the damage pattern — what the shape of the damage tells
+           you about angle, speed and sequence.
+4:20-5:10  ON SCREEN: "The other vessel is never identified."
+           VO: what happens to the claim then. THE BEAT.
+5:10-5:40  FOUNDER TO CAMERA: the 48-hour list
+           END FRAME: https://samis.com.sg, 3 seconds.
+```
+
+**Checklist.** [ ] The convention or regime referenced is one the Founder has verified. [ ] No invented fault percentages. [ ] No diagram implying a specific real collision. [ ] Captions burned in and human-checked. [ ] End frame 3 seconds. [ ] P5/Y4 cross-linked. [ ] Script approved before the camera is switched on.
+
+<a id="t4"></a>
+
+#### Tactical T4 — "SIRE and OCIMF: Why Vessel Inspection Standards Follow Your Insurance" (Day 39 · Thu 12 Nov · Content–SEO)
+
+**Topic.** Vetting, inspection, and what it does to a vessel's insurability. Feeds **"SIRE inspection Singapore"**.
+
+**Why.** A narrow, technical, high-intent topic with a small professional audience — and a small professional audience is exactly who cites and refers. **But this brief is gated on `CRD-02`, and it must not be written around the gap.** If the Founder cannot confirm the SIRE qualification and the OCIMF accreditation, this piece does not publish as written.
+
+**What to include, in order.**
+1. **Answer-first.** SIRE is the inspection regime used by vetting OCIMF member companies, and a vessel with a clean, current SIRE report is materially easier to insure on competitive terms. The keyword phrase follows immediately. `[GATED ON CRD-02 — see item 2.]`
+2. **The credential gate.** `CRD-02` records an OCIMF-qualified SIRE inspector among the named practitioner's qualifications, and it is **PENDING client confirmation.** `[GATE: if CRD-02 is not confirmed in writing by the Founder before drafting, this tactical does not publish in this form, and the slot is used for the substitution below. Do not draft around the gap, do not write "our team has SIRE experience", and do not publish the page with the credential claim removed and the implication left standing. The credential is the reason the page is worth a broker's time; a version without it is not worth the Founder's day.]`
+3. **What a SIRE inspection covers**, at a level that does not require the credential — in general terms: condition, vetting findings, and the report's standing with OCIMF. `[NOTE: verify against OCIMF's own published material before publishing. An individual's blog or a competitor's site is not a source for what OCIMF requires.]`
+4. **What the report is used for** — vetting decisions, and the owner's position in the insurance market.
+5. **The honest limits.** An inspection is a snapshot on a date, not a permanent grade. A clean report does not prevent a casualty, and a poor one does not cause one.
+6. **CTA** framed as reference, not lead generation.
+
+**Ready-to-use substitution, if `CRD-02` is not confirmed:** replace this tactical with **"What a Vetting Report Is and Why Your Insurer Reads It"** — same audience, same intent, no credential dependency. `[NOTE: this substitute is genuinely useful rather than a consolation prize. Vetting is a real information asymmetry in this market, and an adjuster who explains it plainly is doing useful work.]`
+
+**Checklist before publishing.** [ ] **`CRD-02` confirmed in writing by the Founder, or the substitution brief is used.** [ ] `CRD-02` carried as a Claim ID on the published page. [ ] OCIMF requirements sourced to OCIMF, not to a third party. [ ] The "snapshot, not a grade" limitation stated. [ ] No implication that any named body endorses the firm. [ ] Founder approved.
+
+<a id="li-week6b"></a>
+
+#### LinkedIn LI-13 and LI-14 (Days 39, 40) — week 6 posts
+
+**LI-13 (Day 39 · Thu 12 Nov) — T4 amplification.** **Why.** Technical audience, precise framing, no overselling. **Copy:**
+
+```
+A SIRE inspection is a snapshot, not a grade.
+
+That is the most useful thing to say about SIRE reports, and it is the thing
+people get wrong in both directions.
+
+A clean SIRE report does not prevent a casualty. A poor one does not cause one.
+What it does is tell a vetting company, and downstream an insurer, what was
+actually found on the vessel on a specific date, by a specific inspection.
+
+Which is why it is a condition-and-vetting document, not a certificate of
+quality. It has a scope and an expiry, and both matter.
+
+The part that is genuinely uncomfortable: the report travels. It gets read by
+people who will never see the vessel, making a judgement about it from your
+document. That makes accuracy more than an administrative matter.
+
+(Reference material and primary sources in the first comment.)
+
+Vetting, ownership, or insurance: when did you last read a vetting report end to
+end?
+```
+
+**LI-14 (Day 40 · Fri 13 Nov) — "What a good survey report looks like".** **Why.** A practitioner post on the artefact the whole profession runs on, and the most useful standalone post in the plan. **Copy:**
+
+```
+If you have commissioned a survey, you have probably never read the report.
+
+You get the summary. The summary is written for the party paying for it. The
+report is where the findings actually are, and it is the document the claim gets
+built on.
+
+What a good one contains:
+
+· What was inspected, and when. Precisely.
+· What method was used. Photographs, measurements, borescope, whatever it took.
+· What was found, separated from what was inferred.
+· What could not be determined, and why. ← the section most reports omit, and
+  the one that most often decides a dispute later.
+· Damage mapped to a cause, or explicitly left open.
+· What needs to happen next, and who owns it.
+
+Points three and four are the difference between a survey and an opinion.
+"Cannot determine from the photographs provided" is a professional answer. A
+finding presented as certain when it was not is how a claim becomes an argument
+about the survey rather than about the vessel.
+
+Ask for the report. Not the summary.
+
+What does yours say?
+```
+
+**Checklist for LI-13 and LI-14.** [ ] Personal profile. [ ] No link in body. [ ] LI-13's credential implication removed if `CRD-02` is unconfirmed. [ ] LI-14 describes a good report, **not a specific client's report**. [ ] No claim about the firm's own survey practice. [ ] Questions in buyer language. [ ] Founder approved each.
+
+---
+
+# Week 7 (Days 43–49 · Mon 16 Nov – Sun 22 Nov) — regional reach, crew, and the club
+
+<a id="e6"></a>
+
+#### Entity E6 — Fourth-wave listings + backlink follow-up (Day 43 · Mon 16 Nov · BD–Entity)
+
+**Topic.** Chase every open thread from O1–O3, and widen the listing footprint to the regions the firm actually serves.
+
+**Why.** By week 7 the Singapore-facing listings are in place. What is not yet in place is the **regional footprint that matches the market's own profile** — a broker in Colombo or Mumbai searching for an adjuster should find the same firm with the same facts. And the O1–O3 threads are going cold, which is the most common way outreach quietly fails.
+
+**What to include, in order.** (1) Re-verify the West/regional coverage claim against the Firm Overview tab and the *See Also* page — this has been asserted since Day 1 and still needs a source. (2) Submit to maritime directories in the target regions. (3) Submit to **India-directed** maritime and insurance directories, given the business is Indian-owned and the coverage explicitly includes India. (4) **Chase every O1–O3 thread** that has not had a reply — one follow-up, and then it closes. (5) Re-run the NAP variance audit across everything new. (6) Log outcomes.
+
+**Ready-to-use copy.** The single approved regional description — **use this wording and no other:**
+
+```
+Samudra Adjusting & Marine Insurance Solutions Pte Ltd (UEN 202527553G) is a
+Singapore-registered marine claims adjusting practice serving the Asia-Pacific
+region and the Middle East, including India, Sri Lanka, Bangladesh, Vietnam,
+Thailand, Malaysia, Indonesia and Australia. The firm handles hull and machinery
+claims, cargo and machinery damage, loss of hire, cargo-related damage and
+general average, and marine insurance-related claims.
+```
+
+`[NOTE TO WRITER: the regional coverage and the Indian-ownership statements are asserted from the site's own pages and about material, and are marked [UNVERIFIED] in the Ledger. Before this section publishes, the Founder must confirm the regions the firm genuinely services, and confirm the ownership statement. If the Founder wants to be conservative — which for this firm is the right instinct — shorten the description to Singapore and the Asia-Pacific region, and drop the country list. Do not publish a country list the firm cannot service.]`
+
+**Checklist.** [ ] Regional coverage and ownership confirmed with the Founder, or the country list shortened. [ ] The approved description used verbatim. [ ] Regional and India-directed directories submitted. [ ] **Every O1–O3 thread chased once and then closed — no thread left silently open.** [ ] NAP variance audit run. [ ] Outcomes logged. [ ] No paid placement. [ ] No membership implied that the firm does not hold.
+
+<a id="ob4"></a>
+
+#### Outbound O4 — Session 4 (Day 43 · Mon 16 Nov · BD–Entity)
+
+**Topic.** Five emails, maximum. This is the session that **asks**, rather than offers.
+
+**Why.** O1 offered. O2 linked. O3 shared. O4 asks for something concrete and small — and by now there is a body of published, source-backed work to point at, which is the only thing that makes the ask credible.
+
+**What to include, in order.** Reference prior contact where it exists. Reference the specific published asset relevant to the recipient. **One link.** The ask, made specific and modest: a link from an existing page they maintain, a mention in a newsletter they already write, a forward to the right colleague, or — where there is a genuine claim — **a short Q&A conversation about how a marine claim actually progresses in their market, which the Founder can do.** That last one is often the easiest yes in this list, because it costs them fifteen minutes and they get something back.
+
+**Ready-to-use copy.**
+
+```
+Subject: fifteen minutes, and something you can use
+
+[Name],
+
+One specific ask, and it is small.
+
+We have published a set of plain-language guides on marine claims — general
+average, the seven stages of a hull and machinery claim, and P&I letters of
+underwriting. All source-backed, no product in any of them:
+
+https://samis.com.sg/[slug]
+
+Three ways this could be useful, any one of which is enough:
+
+1. A forward to whoever on your side handles claims. There is no ask attached
+   to it.
+2. A link from a page you already maintain, if any of it fits.
+3. Fifteen minutes with [FOUNDER NAME] on how a marine claim actually progresses
+   in [their market] — what the common friction points are and where they
+   usually sit. You would probably know more about your own market than we do,
+   which is the point.
+
+If none of it is useful, say so and I will not come back to it again.
+
+[Name] · [CONFIRMED TITLE]
+Samudra Adjusting & Marine Insurance Solutions Pte Ltd · UEN 202527553G
++65 9897 8654 · claims@samis.com.sg
+```
+
+**Checklist.** [ ] Maximum 5. [ ] One link each. [ ] The ask is one of the three named options, not vague. [ ] The Q&A option is offered where genuinely relevant. [ ] Max 2 follow-ups total per contact since first contact. [ ] All sends, replies and non-replies logged. [ ] No payment, reciprocal link scheme, or undisclosed arrangement.
+
+<a id="p6"></a>
+
+#### Pillar P6 — "Crew Illness and Repatriation Claims: What the Club Actually Pays" (Day 44 · Tue 17 Nov · Content–SEO)
+
+**Topic.** A P&I club's core Protection and Indemnity cover, explained from the member's side. Feeds **"crew illness repatriation Singapore"** and prompts 3, 4, 7 and 10.
+
+**Why.** P&I is what a P&I club exists to do, and it is the cover a seafarer or an owner most often has to navigate without understanding it. **The audience here is wider than the marine professional** — it includes the families of crew, and a page written for them is both more useful and harder for anyone else to write.
+
+**What to include, in order.**
+1. **Answer-first.** P&I cover responds, among other things, to the costs of a crew member's illness or injury on board and to the cost of repatriating them — which is not a single sum but a set of entitlements depending on the cause and on where the crew member was engaged. The keyword phrase follows immediately.
+2. **What the cover is for.** A one-paragraph honest statement of what Protection and Indemnity cover is, in the club's terms, **without reproducing policy wording.**
+3. **The events that trigger it** — illness, injury, and death on board, and the resulting repatriation obligation. `[NOTE: verify the specific triggering events against the club's own cover or the standard P&I wording the Founder works with. Do not enumerate triggers from memory. "Sick berth" is standard P&I language and must be confirmed before it appears.]`
+4. **What "repatriation" actually covers**, in practice: getting a crew member home, and **getting them home to the right place** — the port of engagement is usually the relevant destination, not the crew member's home country. **This is one of the most consistently misunderstood items in marine P&I, and it is the most useful thing on the page.** `[NOTE: the port-of-engagement framing is a strong claim about entitlement. The Founder must confirm it against the cover wording before it is published in this form. If it cannot be confirmed, soften to "often" and attribute it to general P&I practice rather than stating it as the rule.]`
+5. **The medical-evidence reality.** A claim of this kind rests on medical records and on a causal link between the condition and the voyage. `[NOTE: describe the evidential requirement qualitatively. Do not state retention rates, do not state acceptance percentages, and do not characterise any specific condition's prospects. That last one is advice, and this firm does not give it.]`
+6. **What a seafarer or family should do first**, and what to keep. Practical, in plain language, without patronising.
+7. **The adjuster's role and its limits** — an adjuster assesses the claim against the cover. They do not provide medical care, do not decide treatment, and do not determine fitness for duty.
+8. **CTA** framed for the moment someone needs it, not for a purchase.
+
+**Ready-to-use copy — the opening.**
+
+```
+Repatriation is not a single payment. It is a set of entitlements, and the
+destination is usually not the seafarer's home country.
+
+That second point catches people out. The obligation is generally to return a
+crew member to the port where they were engaged — not to their family, however
+far away that is.
+
+It is also not the only thing in play. Protection and indemnity cover responds to
+illness and injury on board, and to the cost of getting a crew member home, with
+the entitlement depending on the cause and on the terms of the entry.
+
+Here is what the cover responds to, what repatriation actually includes, and
+what happens to a claim of this kind when it meets a medical file.
+```
+
+**Checklist before publishing.** [ ] Triggering events verified against the club's cover or standard wording, not from memory. [ ] "Port of engagement" framing confirmed by the Founder, or softened and attributed. [ ] No retention rates, no acceptance percentages, no prognosis for any condition. [ ] No medical advice and no fitness-for-duty opinion. [ ] "Sick berth" used only if confirmed. [ ] No policy wording reproduced. [ ] Claim IDs carried. [ ] Pillar checklist complete. [ ] Founder approved. [ ] Cross-linked to P1, P3, P7, `/contact`.
+
+<a id="li-week7a"></a>
+
+#### LinkedIn LI-15 (Day 44 · Tue 17 Nov) — P6 amplification
+
+**Why.** The most human post in the plan, and the one with the widest non-professional audience. **Copy:**
+
+```
+Repatriation is not one payment. It is a set of entitlements.
+
+And the destination is usually not the seafarer's home country.
+
+That second point catches people out, and it is the one I am asked about most.
+The obligation is generally to return a crew member to the port where they were
+engaged — not to their family, however far away that sits.
+
+Protection and indemnity cover responds to illness and injury on board, and to
+the cost of getting someone home. What it pays depends on the cause and on the
+terms of the entry, not on a single standard sum.
+
+Two other things worth knowing:
+
+· A claim of this kind rests on a medical file and on a causal link between the
+  condition and the voyage. The file is not paperwork — it is the claim.
+· An adjuster assesses the claim against the cover. We do not provide care, do
+  not decide treatment, and do not rule on fitness for duty. Anyone who tells
+  you otherwise in this market is telling you something wrong.
+
+Full write-up in the first comment.
+
+Crew, or family of crew: what was the thing you did not expect about this?
+```
+
+<a id="y5"></a>
+
+#### YouTube Y5 — "9 Questions to Ask Before Appointing a Marine Claims Adjuster" (Day 45 · Wed 18 Nov · Content–SEO)
+
+**Topic.** The buyer-side video, and the deliberate teaser for P7, which lands six days later. Feeds **"choosing a marine claims adjuster Singapore"**.
+
+**Why.** P7 is the commercial centrepiece of the plan, and a video that sets it up six days ahead is the cheapest possible warm-up. **And the question it asks is the one a good adjuster wants asked, because the answer is how you find out whether the firm in front of you has thought about its own limitations.**
+
+**What to include, in order.**
+1. The nine questions, in the same order and wording as P7 — **so the video and the pillar say the same thing and cross-reference cleanly.**
+2. For each, one line of why it matters. Not the full answer; the teaser.
+3. **Question 9 gets the most time.** What would make you decline this appointment.
+4. End with the P7 link and the contact block.
+
+**Ready-to-use copy.**
+
+```
+TITLE: 9 Questions to Ask Before Appointing a Marine Claims Adjuster
+
+DESCRIPTION (first line = the answer):
+The first eight questions tell you whether a firm is competent. The ninth tells
+you whether it is honest about the edges of its competence — and it is the one
+people skip.
+
+[FOUNDER NAME, CONFIRMED TITLE], Samudra Adjusting & Marine Insurance
+Solutions Pte Ltd — a Singapore-registered marine claims adjusting practice,
+UEN 202527553G.
+
+The nine:
+1. Who will actually do the work?
+2. What claim types, and how recently?
+3. Are you independent of every party to the claim?
+4. What is your jurisdictional reach, and who covers the gaps?
+5. Which professional bodies, in what capacity?
+6. What happens when there is a conflict of interest?
+7. Will the client see the report?
+8. What is the fee basis, and who pays it?
+9. What would make you decline this appointment?
+
+Full written version, including our own answers to all nine, including the ones
+we would rather not have to give: [P7 URL]
+claims@samis.com.sg · +65 9897 8654
+We adjust claims. We are not a law firm, insurer or P&I club.
+```
+
+```
+SHOT LIST
+0:00-0:20  HOOK, on screen: "The ninth question is the one that matters."
+0:20-1:10  QUESTIONS 1-4, one card per question, VO gives the "why" in one line
+1:10-2:10  QUESTIONS 5-8, same treatment
+2:10-3:30  QUESTION 9, full screen, held
+           VO: "What would make you decline this appointment? An adjuster who
+           will take anything is an adjuster whose independence you have no way
+           to test."
+           ← THE BEAT, and the longest single hold in the video
+3:30-4:00  FOUNDER TO CAMERA: our own answer to Q9, in three sentences
+4:00-4:10  END FRAME: P7 URL, 3 seconds
+```
+
+**Checklist.** [ ] The nine questions match P7 in order and wording. [ ] The Founder's answer to Q9 is given on camera, specifically, and it is a real answer. [ ] P7 URL in the description and on the end frame. [ ] Captions burned in and human-checked. [ ] End frame 3 seconds. [ ] No firm-specific figures.
+
+<a id="t5"></a>
+
+#### Tactical T5 — "How to Read the Claims Notification Clause in Your Marine Policy" (Day 46 · Thu 19 Nov · Content–SEO)
+
+**Topic.** The one clause that decides whether a claim starts on time. Feeds **"claims notification marine policy"**.
+
+**Why.** Almost every avoidable problem in this market traces back to a late or defective notification. And almost nobody explains what the clause actually requires, because a policyholder is not expected to read it and a broker rarely has time to.
+
+**What to include, in order.**
+1. **Answer-first.** The claims notification clause sets a deadline to tell the insurer that a claim exists, a separate deadline to tell them the full circumstances, and both are usually short. Miss the first and the question of cover can become a question of prejudice. The keyword phrase follows immediately.
+2. **The two deadlines are different things**, and the second is the one that catches people out: notice of the *event* is not notice of the *claim*. `[NOTE: the structure of "notice of circumstance, then notice of claim" is standard in P&I and marine wordings, and the Founder works with these clauses daily — but the specific periods, and whether they run from the event or from discovery, must be read from the Founder's own policy wordings before publication. Do not publish a number like "30 days" or "7 days" from memory or from a general description of market practice. A wrong deadline here is the most damaging single error this page could make.]`
+3. **How to read the clause in your own document** — what to look for, where the period starts from, and what "as soon as reasonably practicable" is doing in the sentence.
+4. **What notification is not.** It is not an admission of liability, it does not waive any right, and it does not commit the owner to a particular position on the quantum.
+5. **The late-notice problem, described honestly.** What happens when a deadline is missed, and the fact that it is a dispute rather than an automatic forfeiture. **Do not state that a late notice automatically voids cover — that is wrong, and it is exactly the sort of over-broad statement that costs a page its credibility.**
+6. **A short checklist** the reader can run against their own policy tonight.
+7. **CTA** framed as practical help, not as an offer to review policies.
+
+**Ready-to-use copy — the opening.**
+
+```
+The claims notification clause is the one part of a marine policy that can cause
+a problem before anybody has argued about anything.
+
+It sets a deadline to tell your insurer a claim exists, and a separate deadline
+to tell them the full circumstances. Those are two different obligations, and
+notice of the event is not notice of the claim.
+
+Miss the first, and the question stops being what is covered and becomes whether
+the delay disadvantaged the insurer. That is a different argument, and a worse
+one to be having.
+
+Here is what to look for in your own wording, and the four questions worth
+asking about it.
+```
+
+**Checklist before publishing.** [ ] **Every deadline read from the Founder's actual policy wordings — no number published from memory or from market-practice generalisation.** [ ] The two-obligation structure confirmed against those wordings. [ ] No statement that late notice forfeits cover. [ ] No policy wording reproduced. [ ] No legal advice; attribution and disclaimer where the text touches on legal effect. [ ] Claim IDs carried. [ ] Founder approved.
+
+<a id="li-week7b"></a>
+
+#### LinkedIn LI-16 and LI-17 (Days 46, 47) — week 7 posts
+
+**LI-16 (Day 46 · Thu 19 Nov) — T5 amplification.** **Why.** Genuinely actionable, and the kind of post brokers save. **Copy:**
+
+```
+Two deadlines, not one. That is the thing almost everyone gets wrong about a
+claims notification clause.
+
+The first is telling your insurer a claim exists. The second is telling them the
+full circumstances. Notice of the event is not notice of the claim, and the
+second deadline is where people get caught.
+
+Worth checking in your own policy tonight:
+
+· What starts the clock — the event, or discovery of it?
+· Is the second period fixed, or "as soon as reasonably practicable"?
+· Does anything in the wording carve out an exception for a claim you did not
+  know about?
+
+And the bit worth being clear about, because it is often said wrong: a late
+notice does not automatically void your cover. It converts the argument into one
+about whether the delay disadvantaged the insurer. Different problem, still a
+problem, but not the automatic one people fear.
+
+Four things notification does NOT do: admit liability, waive a right, or commit
+you to a position on quantum.
+
+If you do one thing with this, read the notification clause in your own policy
+rather than the summary page. They are not the same document.
+
+Broker or owner: has this ever bitten you?
+```
+
+**LI-17 (Day 47 · Fri 20 Nov) — "The worst thing a shipowner can do after a casualty".** **Why.** A contrarian standalone post, and the strongest opinion piece in the plan. **Copy:**
+
+```
+The worst thing a shipowner can do after a casualty is decide what happened.
+
+Not what to report. Not who to call. What happened.
+
+Because the moment you form a view, two things happen. You start gathering
+evidence that supports it rather than evidence that tests it. And if the eventual
+findings go the other way, you have to explain why you were so sure.
+
+The work that actually helps:
+
+· Stop the vessel doing further damage — to itself or anyone else
+· Preserve the evidence, and do not tidy it
+· Get the right people on site before anything is moved
+· Write down what you know and, more usefully, what you do not
+· Notify, inside the deadline, even if the picture is incomplete
+
+That last one. A complete picture is a luxury. An incomplete notification inside
+the deadline is nearly always better than a complete one that arrives late.
+
+The people who handle this well are the ones who write "I don't know yet" in a
+document in week one, and then get it corrected in month four.
+
+What have you seen owners do in that first week?
+```
+
+**Checklist for LI-16 and LI-17.** [ ] Personal profile. [ ] No link in body. [ ] **LI-16 contains no specific deadline number** unless it has been read from the Founder's own wordings and carries a Claim ID. [ ] LI-17 gives no advice on preserving evidence that could prejudice a claim. [ ] No claim about the firm's own practice. [ ] Questions in buyer language. [ ] Founder approved each.
+
+---
+
+# Week 8 (Days 50–56 · Mon 23 Nov – Sun 29 Nov) — the commercial centrepiece and the freeze
+
+<a id="e7"></a>
+
+#### Entity E7 — Fifth-wave listings + final NAP audit (Day 50 · Mon 23 Nov · BD–Entity)
+
+**Topic.** The last listing push, and the structured case index the pillars have been pointing at for weeks.
+
+**Why.** Two jobs, and both are overdue. The listing push completes the footprint. **The case index is the single highest-leverage page the firm has not built** — every pillar in this plan points at `/contact`, and none of them can honestly point at a body of work, because the Cases page does not exist.
+
+**What to include, in order.** (1) Submit to the last wave of industry directories. (2) **Write the anonymisation rule first, and have the Founder agree to it in writing before any case is written up.** No vessel names, no client names, no dates precise enough to identify a casualty, no jurisdictions more specific than necessary, no unusual cargo or route detail that would let a reader work out whose claim it was. `[CONFIRM: the Firm Overview tab lists "Professional Negligence, Cargo, Loss of Hire, Hull and Machinery, Recovery, General Average, Complex and Multi-party" as experience areas, and states the practice has "extensive experience in complex multi-party claims". None of that is verified, and "extensive experience" is not a case study. The Founder confirms which of those areas he can substantiate with a describable claim.]` (3) Build the case index: claim type, problem, adjuster's role, outcome. **An outcome that cannot be disclosed counts as "resolved" and nothing more.** (4) Write **three** cases to begin with — three well-written anonymised cases beat ten thin ones, and three is a number the Founder can actually verify. (5) Link each case to the pillar covering its subject. (6) Run the **final NAP audit** and fix every variance. (7) Log every listing with a live URL and a verification date for the close evidence set.
+
+**Ready-to-use copy.** The case index format:
+
+```
+CASES — anonymised. Company, vessel and cargo names removed. Figures are
+indicative of scale, not actual, unless a case is marked "composite", meaning it
+is assembled from the experience of several matters.
+
+CASE [n] · [CLAIM TYPE]
+Problem:  [2–3 sentences. What went wrong, in plain terms.]
+Role:     [What the adjuster was engaged to do. Be specific — "appointed to
+          assess quantum and causation" is a role; "helped" is not.]
+Approach: [2–3 sentences. What was examined, who was dealt with, what the
+          sticking point was.]
+Outcome:  [1–2 sentences. If it cannot be disclosed: "Resolved. Details withheld
+          for client confidentiality." That is a complete and acceptable answer.]
+Related:  [link to the pillar covering this claim type]
+```
+
+`[NOTE: a composite case is a legitimate editorial device, and it is honest, provided it is labelled. "Composite" means the case is assembled from the general experience of several matters and no figure in it is real. A page that mixes real-anonymised cases with composites and does not distinguish them is not publishable — the distinction has to be visible on each case, not in a footer.]`
+
+**Checklist.** [ ] Anonymisation rule agreed in writing **before** any case is drafted. [ ] Every case verifiable by the Founder. [ ] Composite cases labelled individually. [ ] "Resolved — details withheld" used where it must be, and not treated as a gap to be filled. [ ] No figure that identifies a casualty. [ ] No client name, no vessel name. [ ] Claim types trace to pillars. [ ] **If the Founder cannot verify three cases, publish one, or publish the index with one entry — do not pad it.** [ ] Final NAP audit run, all variances fixed. [ ] Every listing and verification date logged.
+
+<a id="ob5"></a>
+
+#### Outbound O5 — Session 5: the last one (Day 50 · Mon 23 Nov · BD–Entity)
+
+**Topic.** Five emails, maximum, and the session where the plan's outreach actually asks for something durable.
+
+**Why.** O1 offered. O2 linked. O3 shared. O4 asked. O5 is the one that leaves something behind after the plan ends on 3 December — which is the entire purpose of running outreach in a 60-day window rather than a 12-month one.
+
+**What to include, in order.** Reference the contact history. Reference the specific asset. **One link.** The durable ask, in descending order of how easy it is to say yes to: (1) a link from a page they already maintain, permanent and unconditional; (2) inclusion in a newsletter or update they send anyway; (3) a forward to the colleague who handles claims; (4) **permission to cite their published view of the market in a future piece, with attribution — which is only worth asking where they have actually published something.** Close every open thread from O1–O4, including the ones that never got a reply. **A "closing the loop" note on 23 November is worth more than three follow-ups.**
+
+**Ready-to-use copy.**
+
+```
+Subject: last one from me, and a genuine ask
+
+[Name],
+
+Last note in this sequence — I said I would stop and I am stopping.
+
+Where this ended up: seven guides on marine claims, published and source-backed,
+covering general average, the stages of a hull and machinery claim, letters of
+underwriting, wreck removal, collision apportionment and how to choose an
+adjuster. Nothing gated, nothing behind a form.
+
+https://samis.com.sg/
+
+What I would like, in order of how easy it is to say yes to:
+
+· A link from a page you already keep — permanent, no conditions.
+· A mention in a newsletter or update you send regardless.
+· A forward to whoever handles claims for your clients.
+· If you have published a view of the market you would be willing to have quoted
+  back to you with attribution, tell me and I will do that properly.
+
+Any one of those is enough. If none of them work, I will take that as a clear
+answer and will not raise it again.
+
+Thanks for your time, and for reading.
+
+[Name] · [CONFIRMED TITLE]
+Samudra Adjusting & Marine Insurance Solutions Pte Ltd · UEN 202527553G
++65 9897 8654 · claims@samis.com.sg
+```
+
+**Checklist.** [ ] Maximum 5. [ ] **Every open O1–O4 thread closed — replied to or politely closed.** [ ] Durable ask is one of the four named options. [ ] Any quotation of a third party's view is with their written permission and properly attributed. [ ] Max 2 follow-ups total per contact since first contact — **this is the hard limit, and the plan is over its outreach capacity on Day 50.** [ ] All logged, including the non-replies.
+
+<a id="p7"></a>
+
+#### Pillar P7 — "Choosing an Independent Marine Claims Adjuster in Singapore: 9 Questions" (Day 51 · Tue 24 Nov · Content–SEO)
+
+**Topic.** The commercial centrepiece, and the highest intended business value in the plan. Feeds **"choosing a marine claims adjuster Singapore"** and prompts 3, 4, 7 and 10.
+
+**Why.** This is the only asset in the plan written for the reader at the moment they appoint an adjuster. **It is also the most self-interested piece of writing in the plan, and the guardrail is the point: a page that only says how good the firm is gets ignored, and a page that says how to choose an adjuster — including the questions that would disqualify Samudra — gets read, saved, referred and cited.**
+
+**What to include, in order.**
+1. **Answer-first.** Nine questions, and one of them will disqualify more firms than the other eight put together — including us. The keyword phrase follows immediately.
+2. **The nine questions**, each an H3, each answered briefly and even-handedly:
+   1. Who will actually do the work? Name, not a logo.
+   2. What claim types do you handle, and how recently?
+   3. Are you independent of the parties — insurer, owner, P&I club, reinsurer, and any of their affiliated businesses?
+   4. What is your jurisdictional reach, and who covers where you do not?
+   5. What professional bodies are you a member of, in what capacity?
+   6. How do you handle a conflict of interest when one arises?
+   7. What does your report look like, and will the client see it?
+   8. What is your fee basis, and who pays it?
+   9. **What would make you decline this appointment?**
+3. **Answer Samudra's own answers to all nine**, in a clearly marked section, with Claim IDs. **On question 3, state the independence position plainly, including the relationship to any affiliated entity. On question 5, list only memberships the Founder has confirmed. On question 9, give a real answer, not a rhetorical one** — `[NOTE TO WRITER: the ninth question is the spine of this page. The Founder's answer must be specific: the kinds of matter the practice will not accept, and why. "We will always act in the client's interests" is not an answer. "We decline where we lack relevant expertise, where our independence is compromised, or where the prospect exceeds the scope we can properly cover" is an answer, and it makes a better page than a paragraph of praise.]`
+4. **The red flags section** — the answers that should end a conversation, framed so that it is obvious the firm is applying them to itself.
+5. **What to ask for before you appoint** — a short, practical list: the engagement letter, the scope, the fee basis, the reporting cadence.
+6. **CTA** and links to all six other pillars, the Cases page, `/services`, `/contact`.
+
+**Ready-to-use copy — the opening.**
+
+```
+Nine questions to ask before you appoint a marine claims adjuster in Singapore.
+The ninth one will disqualify more firms than the other eight put together, and it
+will disqualify us more often than anyone else.
+
+1. Who will actually do the work? A name, not a letterhead.
+2. What claim types, and how recently?
+3. Are you independent of every party to the claim?
+4. What is your jurisdictional reach, and who covers the gaps?
+5. Which professional bodies, in what capacity?
+6. What happens when there is a conflict of interest?
+7. Will the client see the report?
+8. What is the fee basis, and who pays it?
+9. What would make you decline this appointment?
+
+Question 9 is the one people skip, and it is the one that tells you most. An
+adjuster who will take anything is an adjuster whose independence you have no way
+to test.
+
+Our answers to all nine are below, including the ones we would rather not have
+to give.
+```
+
+**Checklist before publishing.** [ ] All nine questions answered, including Q9 specifically. [ ] Samudra's answers in their own marked section, with Claim IDs. [ ] **Independence stated plainly, including any affiliated-entity relationship.** [ ] Only confirmed memberships listed — no `IG-*` or `SEC-*` membership claim the Founder has not confirmed. [ ] Red-flags section applies to Samudra as well. [ ] No disparagement of any named competitor. [ ] Links to all other pillars and the Cases page. [ ] Pillar checklist complete. [ ] Founder approved.
+
+<a id="li-week8a"></a>
+
+#### LinkedIn LI-18 and LI-19 (Days 51, 53) — week 8 posts
+
+**LI-18 (Day 51 · Tue 24 Nov) — P7 amplification.** **Why.** The commercial-intent post, in the form that gets saved and sent to a colleague. **Copy:**
+
+```
+Nine questions to ask before you appoint a marine claims adjuster. The ninth is
+the one that matters.
+
+1. Who will actually do the work? A name, not a letterhead.
+2. What claim types, and how recently?
+3. Are you independent of every party to the claim?
+4. What is your jurisdictional reach, and who covers the gaps?
+5. Which professional bodies, in what capacity?
+6. What happens when there is a conflict of interest?
+7. Will the client see the report?
+8. What is the fee basis, and who pays it?
+9. What would make you decline this appointment?
+
+The first eight tell you whether a firm is competent. The ninth tells you
+whether it is honest about the edges of its competence.
+
+An adjuster who will take anything is an adjuster whose independence you have no
+way to test. Which is the whole reason to ask.
+
+Our own answers to all nine, including the ones we would rather not have to give,
+are in the first comment.
+
+Claims manager, broker, or owner: which of the nine would you actually ask?
+```
+
+**LI-19 (Day 53 · Thu 26 Nov) — the trust post.** **Why.** The strategic post of the plan, and the one the evidence supports. **Copy:**
+
+```
+We are not going to publish a marine insurance claims trends chart for 2026.
+
+We are five people. We do not have claim-volume statistics, and any trend line we
+drew from five people would be a line we invented.
+
+A chart would get shared. It would look authoritative. It would also be fiction,
+and someone in this industry would know within a week.
+
+What we can do is tell you what we see from inside the work — the questions that
+reach us, where claims actually stall, what a broker can do differently — and
+tell you what we cannot tell you, which is most of the quantitative question.
+
+If you need a trend line for something that matters, the market-level published
+sources are linked in the first comment. Read those, not someone's chart.
+
+The uncomfortable version of this post is the useful one, so here it is.
+
+Industry: how do you tell a real number from a plausible one?
+```
+
+**Checklist for LI-18 and LI-19.** [ ] Personal profile. [ ] No link in body. [ ] LI-18's nine questions match P7 in order and wording. [ ] **LI-19's refusal is in the first line** and is not softened. [ ] The five-person claim carries `CRD-02`'s confirmed status or is removed. [ ] No chart, no percentage, no firm-specific figure. [ ] Questions in buyer language. [ ] Founder approved each.
+
+<a id="y6"></a>
+
+#### YouTube Y6 — Long-form: "The 2026/27 International Group P&I Renewal, Explained for Singapore Shipowners" (Day 52 · Wed 25 Nov · Content–SEO)
+
+**Topic.** The only long-form video in the plan, and the one aimed at the February 2027 renewal audience. Pairs with T2.
+
+**Why.** T2 is the written explainer and it has been live for four weeks. **A long-form video that goes deeper is the natural escalation, and it is aimed at a specific, dateable audience: everyone with a renewal conversation between now and 20 February 2027 (`IG-01`).** It is also the asset most likely to be cited by an AI engine, because a long, structured explanation of a published dataset is the easiest thing in the world to lift a correct answer from.
+
+**What to include, in order.** (1) The full structure, revisited for an audience that has read T2 and wants the reasoning. (2) **The rates, shown as a chart** — this is the one asset where a visual genuinely beats a table. (3) The container-tonnage question explored properly: what a 15% increase does to owner and charterer arithmetic, and why the same number hurts both sides differently. (4) **What the renewal process actually looks like** for a shipowner — the timeline, when terms are negotiated, and what can still be changed late. (5) **What stays the same whatever the rate** — the claim-handling reality, and why no rate change alters an adjuster's duty of impartiality. (6) The sources, on screen, with the caveat about the directional nature of any forecast.
+
+**Ready-to-use copy.**
+
+```
+TITLE: The 2026/27 International Group P&I Renewal, Explained for Singapore
+       Shipowners (Long Form)
+
+DESCRIPTION (first line = the answer):
+The International Group's 2026/27 reinsurance structure and rates are published.
+Four of the five main tonnage categories fell or held flat; fully cellular
+container rose 15%. This is a longer explanation of what those numbers mean for
+an owner, a charterer, and anyone handling a claim across the renewal.
+
+[FOUNDER NAME, CONFIRMED TITLE], Samudra Adjusting & Marine Insurance
+Solutions Pte Ltd — a Singapore-registered marine claims adjusting practice,
+UEN 202527553G.
+
+CHAPTERS
+00:00  What the IG is, and what it is not
+01:30  The structure: retention, pool, free and unlimited cover, overspill
+04:00  The rates, and the one number that matters
+07:00  The container question: 15% on both sides of a charter
+10:30  What the renewal timeline looks like
+13:00  What does not change, whatever the rate
+15:00  The sources, and what they do not tell you
+
+Written version of the same material: [T2 URL]
+claims@samis.com.sg · +65 9897 8654
+We adjust claims. We are not a law firm, insurer or P&I club.
+```
+
+```
+SHOT LIST — 16 minutes
+00:00-01:30  WHAT THE IG IS, and what it is not. Reinsurance layer diagram.
+             ON SCREEN: "The IG is a reinsurance arrangement between clubs."
+             VO: and it is not an insurer, not a regulator, not a claims body.
+01:30-04:00  THE STRUCTURE, one layer at a time on screen:
+             USD 10m retention → USD 100m pool → free and unlimited to
+             USD 650m → Collective Overspill to USD 5.35bn equivalent
+             Each layer named, each figure on screen, source cited as it appears.
+04:00-07:00  THE RATES. ← THE CENTRE OF THE VIDEO
+             A single clean bar chart, five categories, 2025 vs 2026/27,
+             percentage change labelled on each bar.
+             Container bar highlighted. VO works the other four first, then
+             spends three minutes on the container move.
+07:00-10:30  THE CONTAINER QUESTION. Arithmetic on screen — cost of cover
+             against freight, for an owner and for a charterer, separately.
+             VO: the same number lands on both sides of the charter and does
+             different work. THIS IS THE BEAT.
+10:30-13:00  THE RENEWAL TIMELINE. A simple timeline graphic, months not dates.
+             VO: when terms get negotiated, and what is still open late.
+13:00-15:00  WHAT DOES NOT CHANGE. VO to camera, no graphics.
+             "No rate change alters an adjuster's duty of impartiality, and
+             nobody's adjuster now works for the reinsurer."
+15:00-16:00  THE SOURCES on screen, listed, with the caveat:
+             "These are published reinsurance rates. They are not a forecast of
+             any individual vessel's premium, and anyone who offers you one from
+             a chart like this is guessing."
+             END FRAME: https://samis.com.sg, 3 seconds.
+```
+
+**Checklist.** [ ] Every figure on screen matches `IG-01`–`IG-04` **digit for digit**. [ ] Bar chart built from the published figures only — no derived or estimated rates. [ ] The Collective Overspill figure shown is the one in `IG-02`; if the video states a total limit, it is confirmed against the source rather than summed by the editor. `[NOTE: a total aggregate figure is the easiest number in this brief to get wrong by addition. Do not compute it on the video. If a total is wanted, read it off the source or omit it.]` [ ] The renewal timeline is described generically, with no specific broker or club named. [ ] No claim that Samudra is affiliated with any club or the IG. [ ] Captions burned in and human-checked. [ ] End frame 3 seconds. [ ] T2/Y6 cross-linked. [ ] Founder approved.
+
+<a id="t6"></a>
+
+#### Tactical T6 — "PDPA and GDPR in Marine Claims Handling: A Singapore Practical Guide" (Day 53 · Thu 26 Nov · Content–SEO)
+
+**Topic.** The firm's own compliance, described in public. Feeds **"PDPA marine claims Singapore"**.
+
+**Why.** The highest-trust tactical available, because it is about the firm itself. **A claims practice handling medical files, crew personal data and cross-border information has a genuine data-protection problem, and writing about it honestly is both good practice and the strongest trust signal the firm can publish.** The subordination matters: this cannot be published until the site's own privacy notice and terms exist, or the page describes a practice the site does not follow.
+
+**What to include, in order.**
+1. **Answer-first.** Handling a marine claim means handling personal data — often sensitive personal data, often health data, and often across borders. In Singapore that engages the PDPA; for EU data subjects it may engage the GDPR, and for crew shipped between jurisdictions both can apply at once. The keyword phrase follows immediately. `[NOTE: the interaction between the PDPA and the GDPR for a Singapore-registered practice handling EU crew data is a genuine legal question with real consequences. This section must be written with the Founder and reviewed against current guidance, and the page must carry a clear "this is a description of our practice, not legal advice" framing. Do not characterise either regime's extraterritorial reach in this post — that is a legal opinion and the firm does not give legal opinions.]`
+2. **What a claims file actually contains**, from a data-protection point of view: identity documents, employment and engagement records, medical records, correspondence, financial records. **This is the part readers find genuinely alarming the first time they see it written down, and it is the strongest argument for the rest of the page.**
+3. **The Singapore framework** — the PDPA, consent and purpose limitation, and the practical point that a claims file has a legitimate purpose that is easy to state. `[UNVERIFIED: the PDPA's current provisions must be read from the source before publishing. Check for amendments — the Digital Economy Act changes and the enhanced transfer-limitation obligations are the kind of thing that moves.]`
+4. **Sensitive personal data and health data**, and what that changes about retention, access and security.
+5. **Retention.** How long claims files are kept, and why. `[CONFIRM with the Founder: the firm's actual retention period, and whether it is documented. If it is not documented, that is a real compliance finding, and the honest move is to document it as part of publishing this page rather than to describe a practice that does not exist.]`
+6. **Cross-border transfers** — crew may be treated, hospitalised or repatriated in a third country, and the file travels with them. Acknowledge the problem honestly.
+7. **What a seafarer or family member's rights are** — access, correction, and who to ask.
+8. **What the firm has actually put in place** — the privacy notice, the terms, and the security measures. **Only where they exist.** `[GATE: the site's Privacy Notice (PDPA) and Terms of Service pages must be live and linked before this publishes. A compliance page describing controls the firm does not operate is worse than no page, because it is a claim that is easy to falsify.]`
+9. **CTA** and links to `/privacy`, `/terms`, `/contact`.
+
+**Ready-to-use copy — the opening.**
+
+```
+A marine claims file contains more personal data than most people expect.
+
+Identity documents. Employment and engagement records. Medical records,
+sometimes from more than one country. Correspondence. Financial records. And it
+often travels — a crew member is treated, hospitalised or repatriated somewhere
+else and the file goes with them.
+
+In Singapore that engages the PDPA. Where the data subject is in the EU, the
+GDPR may engage as well, and a claim can touch both at once.
+
+This page is a description of how a claims practice actually handles that data,
+written by a practice that handles it. It is not legal advice, and it is not a
+compliance certification — it is what we do, and where we are still working.
+
+[NOTE TO WRITER: open with the file contents, not with the legislation. The
+legislation is the least interesting part of this topic and the file contents are
+the part that changes how a reader thinks about who can see what.]
+```
+
+**Checklist before publishing.** [ ] **`/privacy` and `/terms` live and linked — hard gate.** [ ] Retention period confirmed and documented by the Founder. [ ] PDPA provisions read from the current source, not from memory. [ ] No characterisation of either regime's extraterritorial reach. [ ] No legal advice; "this is our practice, not legal advice" stated plainly. [ ] No compliance certification or claim of certification. [ ] The list of security measures describes only controls the firm actually operates. [ ] Claim IDs carried. [ ] Founder approved.
+
+<a id="li-week8b"></a>
+
+#### LinkedIn LI-20 (Day 54 · Fri 27 Nov) — "Twelve weeks to renewal"
+
+**Why.** The final Friday post, and the one that carries the renewal clock into the new year. **Copy:**
+
+```
+Twelve weeks to 20 February, which is when the International Group P&I policy
+year turns.
+
+Three things worth doing before then, none of them exciting:
+
+1. Check which policy year your open claims fall under. It is decided by the
+   year of the event, not the year you are having the conversation, and it is
+   not always obvious from the paperwork in front of you.
+
+2. Ask your broker, in writing, what happens to your open claims if you change
+   insurer, adjuster or broker at renewal. Do not assume the file follows you.
+
+3. If you have a claim that has gone quiet, find out why now. A claim going
+   nowhere in December is a claim going nowhere in February.
+
+And one thing not to do: treat a reinsurance rate table as a forecast of your
+own premium. The published IG figures are aggregate market data. Anyone who
+turns them into a number for your vessel is guessing, and the difference
+between the two is where people get caught.
+
+(Primary sources in the first comment.)
+
+Broker or owner: what is on your list before February?
+```
+
+**Checklist.** [ ] Personal profile. [ ] No link in body. [ ] **The "twelve weeks" count is correct on 27 November, or the number is removed.** [ ] No rate figure presented as a vessel-level forecast. [ ] No prediction of an individual renewal outcome. [ ] Question in buyer language. [ ] Founder approved.
+
+<a id="ai7"></a>
+
+#### AI visibility run #7 (Day 56 · Sun 29 Nov) — the freeze run
+
+**What to include, in order.**
+1. Re-run the **same 24 prompts on the same 5 engines**, same wording, no edits. **The panel is not changed now — changing it in week 8 destroys the comparability of the entire 60-day dataset.**
+2. Record `named/24` and `cited/24` for every engine, and whether each answer was correct, partially correct, or wrong.
+3. **Record any answer that attributes a claim to Samudra that is not true** — a fabricated credential, statistic, or client outcome. **This is the most important output of the run and it takes priority over the counts.** Each becomes a Defensive item for C1.
+4. Compare to runs 1–6 and write the trend line, with the standing caveat: **seven points on the same 24 prompts is a directional signal, not a statistically meaningful result.** Say so in the log, in the report, and in anything derived from it.
+5. Check whether **T2 is now the most-cited asset**, and whether any pillar is being cited for something it does not say.
+6. **Content freeze confirmed.** Nothing publishes after this run until the close is signed off.
+
+**Ready-to-use copy — the run log header.**
+
+```
+AI VISIBILITY — RUN #7 — Day 56
+Prompts: 24 (unchanged since Day 5) · Engines: 5 (unchanged) · Wording: unchanged
+
+NAMED / 24 by engine:     [e] [n] · [e] [n] · [e] [n] · [e] [n] · [e] [n]
+CITED / 24 by engine:     [e] [n] · [e] [n] · [e] [n] · [e] [n] · [e] [n]
+Correct / partial / wrong: [n] / [n] / [n]
+
+DEFENSIVE FINDINGS (priority over the counts):
+  [engine] — attributed to Samudra: "[claim as the engine stated it]"
+             Verdict: FABRICATED · Source: none found · Action: Day 57
+
+TREND vs runs 1-6: [one line]
+CAVEAT, to be carried into every downstream use of this number:
+seven data points on a fixed 24-prompt panel is a directional signal, not a
+result. Do not present it as a percentage improvement.
+
+CONTENT FREEZE: confirmed from Day 56. Nothing publishes until the close is
+signed off.
+```
+
+**Checklist.** [ ] Identical panel, identical wording. [ ] Defensive findings recorded before the counts are summarised. [ ] Every fabricated attribution logged with its engine and the exact wording used. [ ] The caveat written into the log, not just the report. [ ] No panel edits, no new prompts, no engine swaps. [ ] Content freeze recorded.
+
+---
+
+# Phase 3 — Evaluation and close (Days 57–60 · Mon 30 Nov – Thu 3 Dec)
+
+<a id="c1"></a>
+<a id="close"></a>
+
+#### C1 — Day 57: the final measurement pass and the honest report (Mon 30 Nov · Content–SEO)
+
+**Topic.** The measurement the whole plan was built to produce, written up so that someone who was not here can tell what happened.
+
+**Why.** The 60 days produced a technical rebuild, thirteen written assets, six videos, twenty LinkedIn posts, an entity footprint and an outreach record. **None of that is the result. The result is what a reader, a buyer and an AI engine now find when they look — and the report has to say that plainly, including where it failed.**
+
+**What to include, in order.**
+1. **The 10-point gate re-test**, all ten checks, with pass/fail and evidence. State any regression. A metadata fix or a schema change that silently broke something is the most common failure in this kind of work, and this is the last chance to find it.
+2. **AI visibility — run #7, executed on Day 56.** Read the Day 56 result; **do not run an eighth panel.** Seven points on a fixed 24-prompt panel is the whole dataset this plan was able to buy, and running one more on Day 57 would add a data point at the cost of a day, for nothing. Report `named/24` and `cited/24` per engine, and the trend across runs 1–7.
+3. **The final defensive sweep.** Every fabricated attribution found in runs 6 and 7 — the fabricated credential, the invented statistic, the client outcome that never happened — with what was done about each. **This is the most valuable output of the entire 60 days and it is more valuable than the counts.**
+4. **Content performance, per asset, with the honest comparison.** Every pillar, every tactical, every video, every LinkedIn post. **The assets that underperformed are named.** A report that only lists wins is not a report, and it is the one thing that would make the next 60 days worse than this one.
+5. **Search, by month, with the leading-indicator caveat.** Impressions, clicks, average position, and the number of indexed pages at Day 10 versus Day 57. **State clearly: sixty days is too short for organic rankings to move, and a flat Search Console graph in this window is the expected result, not a failure.** The leading indicators are indexing, impressions and AI citations; rankings and traffic belong to months 4–12.
+6. **Entity and outreach results** — listings live, NAP variances open and closed, emails sent, replies, links earned, and the contacts who did not reply. **Record the non-replies.** They are the most useful part of the outbound data and the part most often left out.
+7. **The business result, stated without embellishment.** Qualified enquiries, if any. Meetings. Anything won. **If the answer is "no measurable revenue in 60 days", that is the correct and expected answer, and the report should say it in those words rather than reaching for a soft proxy.**
+8. **Founder time, assumed versus actual.** The plan's real constraint, and the number that determines whether the next 60 days are achievable at all.
+9. **What was published, and what was not.** Every asset that shipped, every asset that was cut, every claim that was removed for lack of verification, every pillar that slipped. **The removals and the slips belong in the report.**
+10. **The recommendations, and how to prioritise them** — including a "not recommended" section, because someone will ask for something this evidence does not support and the answer should be written down before the conversation happens.
+
+**Ready-to-use copy — the report structure.**
+
+```
+SAMA 60-DAY REPORT — Days 1-60 (5 Oct - 3 Dec 2026)
+Prepared by: [FOUNDER NAME] · [date]
+
+1. GATE: 10/10 pass · regression: [none / describe]
+2. AI VISIBILITY — run #7 (Day 56) is the final data point
+   NAMED/24:  Day 5 [n] → Day 56 [n]
+   CITED/24:  Day 5 [n] → Day 56 [n]
+   Trend across runs 1-7: [one line]
+   Fabricated attributions found in runs 6-7: [n] — all addressed: [y/n]
+   CAVEAT: a fixed 24-prompt panel measured seven times is a directional signal,
+   not a statistically meaningful result. It shows movement. It does not prove
+   causation, and it must not be reported as one.
+3. CONTENT — per asset, including the ones that did not work
+   [asset] — [n] impressions · [n] clicks · verdict: [exceeded / met / missed]
+   Least effective: [asset] — [reason]. Kept in the report deliberately.
+4. SEARCH — leading indicators
+   Indexed pages: Day 10 [n] → Day 57 [n]
+   Impressions: [n] · Clicks: [n] · Avg position: [n]
+   NOTE: 60 days is too short for rankings to move. This section measures
+   indexing and impressions, not traffic. Rankings are a months 4-12 question.
+5. ENTITY & OUTREACH
+   Listings live [n]/[n] · NAP variances closed [n]/[n]
+   Emails [n] · replies [n] · links earned [n]
+   No reply: [list] — recorded, not discarded
+6. BUSINESS RESULT
+   Qualified enquiries: [n] · meetings: [n] · revenue attributable: [n]
+   [If zero: "No measurable revenue attributable within 60 days. This is the
+   expected result for this window. The assets are the asset."]
+7. FOUNDER TIME: assumed [h]/wk · actual [h]/wk
+8. PUBLISHED: [n] · CUT: [n] · SLIPPED: [n] ·
+   CLAIMS REMOVED FOR LACK OF VERIFICATION: [n]
+9. RECOMMENDATIONS, PRIORITISED
+   P1 — [highest value, why]
+   P2 — [next]
+   P3 — [next]
+   Not recommended: [what someone will ask for that the evidence does not
+   support, and the sentence explaining why not]
+```
+
+**Checklist.** [ ] All 10 gate checks re-run with evidence. [ ] **Run #7 read from Day 56; no eighth panel run.** [ ] Every fabricated attribution from runs 6–7 listed and addressed. [ ] **Underperforming assets named.** [ ] The leading-indicator caveat written in. [ ] Zero-revenue stated in plain words if that is the result. [ ] Non-replies recorded. [ ] Removed claims and slipped pillars listed. [ ] Recommendations prioritised, including a "not recommended" section.
+
+<a id="c2"></a>
+
+#### C2 — Day 58: the decision memo, and the Google Business Profile (Tue 1 Dec · Founder)
+
+**Topic.** The document that decides what happens after 3 December, plus the last entity task in the plan.
+
+**Why.** A 60-day plan that ends without a written decision about the next 60 days has produced sixty days of activity and no capability. **The memo is the deliverable; the profile is the free one.** A Google Business Profile is the most-cited entity source in local search, it costs nothing, and it is the last thing on the entity list that can still be done in an hour.
+
+**What to include, in order.**
+1. **Write the Day 61–120 decision memo** — see the structure below. This is the deliverable that matters on this day, and it is written by the Founder because it is a business decision, not a marketing one.
+2. **Create or claim the Google Business Profile**, verified against the Firm Overview and the canonical NAP block. `[NOTE: verify GBP eligibility and category for a marine claims adjusting practice before submitting — the available business categories may not have a clean fit, and picking a wrong category is worse than waiting. Confirm with the Founder. If no category fits, say so and record why the profile was not created; a wrongly categorised profile is a liability, not an asset.]` Every field from the canonical NAP block, character-for-character. Hours, services, and a description matching the approved firm description. **No service area the firm does not cover. No keyword stuffing in the business name field** — Google's guidelines prohibit it, and it is the fastest way to get a profile suspended.
+3. **Verify the profile** and monitor for the postcard or SMS. **Record the verification method and the date, because an unverified profile is a trap left for the next person.**
+4. **Read P7's performance** as the leading indicator of the next quarter's commercial intent — this is the one asset the plan built to be measured, and its numbers are the best available predictor of what the next 60 days should emphasise.
+5. **Run the final NAP consistency audit** across everything, including the profile. Any variance found, fixed same day.
+6. **Log every listing, live URL, and last-verification date** into the close evidence set.
+
+**Ready-to-use copy — the Day 61–120 decision memo.**
+
+```
+SAMA DAYS 61-120 — DECISION MEMO
+Written: [date] by [FOUNDER NAME] · for the period 4 Dec 2026 - 3 Feb 2027
+
+1. THE ONE-SENTENCE DECISION
+   [What the next 60 days are for. One sentence, written before the reasoning
+   so it cannot be reverse-engineered to fit the argument.]
+
+2. WHAT THE EVIDENCE SUPPORTS
+   From the Day 57 report: [the two or three findings that actually change
+   the plan]. Not the findings that flatter it.
+
+3. WHAT CONTINUES — unchanged cadence
+   Pillar: [day] · Tactical: [day] · LinkedIn: [days] · Outbound: [day]
+   YouTube: [day] · AI panel: [day]
+   The Friday LinkedIn posts and T5/T6 were the sanctioned cuts if load failed.
+   Record which of those cuts actually happened, and what the cadence feels
+   like now that they are gone.
+
+4. WHAT CHANGES — and why
+   [The change, the evidence behind it, and what it replaces.]
+
+5. WHAT STOPS
+   [Anything from this plan that should not run again, and the reason. An
+   archived failure is worth more than an untested idea.]
+
+6. THE RENEWAL — 20 February 2027 is in this window
+   The next quarter ends eight days before the IG policy year turns.
+   [What the firm needs to have in place before then, and who owns it.]
+
+7. THE TECHNICAL DEBT THAT IS NOT OPTIONAL
+   SSR, the content migration, a real 404 handler, social previews,
+   structured data. Name which of these blocks publishing and which only
+   limits it. The two are not the same and conflating them is how the next
+   quarter gets spent on the wrong one.
+
+8. WHAT THE FOUNDER CANNOT COMMIT TO
+   [Be honest here. A memo that assumes capacity the plan did not have is
+   the reason the next 60 days fail in the same way this one might.]
+
+9. THE FIRST THREE DAYS OF THE NEXT QUARTER
+   1. [ ]  2. [ ]  3. [ ]
+```
+
+**Checklist.** [ ] Decision memo written, signed and dated by the Founder. [ ] **Section 8 completed honestly** — the capacity constraint named. [ ] GBP created or claimed with a correct category, **or the decision not to create one recorded with the reason.** [ ] Every GBP field matches the canonical NAP block. [ ] No keywords in the business name. [ ] No service area claimed that is not covered. [ ] Verification method and date recorded. [ ] P7 performance read. [ ] Final NAP audit run, all variances fixed. [ ] Every listing and last-verification date in the evidence set.
+
+<a id="c3"></a>
+
+#### C3 — Day 59: the technical debt list for the next quarter (Wed 2 Dec · Tech)
+
+**Topic.** The complete, ranked list of what is still wrong with the platform, in the order it will cost the firm the most.
+
+**Why.** The Foundation phase fixed the thing that blocked everything: the site stopped being a blank shell. **It did not become finished.** What remains is a real backlog with a real price tag, and this is the only day in the plan where the technical owner has the whole picture in front of them at once. **A list written here is worth more than a list written slowly over the next six months**, because the next person to touch this site needs one file to read, not an archaeology of commits.
+
+**What to include, in order.**
+1. **Every outstanding technical item**, one line each, in three buckets:
+   - **BLOCKS PUBLISHING** — a new asset cannot go live without it. Nothing should be in this bucket that is not genuinely blocking.
+   - **LIMITS PERFORMANCE** — assets can go live, but the platform caps what they achieve. This is the larger bucket, and it is the one that gets quietly deferred.
+   - **COSMETIC** — genuinely cosmetic, and labelled as such so it can be scheduled without argument.
+2. **For each item, the specific defect** — not "improve SEO" but "no SSR, so the first byte is an empty shell and every route costs the engine a render". The level of specificity is the point.
+3. **The evidence for each item** — the `curl` output, the validator result, the Lighthouse run. **An item with no evidence is a suspicion, and suspicions do not go in the backlog.**
+4. **The estimate**, and where the estimate is a guess, say so.
+5. **The order**, justified by what each item costs if it stays unfixed for another quarter — not by how easy it is.
+6. **The items explicitly deferred**, with the reason, so nobody re-litigates them in February.
+
+**Ready-to-use copy — the debt list structure.**
+
+```
+SAMA TECHNICAL DEBT — as at Day 59, 2 December 2026
+Owner: [TECH NAME] · supersedes any earlier list
+
+BLOCKS PUBLISHING
+  [item] — [the specific defect] — evidence: [curl / validator / Lighthouse]
+  — estimate: [d/h] — if not fixed: [what cannot be published]
+
+LIMITS PERFORMANCE
+  [item] — [the specific defect] — evidence: [ ] — estimate: [ ]
+  — if not fixed: [the ceiling it puts on the assets already published]
+
+COSMETIC
+  [item] — [ ] — estimate: [ ]
+
+DEFERRED, AND WHY
+  [item] — deferred because [ ] — revisit: [date or trigger]
+
+ORDER OF WORK, and the reason for it:
+  1. [item] — because it [blocks X / caps Y]
+  2. [item]
+  3. [item]
+
+STANDING ITEM, from the Day 10 gate: re-run the 10-point gate after ANY
+deployment. The single most valuable thing this plan did was stop the site
+returning a blank shell; the fastest way to undo it is a deploy nobody
+re-tested.
+```
+
+**Checklist.** [ ] Every item in exactly one bucket. [ ] Each defect described specifically enough to be actionable. [ ] **Every item carries evidence** — no evidence, no entry. [ ] Estimates marked as guesses where they are guesses. [ ] Order justified by cost of deferral, not by ease. [ ] Deferred items listed with reasons and revisit triggers. [ ] The standing post-deployment gate re-test carried onto the list. [ ] The `website/public/` and orphaned-page problem noted if the developer works on generated output.
+
+<a id="c4"></a>
+
+#### C4 — Day 60: final review, handoff, and the next gate (Thu 3 Dec · Founder)
+
+**Topic.** Sign the plan off, archive it properly, and set the next gate against a real date.
+
+**Why.** **Day 60 is not a summary day — it is the day the one-off work stops and the recurring work is defined.** A plan that ends on its last day has thrown away its own value. And the next gate has a natural deadline that is not the plan's to choose: the International Group P&I policy year turns on **20 February 2027** (`IG-01`), eight weeks after this plan ends.
+
+**What to include, in order.**
+1. **The RETAIN / FIX / CUT decision on every asset and every practice**, item by item — not a general statement about the plan.
+   - **RETAIN** — it works, it earns its maintenance cost, keep it and keep it current. Name the maintenance cadence.
+   - **FIX** — the approach is right and the execution is not; name the specific fix, the day it gets done, and the owner.
+   - **CUT** — it does not work and will not; archive it, and record that it was tried.
+2. **The recurring monthly loop**, defined so it survives the plan: the monthly gate re-test on a named day; the monthly AI panel run on a named day, **same prompts, same engines, forever**; the quarterly NAP audit; the annual refresh of every page carrying a date; **and the standing rule that a page older than 12 months is re-verified before it is cited anywhere, internally or externally.**
+3. **The unresolved-risk register**, live, with owners and dates. Every `[UNVERIFIED]` Ledger row, the WordPress content question, the incomplete rebuild, the unconfirmed credentials, and anything the Founder declined to answer. **This register is the most valuable artefact of the plan** — it is the difference between a known risk and an unknown one.
+4. **The handoff document** — the version that outlives this plan, covering what changed, that the Ledger is the gate, what is still unverified, the cadence that works, what worked, what did not, and what not to do. `[NOTE: the "what did not work" and "what not to do" sections are the two most likely to be dropped when the document is tidied up, and they are the two that make the next 60 days better than this one. Keep them even if everything else gets cut.]`
+5. **Archive the plan properly**: the final file, the evidence pack, the handoff document and the Source Ledger in their Day-60 state, stored where the next person will look. **A plan that lives only in a conversation has not been closed.**
+6. **Set the next gate**, and give it a date with a reason: **before the 20 February 2027 IG renewal** (`IG-01`). Write the next gate as a specific testable condition, not as a date.
+
+**Ready-to-use copy — the RETAIN / FIX / CUT register and the next gate.**
+
+```
+SAMA 60-DAY CLOSE — Day 60, 3 December 2026
+Signed: [FOUNDER NAME] · [date]
+
+RETAIN — works, keep and maintain
+  [asset/practice] — [what it did] — maintenance: [cadence]
+
+FIX — approach right, execution not
+  [asset/practice] — [the specific defect] — fix by: [date] — owner: [name]
+
+CUT — does not work, archive it
+  [asset/practice] — [why] — archived at: [location]
+  Recording the cut is the point. An archived failure is worth more than an
+  untested idea.
+
+RECURRING LOOP — from 4 January 2027
+  Monthly, [day]: 10-point gate re-test
+  Monthly, [day]: AI panel run, same prompts, same engines
+  Quarterly:     NAP audit across all listings
+  Annual:        re-verify every dated page before citing it
+  Standing:      a page over 12 months old is re-verified, not assumed
+
+UNRESOLVED AT CLOSE
+  [item] — owner: [name] — by: [date]
+
+NEXT GATE — before 20 February 2027 (IG-01)
+  The renewal is a deadline the market sets, not the plan. Use it.
+  Condition to pass: [specific, testable — e.g. "every pillar carries a dated
+  IG figure re-verified against the source within the last 12 months, and
+  T2/Y6 cite the current policy year"]
+  Not a date. A condition. If the condition is met early, the gate passes
+  early.
+
+ARCHIVED
+  Plan · evidence pack · handoff · Source Ledger (Day-60 state) → [location]
+```
+
+**Checklist.** [ ] Every asset and practice decided — no "TBD" in the register. [ ] Every CUT recorded with its reason and location. [ ] Every FIX has a date and an owner. [ ] Recurring loop defined with named days. [ ] The 12-month re-verification rule written into the loop. [ ] Unresolved-risk register live, with owners and dates. [ ] Handoff document complete, **including "what did not work" and "what not to do".** [ ] Plan, evidence pack, handoff and Ledger archived in their Day-60 state. [ ] **Next gate set to a testable condition, dated against 20 February 2027.** [ ] **Signed and dated by the Founder.**
+
+---
+
+<a id="notes-before-publishing"></a>
+
+## Notes Before Publishing
 
 Guardrails that hold for every deliverable, every owner, every day.
 
@@ -2008,7 +3240,7 @@ Guardrails that hold for every deliverable, every owner, every day.
 2. **No invented people, credentials, or case studies.** No bios, no years of experience, no memberships, no case outcomes, no client names, no vessel names, no IMO numbers — unless a `CRD-*` or `A5`-cleared row exists. `CRD-01` is a real sourced credential for a real person; it still does not publish until the client confirms currency. **A lapsed membership published as current is the exact failure this rule exists to prevent.**
 3. **Never generalise a proxy statistic into this niche.** `AEO-03` (51% of buyers opening an AI engine) is about B2B **software** buyers. It is a directional proxy and is always published with that qualifier attached. Same for `AEO-06` and `AEO-07` — vendor audits, small samples, attributed.
 4. **Never publish a bunker number without its fuel scope.** See CONFLICT C4. The MPA Annual Report figure (56.77 Mt, 2025) includes alternative fuels. Say so, every time.
-5. **Legal provisions are attributed, never asserted.** `LGL-01`–`LGL-04` come from a law-firm commentary, not the statute. Attribute them as commentary and tell readers to take their own advice. **A statutory section number is the single highest-risk claim in this ledger** — verify `LGL-01` against the current revised Marine Insurance Act 1906 before P2 publishes.
+5. **Legal provisions are attributed, never asserted.** `LGL-01`–`LGL-04` come from a law-firm commentary, not the statute. Attribute them as commentary and tell readers to take their own advice. **A statutory section number is the single highest-risk claim in this ledger** — verify `LGL-01` against the current revised Marine Insurance Act 1906 before P2 publishes. **`LGL-05`–`LGL-09` are reserved, not sourced** — see the [Missing-row register](#missing-rows). No reserved row ships.
 6. **Never claim to be something the firm is not.** Samudra is **not** a law firm, **not** an insurer, **not** a P&I club, and **not** a class society. It does not give legal advice, does not underwrite, and does not issue certificates. Pillar copy must hold this line in every paragraph that could be read as advice.
 7. **No fabricated client results.** No "we recovered US$X for client Y", no settlement percentages, no turnaround times, no volumes — unless a cleared, verified row exists. Industry-wide stats (`AEO-*`, `MKT-*`, `IG-*`) are fine **with attribution**. Firm-specific numbers need a ledger row.
 8. **Brand consistency is not optional.** Navy `#004c8c` and gold `#f7a800` are the site's existing tokens — use them, do not introduce a new palette. Oswald for headings, Roboto for body. No stock photography of generic cargo ships; a claims firm's credibility comes from documents, reports and people.
@@ -2037,7 +3269,7 @@ Guardrails that hold for every deliverable, every owner, every day.
 
 **Pacing discipline over speed.** One Foundation task per day exists so that a task cannot be quietly skipped under pressure. It also means a slip is visible on the day it happens, six days before it matters — not on Day 10.
 
-**The gate is a real gate.** Day 10 can block. A no-go means: fix and re-gate, or slip the whole calendar by the slip's length. It does **not** mean "publish anyway and hope" — content published into an unreadable shell has near-zero indexation probability, so the entire 26-deliverable Phase 2 would be spent on a site no engine can quote. AEO spend on an unindexable domain is the most expensive possible waste in this plan, and it is the one error the Foundation phase exists to prevent.
+**The gate is a real gate.** Day 10 can block. A no-go means: fix and re-gate, or slip the whole calendar by the slip's length. It does **not** mean "publish anyway and hope" — content published into an unreadable shell has near-zero indexation probability, so all **55 Phase 2 deliverables** — 39 of them crawlability-dependent publishing assets — would be spent on a site no engine can quote. AEO spend on an unindexable domain is the most expensive possible waste in this plan, and it is the one error the Foundation phase exists to prevent.
 
 **How N=60 changed the default template.** The skill's default splits N into Foundation ≈16%, Execution ≈ the long middle, Evaluation ≈7%. For N=60: **Foundation = Days 1–10 (16.7%), gate on Day 10, Execution = Days 11–56, Evaluation = Days 57–60 (6.7%, the 4-day floor).** The midpoint checkpoint lands on **Day 33 (Fri 6 Nov)** — a working day, placed clear of the Deepavali long weekend. For a 60-day run the weekly loop fits 8.5 times, so the cadence is anchored to fixed weekdays (Tue/Thu/Wed/Fri/Mon) rather than to "week N", which is what makes the table runnable without the planner present.
 
@@ -2065,7 +3297,7 @@ Prerequisites and parallel work that do not get their own table row but block ev
 - **CloudFront cache purge discipline** after every technical change, then re-`curl` to verify the served bytes actually changed. Do not trust the deploy.
 - **A `curl`-based regression check** in the tracker: every published URL, expected title, expected byte-size delta. Run it weekly. The reason this plan exists is a silent content failure nobody noticed — the check exists to make the next one loud.
 - **The Source Ledger lives with the content, not in someone's inbox.** One file, versioned, one row per claim, with the retrieved date. Content–SEO maintains; Founder approves.
-- **The AI prompt panel is fixed.** The same 24 prompts, the same 5 engines, the same wording, every run. Changing the prompts between Day 5 and Day 57 invalidates the comparison — and a flattering re-run is worse than no measurement.
+- **The AI prompt panel is fixed.** The same 24 prompts, the same 5 engines, the same wording, every run. Changing the prompts between Day 5 and Day 56 invalidates the comparison — and a flattering re-run is worse than no measurement. **Seven runs is the whole dataset this plan can buy; the Day 57 close reads run #7 rather than running an eighth.**
 - **Founder time is the scarcest resource.** Every day the Founder is asked for: brief approval of 1–2 deliverables, one LinkedIn post in their voice, and the Day 10 / Day 33 / Day 60 decisions. If the Founder is on a casualty that week, the day is **rescheduled, not skipped silently** — and the tracker records the reason.
 - **One page-one risk, named:** the claims portal at `/claims` exposes a status-lookup surface. Publicly documenting how a claim reference works improves answer-engine understanding of the firm, but the security review for that surface is a **separate, unowned task** in this plan. Confirm with the client who owns it, and do not publish anything that describes the portal's internals until they have.
 - **Budget:** `[TBD — A6]`. The plan assumes no paid media. Any paid spend changes the Day-60 targets and must be decided on Day 1, not added mid-flight.
