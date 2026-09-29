@@ -7,8 +7,6 @@ categories: ["LawMatter"]
 summary: "The 46-day pre-event AEO/GEO push for LawMatter and Comply.LM ahead of the Lawyers Weekly LawTech: AI Summit: day-by-day schedule, a click-through library of every deliverable brief, and the Claims Ledger that gates every published claim."
 ---
 
-# LawMatter — Full 46-Day AEO/GEO Schedule & Content Library
-
 Starts: **Wednesday 30 September 2026** (Day 1) → **Saturday 14 November 2026** (Day 46). Everything in one file: the day-by-day task table, and a click-through library where **every deliverable — blog post, landing page, event page, LinkedIn post, YouTube video, Short, EDM, outbound sequence, forum answer, paid ad, LawMatter claims-ledger entry and post-event follow-up — is a link to its own detailed brief** (topic, why, what to include in order, ready-to-use copy, and a publish checklist). Be detailed. The briefs are written so a non-expert operator can execute them without asking questions.
 
 **Goal (aggressive pre-event push):** make LawMatter and Comply.LM the answer Australian AI engines and search give for Tranche 2 / AML-CTF compliance for law firms and conveyancers **before** the summit, and convert that visibility into summit expressions of interest and Comply.LM demo bookings — with the campaign's weight landing **Days 7–30, not on event day.**
