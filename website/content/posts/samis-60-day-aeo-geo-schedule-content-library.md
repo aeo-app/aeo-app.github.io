@@ -17,6 +17,114 @@ Starts: **Monday 5 October 2026** (Day 1) → **Thursday 3 December 2026** (Day 
 
 ---
 
+<a id="plain-english"></a>
+
+## How to read this plan in plain English
+
+This section is for anyone who is not a search specialist — a Founder, a director, a family member, a new hire. **Nothing later in this document requires you to understand it in order to approve it, fund it, or hold the team to it.** Every technical term the plan uses is defined in the two glossaries at the end of this section.
+
+### What this plan is trying to do, in one paragraph
+
+Samudra is a real, registered, credentialed marine claims firm in Singapore with a genuine claim to be known. What it does not have is a website anyone can find. On 29 September 2026 we fetched eight of its pages — the home page, the blog, the claims portal, contact, about, services and two others — and found that every one of them returns the same 644-byte empty placeholder: the same number of bytes, for every route. The site's title is just its web address, its description is a leftover line of default text reading "Web site created using create-react-app", and a Google `site:` search for the company returns **zero results**. The blog that page is supposed to display cannot be reached at all. The plan's whole purpose is to fix that, and then to publish enough genuinely useful, correctly sourced material that Google, ChatGPT, Gemini, Perplexity, Claude and Copilot can all find Samudra when a marine claims question comes up. **The work is not "post more content". The work is "make the site readable, then make the content worth citing".**
+
+### Why nothing is published in the first ten days
+
+Publishing into a website that search engines cannot read is the most expensive mistake available in this plan, and it is the one the plan is specifically built to avoid. A post written on Day 11 and published on Day 12 would sit on a page containing no readable words, so it would be invisible — not weakly ranked, **invisible**. Ten days are therefore spent making the site work before a single article goes out. **Day 10 is a genuine go/no-go gate: if the site is still unreadable, the Founder can stop the whole publishing programme.** That is not a formality. It is the reason the plan spends its first sixth on plumbing.
+
+### The three phases
+
+| Phase | Days | Dates | What happens, in plain words | What it produces |
+|---|---|---|---|---|
+| **1 · Foundation** | 1–10 | Mon 5 – Wed 14 Oct | We repair the website so that a search engine can actually read it, install the tools that tell us whether anyone has arrived, write down every fact we are allowed to claim and where it came from, and build the pages that state who the firm is. **No articles, no posts, nothing published.** Each day has exactly one task, and the tasks are sequential because each depends on the one before it | A readable website, working analytics, a sourced claims register, the firm's own core pages, and a written go/no-go decision |
+| **2 · Execution** | 11–56 | Thu 15 Oct – Sun 29 Nov | Seven weeks of publishing on a fixed weekly rhythm: one substantial article and one short practical piece a week, one video a week, three LinkedIn posts a week, one Facebook post a week, one outreach session and two listing sessions a week, and a fixed set of 24 questions put to five AI assistants every Sunday to see whether any of it is working | 13 articles, 6 videos, 20 LinkedIn posts, 7 Facebook posts, 7 listing and authority sessions, 5 outreach sessions, and 7 measured AI panel runs |
+| **3 · Evaluation** | 57–60 | Mon 30 Nov – Thu 3 Dec | We measure everything one last time, write an honest report that names what worked *and what did not*, decide what continues after 3 December, and hand the whole thing over properly | A written report, a decision on what continues, a list of unfinished technical work, and a signed handoff |
+
+### What a normal publishing week looks like
+
+Once the programme starts on Day 11, every week follows the same shape, so nobody has to guess what this week needs.
+
+| Day | What happens | Why that day |
+|---|---|---|
+| **Monday** | One outreach session — a small number of personal emails to named people, plus directory and association listings | Monday is when people read email seriously, and listings need lead time to be picked up |
+| **Tuesday** | **The week's main article goes live** (one of the seven pillars), plus a LinkedIn post from the Founder's own profile amplifying it | Tuesday is the day professional-services audiences are most reliably online |
+| **Wednesday** | **The week's video goes up** — a short explainer built from the same subject as Tuesday's article, cross-linked to it | Video is the single largest source of AI citations measured in July 2026 (`AEO-09`), and it needs its own day to be indexed |
+| **Thursday** | **The week's practical piece goes live** (one of the six tacticals), plus a LinkedIn post and the **Facebook post** condensed from it | Thursday carries the shorter, more useful piece, and the day after the pillar so it can point back to it |
+| **Friday** | A standalone LinkedIn post in the Founder's own voice — no article, no link, just the practitioner talking | Friday is the one slot in the week with no publishing attached, so it is also the first thing to cut if the Founder's time is short |
+| **Saturday / Sunday** | **Nothing publishes.** Sundays carry one task only: the 24-question AI panel run | A new firm posting at the weekend from an unestablished presence does more harm than good in a trade this small |
+| **One exception** | **Sunday 8 and Monday 9 November are the Deepavali long weekend**, and Monday 9 November is a gazetted Singapore public holiday. Nothing publishes and nothing is due | A public holiday is not a delay to be recovered — it is simply not a working day |
+
+### Who does what
+
+Four people, and one of them is accountable for everything. Names replace these role labels on Day 1; a plan with role labels and no names has no owner.
+
+| Role | In plain words | Owns |
+|---|---|---|
+| **Founder** | The AA-qualified practitioner whose judgment *is* the product. Approves every single thing that goes public | All copy and every claim, the credentials, the Day 10 gate, the Day 33 midpoint decision, the Day 60 decision |
+| **Tech** | Whoever builds and maintains the website — a developer or a contractor | The website rebuild, hosting, page speed, structured data, sitemaps, redirects, analytics. **Cannot approve their own work**; the Founder signs off |
+| **Content–SEO** | Whoever writes | All 13 articles, all LinkedIn and Facebook drafts, the video scripts, the claims register, the weekly AI panel |
+| **BD–Entity** | Whoever handles listings and outreach — may be the same person as Content–SEO at this firm's size | Directory and association listings, the firm's partner and credentials pages, outreach sessions |
+
+### The five rules that are never relaxed
+
+These override every deadline in this document, including the Founder's own.
+
+1. **No claim without a source.** Every number, date, legal provision, market figure, credential and case-study detail must have its own row in the [Source Ledger](#source-ledger), carrying the web address it came from and a verification status. **If a writer cannot produce a row, the sentence does not ship.** It is cut, not softened.
+2. **The Founder approves every single thing published.** No delegation, no exceptions, no "just this once".
+3. **Never claim to be something the firm is not.** Samudra is **not** a law firm, **not** an insurer, **not** a Protection & Indemnity club and **not** a classification society. It does not give legal advice, does not underwrite, and does not issue certificates. This line holds in every sentence a reader could mistake for advice.
+4. **Never invent a person, a credential, or a result.** No invented years of experience, no invented client names or vessel names, no "we recovered US$X for client Y". `CRD-01` is a real, sourced credential belonging to a real person, and it still does not publish until the client confirms it is *their* practitioner and that it is *current* — **a lapsed membership published as current is the exact failure this rule exists to prevent.**
+5. **One owner per deliverable.** Two names against a task means no owner, and it does not ship.
+
+### Glossary — the marketing and technology words
+
+| Term | What it actually means |
+|---|---|
+| **Search engine** | A service such as Google that builds an index of web pages and shows them in response to a typed question. Being *in* that index is called being **indexed** |
+| **Crawler / crawl** | The program a search engine sends to a website to read it. If a crawler cannot read a page, the page does not exist as far as search is concerned |
+| **AEO** | Answer Engine Optimization. Writing and structuring a page so an AI assistant can lift a complete answer out of it and quote it back with a link |
+| **GEO** | Generative Engine Optimization. The same idea, named for the generative AI systems that write the answers rather than list them |
+| **AI answer engine** | ChatGPT, Gemini, Perplexity, Claude or Copilot. Each builds its answer from pages it can read, and each one cites what it used |
+| **Mention vs citation** | A **mention** is the firm being named in an answer; a **citation** is the answer also carrying a link back to the site. The plan measures both, because naming a firm is cheap and being linked is the actual objective |
+| **Server-rendered HTML** | The readable text of a page, delivered by the server before any script runs. A page without it is a **shell** — an empty box that only fills in inside a browser. Search engines can run scripts, but AI assistants frequently do not, so a shell is effectively invisible |
+| **`create-react-app` shell** | The specific kind of empty box this site is: a starter template whose default description text is still sitting in the page source |
+| **Prerender / SSR / SSG** | Three ways of putting real text into the page before it reaches a visitor or a crawler. The Day 2 decision is which one this site adopts |
+| **Meta description** | The short summary of a page that appears under its title in search results. This site's is currently the untouched template default |
+| **Canonical URL** | The line declaring which single address is the official one for a page, so search engines do not split credit across duplicates |
+| **Schema / JSON-LD** | A block of code stating plain facts in a fixed format — this is the company, this is its logo, this is the article's author and publish date. It is written to be read by machines, not by people |
+| **Open Graph (OG)** | The code that controls how a page looks when someone pastes its link into LinkedIn or WhatsApp. Without it, a shared link shows as a bare address |
+| **Sitemap** | A file listing every page on the site so a crawler can find them all. This site's "sitemap" is currently a broken placeholder that returns a web page instead of a file |
+| **`robots.txt`** | A file telling crawlers which parts of a site they may read. This site's is open and permissive — **crawling is not blocked; there is simply nothing to crawl** |
+| **Soft-404** | A page that returns "200 OK" instead of an error while actually being missing. It looks healthy to a crawler and is invisible in a report. This site's sitemap is one |
+| **Entity** | In search terms, a thing the web agrees exists — a company, a person, a place — described identically across many independent sources. Building one is most of this plan |
+| **NAP** | Name, Address, Phone. One approved version of the firm's details, reused word for word everywhere, because search engines trust consistency more than volume |
+| **CDN / CloudFront cache** | A copy of the site stored close to visitors so pages load fast. Useful, and the reason a fix can take hours to appear — which is why the plan insists on re-checking the live file after every change |
+| **GA4** | Google's free analytics. It records who arrived, from where, and what they did |
+| **Google Search Console** | The tool that tells the firm which pages Google has actually indexed, and lets it request indexing directly |
+| **The AI panel (prompt panel)** | The same 24 fixed questions put to the same 5 assistants every week, to measure whether the firm is starting to be named and cited. **The questions never change** — changing them would make every run incomparable |
+| **Source Ledger / Claim ID** | The register of every publishable fact, each with its source address and a status: verified, verified with a condition, or not to be published. The Claim ID travels with the sentence into the draft |
+
+### Glossary — the marine insurance words
+
+| Term | What it actually means |
+|---|---|
+| **Average adjuster (AA)** | An independent expert who investigates a marine insurance claim for the party that insured the risk, and either settles it or reports on it. **Samudra does this. It does not sell insurance** |
+| **P&I (Protection and Indemnity)** | Insurance covering a shipowner's liabilities and costs — crew injury and illness, collision damage, pollution, wreck removal. Samudra works on these claims; **it is not a P&I club and does not sell P&I cover** |
+| **IG (International Group)** | The group of 12 P&I clubs that jointly reinsure each other. Its policy year runs 20 February to 20 February (`IG-01`), which is why this plan is timed to end ten weeks before the **20 February 2027** renewal |
+| **General average (GA) / particular average** | After a marine casualty, the shared loss every party to the voyage must contribute to (general average), as distinct from a loss borne by one owner alone (particular average) |
+| **H&M (Hull and Machinery)** | Insurance covering the ship itself — her hull and her machinery |
+| **LOU (Letter of Underwriting)** | A document by which a P&I club confirms it will cover a vessel, often issued before the policy formally starts |
+| **SIRE / OCIMF** | SIRE is a joint industry vessel-inspection initiative; OCIMF is the shipowner's recognised organisation that publishes its standards. Whether a vessel has been inspected can be checked against them |
+| **LMA (London Market Association)** | The London insurance and reinsurance market, historically the centre of marine cover. The plan treats a collaboration with a Mumbai-based adjusting firm as a possible second market, but **it is unconfirmed and does not publish until the client confirms it in writing** (`CRD-03`) |
+| **MPA (Maritime and Port Authority of Singapore)** | The Singapore regulator and port authority, and the source of this plan's market statistics (`MKT-01`–`MKT-05`) |
+| **TEU** | Twenty-foot equivalent unit — the standard measure of container volume, used in Singapore's throughput statistics |
+| **ACRA / UEN** | Singapore's company registry, and the unique registration number every Singapore company holds. Samudra's is `202527553G` (`SG-01`) |
+| **AAA** | The Association of Average Adjusters, the international professional body. Its public **Directory of Fellows** is the single highest-value listing target in this plan (`SEC-02`) |
+| **GIA / SMAA / AMD** | The General Insurance Association of Singapore, the Singapore Maritime Arbitrators Association, and the international average adjusters' association. All three are listing targets, and all three are worth more than a generic business directory |
+| **PDPA / GDPR** | Singapore's and the European Union's data-protection laws. They govern how the firm may handle personal data, including data about crew, and whether the EU rules reach a Singapore practice is a genuine legal question the plan explicitly does not answer |
+| **Wreck removal** | The clearance of a stranded or sunken vessel. Where a wreck in Singapore's Convention Area is a hazard, the Director of Marine may require the registered owner to remove it (`LGL-03`) |
+| **Deepavali blackout** | The plan's two protected days around the Deepavali public holiday. Nothing publishes and nothing is due |
+
+---
+
 <a id="clickable-library"></a>
 
 ## Clickable library — every deliverable, one click to its brief
@@ -37,6 +145,25 @@ Every row below links to the full brief for that deliverable: topic, why it exis
 | 8 | F8 — Source Ledger created and seeded | [jump](#d8-ledger) |
 | 9 | F9 — Entity core: NAP, About, Credentials, Contact, Terms | [jump](#d9-entity-core) |
 | 10 | ⛔ **F10 — GATE: Crawlability & Entity Gate** | [jump](#d10-gate) |
+
+<a id="f1-plain"></a>
+
+**The same ten days, in plain English.** The rows above are the plan's task names. This is what each one actually is, and what exists at the end of it that did not exist before.
+
+| Day | Task | What actually happens | What you end up with |
+|---|---|---|---|
+| 1 | F1 | We fetch every page of the existing site and record exactly what a stranger would receive, byte for byte. We confirm the finding that this document was built on: every route returns the same 644-byte empty box, the description is template default text, the "sitemap" is a broken placeholder, and the server that was supposed to supply the blog cannot be reached at all | A written audit that is the evidence base for everything else, plus a confirmed list of every page the site is supposed to have |
+| 2 | F2 | We choose how the site will be built so that its text reaches a crawler. Five options are written down with their risks and costs, one is recommended, and the Founder decides. **This single decision determines whether the other 59 days are possible** | A one-page decision record, a cost, a deadline, and a named way to undo the change if it breaks something |
+| 3 | F3 | Every page is given its own real title, its own real summary, its own official address, and its own link preview, written so that the summary answers the reader's question rather than describing the page | Pages that can be found, and each one that a search engine can tell apart from the others |
+| 4 | F4 | The site is given a set of machine-readable statements about itself: that it is this company, at this address, and that its practitioner holds these credentials — **only the ones confirmed in writing** | A fact sheet about the firm that a search engine or an assistant can read and quote, containing nothing unverified |
+| 5 | F5 | Twenty-four questions a real buyer might ask are put to five AI assistants — 120 answers — and every one is written down as it came back, including the ones that never mention Samudra | The "before" picture. Without it, no later number can mean anything |
+| 6 | F6 | We install the tools that count visitors, connect the site to Google's search console, and agree one single definition of "a claim inquiry" that every channel reports into | The ability to answer "did anyone actually arrive?" — which the site currently cannot answer at all |
+| 7 | F7 | The blog is rebuilt on the same site as the marketing pages, so the dead external server is no longer in the path | A blog that loads. **The existing blog is currently broken in production** |
+| 8 | F8 | Every fact this plan is allowed to publish is entered into one register with its source address and a status — 40 rows, of which 8 have no source yet and therefore may not be used. The first industry directory submissions go out the same day | The register that makes the rest of the plan safe, and the first two listings |
+| 9 | F9 | The Founder writes the pages that say who the firm is: About, Credentials, Contact, Terms and the privacy notice, in their own words, including an explicit statement of what the firm does **not** do | Five pages that state the firm's identity, its boundaries and its legal terms, written by the only person entitled to write them |
+| 10 | F10 | Ten checks are run against the live site — the same ten on every one of the five earlier days, plus the pages from Day 9 — and each is passed or failed with evidence rather than opinion | **A written go / conditional-go / no-go decision, signed by the Founder.** This gate can stop the entire publishing programme, and that is exactly what it is for |
+
+**Why the timing is what it is, stated plainly:** the day-to-day technical language in this plan is not the point of it. The point is that the 60 days end on 3 December 2026, roughly ten weeks before the International Group P&I policy year turns over on **20 February 2027** (`IG-01`) — the moment when shipowners, charterers and brokers choose who will handle their claims for the coming year. Everything published in this window is written to be read by that decision.
 
 **Phase 2 — Execution (Days 11–56 · Thu 15 Oct – Sun 29 Nov). Publish on cadence.**
 
@@ -86,6 +213,13 @@ Every row below links to the full brief for that deliverable: topic, why it exis
 | LI-15–LI-17 | 44, 46, 47 | [Week 7 posts](#li-week7a) |
 | LI-18–LI-20 | 51, 53, 54 | [Week 8 posts](#li-week8a) |
 
+**Facebook — 1 per publishing week, on the Thursday the tactical goes out (Days 18 / 25 / 32 / 39 / 46 / 53), plus the Page launch on Day 12. Repurposing only: every post is a condensed version of that week's tactical, and no original content originates here.**
+
+| Group | Days | Brief |
+|---|---|---|
+| FB-01 · launch | 12 | [Facebook Page rule](#fb-standing) |
+| FB-02–FB-07 | 18, 25, 32, 39, 46, 53 | [Facebook Page rule](#fb-standing) |
+
 **Entity & Authority — 7 sessions across the run (Days 8, 9, 15, 22, 29, 43, 50):**
 
 | Day | Session | Brief |
@@ -133,7 +267,7 @@ Names are **role labels**, not people. The Founder is the only accountable owner
 
 - **Founder** *(one accountable owner — every deliverable, every phase, and the only approver)* — the AA-qualified practitioner on the firm's public voice. Owns: all voice, all credential claims, all approvals, the Day 10 gate decision, the Day 33 midpoint decision, the Day 60 decision. This is the same person the site already credits as its lead — the firm must confirm the exact name and title before anything is published.
 - **Tech** *(support; one person or a contractor)* — the CRA build, hosting, CDN, analytics, schema, sitemap, redirects. Owns: everything in the Platform & Schema column. Cannot self-approve; the Founder signs off on the Day 10 gate.
-- **Content–SEO** *(support)* — drafts every blog, tactical, LinkedIn, YouTube brief and script; maintains the Source Ledger; runs the AI answer-engine panel weekly. Owns: the Blog / Insights and measurement columns.
+- **Content–SEO** *(support)* — drafts every blog, tactical, LinkedIn, Facebook and YouTube brief and script; maintains the Source Ledger; runs the AI answer-engine panel weekly. Owns the Blog / Insights, LinkedIn and Facebook columns and the measurement column. **The Facebook Page itself is set up by Content–SEO on Day 12 and every Facebook post is approved by the Founder like any other asset** — the platform is delegated, the publishing is not.
 - **BD–Entity** *(support — may be the same person as Content–SEO at this size)* — directory and association listings, partner/affiliation pages, outreach and backlink sessions. Owns: the Entity & Authority and Outbound & PR columns.
 
 **One owner, no exceptions.** A deliverable with two names against it has no owner and does not ship.
@@ -150,7 +284,7 @@ Decisions that are not visible in the table but change how the plan runs.
 
 2. **The 60-day window is positioned, not arbitrary.** The International Group P&I policy year runs **20 February to 20 February** (the 2026/27 year is 20 Feb 2026 – 20 Feb 2027, per the club renewal circular dated 18 February 2026). A 60-day plan starting 5 October 2026 ends in early December — roughly ten weeks before the **20 February 2027** renewal. That is the whole strategic point: shipowners, charterers and brokers choosing a claims adjuster in the Feb 2027 window will be reading whatever Samudra published in the preceding two quarters. Pillar P7 ("9 Questions to Ask Before You Appointing") and YouTube Y6 are written to be the thing a broker forwards internally before that appointment. **AEO content in this niche has a renewal cycle, not a news cycle.**
 
-3. **Why LinkedIn and YouTube are first-class columns, not "also do social".** This is a sourced decision, not a preference. Meltwater's July 2026 GenAI Lens analysis ranks **YouTube as the single largest AI-citation source** (229.3K citations in July 2026, +24.3% month-on-month) and records **LinkedIn as the largest multi-metric gainer of any top-10 source** (+67.8% citation volume, +28.6% citation rate, moving from #8 in June to #5 in July at 80.3K citations). For a professional-services firm whose entire value is a named human's credentials, LinkedIn is not a broadcast channel — it is the **citable identity surface** that AI engines read when they assemble "who is this person". Founders in this trade post from a personal profile; see [Standing playbooks](#li-standing).
+3. **Why LinkedIn and YouTube are first-class columns, not "also do social".** This is a sourced decision, not a preference. Meltwater's July 2026 GenAI Lens analysis ranks **YouTube as the single largest AI-citation source** (229.3K citations in July 2026, +24.3% month-on-month) and records **LinkedIn as the largest multi-metric gainer of any top-10 source** (+67.8% citation volume, +28.6% citation rate, moving from #8 in June to #5 in July at 80.3K citations). For a professional-services firm whose entire value is a named human's credentials, LinkedIn is not a broadcast channel — it is the **citable identity surface** that AI engines read when they assemble "who is this person". Founders in this trade post from a personal profile; see [Standing playbooks](#li-standing). **No equivalent measurement is cited for Facebook, and the plan does not pretend otherwise** — see item 9.
 
 4. **Why the site is rebuilt rather than "SEO'd".** `samis.com.sg` is a `create-react-app` shell. There is no meta description that isn't the CRA default, no canonical, no schema, no OG card, no real sitemap, and no per-route HTML. Optimising what is there is not an option — there is nothing there to optimise. The minimum viable fix is server-rendered or prerendered HTML per route.
 
@@ -160,7 +294,9 @@ Decisions that are not visible in the table but change how the plan runs.
 
 7. **Rest rhythm.** Saturdays and Sundays carry no publishable deliverable. They carry the two things that must happen off-hours: the AI answer-engine prompt panel (Content–SEO, Sunday) and the weekly tracker update. In a niche where the audience is adjusters, brokers, P&I club claims handlers and shipowners, a Saturday LinkedIn post from a brand with no established presence does more harm than good.
 
-8. **Publishing day is set by the table, not by the rhythm note.** Tuesdays are pillars, Thursdays are tacticals, Wednesdays are YouTube, Tuesdays/Thursdays/Fridays are LinkedIn, Mondays are outbound. If a day is missed, it is **made up inside the same week** or dropped at the Midpoint Checkpoint — never silently moved.
+8. **Publishing day is set by the table, not by the rhythm note.** Tuesdays are pillars, Thursdays are tacticals, Wednesdays are YouTube, Tuesdays/Thursdays/Fridays are LinkedIn, **Thursdays also carry the Facebook condensation of that same tactical**, Mondays are outbound. If a day is missed, it is **made up inside the same week** or dropped at the Midpoint Checkpoint — never silently moved.
+
+9. **Why Facebook is in the plan, and what it is not.** Two reasons, neither of them a claim about audience size. **First, mechanics:** Facebook is the only surface in this plan where a link in the post body is both visible and clickable. LinkedIn suppresses the reach of body links, and an Instagram caption URL is not tappable at all, so on both of those the reader has to take a second step — or the traffic never arrives at the site the whole plan is trying to make readable. **Second, entity consistency:** a Facebook Page is indexed by search engines and read by answer engines, so the firm's name, address, phone and description on it must be word-for-word identical to the website, the schema and the directory listings, under the same [Entity & Authority rule](#ent-standing). A Facebook Page with a different phone number is a NAP variance and gets fixed the same day. **What Facebook is not:** it is not a source of original content, it carries no paid budget, and no engagement target is set for it because this firm has no Facebook baseline and inventing one would be precisely the fabricated number this plan refuses to publish. It is one post a week, condensed from that week's tactical, and the Day 60 report gives it one line on its own merits — including "nothing came of it". See the [Facebook Page rule](#fb-standing).
 
 ---
 
@@ -193,7 +329,7 @@ Decisions that are not visible in the table but change how the plan runs.
 
 | # | Question | Blocks | Answer by |
 |---|---|---|---|
-| Q1 | Who is the named practitioner whose credentials we publish, and are they current? | All 13 blog pieces, all LinkedIn, P7, Y5 | **Day 2** |
+| Q1 | Who is the named practitioner whose credentials we publish, and are they current? | All 13 blog pieces, all LinkedIn, all Facebook, P7, Y5 | **Day 2** |
 | Q2 | Is a developer available in Week 1? | The entire plan | **Day 1** |
 | Q3 | Do we rebuild, or migrate the blog to a new origin? | F2, F7 | **Day 2** |
 | Q4 | Is there any live client content on the dead WordPress host we must recover? | F7 | **Day 3** |
@@ -348,6 +484,7 @@ Set against that baseline. These are **targets, not forecasts**, and the Day 60 
 | AI panel: Samudra **cited** (linked) | **TBD — Day 5** | **≥3 of 24 prompts** | As above. **The target is 8 named / 3 cited out of 24, not out of 120** — the 24 prompts run against 5 engines and a prompt that names Samudra on one engine and not another is counted once. |
 | Referring domains | **TBD — Day 1** | **+10** | Ahrefs/Semrush free tier or GSC |
 | Consistent NAP + credentials on ≥6 independent industry sources | **Unknown** | **6** | Manual audit, logged |
+| Facebook posts published, and sessions referred from Facebook | **0** — no Page exists | **7 posts** (1 launch + 6 weekly), with every referral from Facebook recorded in GA4 | Page post log, cross-checked against the GA4 referral report. **No engagement target is set**, because this firm has no Facebook baseline and a number invented today would be the same fabrication this plan refuses elsewhere. The Day 60 report states what the lane produced, including "nothing" |
 | Logged claim inquiries attributable to organic / AI referral | **TBD — Day 6** | **≥3** | GA4 + call log |
 
 **Two honest caveats, stated up front so nobody is surprised on Day 60:**
@@ -363,72 +500,72 @@ Set against that baseline. These are **targets, not forecasts**, and the Day 60 
 
 **Day 1 = Monday 5 October 2026. Day 60 = Thursday 3 December 2026.**
 
-**Rhythm:** Foundation Mon–Wed, no publishing · **Pillars Tuesday** · **Tacticals Thursday** · **YouTube Wednesday** · **LinkedIn Tuesday + Thursday (amplification) and Friday (standalone)** · **Outbound Monday** · **Entity & Authority 2× per week** · Weekends off, except the Sunday prompt panel.
+**Rhythm:** Foundation Mon–Wed, no publishing · **Pillars Tuesday** · **Tacticals Thursday** · **YouTube Wednesday** · **LinkedIn Tuesday + Thursday (amplification) and Friday (standalone)** · **Facebook Thursday (condensed from that day's tactical)** · **Outbound Monday** · **Entity & Authority 2× per week** · Weekends off, except the Sunday prompt panel. Every one of these words is explained in [How to read this plan in plain English](#plain-english).
 
-**Deliberately included in the plan:** 13 blog pieces (7 pillars + 6 tacticals), 6 YouTube videos, 20 LinkedIn posts, 7 entity/authority sessions, 5 outbound sessions, 7 AI-panel runs, 10 Foundation tasks and a 4-day close. That is **72 discrete deliverables over 60 days**, and it is a real load for a firm of this size. The load is spread so no single owner carries more than one deliverable a day, and the weekend and the Deepavali long weekend are genuinely clear. **If the Founder cannot carry their own column, cut the Friday LinkedIn posts first (7 posts) and the last two tacticals (T5, T6) second — never the pillars, the gate, or the YouTube cadence.**
+**Deliberately included in the plan:** 13 blog pieces (7 pillars + 6 tacticals), 6 YouTube videos, 20 LinkedIn posts, 7 Facebook posts, 7 entity/authority sessions, 5 outbound sessions, 7 AI-panel runs, 10 Foundation tasks and a 4-day close. That is **79 discrete deliverables over 60 days**, and it is a real load for a firm of this size. The load is spread so no single owner carries more than one deliverable a day, and the weekend and the Deepavali long weekend are genuinely clear. **If the Founder cannot carry their own column, cut in this order: the Facebook lane first (7 posts, and it is the only lane that produces no original work), then the Friday LinkedIn posts (7 posts), then the last two tacticals (T5, T6) — never the pillars, the gate, or the YouTube cadence.**
 
-| Day | Date | Wd | Owner | Platform & Schema | Blog / Insights | LinkedIn | YouTube | Entity & Authority | Outbound & PR | Notes / Checkpoint |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Mon 05 Oct | Mon | Tech | [F1 — Full technical + entity audit](#d1-audit) | — | — | — | Record baseline NAP + credentials sheet | — | **D1.** Confirm Q1–Q3, Q6, Q7. Founder assigns real names to all four role labels. No publishing this week. |
-| 2 | Tue 06 Oct | Tue | Tech | [F2 — Server-render decision](#d2-server-render) | — | — | — | — | — | Q1 (named practitioner + current credentials) due end of day. |
-| 3 | Wed 07 Oct | Wed | Tech | [F3 — Per-route metadata](#d3-metadata) | — | — | — | Audit competitor SERPs: `average adjuster singapore`, `marine claims singapore` | — | Q4 (any content on the dead WP host?) due. |
-| 4 | Thu 08 Oct | Thu | Tech | [F4 — JSON-LD schema](#d4-schema) | — | — | — | — | — | Schema must not publish credential claims — it publishes the confirmed entity only. |
-| 5 | Fri 09 Oct | Fri | Content–SEO | — | — | — | — | — | — | **[F5 — AI answer-engine baseline panel, 24 prompts × 5 engines](#d5-ai-baseline).** This is the before-picture. Log every answer verbatim. |
-| 6 | Sat 10 Oct | Sat | Tech | [F6 — GA4 + GSC + call tracking](#d6-analytics) | — | — | — | — | — | Weekend exception: infra only, no publishing. |
-| 7 | Sun 11 Oct | Sun | Tech | [F7 — Blog platform rebuild](#d7-blog-rebuild) | — | — | — | — | — | Weekend exception: infra only. Bundle-size check due by end of day. |
-| 8 | Mon 12 Oct | Mon | Content–SEO | — | — | — | — | [E1 — GIA + AAA directory submissions](#ent-standing) | — | **[F8 — Source Ledger created and seeded](#d8-ledger).** Open questions Q5 due. Outbound slot unused in Foundation — deliberately. |
-| 9 | Tue 13 Oct | Tue | Founder | Verify rendered entity pages | Draft P1 | — | — | [E2 — Entity core pages live: About, Credentials, Contact, Terms](#d9-entity-core) | — | **Founder writes P1 in their own voice.** No delegate for the flagship. |
-| 10 | Wed 14 Oct | Wed | Founder | Crawl test + `curl` diff of all routes | Founder signs off P1 | — | — | — | — | ⛔ **[GATE — Crawlability & Entity Gate](#d10-gate).** NO-GO blocks all of Phase 2. GO unlocks the 55 Phase 2 deliverables across 7 weeks. |
-| 11 | Thu 15 Oct | Thu | Content–SEO | Live sitemap + robots sanity check | **[P1 — "What an Average Adjuster Actually Does"](#p1)** | [LI-01 — Founder personal profile launch](#li-standing) | — | — | — | 🚀 **Publication day 1.** P1 must be indexable in Google's cache within 24h — verify, don't assume. |
-| 12 | Fri 16 Oct | Fri | Content–SEO | — | — | [LI-02 — "We are new. Here is what we do."](#li-standing) | — | — | — | Verify P1 indexing. Log in the tracker. |
-| 13 | Sat 17 Oct | Sat | — | — | — | — | — | — | — | **Rest.** Tracker update only. |
-| 14 | Sun 18 Oct | Sun | Content–SEO | — | — | — | — | — | — | **Rest** + AI panel run #2. Compare to Day 5. |
-| 15 | Mon 19 Oct | Mon | BD–Entity | — | — | — | — | [E3 — Partner/affiliation + credential pages](#ent-standing) | **[O1 — Outbound session 1](#ob-standing)** (max 5 emails) | First outreach wave. |
-| 16 | Tue 20 Oct | Tue | Content–SEO | — | **[P2 — "General Average vs Particular Average"](#p2)** | [LI-03 — P2 amplification](#li-standing) | — | — | — | Pillar #2. Check P1 got impressions before publishing P2. |
-| 17 | Wed 21 Oct | Wed | Content–SEO | — | — | — | **[Y1 — "What is General Average?"](#y1)** | — | — | Video pairs with P2. Cross-link both ways. |
-| 18 | Thu 22 Oct | Thu | Content–SEO | — | **[T1 — "Singapore's Marine Insurance Market in 2026"](#t1)** | [LI-04 — MPA data post](#li-standing) | — | — | — | Tactical #1. `MKT-*` rows only. **Read CONFLICT C4 before drafting.** |
-| 19 | Fri 23 Oct | Fri | Content–SEO | — | — | [LI-05 — "The question brokers ask us most"](#li-standing) | — | — | — | Log P1/P2 impressions. |
-| 20 | Sat 24 Oct | Sat | — | — | — | — | — | — | — | **Rest.** |
-| 21 | Sun 25 Oct | Sun | Content–SEO | — | — | — | — | — | — | **Rest** + AI panel run #3. |
-| 22 | Mon 26 Oct | Mon | BD–Entity | — | — | — | — | [E4 — Second-wave directory + association listings](#ent-standing) | **[O2 — Outbound session 2](#ob-standing)** | E4 + O2 must cite the same authoritative sources — consistency is the play. |
-| 23 | Tue 27 Oct | Tue | Content–SEO | — | **[P3 — "Hull & Machinery Claims: The Seven Stages"](#p3)** | [LI-06 — P3 amplification](#li-standing) | — | — | — | Pillar #3. |
-| 24 | Wed 28 Oct | Wed | Content–SEO | — | — | — | **[Y2 — "Inside a Hull & Machinery Claim"](#y2)** | — | — | Pairs with P3. |
-| 25 | Thu 29 Oct | Thu | Content–SEO | — | **[T2 — "IG P&I 2026/27 Renewal: What Changed"](#t2)** | [LI-07 — Renewal explainer](#li-standing) | — | — | — | Tactical #2. `IG-01`–`IG-04` only. Highest-value tactical in the plan. |
+| Day | Date | Wd | Owner | Platform & Schema | Blog / Insights | LinkedIn | YouTube | Facebook | Entity & Authority | Outbound & PR | Notes / Checkpoint |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Mon 05 Oct | Mon | Tech | [F1 — Full technical + entity audit](#d1-audit) | — | — | — | — | Record baseline NAP + credentials sheet | — | **D1.** Confirm Q1–Q3, Q6, Q7. Founder assigns real names to all four role labels. No publishing this week. |
+| 2 | Tue 06 Oct | Tue | Tech | [F2 — Server-render decision](#d2-server-render) | — | — | — | — | — | — | Q1 (named practitioner + current credentials) due end of day. |
+| 3 | Wed 07 Oct | Wed | Tech | [F3 — Per-route metadata](#d3-metadata) | — | — | — | — | Audit competitor SERPs: `average adjuster singapore`, `marine claims singapore` | — | Q4 (any content on the dead WP host?) due. |
+| 4 | Thu 08 Oct | Thu | Tech | [F4 — JSON-LD schema](#d4-schema) | — | — | — | — | — | — | Schema must not publish credential claims — it publishes the confirmed entity only. |
+| 5 | Fri 09 Oct | Fri | Content–SEO | — | — | — | — | — | — | — | **[F5 — AI answer-engine baseline panel, 24 prompts × 5 engines](#d5-ai-baseline).** This is the before-picture. Log every answer verbatim. |
+| 6 | Sat 10 Oct | Sat | Tech | [F6 — GA4 + GSC + call tracking](#d6-analytics) | — | — | — | — | — | — | Weekend exception: infra only, no publishing. |
+| 7 | Sun 11 Oct | Sun | Tech | [F7 — Blog platform rebuild](#d7-blog-rebuild) | — | — | — | — | — | — | Weekend exception: infra only. Bundle-size check due by end of day. |
+| 8 | Mon 12 Oct | Mon | Content–SEO | — | — | — | — | — | [E1 — GIA + AAA directory submissions](#ent-standing) | — | **[F8 — Source Ledger created and seeded](#d8-ledger).** Open questions Q5 due. Outbound slot unused in Foundation — deliberately. |
+| 9 | Tue 13 Oct | Tue | Founder | Verify rendered entity pages | Draft P1 | — | — | — | [E2 — Entity core pages live: About, Credentials, Contact, Terms](#d9-entity-core) | — | **Founder writes P1 in their own voice.** No delegate for the flagship. |
+| 10 | Wed 14 Oct | Wed | Founder | Crawl test + `curl` diff of all routes | Founder signs off P1 | — | — | — | — | — | ⛔ **[GATE — Crawlability & Entity Gate](#d10-gate).** NO-GO blocks all of Phase 2. GO unlocks the 62 Phase 2 deliverables across 7 weeks. |
+| 11 | Thu 15 Oct | Thu | Content–SEO | Live sitemap + robots sanity check | **[P1 — "What an Average Adjuster Actually Does"](#p1)** | [LI-01 — Founder personal profile launch](#li-standing) | — | — | — | — | 🚀 **Publication day 1.** P1 must be indexable in Google's cache within 24h — verify, don't assume. |
+| 12 | Fri 16 Oct | Fri | Content–SEO | — | — | [LI-02 — "We are new. Here is what we do."](#li-standing) | — | [FB-01 — Page launch](#fb-standing) | — | — | Verify P1 indexing. Log in the tracker. |
+| 13 | Sat 17 Oct | Sat | — | — | — | — | — | — | — | — | **Rest.** Tracker update only. |
+| 14 | Sun 18 Oct | Sun | Content–SEO | — | — | — | — | — | — | — | **Rest** + AI panel run #2. Compare to Day 5. |
+| 15 | Mon 19 Oct | Mon | BD–Entity | — | — | — | — | — | [E3 — Partner/affiliation + credential pages](#ent-standing) | **[O1 — Outbound session 1](#ob-standing)** (max 5 emails) | First outreach wave. |
+| 16 | Tue 20 Oct | Tue | Content–SEO | — | **[P2 — "General Average vs Particular Average"](#p2)** | [LI-03 — P2 amplification](#li-standing) | — | — | — | — | Pillar #2. Check P1 got impressions before publishing P2. |
+| 17 | Wed 21 Oct | Wed | Content–SEO | — | — | — | **[Y1 — "What is General Average?"](#y1)** | — | — | — | Video pairs with P2. Cross-link both ways. |
+| 18 | Thu 22 Oct | Thu | Content–SEO | — | **[T1 — "Singapore's Marine Insurance Market in 2026"](#t1)** | [LI-04 — MPA data post](#li-standing) | — | [FB-02 — T1 condensed](#fb-standing) | — | — | Tactical #1. `MKT-*` rows only. **Read CONFLICT C4 before drafting.** |
+| 19 | Fri 23 Oct | Fri | Content–SEO | — | — | [LI-05 — "The question brokers ask us most"](#li-standing) | — | — | — | — | Log P1/P2 impressions. |
+| 20 | Sat 24 Oct | Sat | — | — | — | — | — | — | — | — | **Rest.** |
+| 21 | Sun 25 Oct | Sun | Content–SEO | — | — | — | — | — | — | — | **Rest** + AI panel run #3. |
+| 22 | Mon 26 Oct | Mon | BD–Entity | — | — | — | — | — | [E4 — Second-wave directory + association listings](#ent-standing) | **[O2 — Outbound session 2](#ob-standing)** | E4 + O2 must cite the same authoritative sources — consistency is the play. |
+| 23 | Tue 27 Oct | Tue | Content–SEO | — | **[P3 — "Hull & Machinery Claims: The Seven Stages"](#p3)** | [LI-06 — P3 amplification](#li-standing) | — | — | — | — | Pillar #3. |
+| 24 | Wed 28 Oct | Wed | Content–SEO | — | — | — | **[Y2 — "Inside a Hull & Machinery Claim"](#y2)** | — | — | — | Pairs with P3. |
+| 25 | Thu 29 Oct | Thu | Content–SEO | — | **[T2 — "IG P&I 2026/27 Renewal: What Changed"](#t2)** | [LI-07 — Renewal explainer](#li-standing) | — | [FB-03 — T2 condensed](#fb-standing) | — | — | Tactical #2. `IG-01`–`IG-04` only. Highest-value tactical in the plan. |
 | 26 | Fri 30 Oct | Fri | Content–SEO | — | — | [LI-08 — "Sixteen weeks to the Feb 2027 renewal"](#li-standing) | — | — | — | — | Renewal-clock messaging starts. |
-| 27 | Sat 31 Oct | Sat | — | — | — | — | — | — | — | **Rest.** |
-| 28 | Sun 01 Nov | Sun | Content–SEO | — | — | — | — | — | — | **Rest** + AI panel run #4. |
-| 29 | Mon 02 Nov | Mon | BD–Entity | — | — | — | — | [E5 — Third-wave listings + first NAP consistency audit](#ent-standing) | **[O3 — Outbound session 3](#ob-standing)** | First NAP audit. Any mismatch found → fix same day. |
-| 30 | Tue 03 Nov | Tue | Content–SEO | — | **[P4 — "P&I Letter of Underwriting"](#p4)** | [LI-09 — P4 amplification](#li-standing) | — | — | — | Pillar #4. `LGL-02` is a law-firm commentary — attribute it. |
-| 31 | Wed 04 Nov | Wed | Content–SEO | — | — | — | **[Y3 — "P&I LOU in 90 seconds"](#y3)** | — | — | Pairs with P4. |
-| 32 | Thu 05 Nov | Thu | Content–SEO | — | **[T3 — "Wreck Removal in Singapore"](#t3)** | [LI-10 — Director of Marine explainer](#li-standing) | — | — | — | Tactical #3. `LGL-03`. |
-| 33 | Fri 06 Nov | Fri | Founder | — | — | [LI-11 — Midpoint reflection](#li-standing) | — | — | — | 📊 **MIDPOINT CHECKPOINT** — see [Measurement](#meas). **Decision required:** continue / adjust / stop. Log it. |
-| 34 | Sat 07 Nov | Sat | — | — | — | — | — | — | — | **Rest.** |
-| 35 | Sun 08 Nov | Sun | — | — | — | — | — | — | — | 🪔 **DEEPAVALI — gazetted public holiday. Nothing publishes. Nothing is due.** |
-| 36 | Mon 09 Nov | Mon | — | — | — | — | — | — | — | 🪔 **DEEPAVALI (day off).** No outbound session — it is skipped, not moved. |
-| 37 | Tue 10 Nov | Tue | Content–SEO | — | **[P5 — "Third-Party Collision Liability"](#p5)** | [LI-12 — P5 amplification](#li-standing) | — | — | — | Pillar #5. |
-| 38 | Wed 11 Nov | Wed | Content–SEO | — | — | — | **[Y4 — "Apportioning Fault in a Collision"](#y4)** | — | — | Pairs with P5. |
-| 39 | Thu 12 Nov | Thu | Content–SEO | — | **[T4 — "SIRE and OCIMF"](#t4)** | [LI-13 — Vessel standards post](#li-standing) | — | — | — | Tactical #4. Needs `CRD-02` confirmed — do not draft around it. |
-| 40 | Fri 13 Nov | Fri | Content–SEO | — | — | [LI-14 — "What a good survey report looks like"](#li-standing) | — | — | — | Post-Deadline-33 reset. Checkpoint #2 log. |
-| 41 | Sat 14 Nov | Sat | — | — | — | — | — | — | — | **Rest.** |
-| 42 | Sun 15 Nov | Sun | Content–SEO | — | — | — | — | — | — | **Rest** + AI panel run #5. |
-| 43 | Mon 16 Nov | Mon | BD–Entity | — | — | — | — | [E6 — Fourth-wave listings + backlink follow-up](#ent-standing) | **[O4 — Outbound session 4](#ob-standing)** | Chase O1–O3 replies. |
-| 44 | Tue 17 Nov | Tue | Content–SEO | — | **[P6 — "Crew Illness and Repatriation Claims"](#p6)** | [LI-15 — P6 amplification](#li-standing) | — | — | — | Pillar #6. |
-| 45 | Wed 18 Nov | Wed | Content–SEO | — | — | — | **[Y5 — "9 Questions to Ask Before Appointing"](#y5)** | — | — | Teaser for P7. |
-| 46 | Thu 19 Nov | Thu | Content–SEO | — | **[T5 — "How to Read the Claims Notification Clause"](#t5)** | [LI-16 — Policy-reading post](#li-standing) | — | — | — | Tactical #5. |
-| 47 | Fri 20 Nov | Fri | Content–SEO | — | — | [LI-17 — "The worst thing a shipowner can do after a casualty"](#li-standing) | — | — | — | Log P1–P6 + T1–T5 performance. |
-| 48 | Sat 21 Nov | Sat | — | — | — | — | — | — | — | **Rest.** |
-| 49 | Sun 22 Nov | Sun | Content–SEO | — | — | — | — | — | — | **Rest** + AI panel run #6. |
-| 50 | Mon 23 Nov | Mon | BD–Entity | — | — | — | — | [E7 — Fifth-wave listings + final NAP audit](#ent-standing) | **[O5 — Outbound session 5](#ob-standing)** | Final outreach wave. Any unsent O1–O3 items close here. |
-| 51 | Tue 24 Nov | Tue | Content–SEO | — | **[P7 — "Choosing an Independent Marine Claims Adjuster"](#p7)** | [LI-18 — P7 amplification](#li-standing) | — | — | — | Pillar #7. **The commercial centrepiece. Highest intended business value in the plan.** |
-| 52 | Wed 25 Nov | Wed | Content–SEO | — | — | — | **[Y6 — Long-form: IG 2026/27 Renewal Explained](#y6)** | — | — | Only long-form video. Aim it at the Feb 2027 renewal audience. |
-| 53 | Thu 26 Nov | Thu | Content–SEO | — | **[T6 — "PDPA and GDPR in Marine Claims Handling"](#t6)** | [LI-19 — Data-protection post](#li-standing) | — | — | — | Tactical #6. Highest-trust tactical — it is about the firm's own compliance. |
-| 54 | Fri 27 Nov | Fri | Founder | — | — | [LI-20 — "Twelve weeks to renewal" second push](#li-standing) | — | — | — | Log every deliverable's Day-55-to-60 performance. |
-| 55 | Sat 28 Nov | Sat | — | — | — | — | — | — | — | **Rest.** |
-| 56 | Sun 29 Nov | Sun | Content–SEO | — | — | — | — | — | — | **Rest** + AI panel run #7. Freeze content. Move to close. |
-| 57 | Mon 30 Nov | Mon | Content–SEO | — | — | — | — | — | — | 📊 **[Close C1 — Re-measure every baseline metric](#close)**. Same 24 prompts, same 5 engines. Freeze is already in force from Day 56. |
-| 58 | Tue 01 Dec | Tue | Founder | — | P7 performance read + Day 61–120 brief drafted | — | — | — | — | **[Close C2 — Day 61–120 decision memo](#close)**. What continues, what changes, what stops. |
-| 59 | Wed 02 Dec | Wed | Tech | Post-close technical debt list | — | — | — | — | — | **[Close C3 — Fix list for the next quarter](#close)**. |
-| 60 | Thu 03 Dec | Thu | Founder | Sign off | — | — | — | — | — | 🏁 **[Close C4 — Final review + handoff](#close)**. Sign off, archive the Ledger, set the next gate — target: before the **20 Feb 2027** IG renewal (`IG-01`). |
+| 27 | Sat 31 Oct | Sat | — | — | — | — | — | — | — | — | **Rest.** |
+| 28 | Sun 01 Nov | Sun | Content–SEO | — | — | — | — | — | — | — | **Rest** + AI panel run #4. |
+| 29 | Mon 02 Nov | Mon | BD–Entity | — | — | — | — | — | [E5 — Third-wave listings + first NAP consistency audit](#ent-standing) | **[O3 — Outbound session 3](#ob-standing)** | First NAP audit. Any mismatch found → fix same day. |
+| 30 | Tue 03 Nov | Tue | Content–SEO | — | **[P4 — "P&I Letter of Underwriting"](#p4)** | [LI-09 — P4 amplification](#li-standing) | — | — | — | — | Pillar #4. `LGL-02` is a law-firm commentary — attribute it. |
+| 31 | Wed 04 Nov | Wed | Content–SEO | — | — | — | **[Y3 — "P&I LOU in 90 seconds"](#y3)** | — | — | — | Pairs with P4. |
+| 32 | Thu 05 Nov | Thu | Content–SEO | — | **[T3 — "Wreck Removal in Singapore"](#t3)** | [LI-10 — Director of Marine explainer](#li-standing) | — | [FB-04 — T3 condensed](#fb-standing) | — | — | Tactical #3. `LGL-03`. |
+| 33 | Fri 06 Nov | Fri | Founder | — | — | [LI-11 — Midpoint reflection](#li-standing) | — | — | — | — | 📊 **MIDPOINT CHECKPOINT** — see [Measurement](#meas). **Decision required:** continue / adjust / stop. Log it. |
+| 34 | Sat 07 Nov | Sat | — | — | — | — | — | — | — | — | **Rest.** |
+| 35 | Sun 08 Nov | Sun | — | — | — | — | — | — | — | — | 🪔 **DEEPAVALI — gazetted public holiday. Nothing publishes. Nothing is due.** |
+| 36 | Mon 09 Nov | Mon | — | — | — | — | — | — | — | — | 🪔 **DEEPAVALI (day off).** No outbound session — it is skipped, not moved. |
+| 37 | Tue 10 Nov | Tue | Content–SEO | — | **[P5 — "Third-Party Collision Liability"](#p5)** | [LI-12 — P5 amplification](#li-standing) | — | — | — | — | Pillar #5. |
+| 38 | Wed 11 Nov | Wed | Content–SEO | — | — | — | **[Y4 — "Apportioning Fault in a Collision"](#y4)** | — | — | — | Pairs with P5. |
+| 39 | Thu 12 Nov | Thu | Content–SEO | — | **[T4 — "SIRE and OCIMF"](#t4)** | [LI-13 — Vessel standards post](#li-standing) | — | [FB-05 — T4 condensed](#fb-standing) | — | — | Tactical #4. Needs `CRD-02` confirmed — do not draft around it. |
+| 40 | Fri 13 Nov | Fri | Content–SEO | — | — | [LI-14 — "What a good survey report looks like"](#li-standing) | — | — | — | — | Post-Deadline-33 reset. Checkpoint #2 log. |
+| 41 | Sat 14 Nov | Sat | — | — | — | — | — | — | — | — | **Rest.** |
+| 42 | Sun 15 Nov | Sun | Content–SEO | — | — | — | — | — | — | — | **Rest** + AI panel run #5. |
+| 43 | Mon 16 Nov | Mon | BD–Entity | — | — | — | — | — | [E6 — Fourth-wave listings + backlink follow-up](#ent-standing) | **[O4 — Outbound session 4](#ob-standing)** | Chase O1–O3 replies. |
+| 44 | Tue 17 Nov | Tue | Content–SEO | — | **[P6 — "Crew Illness and Repatriation Claims"](#p6)** | [LI-15 — P6 amplification](#li-standing) | — | — | — | — | Pillar #6. |
+| 45 | Wed 18 Nov | Wed | Content–SEO | — | — | — | **[Y5 — "9 Questions to Ask Before Appointing"](#y5)** | — | — | — | Teaser for P7. |
+| 46 | Thu 19 Nov | Thu | Content–SEO | — | **[T5 — "How to Read the Claims Notification Clause"](#t5)** | [LI-16 — Policy-reading post](#li-standing) | — | [FB-06 — T5 condensed](#fb-standing) | — | — | Tactical #5. |
+| 47 | Fri 20 Nov | Fri | Content–SEO | — | — | [LI-17 — "The worst thing a shipowner can do after a casualty"](#li-standing) | — | — | — | — | Log P1–P6 + T1–T5 performance. |
+| 48 | Sat 21 Nov | Sat | — | — | — | — | — | — | — | — | **Rest.** |
+| 49 | Sun 22 Nov | Sun | Content–SEO | — | — | — | — | — | — | — | **Rest** + AI panel run #6. |
+| 50 | Mon 23 Nov | Mon | BD–Entity | — | — | — | — | — | [E7 — Fifth-wave listings + final NAP audit](#ent-standing) | **[O5 — Outbound session 5](#ob-standing)** | Final outreach wave. Any unsent O1–O3 items close here. |
+| 51 | Tue 24 Nov | Tue | Content–SEO | — | **[P7 — "Choosing an Independent Marine Claims Adjuster"](#p7)** | [LI-18 — P7 amplification](#li-standing) | — | — | — | — | Pillar #7. **The commercial centrepiece. Highest intended business value in the plan.** |
+| 52 | Wed 25 Nov | Wed | Content–SEO | — | — | — | **[Y6 — Long-form: IG 2026/27 Renewal Explained](#y6)** | — | — | — | Only long-form video. Aim it at the Feb 2027 renewal audience. |
+| 53 | Thu 26 Nov | Thu | Content–SEO | — | **[T6 — "PDPA and GDPR in Marine Claims Handling"](#t6)** | [LI-19 — Data-protection post](#li-standing) | — | [FB-07 — T6 condensed](#fb-standing) | — | — | Tactical #6. Highest-trust tactical — it is about the firm's own compliance. |
+| 54 | Fri 27 Nov | Fri | Founder | — | — | [LI-20 — "Twelve weeks to renewal" second push](#li-standing) | — | — | — | — | Log every deliverable's Day-55-to-60 performance. |
+| 55 | Sat 28 Nov | Sat | — | — | — | — | — | — | — | — | **Rest.** |
+| 56 | Sun 29 Nov | Sun | Content–SEO | — | — | — | — | — | — | — | **Rest** + AI panel run #7. Freeze content. Move to close. |
+| 57 | Mon 30 Nov | Mon | Content–SEO | — | — | — | — | — | — | — | 📊 **[Close C1 — Re-measure every baseline metric](#close)**. Same 24 prompts, same 5 engines. Freeze is already in force from Day 56. |
+| 58 | Tue 01 Dec | Tue | Founder | — | P7 performance read + Day 61–120 brief drafted | — | — | — | — | — | **[Close C2 — Day 61–120 decision memo](#close)**. What continues, what changes, what stops. |
+| 59 | Wed 02 Dec | Wed | Tech | Post-close technical debt list | — | — | — | — | — | — | **[Close C3 — Fix list for the next quarter](#close)**. |
+| 60 | Thu 03 Dec | Thu | Founder | Sign off | — | — | — | — | — | — | 🏁 **[Close C4 — Final review + handoff](#close)**. Sign off, archive the Ledger, set the next gate — target: before the **20 Feb 2027** IG renewal (`IG-01`). |
 
 ---
 
@@ -468,7 +605,7 @@ Use the tokens already live in the site's CSS. Do not introduce a new palette.
 
 No stock photography of generic cargo ships, containers or sunsets. A claims firm's credibility is documents, reports, people and process. Use the real (anonymised) documents: a claim status timeline, a survey report cover, a security instrument, a process diagram built in brand colours.
 
-### The Answer-First rule (applies to every blog, LinkedIn and YouTube asset)
+### The Answer-First rule (applies to every blog, LinkedIn, Facebook and YouTube asset)
 
 An AI answer engine has to lift a self-contained answer out of your page and cite it. So:
 
@@ -519,6 +656,30 @@ This structure is not stylistic preference. Structured content is the documented
 
 **Rules:** never claim the firm is a law firm, insurer or club; never publish a number without its Claim ID behind it; never tag a person or company without a real relationship; disclose any commercial interest; no link in the post body; no more than one link in the first comment.
 
+<a id="fb-standing"></a>
+
+### Facebook Page rule
+
+**A firm Page, not a personal profile.** The Founder's personal profile is the LinkedIn asset, because LinkedIn is where a named adjuster's judgment is read as a credential. Facebook is the opposite case: the asset there is the **firm's** consistent public identity, so it runs on a Page that search engines and AI assistants can index, and the Founder does not post from their own account.
+
+**This is a repurposing lane, and it is honest about being one.** One post a week, on the Thursday the week's tactical publishes. The Facebook post is a shorter, plainer version of that same tactical — same facts, same Claim IDs, same source — with the link in the post body. **No original content originates here, no separate research is done, and no Facebook-only claim is ever made.** If a number cannot be published on the website, it cannot be published on Facebook.
+
+**The link goes in the post body.** This is the one social surface in the plan where that is true, and it is the mechanical reason the lane exists:
+
+| Surface | Where the link goes | Why |
+|---|---|---|
+| **Facebook** | **In the post body** | Facebook renders a body link as a clickable card. It is the only surface here where the link is both visible and tappable without a second step |
+| LinkedIn | In the **first comment** | LinkedIn suppresses the reach of posts carrying an outbound link in the body. That is a distribution rule, not a preference |
+| Instagram | **Bio link or Stories link sticker only** | An Instagram caption URL is not tappable. Clickable caption links are a limited Meta Verified test and must never be assumed |
+
+**The Page is an entity surface, so the NAP rule applies to it in full.** A Facebook Page is indexed by search engines and read by answer engines. The Page name, category, address, phone, email, description and website field are copied **character for character** from the canonical NAP block — the same rule that governs `/about`, the JSON-LD, the directory listings and the Google Business Profile. A Facebook Page carrying a different phone number than the website is a NAP variance, and it gets fixed the same day, like every other one. Do not invent or add social profiles to `sameAs` in the schema unless the profile actually exists.
+
+**Page setup — the Day 12 checklist.** [ ] Page created in the firm's name, not the Founder's. [ ] Category is the honest one for a marine claims adjuster, and no claim of being an insurer, a law firm or a club appears in the category or the description. [ ] Address, phone and email copied verbatim from the NAP block. [ ] Website field set to `samis.com.sg`. [ ] Cover image in brand navy `#004c8c` with the gold `#f7a800` accent — no stock photography of cargo ships. [ ] About section carries the approved firm description and the beta-agnostic wording the site already uses. [ ] Page URL recorded in the Entity & Authority tracker, and added to the `sameAs` list in F4 **only now that it exists**. [ ] The launch post is the Day 12 LinkedIn post adapted to Facebook mechanics: the link moves into the body, the length comes down, and the Claim IDs come with it.
+
+**Rules for every Facebook post:** the same answer-first structure as every other asset; every figure carries its Claim ID and nothing is published from an `UNVERIFIED` row; no claim that the firm is a law firm, insurer, P&I club or class society; no case-study detail without a cleared `CRD-*` or A5 release; no tagging a person or company without a real relationship; one link maximum; alt text on every image describing the content rather than the file; comments answered by the Founder in the same voice as LinkedIn, and never by a contractor. **The same twelve publishing rules in [Notes Before Publishing](#notes-before-publishing) apply here without exception** — a Facebook post is not a lesser asset, it is the same asset on a different surface.
+
+**What this lane is honestly worth.** Six weekly posts is enough to see whether a channel earns its place and nowhere near enough to optimise one. There is no engagement target, because no Facebook baseline for this firm exists and inventing one would be exactly the kind of made-up number this plan refuses to publish. The Day 60 report gives the lane **one line, on its own merits, including if that line is "nothing came of it"** — and that finding is what justifies either keeping it or cutting it. **It is also the first thing to cut if the Founder cannot carry the column**, ahead of the Friday LinkedIn posts, because it is the only lane in the plan that produces no original work.
+
 ### YouTube video template
 
 - **Title:** the buyer's question, phrased as they would ask it. Not a brand statement.
@@ -546,6 +707,7 @@ This structure is not stylistic preference. Structured content is the documented
 - **Substantiate the claim, do not just list the client.** A listing in the AAA Fellows directory, GIA, SMAA or AMD is worth far more than a generic business directory, because those are the sources a professional or an AI engine would treat as authoritative for "is this person a real average adjuster".
 - **The AAA Fellows directory is target #1.** It is country-filterable, public, maintained by the professional body, and it is exactly where a buyer checking whether an adjuster is real would look. `SEC-02`.
 - **Never pay for a dofollow link.** Trade directories with paid placement are watched by both Google and answer engines, and a paid link in this niche is a reputational problem, not a ranking one.
+- **A Facebook Page is a controlled surface, not an independent one.** It carries the NAP block verbatim and is audited like every other surface, but **it does not count toward the six independent sources** in the Day-60 target. A source the firm controls cannot corroborate the firm; only third parties can.
 
 <a id="ob-standing"></a>
 
@@ -990,7 +1152,7 @@ UEN 202527553G · Registered 26 June 2025
 
 **Topic.** A hard go/no-go on the entire Phase 2 content programme. **This gate can stop the plan. That is its purpose.**
 
-**Why.** AEO spend on an unindexable domain is the most expensive possible waste in this plan, and it is the mistake this Foundation phase exists to prevent. Thirteen blog pieces, six videos and twenty LinkedIn posts landing on pages an engine cannot read is **39 crawlability-dependent publishing deliverables** spent on nothing — which is why this gate, not the content calendar, is the first thing in the plan. The gate is not process theatre.
+**Why.** AEO spend on an unindexable domain is the most expensive possible waste in this plan, and it is the mistake this Foundation phase exists to prevent. Thirteen blog pieces, six videos, twenty LinkedIn posts and seven Facebook posts landing on pages an engine cannot read is **46 crawlability-dependent publishing deliverables** spent on nothing — which is why this gate, not the content calendar, is the first thing in the plan. The gate is not process theatre.
 
 **What to include, in order — all ten must pass.**
 
@@ -1009,7 +1171,7 @@ UEN 202527553G · Registered 26 June 2025
 
 **The decision.**
 
-- **GO** — all ten pass. Unlocks the 55 Phase 2 deliverables across 7 weeks. Publish P1 on Day 11 as scheduled.
+- **GO** — all ten pass. Unlocks the 62 Phase 2 deliverables across 7 weeks. Publish P1 on Day 11 as scheduled.
 - **CONDITIONAL GO** — content routes pass (1–3, 6); one of 4, 5, 7, 8, 9, 10 fails. Founder decides in writing which one, and the named owner gets **48 hours** to fix it. Publishing starts on schedule **only** for workstreams the failure cannot affect. A broken sitemap (check 4) does not stop a blog post; a client-rendered shell (check 1) stops everything.
 - **NO-GO** — any content route still returns the empty shell, or metadata is still CRA placeholder. **Phase 2 does not start.** Two options, Founder's choice:
   - **Fix and re-gate.** Every day of slip moves every downstream day by the same amount. Day 60 moves; the cadence holds.
@@ -2994,13 +3156,13 @@ signed off.
 
 **Topic.** The measurement the whole plan was built to produce, written up so that someone who was not here can tell what happened.
 
-**Why.** The 60 days produced a technical rebuild, thirteen written assets, six videos, twenty LinkedIn posts, an entity footprint and an outreach record. **None of that is the result. The result is what a reader, a buyer and an AI engine now find when they look — and the report has to say that plainly, including where it failed.**
+**Why.** The 60 days produced a technical rebuild, thirteen written assets, six videos, twenty LinkedIn posts, seven Facebook posts, an entity footprint and an outreach record. **None of that is the result. The result is what a reader, a buyer and an AI engine now find when they look — and the report has to say that plainly, including where it failed.**
 
 **What to include, in order.**
 1. **The 10-point gate re-test**, all ten checks, with pass/fail and evidence. State any regression. A metadata fix or a schema change that silently broke something is the most common failure in this kind of work, and this is the last chance to find it.
 2. **AI visibility — run #7, executed on Day 56.** Read the Day 56 result; **do not run an eighth panel.** Seven points on a fixed 24-prompt panel is the whole dataset this plan was able to buy, and running one more on Day 57 would add a data point at the cost of a day, for nothing. Report `named/24` and `cited/24` per engine, and the trend across runs 1–7.
 3. **The final defensive sweep.** Every fabricated attribution found in runs 6 and 7 — the fabricated credential, the invented statistic, the client outcome that never happened — with what was done about each. **This is the most valuable output of the entire 60 days and it is more valuable than the counts.**
-4. **Content performance, per asset, with the honest comparison.** Every pillar, every tactical, every video, every LinkedIn post. **The assets that underperformed are named.** A report that only lists wins is not a report, and it is the one thing that would make the next 60 days worse than this one.
+4. **Content performance, per asset, with the honest comparison.** Every pillar, every tactical, every video, every LinkedIn post and every Facebook post — **and the Facebook lane gets its own line, including if that line is "nothing came of it".** **The assets that underperformed are named.** A report that only lists wins is not a report, and it is the one thing that would make the next 60 days worse than this one.
 5. **Search, by month, with the leading-indicator caveat.** Impressions, clicks, average position, and the number of indexed pages at Day 10 versus Day 57. **State clearly: sixty days is too short for organic rankings to move, and a flat Search Console graph in this window is the expected result, not a failure.** The leading indicators are indexing, impressions and AI citations; rankings and traffic belong to months 4–12.
 6. **Entity and outreach results** — listings live, NAP variances open and closed, emails sent, replies, links earned, and the contacts who did not reply. **Record the non-replies.** They are the most useful part of the outbound data and the part most often left out.
 7. **The business result, stated without embellishment.** Qualified enquiries, if any. Meetings. Anything won. **If the answer is "no measurable revenue in 60 days", that is the correct and expected answer, and the report should say it in those words rather than reaching for a soft proxy.**
@@ -3269,7 +3431,7 @@ Guardrails that hold for every deliverable, every owner, every day.
 
 **Pacing discipline over speed.** One Foundation task per day exists so that a task cannot be quietly skipped under pressure. It also means a slip is visible on the day it happens, six days before it matters — not on Day 10.
 
-**The gate is a real gate.** Day 10 can block. A no-go means: fix and re-gate, or slip the whole calendar by the slip's length. It does **not** mean "publish anyway and hope" — content published into an unreadable shell has near-zero indexation probability, so all **55 Phase 2 deliverables** — 39 of them crawlability-dependent publishing assets — would be spent on a site no engine can quote. AEO spend on an unindexable domain is the most expensive possible waste in this plan, and it is the one error the Foundation phase exists to prevent.
+**The gate is a real gate.** Day 10 can block. A no-go means: fix and re-gate, or slip the whole calendar by the slip's length. It does **not** mean "publish anyway and hope" — content published into an unreadable shell has near-zero indexation probability, so all **62 Phase 2 deliverables** — 46 of them crawlability-dependent publishing assets — would be spent on a site no engine can quote. AEO spend on an unindexable domain is the most expensive possible waste in this plan, and it is the one error the Foundation phase exists to prevent.
 
 **How N=60 changed the default template.** The skill's default splits N into Foundation ≈16%, Execution ≈ the long middle, Evaluation ≈7%. For N=60: **Foundation = Days 1–10 (16.7%), gate on Day 10, Execution = Days 11–56, Evaluation = Days 57–60 (6.7%, the 4-day floor).** The midpoint checkpoint lands on **Day 33 (Fri 6 Nov)** — a working day, placed clear of the Deepavali long weekend. For a 60-day run the weekly loop fits 8.5 times, so the cadence is anchored to fixed weekdays (Tue/Thu/Wed/Fri/Mon) rather than to "week N", which is what makes the table runnable without the planner present.
 
@@ -3285,7 +3447,7 @@ Prerequisites and parallel work that do not get their own table row but block ev
 
 **Before Day 1 (this week):**
 
-- **Founder answers Q1, Q2, Q6, Q7.** Q1 (named practitioner, current credentials) gates all 13 blog pieces, all 20 LinkedIn posts, P7 and Y5. If this is unanswered on Day 1, say so and the plan re-scopes to technical-only for Week 1.
+- **Founder answers Q1, Q2, Q6, Q7.** Q1 (named practitioner, current credentials) gates all 13 blog pieces, all 20 LinkedIn posts, all 7 Facebook posts, P7 and Y5. If this is unanswered on Day 1, say so and the plan re-scopes to technical-only for Week 1.
 - **Real names written against all four role labels.** No role label ships without a name attached.
 - **Dev access confirmed** to the CRA build, the S3 bucket and the CloudFront distribution. Confirm CloudFront cache behaviour — a 644-byte document with `x-cache: Miss from cloudfront` on every hit means aggressive revalidation is off, and a metadata fix may not appear for hours. **Know the cache TTL before Day 3.**
 - **Git or version control on the site build.** None is evident. Do not hand-edit production.
