@@ -7,7 +7,15 @@ categories: ["Samudra Adjusting"]
 summary: "The 60-day AEO/GEO and technical-marketing plan for Samudra Adjusting & Marine Insurance Solutions (samis.com.sg): day-by-day schedule, a click-through library of every deliverable brief, and the Source Ledger that gates every published claim."
 ---
 
-Starts: **Monday 5 October 2026** (Day 1) → **Thursday 3 December 2026** (Day 60). Everything in one file: the complete day-by-day task table, plus every deliverable's full brief — each one an in-file link, so any scheduled task jumps straight to its own instructions in this same document (topic, why, what to include in order, ready-to-use copy, publish checklist).
+Starts: **Day 1** → **Day 60**, 60 days inclusive. Everything in one file: the complete day-by-day task table, plus every deliverable's full brief — each one an in-file link, so any scheduled task jumps straight to its own instructions in this same document (topic, why, what to include in order, ready-to-use copy, publish checklist).
+
+**Every day in this plan is a Day number, not a date.** The whole schedule is written on Day 1–60 so that moving the start date cannot break it. To turn any Day number into a calendar date, take the agreed Day 1 and add the Day number minus one:
+
+> **Calendar date of Day N = Day 1 + (N − 1) days.**
+>
+> Worked example: if Day 1 is 5 October 2026, then Day 1 = 5 Oct, Day 10 = 14 Oct, Day 33 = 6 Nov, Day 35 = 8 Nov, Day 60 = 3 December 2026.
+
+**The five October 2026 to December 2026 dates used elsewhere in this document are the anchor this plan was written against, and they are not load-bearing.** The evidence dates — the 29 September 2026 baseline measurements, the Source Ledger retrieval dates, the 20 February 2027 IG policy-year dates — are real and fixed, because they are facts about the world rather than about the schedule. **If the agreed Day 1 is not 5 October 2026, exactly three things need re-checking, and nothing else:** the weekday column in the [day-by-day table](#day-by-day-schedule) (the publish days are weekday-anchored — pillars on a Tuesday, tacticals on a Thursday, video on a Wednesday, the Friday LinkedIn post on a Friday), the two Deepavali blackout days, and the run's end date relative to the 20 February 2027 renewal. **The Day numbers, the owners, the sequence and every gate do not move.**
 
 **Client:** Samudra Adjusting & Marine Insurance Solutions Pte. Ltd. (UEN 202527553G), Singapore. Brand: **Samudra**. Site: `samis.com.sg`.
 
@@ -33,11 +41,11 @@ Publishing into a website that search engines cannot read is the most expensive 
 
 ### The three phases
 
-| Phase | Days | Dates | What happens, in plain words | What it produces |
+| Phase | Days | What happens, in plain words | What it produces |
 |---|---|---|---|---|
-| **1 · Foundation** | 1–10 | Mon 5 – Wed 14 Oct | We repair the website so that a search engine can actually read it, install the tools that tell us whether anyone has arrived, write down every fact we are allowed to claim and where it came from, and build the pages that state who the firm is. **No articles, no posts, nothing published.** Each day has exactly one task, and the tasks are sequential because each depends on the one before it | A readable website, working analytics, a sourced claims register, the firm's own core pages, and a written go/no-go decision |
-| **2 · Execution** | 11–56 | Thu 15 Oct – Sun 29 Nov | Seven weeks of publishing on a fixed weekly rhythm: one substantial article and one short practical piece a week, one video a week, three LinkedIn posts a week, one Facebook post a week, one outreach session and two listing sessions a week, and a fixed set of 24 questions put to five AI assistants every Sunday to see whether any of it is working | 13 articles, 6 videos, 20 LinkedIn posts, 7 Facebook posts, 7 listing and authority sessions, 5 outreach sessions, and 7 measured AI panel runs |
-| **3 · Evaluation** | 57–60 | Mon 30 Nov – Thu 3 Dec | We measure everything one last time, write an honest report that names what worked *and what did not*, decide what continues after 3 December, and hand the whole thing over properly | A written report, a decision on what continues, a list of unfinished technical work, and a signed handoff |
+| **1 · Foundation** | 1–10 | We repair the website so that a search engine can actually read it, install the tools that tell us whether anyone has arrived, write down every fact we are allowed to claim and where it came from, and build the pages that state who the firm is. **No articles, no posts, nothing published.** Each day has exactly one task, and the tasks are sequential because each depends on the one before it | A readable website, working analytics, a sourced claims register, the firm's own core pages, and a written go/no-go decision |
+| **2 · Execution** | 11–56 | Seven weeks of publishing on a fixed weekly rhythm: one substantial article and one short practical piece a week, one video a week, three LinkedIn posts a week, one Facebook post a week, one outreach session and two listing sessions a week, and a fixed set of 24 questions put to five AI assistants every Sunday to see whether any of it is working | 13 articles, 6 videos, 20 LinkedIn posts, 7 Facebook posts, 7 listing and authority sessions, 5 outreach sessions, and 7 measured AI panel runs |
+| **3 · Evaluation** | 57–60 | We measure everything one last time, write an honest report that names what worked *and what did not*, decide what continues after 3 December, and hand the whole thing over properly | A written report, a decision on what continues, a list of unfinished technical work, and a signed handoff |
 
 ### What a normal publishing week looks like
 
@@ -51,7 +59,7 @@ Once the programme starts on Day 11, every week follows the same shape, so nobod
 | **Thursday** | **The week's practical piece goes live** (one of the six tacticals), plus a LinkedIn post and the **Facebook post** condensed from it | Thursday carries the shorter, more useful piece, and the day after the pillar so it can point back to it |
 | **Friday** | A standalone LinkedIn post in the Founder's own voice — no article, no link, just the practitioner talking | Friday is the one slot in the week with no publishing attached, so it is also the first thing to cut if the Founder's time is short |
 | **Saturday / Sunday** | **Nothing publishes.** Sundays carry one task only: the 24-question AI panel run | A new firm posting at the weekend from an unestablished presence does more harm than good in a trade this small |
-| **One exception** | **Sunday 8 and Monday 9 November are the Deepavali long weekend**, and Monday 9 November is a gazetted Singapore public holiday. Nothing publishes and nothing is due | A public holiday is not a delay to be recovered — it is simply not a working day |
+| **One exception** | **Days 35 and 36 are the Deepavali long weekend** (Sunday 8 and Monday 9 November, while the run starts on Day 1 = 5 October), and Monday 9 November is a gazetted Singapore public holiday. Nothing publishes and nothing is due | A public holiday is not a delay to be recovered — it is simply not a working day |
 
 ### Who does what
 
@@ -131,7 +139,7 @@ These override every deadline in this document, including the Founder's own.
 
 Every row below links to the full brief for that deliverable: topic, why it exists, what to include in order, ready-to-use copy, and the publish checklist.
 
-**Phase 1 — Foundation (Days 1–10 · Mon 5 Oct – Wed 14 Oct). No publishing. Fix the platform.**
+**Phase 1 — Foundation (Days 1–10). No publishing. Fix the platform.**
 
 | Day | Deliverable | Brief |
 |---|---|---|
@@ -165,7 +173,7 @@ Every row below links to the full brief for that deliverable: topic, why it exis
 
 **Why the timing is what it is, stated plainly:** the day-to-day technical language in this plan is not the point of it. The point is that the 60 days end on 3 December 2026, roughly ten weeks before the International Group P&I policy year turns over on **20 February 2027** (`IG-01`) — the moment when shipowners, charterers and brokers choose who will handle their claims for the coming year. Everything published in this window is written to be read by that decision.
 
-**Phase 2 — Execution (Days 11–56 · Thu 15 Oct – Sun 29 Nov). Publish on cadence.**
+**Phase 2 — Execution (Days 11–56). Publish on cadence.**
 
 **Pillars — one per week, Tuesday (Day 11 special, then Day 16 / 23 / 30 / 37 / 44 / 51):**
 
@@ -248,7 +256,7 @@ Every row below links to the full brief for that deliverable: topic, why it exis
 
 #### Measurement — the metric block, the Day 33 Midpoint Checkpoint, and the Day 57–60 close
 
-**Phase 3 — Evaluation (Days 57–60 · Mon 30 Nov – Thu 3 Dec).**
+**Phase 3 — Evaluation (Days 57–60).**
 
 | Day | Close deliverable | Brief |
 |---|---|---|
@@ -498,74 +506,74 @@ Set against that baseline. These are **targets, not forecasts**, and the Day 60 
 
 ## Day-by-Day Schedule
 
-**Day 1 = Monday 5 October 2026. Day 60 = Thursday 3 December 2026.**
+**This table is keyed on Day 1–60, and the Day number is the plan's spine.** No calendar date is stored in it, because a start date that moves should not require the schedule to be rewritten. Convert a Day number to a date with the rule in the [introduction](#plain-english): **date of Day N = agreed Day 1 + (N − 1) days.** The weekday column is the one derived value — it is what anchors the publishing rhythm, so if Day 1 is not a Monday, re-derive that column and the two Deepavali rows before starting.
 
 **Rhythm:** Foundation Mon–Wed, no publishing · **Pillars Tuesday** · **Tacticals Thursday** · **YouTube Wednesday** · **LinkedIn Tuesday + Thursday (amplification) and Friday (standalone)** · **Facebook Thursday (condensed from that day's tactical)** · **Outbound Monday** · **Entity & Authority 2× per week** · Weekends off, except the Sunday prompt panel. Every one of these words is explained in [How to read this plan in plain English](#plain-english).
 
 **Deliberately included in the plan:** 13 blog pieces (7 pillars + 6 tacticals), 6 YouTube videos, 20 LinkedIn posts, 7 Facebook posts, 7 entity/authority sessions, 5 outbound sessions, 7 AI-panel runs, 10 Foundation tasks and a 4-day close. That is **79 discrete deliverables over 60 days**, and it is a real load for a firm of this size. The load is spread so no single owner carries more than one deliverable a day, and the weekend and the Deepavali long weekend are genuinely clear. **If the Founder cannot carry their own column, cut in this order: the Facebook lane first (7 posts, and it is the only lane that produces no original work), then the Friday LinkedIn posts (7 posts), then the last two tacticals (T5, T6) — never the pillars, the gate, or the YouTube cadence.**
 
-| Day | Date | Wd | Owner | Platform & Schema | Blog / Insights | LinkedIn | YouTube | Facebook | Entity & Authority | Outbound & PR | Notes / Checkpoint |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Mon 05 Oct | Mon | Tech | [F1 — Full technical + entity audit](#d1-audit) | — | — | — | — | Record baseline NAP + credentials sheet | — | **D1.** Confirm Q1–Q3, Q6, Q7. Founder assigns real names to all four role labels. No publishing this week. |
-| 2 | Tue 06 Oct | Tue | Tech | [F2 — Server-render decision](#d2-server-render) | — | — | — | — | — | — | Q1 (named practitioner + current credentials) due end of day. |
-| 3 | Wed 07 Oct | Wed | Tech | [F3 — Per-route metadata](#d3-metadata) | — | — | — | — | Audit competitor SERPs: `average adjuster singapore`, `marine claims singapore` | — | Q4 (any content on the dead WP host?) due. |
-| 4 | Thu 08 Oct | Thu | Tech | [F4 — JSON-LD schema](#d4-schema) | — | — | — | — | — | — | Schema must not publish credential claims — it publishes the confirmed entity only. |
-| 5 | Fri 09 Oct | Fri | Content–SEO | — | — | — | — | — | — | — | **[F5 — AI answer-engine baseline panel, 24 prompts × 5 engines](#d5-ai-baseline).** This is the before-picture. Log every answer verbatim. |
-| 6 | Sat 10 Oct | Sat | Tech | [F6 — GA4 + GSC + call tracking](#d6-analytics) | — | — | — | — | — | — | Weekend exception: infra only, no publishing. |
-| 7 | Sun 11 Oct | Sun | Tech | [F7 — Blog platform rebuild](#d7-blog-rebuild) | — | — | — | — | — | — | Weekend exception: infra only. Bundle-size check due by end of day. |
-| 8 | Mon 12 Oct | Mon | Content–SEO | — | — | — | — | — | [E1 — GIA + AAA directory submissions](#ent-standing) | — | **[F8 — Source Ledger created and seeded](#d8-ledger).** Open questions Q5 due. Outbound slot unused in Foundation — deliberately. |
-| 9 | Tue 13 Oct | Tue | Founder | Verify rendered entity pages | Draft P1 | — | — | — | [E2 — Entity core pages live: About, Credentials, Contact, Terms](#d9-entity-core) | — | **Founder writes P1 in their own voice.** No delegate for the flagship. |
-| 10 | Wed 14 Oct | Wed | Founder | Crawl test + `curl` diff of all routes | Founder signs off P1 | — | — | — | — | — | ⛔ **[GATE — Crawlability & Entity Gate](#d10-gate).** NO-GO blocks all of Phase 2. GO unlocks the 62 Phase 2 deliverables across 7 weeks. |
-| 11 | Thu 15 Oct | Thu | Content–SEO | Live sitemap + robots sanity check | **[P1 — "What an Average Adjuster Actually Does"](#p1)** | [LI-01 — Founder personal profile launch](#li-standing) | — | — | — | — | 🚀 **Publication day 1.** P1 must be indexable in Google's cache within 24h — verify, don't assume. |
-| 12 | Fri 16 Oct | Fri | Content–SEO | — | — | [LI-02 — "We are new. Here is what we do."](#li-standing) | — | [FB-01 — Page launch](#fb-standing) | — | — | Verify P1 indexing. Log in the tracker. |
-| 13 | Sat 17 Oct | Sat | — | — | — | — | — | — | — | — | **Rest.** Tracker update only. |
-| 14 | Sun 18 Oct | Sun | Content–SEO | — | — | — | — | — | — | — | **Rest** + AI panel run #2. Compare to Day 5. |
-| 15 | Mon 19 Oct | Mon | BD–Entity | — | — | — | — | — | [E3 — Partner/affiliation + credential pages](#ent-standing) | **[O1 — Outbound session 1](#ob-standing)** (max 5 emails) | First outreach wave. |
-| 16 | Tue 20 Oct | Tue | Content–SEO | — | **[P2 — "General Average vs Particular Average"](#p2)** | [LI-03 — P2 amplification](#li-standing) | — | — | — | — | Pillar #2. Check P1 got impressions before publishing P2. |
-| 17 | Wed 21 Oct | Wed | Content–SEO | — | — | — | **[Y1 — "What is General Average?"](#y1)** | — | — | — | Video pairs with P2. Cross-link both ways. |
-| 18 | Thu 22 Oct | Thu | Content–SEO | — | **[T1 — "Singapore's Marine Insurance Market in 2026"](#t1)** | [LI-04 — MPA data post](#li-standing) | — | [FB-02 — T1 condensed](#fb-standing) | — | — | Tactical #1. `MKT-*` rows only. **Read CONFLICT C4 before drafting.** |
-| 19 | Fri 23 Oct | Fri | Content–SEO | — | — | [LI-05 — "The question brokers ask us most"](#li-standing) | — | — | — | — | Log P1/P2 impressions. |
-| 20 | Sat 24 Oct | Sat | — | — | — | — | — | — | — | — | **Rest.** |
-| 21 | Sun 25 Oct | Sun | Content–SEO | — | — | — | — | — | — | — | **Rest** + AI panel run #3. |
-| 22 | Mon 26 Oct | Mon | BD–Entity | — | — | — | — | — | [E4 — Second-wave directory + association listings](#ent-standing) | **[O2 — Outbound session 2](#ob-standing)** | E4 + O2 must cite the same authoritative sources — consistency is the play. |
-| 23 | Tue 27 Oct | Tue | Content–SEO | — | **[P3 — "Hull & Machinery Claims: The Seven Stages"](#p3)** | [LI-06 — P3 amplification](#li-standing) | — | — | — | — | Pillar #3. |
-| 24 | Wed 28 Oct | Wed | Content–SEO | — | — | — | **[Y2 — "Inside a Hull & Machinery Claim"](#y2)** | — | — | — | Pairs with P3. |
-| 25 | Thu 29 Oct | Thu | Content–SEO | — | **[T2 — "IG P&I 2026/27 Renewal: What Changed"](#t2)** | [LI-07 — Renewal explainer](#li-standing) | — | [FB-03 — T2 condensed](#fb-standing) | — | — | Tactical #2. `IG-01`–`IG-04` only. Highest-value tactical in the plan. |
-| 26 | Fri 30 Oct | Fri | Content–SEO | — | — | [LI-08 — "Sixteen weeks to the Feb 2027 renewal"](#li-standing) | — | — | — | — | Renewal-clock messaging starts. |
-| 27 | Sat 31 Oct | Sat | — | — | — | — | — | — | — | — | **Rest.** |
-| 28 | Sun 01 Nov | Sun | Content–SEO | — | — | — | — | — | — | — | **Rest** + AI panel run #4. |
-| 29 | Mon 02 Nov | Mon | BD–Entity | — | — | — | — | — | [E5 — Third-wave listings + first NAP consistency audit](#ent-standing) | **[O3 — Outbound session 3](#ob-standing)** | First NAP audit. Any mismatch found → fix same day. |
-| 30 | Tue 03 Nov | Tue | Content–SEO | — | **[P4 — "P&I Letter of Underwriting"](#p4)** | [LI-09 — P4 amplification](#li-standing) | — | — | — | — | Pillar #4. `LGL-02` is a law-firm commentary — attribute it. |
-| 31 | Wed 04 Nov | Wed | Content–SEO | — | — | — | **[Y3 — "P&I LOU in 90 seconds"](#y3)** | — | — | — | Pairs with P4. |
-| 32 | Thu 05 Nov | Thu | Content–SEO | — | **[T3 — "Wreck Removal in Singapore"](#t3)** | [LI-10 — Director of Marine explainer](#li-standing) | — | [FB-04 — T3 condensed](#fb-standing) | — | — | Tactical #3. `LGL-03`. |
-| 33 | Fri 06 Nov | Fri | Founder | — | — | [LI-11 — Midpoint reflection](#li-standing) | — | — | — | — | 📊 **MIDPOINT CHECKPOINT** — see [Measurement](#meas). **Decision required:** continue / adjust / stop. Log it. |
-| 34 | Sat 07 Nov | Sat | — | — | — | — | — | — | — | — | **Rest.** |
-| 35 | Sun 08 Nov | Sun | — | — | — | — | — | — | — | — | 🪔 **DEEPAVALI — gazetted public holiday. Nothing publishes. Nothing is due.** |
-| 36 | Mon 09 Nov | Mon | — | — | — | — | — | — | — | — | 🪔 **DEEPAVALI (day off).** No outbound session — it is skipped, not moved. |
-| 37 | Tue 10 Nov | Tue | Content–SEO | — | **[P5 — "Third-Party Collision Liability"](#p5)** | [LI-12 — P5 amplification](#li-standing) | — | — | — | — | Pillar #5. |
-| 38 | Wed 11 Nov | Wed | Content–SEO | — | — | — | **[Y4 — "Apportioning Fault in a Collision"](#y4)** | — | — | — | Pairs with P5. |
-| 39 | Thu 12 Nov | Thu | Content–SEO | — | **[T4 — "SIRE and OCIMF"](#t4)** | [LI-13 — Vessel standards post](#li-standing) | — | [FB-05 — T4 condensed](#fb-standing) | — | — | Tactical #4. Needs `CRD-02` confirmed — do not draft around it. |
-| 40 | Fri 13 Nov | Fri | Content–SEO | — | — | [LI-14 — "What a good survey report looks like"](#li-standing) | — | — | — | — | Post-Deadline-33 reset. Checkpoint #2 log. |
-| 41 | Sat 14 Nov | Sat | — | — | — | — | — | — | — | — | **Rest.** |
-| 42 | Sun 15 Nov | Sun | Content–SEO | — | — | — | — | — | — | — | **Rest** + AI panel run #5. |
-| 43 | Mon 16 Nov | Mon | BD–Entity | — | — | — | — | — | [E6 — Fourth-wave listings + backlink follow-up](#ent-standing) | **[O4 — Outbound session 4](#ob-standing)** | Chase O1–O3 replies. |
-| 44 | Tue 17 Nov | Tue | Content–SEO | — | **[P6 — "Crew Illness and Repatriation Claims"](#p6)** | [LI-15 — P6 amplification](#li-standing) | — | — | — | — | Pillar #6. |
-| 45 | Wed 18 Nov | Wed | Content–SEO | — | — | — | **[Y5 — "9 Questions to Ask Before Appointing"](#y5)** | — | — | — | Teaser for P7. |
-| 46 | Thu 19 Nov | Thu | Content–SEO | — | **[T5 — "How to Read the Claims Notification Clause"](#t5)** | [LI-16 — Policy-reading post](#li-standing) | — | [FB-06 — T5 condensed](#fb-standing) | — | — | Tactical #5. |
-| 47 | Fri 20 Nov | Fri | Content–SEO | — | — | [LI-17 — "The worst thing a shipowner can do after a casualty"](#li-standing) | — | — | — | — | Log P1–P6 + T1–T5 performance. |
-| 48 | Sat 21 Nov | Sat | — | — | — | — | — | — | — | — | **Rest.** |
-| 49 | Sun 22 Nov | Sun | Content–SEO | — | — | — | — | — | — | — | **Rest** + AI panel run #6. |
-| 50 | Mon 23 Nov | Mon | BD–Entity | — | — | — | — | — | [E7 — Fifth-wave listings + final NAP audit](#ent-standing) | **[O5 — Outbound session 5](#ob-standing)** | Final outreach wave. Any unsent O1–O3 items close here. |
-| 51 | Tue 24 Nov | Tue | Content–SEO | — | **[P7 — "Choosing an Independent Marine Claims Adjuster"](#p7)** | [LI-18 — P7 amplification](#li-standing) | — | — | — | — | Pillar #7. **The commercial centrepiece. Highest intended business value in the plan.** |
-| 52 | Wed 25 Nov | Wed | Content–SEO | — | — | — | **[Y6 — Long-form: IG 2026/27 Renewal Explained](#y6)** | — | — | — | Only long-form video. Aim it at the Feb 2027 renewal audience. |
-| 53 | Thu 26 Nov | Thu | Content–SEO | — | **[T6 — "PDPA and GDPR in Marine Claims Handling"](#t6)** | [LI-19 — Data-protection post](#li-standing) | — | [FB-07 — T6 condensed](#fb-standing) | — | — | Tactical #6. Highest-trust tactical — it is about the firm's own compliance. |
-| 54 | Fri 27 Nov | Fri | Founder | — | — | [LI-20 — "Twelve weeks to renewal" second push](#li-standing) | — | — | — | — | Log every deliverable's Day-55-to-60 performance. |
-| 55 | Sat 28 Nov | Sat | — | — | — | — | — | — | — | — | **Rest.** |
-| 56 | Sun 29 Nov | Sun | Content–SEO | — | — | — | — | — | — | — | **Rest** + AI panel run #7. Freeze content. Move to close. |
-| 57 | Mon 30 Nov | Mon | Content–SEO | — | — | — | — | — | — | — | 📊 **[Close C1 — Re-measure every baseline metric](#close)**. Same 24 prompts, same 5 engines. Freeze is already in force from Day 56. |
-| 58 | Tue 01 Dec | Tue | Founder | — | P7 performance read + Day 61–120 brief drafted | — | — | — | — | — | **[Close C2 — Day 61–120 decision memo](#close)**. What continues, what changes, what stops. |
-| 59 | Wed 02 Dec | Wed | Tech | Post-close technical debt list | — | — | — | — | — | — | **[Close C3 — Fix list for the next quarter](#close)**. |
-| 60 | Thu 03 Dec | Thu | Founder | Sign off | — | — | — | — | — | — | 🏁 **[Close C4 — Final review + handoff](#close)**. Sign off, archive the Ledger, set the next gate — target: before the **20 Feb 2027** IG renewal (`IG-01`). |
+| Day | Wd | Owner | Platform & Schema | Blog / Insights | LinkedIn | YouTube | Facebook | Entity & Authority | Outbound & PR | Notes / Checkpoint |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Mon | Tech | [F1 — Full technical + entity audit](#d1-audit) | — | — | — | — | Record baseline NAP + credentials sheet | — | **D1.** Confirm Q1–Q3, Q6, Q7. Founder assigns real names to all four role labels. No publishing this week. |
+| 2 | Tue | Tech | [F2 — Server-render decision](#d2-server-render) | — | — | — | — | — | — | Q1 (named practitioner + current credentials) due end of day. |
+| 3 | Wed | Tech | [F3 — Per-route metadata](#d3-metadata) | — | — | — | — | Audit competitor SERPs: `average adjuster singapore`, `marine claims singapore` | — | Q4 (any content on the dead WP host?) due. |
+| 4 | Thu | Tech | [F4 — JSON-LD schema](#d4-schema) | — | — | — | — | — | — | Schema must not publish credential claims — it publishes the confirmed entity only. |
+| 5 | Fri | Content–SEO | — | — | — | — | — | — | — | **[F5 — AI answer-engine baseline panel, 24 prompts × 5 engines](#d5-ai-baseline).** This is the before-picture. Log every answer verbatim. |
+| 6 | Sat | Tech | [F6 — GA4 + GSC + call tracking](#d6-analytics) | — | — | — | — | — | — | Weekend exception: infra only, no publishing. |
+| 7 | Sun | Tech | [F7 — Blog platform rebuild](#d7-blog-rebuild) | — | — | — | — | — | — | Weekend exception: infra only. Bundle-size check due by end of day. |
+| 8 | Mon | Content–SEO | — | — | — | — | — | [E1 — GIA + AAA directory submissions](#ent-standing) | — | **[F8 — Source Ledger created and seeded](#d8-ledger).** Open questions Q5 due. Outbound slot unused in Foundation — deliberately. |
+| 9 | Tue | Founder | Verify rendered entity pages | Draft P1 | — | — | — | [E2 — Entity core pages live: About, Credentials, Contact, Terms](#d9-entity-core) | — | **Founder writes P1 in their own voice.** No delegate for the flagship. |
+| 10 | Wed | Founder | Crawl test + `curl` diff of all routes | Founder signs off P1 | — | — | — | — | — | ⛔ **[GATE — Crawlability & Entity Gate](#d10-gate).** NO-GO blocks all of Phase 2. GO unlocks the 62 Phase 2 deliverables across 7 weeks. |
+| 11 | Thu | Content–SEO | Live sitemap + robots sanity check | **[P1 — "What an Average Adjuster Actually Does"](#p1)** | [LI-01 — Founder personal profile launch](#li-standing) | — | — | — | — | 🚀 **Publication day 1.** P1 must be indexable in Google's cache within 24h — verify, don't assume. |
+| 12 | Fri | Content–SEO | — | — | [LI-02 — "We are new. Here is what we do."](#li-standing) | — | [FB-01 — Page launch](#fb-standing) | — | — | Verify P1 indexing. Log in the tracker. |
+| 13 | Sat | — | — | — | — | — | — | — | — | **Rest.** Tracker update only. |
+| 14 | Sun | Content–SEO | — | — | — | — | — | — | — | **Rest** + AI panel run #2. Compare to Day 5. |
+| 15 | Mon | BD–Entity | — | — | — | — | — | [E3 — Partner/affiliation + credential pages](#ent-standing) | **[O1 — Outbound session 1](#ob-standing)** (max 5 emails) | First outreach wave. |
+| 16 | Tue | Content–SEO | — | **[P2 — "General Average vs Particular Average"](#p2)** | [LI-03 — P2 amplification](#li-standing) | — | — | — | — | Pillar #2. Check P1 got impressions before publishing P2. |
+| 17 | Wed | Content–SEO | — | — | — | **[Y1 — "What is General Average?"](#y1)** | — | — | — | Video pairs with P2. Cross-link both ways. |
+| 18 | Thu | Content–SEO | — | **[T1 — "Singapore's Marine Insurance Market in 2026"](#t1)** | [LI-04 — MPA data post](#li-standing) | — | [FB-02 — T1 condensed](#fb-standing) | — | — | Tactical #1. `MKT-*` rows only. **Read CONFLICT C4 before drafting.** |
+| 19 | Fri | Content–SEO | — | — | [LI-05 — "The question brokers ask us most"](#li-standing) | — | — | — | — | Log P1/P2 impressions. |
+| 20 | Sat | — | — | — | — | — | — | — | — | **Rest.** |
+| 21 | Sun | Content–SEO | — | — | — | — | — | — | — | **Rest** + AI panel run #3. |
+| 22 | Mon | BD–Entity | — | — | — | — | — | [E4 — Second-wave directory + association listings](#ent-standing) | **[O2 — Outbound session 2](#ob-standing)** | E4 + O2 must cite the same authoritative sources — consistency is the play. |
+| 23 | Tue | Content–SEO | — | **[P3 — "Hull & Machinery Claims: The Seven Stages"](#p3)** | [LI-06 — P3 amplification](#li-standing) | — | — | — | — | Pillar #3. |
+| 24 | Wed | Content–SEO | — | — | — | **[Y2 — "Inside a Hull & Machinery Claim"](#y2)** | — | — | — | Pairs with P3. |
+| 25 | Thu | Content–SEO | — | **[T2 — "IG P&I 2026/27 Renewal: What Changed"](#t2)** | [LI-07 — Renewal explainer](#li-standing) | — | [FB-03 — T2 condensed](#fb-standing) | — | — | Tactical #2. `IG-01`–`IG-04` only. Highest-value tactical in the plan. |
+| 26 | Fri | Content–SEO | — | — | [LI-08 — "Sixteen weeks to the Feb 2027 renewal"](#li-standing) | — | — | — | — | Renewal-clock messaging starts. |
+| 27 | Sat | — | — | — | — | — | — | — | — | **Rest.** |
+| 28 | Sun | Content–SEO | — | — | — | — | — | — | — | **Rest** + AI panel run #4. |
+| 29 | Mon | BD–Entity | — | — | — | — | — | [E5 — Third-wave listings + first NAP consistency audit](#ent-standing) | **[O3 — Outbound session 3](#ob-standing)** | First NAP audit. Any mismatch found → fix same day. |
+| 30 | Tue | Content–SEO | — | **[P4 — "P&I Letter of Underwriting"](#p4)** | [LI-09 — P4 amplification](#li-standing) | — | — | — | — | Pillar #4. `LGL-02` is a law-firm commentary — attribute it. |
+| 31 | Wed | Content–SEO | — | — | — | **[Y3 — "P&I LOU in 90 seconds"](#y3)** | — | — | — | Pairs with P4. |
+| 32 | Thu | Content–SEO | — | **[T3 — "Wreck Removal in Singapore"](#t3)** | [LI-10 — Director of Marine explainer](#li-standing) | — | [FB-04 — T3 condensed](#fb-standing) | — | — | Tactical #3. `LGL-03`. |
+| 33 | Fri | Founder | — | — | [LI-11 — Midpoint reflection](#li-standing) | — | — | — | — | 📊 **MIDPOINT CHECKPOINT** — see [Measurement](#meas). **Decision required:** continue / adjust / stop. Log it. |
+| 34 | Sat | — | — | — | — | — | — | — | — | **Rest.** |
+| 35 | Sun | — | — | — | — | — | — | — | — | 🪔 **DEEPAVALI — gazetted public holiday. Nothing publishes. Nothing is due.** |
+| 36 | Mon | — | — | — | — | — | — | — | — | 🪔 **DEEPAVALI (day off).** No outbound session — it is skipped, not moved. |
+| 37 | Tue | Content–SEO | — | **[P5 — "Third-Party Collision Liability"](#p5)** | [LI-12 — P5 amplification](#li-standing) | — | — | — | — | Pillar #5. |
+| 38 | Wed | Content–SEO | — | — | — | **[Y4 — "Apportioning Fault in a Collision"](#y4)** | — | — | — | Pairs with P5. |
+| 39 | Thu | Content–SEO | — | **[T4 — "SIRE and OCIMF"](#t4)** | [LI-13 — Vessel standards post](#li-standing) | — | [FB-05 — T4 condensed](#fb-standing) | — | — | Tactical #4. Needs `CRD-02` confirmed — do not draft around it. |
+| 40 | Fri | Content–SEO | — | — | [LI-14 — "What a good survey report looks like"](#li-standing) | — | — | — | — | Post-Deadline-33 reset. Checkpoint #2 log. |
+| 41 | Sat | — | — | — | — | — | — | — | — | **Rest.** |
+| 42 | Sun | Content–SEO | — | — | — | — | — | — | — | **Rest** + AI panel run #5. |
+| 43 | Mon | BD–Entity | — | — | — | — | — | [E6 — Fourth-wave listings + backlink follow-up](#ent-standing) | **[O4 — Outbound session 4](#ob-standing)** | Chase O1–O3 replies. |
+| 44 | Tue | Content–SEO | — | **[P6 — "Crew Illness and Repatriation Claims"](#p6)** | [LI-15 — P6 amplification](#li-standing) | — | — | — | — | Pillar #6. |
+| 45 | Wed | Content–SEO | — | — | — | **[Y5 — "9 Questions to Ask Before Appointing"](#y5)** | — | — | — | Teaser for P7. |
+| 46 | Thu | Content–SEO | — | **[T5 — "How to Read the Claims Notification Clause"](#t5)** | [LI-16 — Policy-reading post](#li-standing) | — | [FB-06 — T5 condensed](#fb-standing) | — | — | Tactical #5. |
+| 47 | Fri | Content–SEO | — | — | [LI-17 — "The worst thing a shipowner can do after a casualty"](#li-standing) | — | — | — | — | Log P1–P6 + T1–T5 performance. |
+| 48 | Sat | — | — | — | — | — | — | — | — | **Rest.** |
+| 49 | Sun | Content–SEO | — | — | — | — | — | — | — | **Rest** + AI panel run #6. |
+| 50 | Mon | BD–Entity | — | — | — | — | — | [E7 — Fifth-wave listings + final NAP audit](#ent-standing) | **[O5 — Outbound session 5](#ob-standing)** | Final outreach wave. Any unsent O1–O3 items close here. |
+| 51 | Tue | Content–SEO | — | **[P7 — "Choosing an Independent Marine Claims Adjuster"](#p7)** | [LI-18 — P7 amplification](#li-standing) | — | — | — | — | Pillar #7. **The commercial centrepiece. Highest intended business value in the plan.** |
+| 52 | Wed | Content–SEO | — | — | — | **[Y6 — Long-form: IG 2026/27 Renewal Explained](#y6)** | — | — | — | Only long-form video. Aim it at the Feb 2027 renewal audience. |
+| 53 | Thu | Content–SEO | — | **[T6 — "PDPA and GDPR in Marine Claims Handling"](#t6)** | [LI-19 — Data-protection post](#li-standing) | — | [FB-07 — T6 condensed](#fb-standing) | — | — | Tactical #6. Highest-trust tactical — it is about the firm's own compliance. |
+| 54 | Fri | Founder | — | — | [LI-20 — "Twelve weeks to renewal" second push](#li-standing) | — | — | — | — | Log every deliverable's Day-55-to-60 performance. |
+| 55 | Sat | — | — | — | — | — | — | — | — | **Rest.** |
+| 56 | Sun | Content–SEO | — | — | — | — | — | — | — | **Rest** + AI panel run #7. Freeze content. Move to close. |
+| 57 | Mon | Content–SEO | — | — | — | — | — | — | — | 📊 **[Close C1 — Re-measure every baseline metric](#close)**. Same 24 prompts, same 5 engines. Freeze is already in force from Day 56. |
+| 58 | Tue | Founder | — | P7 performance read + Day 61–120 brief drafted | — | — | — | — | — | **[Close C2 — Day 61–120 decision memo](#close)**. What continues, what changes, what stops. |
+| 59 | Wed | Tech | Post-close technical debt list | — | — | — | — | — | — | **[Close C3 — Fix list for the next quarter](#close)**. |
+| 60 | Thu | Founder | Sign off | — | — | — | — | — | — | 🏁 **[Close C4 — Final review + handoff](#close)**. Sign off, archive the Ledger, set the next gate — target: before the **20 Feb 2027** IG renewal (`IG-01`). |
 
 ---
 
@@ -736,7 +744,7 @@ Before you write anything, check: is this claim in the Source Ledger? Is its sta
 
 <a id="d1-audit"></a>
 
-#### Foundation F1 — Full technical + entity audit (Day 1 · Mon 5 Oct · Tech)
+#### Foundation F1 — Full technical + entity audit (Day 1 · Tech)
 
 **Topic.** Establish exactly what exists on `samis.com.sg` before anyone changes it. Produce a written audit that becomes the plan's own evidence base — the Baseline section of this document is the first draft of it, and this task confirms or corrects it.
 
@@ -777,7 +785,7 @@ Change since 29 Sep 2026 baseline: [none / list each delta]
 
 <a id="d2-server-render"></a>
 
-#### Foundation F2 — Server-render decision (Day 2 · Tue 6 Oct · Tech)
+#### Foundation F2 — Server-render decision (Day 2 · Tech)
 
 **Topic.** Choose and document the rendering strategy. This single decision determines whether the other 59 days are possible.
 
@@ -814,7 +822,7 @@ Decision owner: Founder        Decision date: Day 2
 
 <a id="d3-metadata"></a>
 
-#### Foundation F3 — Per-route metadata (Day 3 · Wed 7 Oct · Tech)
+#### Foundation F3 — Per-route metadata (Day 3 · Tech)
 
 **Topic.** Ship unique, answer-first `<title>`, meta description, canonical, Open Graph and Twitter tags for every route from F1's inventory.
 
@@ -849,7 +857,7 @@ Decision owner: Founder        Decision date: Day 2
 
 <a id="d4-schema"></a>
 
-#### Foundation F4 — JSON-LD structured data (Day 4 · Thu 8 Oct · Tech)
+#### Foundation F4 — JSON-LD structured data (Day 4 · Tech)
 
 **Topic.** Ship `Organization`, `LegalService`, `Person`, `ProfessionalService`, `BreadcrumbList` and `FAQPage` schema, scoped to what is verified.
 
@@ -925,7 +933,7 @@ Decision owner: Founder        Decision date: Day 2
 
 <a id="d5-ai-baseline"></a>
 
-#### Foundation F5 — AI answer-engine baseline panel (Day 5 · Fri 9 Oct · Content–SEO)
+#### Foundation F5 — AI answer-engine baseline panel (Day 5 · Content–SEO)
 
 **Topic.** Build a fixed 24-prompt panel and run it across five engines. **This is the before-picture. It is the single most important measurement in the plan.**
 
@@ -982,7 +990,7 @@ TOP 5 SOURCES CITED ACROSS ALL 120 ANSWERS: [list with counts]
 
 <a id="d6-analytics"></a>
 
-#### Foundation F6 — GA4, Search Console and call tracking (Day 6 · Sat 10 Oct · Tech)
+#### Foundation F6 — GA4, Search Console and call tracking (Day 6 · Tech)
 
 **Topic.** Working analytics, a verified Search Console property, and a single definition of "a claim inquiry" that every channel reports into.
 
@@ -1017,7 +1025,7 @@ Blocker: [one line]              Next action + owner: [one line]
 
 <a id="d7-blog-rebuild"></a>
 
-#### Foundation F7 — Blog platform rebuild (Day 7 · Sun 11 Oct · Tech)
+#### Foundation F7 — Blog platform rebuild (Day 7 · Tech)
 
 **Topic.** Replace the dead WordPress origin with a reachable, single-origin blog that the marketing site's own build renders.
 
@@ -1054,7 +1062,7 @@ Live test: P1 publishes [Day 11 date] · list view live [Day 7 date]
 
 <a id="d8-ledger"></a>
 
-#### Foundation F8 — Source Ledger created and seeded (Day 8 · Mon 12 Oct · Content–SEO)
+#### Foundation F8 — Source Ledger created and seeded (Day 8 · Content–SEO)
 
 **Topic.** Stand up the Source Ledger as a live, versioned file seeded with all **32 seeded rows plus the 8 open rows in the [Missing-row register](#missing-rows)** in this plan's [Source Ledger](#source-ledger) section — 40 in total, of which 8 have no source yet and must not publish until they do.
 
@@ -1089,7 +1097,7 @@ Used by:     [P2, T3, LI-10 — list the deliverables citing it]
 
 <a id="d9-entity-core"></a>
 
-#### Foundation F9 — Entity core pages (Day 9 · Tue 13 Oct · Founder)
+#### Foundation F9 — Entity core pages (Day 9 · Founder)
 
 **Topic.** Publish the pages that establish *what this entity is* — About, Credentials, Contact, Terms, Privacy Notice. Founder writes them, in their own words.
 
@@ -1148,7 +1156,7 @@ UEN 202527553G · Registered 26 June 2025
 
 <a id="d10-gate"></a>
 
-#### Foundation F10 — GATE: Crawlability & Entity Gate (Day 10 · Wed 14 Oct · Founder)
+#### Foundation F10 — GATE: Crawlability & Entity Gate (Day 10 · Founder)
 
 **Topic.** A hard go/no-go on the entire Phase 2 content programme. **This gate can stop the plan. That is its purpose.**
 
@@ -1209,7 +1217,7 @@ Publication starts. **Every brief below is gated on a GO or a scoped CONDITIONAL
 
 <a id="p1"></a>
 
-#### Pillar P1 — "What an Average Adjuster Actually Does in a Marine Insurance Claim" (Day 11 · Thu 15 Oct · Content–SEO)
+#### Pillar P1 — "What an Average Adjuster Actually Does in a Marine Insurance Claim" (Day 11 · Content–SEO)
 
 **Topic.** The flagship. Answers *what an average adjuster does in a marine insurance claim in Singapore* — and therefore, implicitly, *who to appoint*. Feeds the target query **"average adjuster Singapore"** and the buyer's problem prompt *"our vessel had a collision in Singapore and the insurer wants a particular average report — who do we appoint?"*
 
@@ -1254,7 +1262,7 @@ Here is what the work actually consists of, stage by stage.
 
 <a id="li-01"></a>
 
-#### LinkedIn LI-01 — Founder profile launch (Day 11 · Thu 15 Oct · Founder)
+#### LinkedIn LI-01 — Founder profile launch (Day 11 · Founder)
 
 **Topic.** Announce the firm and the practitioner from a personal profile, on the day the site becomes readable. Feeds prompt 22 (*"who handles marine claims in Singapore"*) and the category association behind the brand name.
 
@@ -1300,7 +1308,7 @@ you wish someone had told you?
 
 <a id="e3"></a>
 
-#### Entity E3 — Partner/affiliation + credential pages + listings (Day 15 · Mon 19 Oct · BD–Entity)
+#### Entity E3 — Partner/affiliation + credential pages + listings (Day 15 · BD–Entity)
 
 Full format in the [Entity & Authority playbook](#ent-standing). Summary:
 
@@ -1332,7 +1340,7 @@ Credentials: [credential] — [issuing body]
 
 <a id="ob1"></a>
 
-#### Outbound O1 — Session 1: relationships, no ask (Day 15 · Mon 19 Oct · BD–Entity)
+#### Outbound O1 — Session 1: relationships, no ask (Day 15 · BD–Entity)
 
 **Topic.** Five relationship emails, maximum. No link request. Full format in the [Outbound playbook](#ob-standing).
 
@@ -1374,7 +1382,7 @@ and I will answer it directly.
 
 <a id="p2"></a>
 
-#### Pillar P2 — "General Average vs Particular Average: A Singapore Shipowner's Guide" (Day 16 · Tue 20 Oct · Content–SEO)
+#### Pillar P2 — "General Average vs Particular Average: A Singapore Shipowner's Guide" (Day 16 · Content–SEO)
 
 **Topic.** The distinction that decides who pays what. Feeds **"general average claim Singapore"** and prompts 2 and 8. The most-sourced pillar in the plan.
 
@@ -1413,7 +1421,7 @@ Here is how that works in practice, with the arithmetic.
 
 <a id="y1"></a>
 
-#### YouTube Y1 — "What is General Average?" (Day 17 · Wed 21 Oct · Content–SEO)
+#### YouTube Y1 — "What is General Average?" (Day 17 · Content–SEO)
 
 **Topic.** A 4-minute explainer that pairs with P2. Feeds the same queries, in the format YouTube dominates for AI citation.
 
@@ -1482,7 +1490,7 @@ SHOT LIST
 
 <a id="t1"></a>
 
-#### Tactical T1 — "Singapore's Marine Insurance Market in 2026: The Record Year, in Numbers" (Day 18 · Thu 22 Oct · Content–SEO)
+#### Tactical T1 — "Singapore's Marine Insurance Market in 2026: The Record Year, in Numbers" (Day 18 · Content–SEO)
 
 **Topic.** Market context, sourced to MPA. Feeds **"Singapore marine insurance market"** and prompt 14.
 
@@ -1523,7 +1531,7 @@ Here is the full picture, and what it means if you have a claim to handle.
 
 Full format in the [LinkedIn playbook](#li-standing). Topics, why and copy:
 
-**LI-02 (Day 12 · Fri 16 Oct) — "We are new here. Here is what we do."**
+**LI-02 (Day 12) — "We are new here. Here is what we do."**
 **Why.** The site's About page is live; this post is the plain-language version of it, and it is the first thing a broker who finds the site in search will meet. **Topic:** one line on what an adjusting practice is, who it serves, and the "we are not a law firm or an insurer" line. **Copy:**
 
 ```
@@ -1548,7 +1556,7 @@ If you have handled a marine claim: what did you most want to know at the start
 that nobody told you?
 ```
 
-**LI-03 (Day 16 · Tue 20 Oct) — P1 amplification.**
+**LI-03 (Day 16) — P1 amplification.**
 **Why.** P1 is the flagship and needs a second entrance. **Copy:**
 
 ```
@@ -1574,7 +1582,7 @@ Full write-up, with the document list you will be asked for, in the first commen
 Which of the seven do you think gets handled worst?
 ```
 
-**LI-04 (Day 18 · Thu 22 Oct) — T1 amplification, the market-data post.**
+**LI-04 (Day 18) — T1 amplification, the market-data post.**
 **Why.** Data posts get saved and re-shared by brokers and are the most common source an engine lifts. **Copy:**
 
 ```
@@ -1602,7 +1610,7 @@ breakdown in the first comment.
 Which measure do you think tells you most about the state of the market?
 ```
 
-**LI-05 (Day 19 · Fri 23 Oct) — "The question brokers ask us most".**
+**LI-05 (Day 19) — "The question brokers ask us most".**
 **Why.** A standalone practitioner post with no link needed — the highest-trust format on LinkedIn, and the one that reads as a person rather than a brand. **Copy:**
 
 ```
@@ -1639,7 +1647,7 @@ What is the question you get asked most?
 
 <a id="e4"></a>
 
-#### Entity E4 — Second-wave directory + association listings (Day 22 · Mon 26 Oct · BD–Entity)
+#### Entity E4 — Second-wave directory + association listings (Day 22 · BD–Entity)
 
 **Topic.** Extend the entity footprint to maritime-industry and regional bodies, and reconcile every NAP instance found so far.
 
@@ -1669,7 +1677,7 @@ VARIANT: differs — correction requested from [source] on [date], owner [name]
 
 <a id="ob2"></a>
 
-#### Outbound O2 — Session 2: the first link conversation (Day 22 · Mon 26 Oct · BD–Entity)
+#### Outbound O2 — Session 2: the first link conversation (Day 22 · BD–Entity)
 
 **Topic.** Five emails, maximum. **P1 and P2 are now published** — there is finally something to point at.
 
@@ -1709,7 +1717,7 @@ Samudra Adjusting & Marine Insurance Solutions Pte Ltd · UEN 202527553G
 
 <a id="p3"></a>
 
-#### Pillar P3 — "Hull & Machinery Claims: The Seven Stages, End to End" (Day 23 · Tue 27 Oct · Content–SEO)
+#### Pillar P3 — "Hull & Machinery Claims: The Seven Stages, End to End" (Day 23 · Content–SEO)
 
 **Topic.** The highest-volume claim type in this market, treated in full. Feeds **"hull and machinery claim Singapore"** and prompts 3 and 7.
 
@@ -1755,7 +1763,7 @@ Getting this wrong would be noticed immediately by exactly the reader we want.]
 
 <a id="y2"></a>
 
-#### YouTube Y2 — "Inside a Hull & Machinery Claim: the 7 stages" (Day 24 · Wed 28 Oct · Content–SEO)
+#### YouTube Y2 — "Inside a Hull & Machinery Claim: the 7 stages" (Day 24 · Content–SEO)
 
 **Topic.** A 5-minute walkthrough of the seven stages. Pairs with P3.
 
@@ -1809,7 +1817,7 @@ SHOT LIST
 
 <a id="t2"></a>
 
-#### Tactical T2 — "The International Group P&I 2026/27 Renewal: What Changed" (Day 25 · Thu 29 Oct · Content–SEO)
+#### Tactical T2 — "The International Group P&I 2026/27 Renewal: What Changed" (Day 25 · Content–SEO)
 
 **Topic.** The highest-value tactical in the plan. Feeds **"P&I renewal 2026"**.
 
@@ -1848,7 +1856,7 @@ mean.
 
 #### LinkedIn LI-06 to LI-08 (Days 23, 25, 26) — week 4 posts
 
-**LI-06 (Day 23 · Tue 27 Oct) — P3 amplification.** **Why.** The seven stages as a scannable list; the most saveable format on LinkedIn. **Copy:**
+**LI-06 (Day 23) — P3 amplification.** **Why.** The seven stages as a scannable list; the most saveable format on LinkedIn. **Copy:**
 
 ```
 H&M claim: seven stages. Knowing which one you are in tells you what to do next.
@@ -1871,7 +1879,7 @@ Full write-up, and the document list you will be asked for, in the first comment
 Which stage have you seen go wrong?
 ```
 
-**LI-07 (Day 25 · Thu 29 Oct) — T2 amplification, the renewal numbers.** **Why.** Time-sensitive, data-led, high-save. **Copy:**
+**LI-07 (Day 25) — T2 amplification, the renewal numbers.** **Why.** Time-sensitive, data-led, high-save. **Copy:**
 
 ```
 The International Group's 2026/27 reinsurance rates are published. Here is the
@@ -1901,7 +1909,7 @@ reinsurer. Impartiality is not a function of the layer above.
 Container tonnage — owner or charterer? What is the 15% doing to your numbers?
 ```
 
-**LI-08 (Day 26 · Fri 30 Oct) — "Sixteen weeks to the Feb 2027 renewal".** **Why.** Opens the renewal-clock narrative that runs to Day 54. **Copy:**
+**LI-08 (Day 26) — "Sixteen weeks to the Feb 2027 renewal".** **Why.** Opens the renewal-clock narrative that runs to Day 54. **Copy:**
 
 ```
 The International Group P&I policy year runs 20 February to 20 February. The
@@ -1931,7 +1939,7 @@ What else should a shipowner be doing in the sixteen weeks before renewal?
 
 <a id="e5"></a>
 
-#### Entity E5 — Third-wave listings + NAP consistency audit (Day 29 · Mon 2 Nov · BD–Entity)
+#### Entity E5 — Third-wave listings + NAP consistency audit (Day 29 · BD–Entity)
 
 **Topic.** Consolidate. Stop adding listings and start verifying the ones already placed.
 
@@ -1958,7 +1966,7 @@ Variances fixed this session: [n] · still open: [n]
 
 <a id="ob3"></a>
 
-#### Outbound O3 — Session 3 (Day 29 · Mon 2 Nov · BD–Entity)
+#### Outbound O3 — Session 3 (Day 29 · BD–Entity)
 
 **Topic.** Five emails, maximum. T1 and T2 are now published — the market-data and renewal assets, the two most shareable things the firm has produced.
 
@@ -1998,7 +2006,7 @@ Samudra Adjusting & Marine Insurance Solutions Pte Ltd · UEN 202527553G
 
 <a id="p4"></a>
 
-#### Pillar P4 — "P&I Letter of Underwriting in Singapore: What It Is and When You Need One" (Day 30 · Tue 3 Nov · Content–SEO)
+#### Pillar P4 — "P&I Letter of Underwriting in Singapore: What It Is and When You Need One" (Day 30 · Content–SEO)
 
 **Topic.** A specific, high-intent instrument explained end to end. Feeds **"P&I LOU singapore"** and prompts 4 and 17.
 
@@ -2033,7 +2041,7 @@ Here is how it works in Singapore, and when you would actually ask for one.
 
 <a id="y3"></a>
 
-#### YouTube Y3 — "P&I Letter of Underwriting in 90 seconds" (Day 31 · Wed 4 Nov · Content–SEO)
+#### YouTube Y3 — "P&I Letter of Underwriting in 90 seconds" (Day 31 · Content–SEO)
 
 **Topic.** A 90-second explainer. Pairs with P4. The narrowest, most citable asset in the plan.
 
@@ -2083,7 +2091,7 @@ SHOT LIST — 90 seconds hard, hook by 0:02
 
 <a id="t3"></a>
 
-#### Tactical T3 — "Wreck Removal in Singapore: When the Director of Marine Steps In" (Day 32 · Thu 5 Nov · Content–SEO)
+#### Tactical T3 — "Wreck Removal in Singapore: When the Director of Marine Steps In" (Day 32 · Content–SEO)
 
 **Topic.** A narrow regulatory question, precisely answered. Feeds **"wreck removal Singapore"**.
 
@@ -2119,7 +2127,7 @@ The practical part is what happens next, and who pays.
 
 #### LinkedIn LI-09 to LI-11 (Days 30, 32, 33) — week 5 posts
 
-**LI-09 (Day 30 · Tue 3 Nov) — P4 amplification.** **Why.** P4 is the plan's most misunderstood subject, and the misconception is that a letter of underwriting is a certificate that a ship is insured. **Correcting that publicly is more useful than publishing the explanation.** **Copy:**
+**LI-09 (Day 30) — P4 amplification.** **Why.** P4 is the plan's most misunderstood subject, and the misconception is that a letter of underwriting is a certificate that a ship is insured. **Correcting that publicly is more useful than publishing the explanation.** **Copy:**
 
 ```
 A letter of underwriting is not a certificate that your ship is insured.
@@ -2152,7 +2160,7 @@ that was wrong, and it is worth a minute to check.
 Charterer, owner or broker: which of the four documents do you actually ask for?
 ```
 
-**LI-10 (Day 32 · Thu 5 Nov) — T3 amplification, the wreck removal post.** **Why.** Regulated, local, and — handled honestly — genuinely interesting to anyone who has seen a wreck stay where it fell. **Copy:**
+**LI-10 (Day 32) — T3 amplification, the wreck removal post.** **Why.** Regulated, local, and — handled honestly — genuinely interesting to anyone who has seen a wreck stay where it fell. **Copy:**
 
 ```
 There is an office in Singapore that can decide what happens to a wreck, and most
@@ -2181,7 +2189,7 @@ If you have a vessel or a cargo sitting somewhere it should not be, what have
 you actually tried before calling someone?
 ```
 
-**LI-11 (Day 33 · Fri 6 Nov) — Midpoint reflection.** **Why.** The only post in the plan written by the Founder rather than for the market, and the one post a competitor cannot write. It is also the honest one: **thirty-two days in, a public account beats a polished one.** **Copy:**
+**LI-11 (Day 33) — Midpoint reflection.** **Why.** The only post in the plan written by the Founder rather than for the market, and the one post a competitor cannot write. It is also the honest one: **thirty-two days in, a public account beats a polished one.** **Copy:**
 
 ```
 Halfway. Thirty-two days, so far:
@@ -2261,7 +2269,7 @@ Signed: [FOUNDER NAME] · [date]
 
 <a id="p5"></a>
 
-#### Pillar P5 — "Third-Party Collision Liability: How Fault Gets Apportioned" (Day 37 · Tue 10 Nov · Content–SEO)
+#### Pillar P5 — "Third-Party Collision Liability: How Fault Gets Apportioned" (Day 37 · Content–SEO)
 
 **Topic.** The collision claim, explained from the point where two vessels' interests diverge. Feeds **"third party collision Singapore"** and prompts 3, 4 and 7.
 
@@ -2294,7 +2302,7 @@ Here is how it works, and what to do in the first 48 hours.
 
 <a id="li-week6a"></a>
 
-#### LinkedIn LI-12 (Day 37 · Tue 10 Nov) — P5 amplification
+#### LinkedIn LI-12 (Day 37) — P5 amplification
 
 **Why.** Corrects a simplification almost everyone repeats. **Copy:**
 
@@ -2328,7 +2336,7 @@ collision?
 
 <a id="y4"></a>
 
-#### YouTube Y4 — "Apportioning Fault in a Two-Vessel Collision" (Day 38 · Wed 11 Nov · Content–SEO)
+#### YouTube Y4 — "Apportioning Fault in a Two-Vessel Collision" (Day 38 · Content–SEO)
 
 **Topic.** How fault is apportioned, shown as a method rather than a lecture. Pairs with P5.
 
@@ -2384,7 +2392,7 @@ SHOT LIST
 
 <a id="t4"></a>
 
-#### Tactical T4 — "SIRE and OCIMF: Why Vessel Inspection Standards Follow Your Insurance" (Day 39 · Thu 12 Nov · Content–SEO)
+#### Tactical T4 — "SIRE and OCIMF: Why Vessel Inspection Standards Follow Your Insurance" (Day 39 · Content–SEO)
 
 **Topic.** Vetting, inspection, and what it does to a vessel's insurability. Feeds **"SIRE inspection Singapore"**.
 
@@ -2406,7 +2414,7 @@ SHOT LIST
 
 #### LinkedIn LI-13 and LI-14 (Days 39, 40) — week 6 posts
 
-**LI-13 (Day 39 · Thu 12 Nov) — T4 amplification.** **Why.** Technical audience, precise framing, no overselling. **Copy:**
+**LI-13 (Day 39) — T4 amplification.** **Why.** Technical audience, precise framing, no overselling. **Copy:**
 
 ```
 A SIRE inspection is a snapshot, not a grade.
@@ -2431,7 +2439,7 @@ Vetting, ownership, or insurance: when did you last read a vetting report end to
 end?
 ```
 
-**LI-14 (Day 40 · Fri 13 Nov) — "What a good survey report looks like".** **Why.** A practitioner post on the artefact the whole profession runs on, and the most useful standalone post in the plan. **Copy:**
+**LI-14 (Day 40) — "What a good survey report looks like".** **Why.** A practitioner post on the artefact the whole profession runs on, and the most useful standalone post in the plan. **Copy:**
 
 ```
 If you have commissioned a survey, you have probably never read the report.
@@ -2468,7 +2476,7 @@ What does yours say?
 
 <a id="e6"></a>
 
-#### Entity E6 — Fourth-wave listings + backlink follow-up (Day 43 · Mon 16 Nov · BD–Entity)
+#### Entity E6 — Fourth-wave listings + backlink follow-up (Day 43 · BD–Entity)
 
 **Topic.** Chase every open thread from O1–O3, and widen the listing footprint to the regions the firm actually serves.
 
@@ -2493,7 +2501,7 @@ general average, and marine insurance-related claims.
 
 <a id="ob4"></a>
 
-#### Outbound O4 — Session 4 (Day 43 · Mon 16 Nov · BD–Entity)
+#### Outbound O4 — Session 4 (Day 43 · BD–Entity)
 
 **Topic.** Five emails, maximum. This is the session that **asks**, rather than offers.
 
@@ -2537,7 +2545,7 @@ Samudra Adjusting & Marine Insurance Solutions Pte Ltd · UEN 202527553G
 
 <a id="p6"></a>
 
-#### Pillar P6 — "Crew Illness and Repatriation Claims: What the Club Actually Pays" (Day 44 · Tue 17 Nov · Content–SEO)
+#### Pillar P6 — "Crew Illness and Repatriation Claims: What the Club Actually Pays" (Day 44 · Content–SEO)
 
 **Topic.** A P&I club's core Protection and Indemnity cover, explained from the member's side. Feeds **"crew illness repatriation Singapore"** and prompts 3, 4, 7 and 10.
 
@@ -2575,7 +2583,7 @@ what happens to a claim of this kind when it meets a medical file.
 
 <a id="li-week7a"></a>
 
-#### LinkedIn LI-15 (Day 44 · Tue 17 Nov) — P6 amplification
+#### LinkedIn LI-15 (Day 44) — P6 amplification
 
 **Why.** The most human post in the plan, and the one with the widest non-professional audience. **Copy:**
 
@@ -2607,7 +2615,7 @@ Crew, or family of crew: what was the thing you did not expect about this?
 
 <a id="y5"></a>
 
-#### YouTube Y5 — "9 Questions to Ask Before Appointing a Marine Claims Adjuster" (Day 45 · Wed 18 Nov · Content–SEO)
+#### YouTube Y5 — "9 Questions to Ask Before Appointing a Marine Claims Adjuster" (Day 45 · Content–SEO)
 
 **Topic.** The buyer-side video, and the deliberate teaser for P7, which lands six days later. Feeds **"choosing a marine claims adjuster Singapore"**.
 
@@ -2668,7 +2676,7 @@ SHOT LIST
 
 <a id="t5"></a>
 
-#### Tactical T5 — "How to Read the Claims Notification Clause in Your Marine Policy" (Day 46 · Thu 19 Nov · Content–SEO)
+#### Tactical T5 — "How to Read the Claims Notification Clause in Your Marine Policy" (Day 46 · Content–SEO)
 
 **Topic.** The one clause that decides whether a claim starts on time. Feeds **"claims notification marine policy"**.
 
@@ -2707,7 +2715,7 @@ asking about it.
 
 #### LinkedIn LI-16 and LI-17 (Days 46, 47) — week 7 posts
 
-**LI-16 (Day 46 · Thu 19 Nov) — T5 amplification.** **Why.** Genuinely actionable, and the kind of post brokers save. **Copy:**
+**LI-16 (Day 46) — T5 amplification.** **Why.** Genuinely actionable, and the kind of post brokers save. **Copy:**
 
 ```
 Two deadlines, not one. That is the thing almost everyone gets wrong about a
@@ -2738,7 +2746,7 @@ rather than the summary page. They are not the same document.
 Broker or owner: has this ever bitten you?
 ```
 
-**LI-17 (Day 47 · Fri 20 Nov) — "The worst thing a shipowner can do after a casualty".** **Why.** A contrarian standalone post, and the strongest opinion piece in the plan. **Copy:**
+**LI-17 (Day 47) — "The worst thing a shipowner can do after a casualty".** **Why.** A contrarian standalone post, and the strongest opinion piece in the plan. **Copy:**
 
 ```
 The worst thing a shipowner can do after a casualty is decide what happened.
@@ -2774,7 +2782,7 @@ What have you seen owners do in that first week?
 
 <a id="e7"></a>
 
-#### Entity E7 — Fifth-wave listings + final NAP audit (Day 50 · Mon 23 Nov · BD–Entity)
+#### Entity E7 — Fifth-wave listings + final NAP audit (Day 50 · BD–Entity)
 
 **Topic.** The last listing push, and the structured case index the pillars have been pointing at for weeks.
 
@@ -2806,7 +2814,7 @@ Related:  [link to the pillar covering this claim type]
 
 <a id="ob5"></a>
 
-#### Outbound O5 — Session 5: the last one (Day 50 · Mon 23 Nov · BD–Entity)
+#### Outbound O5 — Session 5: the last one (Day 50 · BD–Entity)
 
 **Topic.** Five emails, maximum, and the session where the plan's outreach actually asks for something durable.
 
@@ -2852,7 +2860,7 @@ Samudra Adjusting & Marine Insurance Solutions Pte Ltd · UEN 202527553G
 
 <a id="p7"></a>
 
-#### Pillar P7 — "Choosing an Independent Marine Claims Adjuster in Singapore: 9 Questions" (Day 51 · Tue 24 Nov · Content–SEO)
+#### Pillar P7 — "Choosing an Independent Marine Claims Adjuster in Singapore: 9 Questions" (Day 51 · Content–SEO)
 
 **Topic.** The commercial centrepiece, and the highest intended business value in the plan. Feeds **"choosing a marine claims adjuster Singapore"** and prompts 3, 4, 7 and 10.
 
@@ -2906,7 +2914,7 @@ to give.
 
 #### LinkedIn LI-18 and LI-19 (Days 51, 53) — week 8 posts
 
-**LI-18 (Day 51 · Tue 24 Nov) — P7 amplification.** **Why.** The commercial-intent post, in the form that gets saved and sent to a colleague. **Copy:**
+**LI-18 (Day 51) — P7 amplification.** **Why.** The commercial-intent post, in the form that gets saved and sent to a colleague. **Copy:**
 
 ```
 Nine questions to ask before you appoint a marine claims adjuster. The ninth is
@@ -2934,7 +2942,7 @@ are in the first comment.
 Claims manager, broker, or owner: which of the nine would you actually ask?
 ```
 
-**LI-19 (Day 53 · Thu 26 Nov) — the trust post.** **Why.** The strategic post of the plan, and the one the evidence supports. **Copy:**
+**LI-19 (Day 53) — the trust post.** **Why.** The strategic post of the plan, and the one the evidence supports. **Copy:**
 
 ```
 We are not going to publish a marine insurance claims trends chart for 2026.
@@ -2961,7 +2969,7 @@ Industry: how do you tell a real number from a plausible one?
 
 <a id="y6"></a>
 
-#### YouTube Y6 — Long-form: "The 2026/27 International Group P&I Renewal, Explained for Singapore Shipowners" (Day 52 · Wed 25 Nov · Content–SEO)
+#### YouTube Y6 — Long-form: "The 2026/27 International Group P&I Renewal, Explained for Singapore Shipowners" (Day 52 · Content–SEO)
 
 **Topic.** The only long-form video in the plan, and the one aimed at the February 2027 renewal audience. Pairs with T2.
 
@@ -3033,7 +3041,7 @@ SHOT LIST — 16 minutes
 
 <a id="t6"></a>
 
-#### Tactical T6 — "PDPA and GDPR in Marine Claims Handling: A Singapore Practical Guide" (Day 53 · Thu 26 Nov · Content–SEO)
+#### Tactical T6 — "PDPA and GDPR in Marine Claims Handling: A Singapore Practical Guide" (Day 53 · Content–SEO)
 
 **Topic.** The firm's own compliance, described in public. Feeds **"PDPA marine claims Singapore"**.
 
@@ -3076,7 +3084,7 @@ the part that changes how a reader thinks about who can see what.]
 
 <a id="li-week8b"></a>
 
-#### LinkedIn LI-20 (Day 54 · Fri 27 Nov) — "Twelve weeks to renewal"
+#### LinkedIn LI-20 (Day 54) — "Twelve weeks to renewal"
 
 **Why.** The final Friday post, and the one that carries the renewal clock into the new year. **Copy:**
 
@@ -3110,7 +3118,7 @@ Broker or owner: what is on your list before February?
 
 <a id="ai7"></a>
 
-#### AI visibility run #7 (Day 56 · Sun 29 Nov) — the freeze run
+#### AI visibility run #7 (Day 56) — the freeze run
 
 **What to include, in order.**
 1. Re-run the **same 24 prompts on the same 5 engines**, same wording, no edits. **The panel is not changed now — changing it in week 8 destroys the comparability of the entire 60-day dataset.**
