@@ -177,7 +177,7 @@ Each note below answers a question a reader is entitled to ask: why this length,
 
 - **Why forums are included.** AI engines weight human-authored answers as evidence of real expertise. A genuine, fully disclosed answer in the right community is a citable brand mention that no page on your own domain can buy. **Answer the question first, disclose that you work on the product, use one link at most.** Faking grassroots participation is the fastest way to lose both the community and the citation.
 
-- **Why Instagram and Facebook stay in the calendar but are ranked last.** The client asked for all channels, so they are scheduled — but LawMatter sells AML/CTF software to managing partners, legal operations directors and compliance officers, and an Instagram Reel will not acquire that buyer. Facebook and Instagram are therefore **repurposing lanes only**, roughly two posts per week derived from the strongest asset of the week. Paid Meta spend is held at **zero** until the Day 18 check earns it. The [Google Business Profile](#meta-lane) work is conditional on [Q13](#open-questions): a verified profile and a real service address. GBP is the exception worth arguing for, because it is a **search** surface with local intent rather than a social feed — and the event-day photo and video capture is worth keeping regardless, because it cannot be produced in advance. This is stated plainly rather than padded with vanity numbers.
+- **Why Instagram and Facebook stay in the calendar but are ranked last.** The client asked for all channels, so they are scheduled — but LawMatter sells AML/CTF software to managing partners, legal operations directors and compliance officers, and an Instagram Reel will not acquire that buyer. Facebook and Instagram are therefore **repurposing lanes only**, roughly two posts per week derived from the strongest asset of the week. Paid Meta spend is held at **zero** until the Day 18 check earns it. The [Google Business Profile](#meta-lane) work is conditional on open question Q13: a verified profile and a real service address. GBP is the exception worth arguing for, because it is a **search** surface with local intent rather than a social feed — and the event-day photo and video capture is worth keeping regardless, because it cannot be produced in advance. This is stated plainly rather than padded with vanity numbers.
 
 - **Why paid advertising is LinkedIn-first.** LinkedIn is where managing partners, practice managers, legal operations leads and heads of risk actually are. Google Search captures people who are already searching. LinkedIn Sponsored Content and Message Ads create the demand; Google captures it.
 
@@ -227,7 +227,7 @@ These nine rules are the reason this plan can be executed by someone who has nev
 4. **Speaker names are re-verified twice**, on Day 24 and Day 29, and never published in the gap between verification and sending. This is not paranoia. `about.md` records **Gary Adler of MinterEllison** as a named speaker, and he **does not appear on the organiser's current page**. Speaker line-ups change.
 5. **Never state a penalty, a threshold or a date that has not been read off a primary source during this sprint.** Specifically flagged as unverified in `about.md` and therefore banned until confirmed: the **seven-year record retention period**, the **31 March 2027** first annual compliance report date, and **any penalty amount**.
 6. **No claims about maturity, reliability or completeness.** Comply.LM is a beta. No "reliable", "secure", "complete", "fully compliant", "trusted by", customer counts, testimonials, logos, awards or case studies. None of these exist, and none may be implied.
-7. **No comparative claims about competitors without a signed-off differentiator (Q5).** A competitor's own marketing numbers are *their* claims: LEAP's "existing processes get firms about 60% of the way" and AML Comply's "ready in under 45 minutes" may be **quoted and attributed to them**, but never restated as fact or used as a comparison baseline. Never characterise a competitor's product quality, coverage or accuracy.
+7. **No comparative claims about competitors without a signed-off differentiator (open question Q5).** A competitor's own marketing numbers are *their* claims: LEAP's "existing processes get firms about 60% of the way" and AML Comply's "ready in under 45 minutes" may be **quoted and attributed to them**, but never restated as fact or used as a comparison baseline. Never characterise a competitor's product quality, coverage or accuracy.
 8. **No invented people, dates, numbers or customer stories.** Not in a placeholder, not in an example, not in a "hypothetical". Placeholders are written in square brackets and are never filled with a plausible-sounding value.
 9. **Invention is treated as a defect, not a rounding error.** One unsourced number in a published asset is an incident: pull the asset, find every other asset that shares the number, correct all of them, and log it in the Day 46 report.
 
@@ -268,7 +268,7 @@ These nine rules are the reason this plan can be executed by someone who has nev
 | Additional AML user licences A$58/month | As above | complylm.com.au/pricing | `Verified 29 Sep 2026` | B10 |
 | Capability claims: audit-ready by default, RAG dashboard, KYB/KYC on autopilot, AU-hosted storage, all-in-one repository, guided AUSTRAC steps, AI Query on all plans | Use site wording; **no speed or accuracy quantification** without product data | complylm.com.au | `Verify wording with Founder Day 5` | All ads |
 | "Minutes not weeks" onboarding | **Only with Founder-supplied product data.** Currently a site claim, not a measured outcome | complylm.com.au banners | **Unverified — blocked** | Every ad using speed claims |
-| "AUSTRAC compliant" / "AUSTRAC-aligned at launch" | `[Q1 — awaiting approved wording]` | — | **Blocked** | All paid and partner assets |
+| "AUSTRAC compliant" / "AUSTRAC-aligned at launch" | `[Open question Q1 — awaiting approved wording]` | — | **Blocked** | All paid and partner assets |
 | Trust, customers, testimonials, logos, awards, headcount, founders | **NONE EXIST — never used** | about.md §1 "Not publicly found" | **Prohibited** | — |
 | ABN 52 696 453 433 | Print only after Q11 confirms registry status | about.md §1 | **Unverified** | Footer, schema, event page |
 
@@ -297,7 +297,7 @@ These nine rules are the reason this plan can be executed by someone who has nev
 | 5. Privacy Act 1988 | Forms have a clear privacy notice, a purpose statement, and consent where required. Collection is minimised. | Founder initials + Q10 |
 | 6. Spam Act 2003 | Every send has a consent basis, accurate sender identification, a working unsubscribe and a physical address footer. The suppression list is honoured. | Paid–Social initials |
 | 7. Event accuracy | Every event fact is re-read from the organiser's page on the day of publication. Speaker names appear only if they are on the page that day. | Founder initials + screenshot |
-| 8. Competitor references | No comparative claim without a signed-off Q5. Competitor quotes are attributed, never adopted. | Founder initials |
+| 8. Competitor references | No comparative claim without a signed-off open question Q5. Competitor quotes are attributed, never adopted. | Founder initials |
 | 9. Brand | Dark navy and near-black technology look, cyan and teal accents, site theme `#1E2A38`, no stock photography of generic lawyers, no AI-generated people, Australian English (organisations, modernising, behaviour, licence, practise as a verb). | Owner initials |
 | 10. Links and calls to action | Exactly one call to action per asset. Event assets use "Register your interest". Product assets use "Book a demo". Never both. | Owner initials |
 
@@ -385,15 +385,15 @@ utm_term      = (google search only) <exact matched/typed query>
 | 1 | 30 Sep 2026 | Wed | Tech–GEO + Founder | [Technical fixes A: canonical, schema, article markup](#p1-fixes-a) |  |  |  |  |  |  |  |  | [Day-1 AI-citation baseline](#p1-baseline) | **Foundation opens.** Record "no mention" honestly. |
 | 2 | 01 Oct 2026 | Thu | Tech–GEO | [Schema B: SoftwareApplication, Offer, FAQPage, WebApplication](#p1-schema-b) |  |  |  |  |  |  |  |  |  | Fix `llms.txt` plan-name error [same day](#p1-llmstxt) — it is a public, citable, wrong file. |
 | 3 | 02 Oct 2026 | Fri | Tech–GEO | [The Event Entity page + Event schema](#p1-event-entity) · [GSC + sitemap + indexing](#p1-gsc) |  |  |  |  |  |  |  |  |  | Highest-leverage day of Phase 1. |
-| 4 | 03 Oct 2026 | Sat | Founder + Paid–Social |  |  |  |  |  |  |  |  |  |  | [Claims Ledger + open questions](#p1-claims) (Founder) · [Tracking & conversions](#p1-tracking) (Paid–Social). **Q1, Q6, Q8, Q9, Q10 due.** |
-| 5 | 04 Oct 2026 | Sun | Content–SEO + Tech–GEO |  | [Week-2 content drafting](#p1-drafting) |  |  |  |  |  |  | [Q13 verify](#gate-18): exists, verified, real service address |  | Q2, Q11 due. Every drafted claim pre-checked against the ledger. **Q13 (GBP exists + real address?) due** — the [Meta lane](#meta-lane) needs it on Day 5 |
-| 6 | 05 Oct 2026 | Mon | Founder + all |  |  |  |  |  |  |  |  |  |  | **[PHASE 1 GATE — GO/NO-GO](#gate-6)**. Q12 budget set. Funnel inputs set. |
+| 4 | 03 Oct 2026 | Sat | Founder + Paid–Social |  |  |  |  |  |  |  |  |  |  | [Claims Ledger + open questions](#p1-claims) (Founder) · [Tracking & conversions](#p1-tracking) (Paid–Social). **Open questions Q1, Q6, Q8, Q9 and Q10 due.** |
+| 5 | 04 Oct 2026 | Sun | Content–SEO + Tech–GEO |  | [Week-2 content drafting](#p1-drafting) |  |  |  |  |  |  | [Open question Q13 verified](#gate-18): exists, verified, real service address |  Open questions Q2 and Q11 due. Every drafted claim pre-checked against the ledger. **Open question Q13 (a verified GBP exists + real address?) due** — the [Meta lane](#meta-lane) needs it on Day 5 |
+| 6 | 05 Oct 2026 | Mon | Founder + all |  |  |  |  |  |  |  |  |  |  | **[PHASE 1 GATE — GO/NO-GO](#gate-6)**. Open question Q12 (budget figures) set. Funnel inputs set. |
 | 7 | 06 Oct 2026 | Tue | Content–SEO + Paid–Social |  | Publish [B1 Tranche 2 Compliance Checklist](#b1) | [Teaser #1](#li-teaser-1) | [Short #1](#v-short-1) | [EDM #1 Invitation](#e1) | EOI page live · Paid ON |  |  |  |  | First day the machine runs. |
 | 8 | 07 Oct 2026 | Wed | Paid–Social + Tech–GEO |  |  | [Carousel #1](#li-carousel-1) |  | [Outbound wave 1](#out-1) (wave sends) |  |  |  |  | [AI-citation spot-check #1](#p1-baseline) |  |
 | 9 | 08 Oct 2026 | Thu | Content–SEO + Paid–Social |  | Publish [B2 What Is a Tranche 2 DSP](#b2) | [Post #2](#li-post-2) |  | Outbound touch 2 |  |  |  |  |  |  |
-| 10 | 09 Oct 2026 | Fri | Paid–Social + Tech–GEO |  |  |  | [YouTube #1](#yt-1) + [Short #2](#v-short-2) | [Exec post #1](#li-exec-1) · [Forum wave 1](#forum-1) |  |  |  | **Event post** — two weeks out, CTA-button link |  | Fill tracker; 15-min review. **GBP Event post live if Q13 = yes** ([Meta lane](#meta-lane)) — two weeks out, Google needs the lead time. |
+| 10 | 09 Oct 2026 | Fri | Paid–Social + Tech–GEO |  |  |  | [YouTube #1](#yt-1) + [Short #2](#v-short-2) | [Exec post #1](#li-exec-1) · [Forum wave 1](#forum-1) |  |  |  | **Event post** — two weeks out, CTA-button link |  | Fill tracker; 15-min review. **GBP Event post live if open question Q13 answers yes** ([Meta lane](#meta-lane)) — two weeks out, Google needs the lead time. |
 | 11 | 10 Oct 2026 | Sat | Paid–Social |  |  |  |  |  |  | [Meta #1](#meta-1) carousel 9 + Stories ×2 | [Meta #1](#meta-1) document |  |  | **9-slide Tranche 2 checklist re-cut.** Caption, hashtags, prompt and footer are in the [Meta #1](#meta-1) brief. Weekend — lightest channel day. |
-| 12 | 11 Oct 2026 | Sun | Founder |  |  |  |  |  |  |  |  |  |  | [Rest / catch-up](#gate-18). Q3, Q4, Q7 due. Analytics pull. |
+| 12 | 11 Oct 2026 | Sun | Founder |  |  |  |  |  |  |  |  |  |  | [Rest / catch-up](#gate-18). Open questions Q3, Q4 and Q7 due. Analytics pull. |
 | 13 | 12 Oct 2026 | Mon | Content–SEO + Paid–Social |  | Publish [B3 Appointing an AML/CTF Officer](#b3) | [Teaser #2](#li-teaser-2) | [Short #3](#v-short-3) |  | Paid optimised against Day 8 data |  |  |  |  |  |
 | 14 | 13 Oct 2026 | Tue | Paid–Social |  |  | [Carousel #2](#li-carousel-2) |  | [EDM #2 Topic-led](#e2) · [Outbound wave 2](#out-2) |  |  |  |  |  |  |
 | 15 | 14 Oct 2026 | Wed | Content–SEO + Tech–GEO |  | Publish [B4 LPP and AUSTRAC reporting](#b4) | [Post #3](#li-post-3) |  |  | [AI-citation spot-check #2](#gate-18) |  |  |  |  |  |
@@ -401,7 +401,7 @@ utm_term      = (google search only) <exact matched/typed query>
 | 17 | 16 Oct 2026 | Fri | Founder + Paid–Social |  |  | [Exec post #2](#li-exec-2) |  |  | [PR pitch to legal media](#pr-1) |  |  | Update |  | Original 16 Oct campaign window opens |
 | 18 | 17 Oct 2026 | Sat | Founder + all |  |  |  |  |  |  | [Meta #2](#meta-2) Stories ×4 (feed rests) |  |  | [MID-RAMP CHECK — Day 18](#gate-18) | **Spend-shift decision made here — the gate above. Paid Meta only; it does not touch this lane.** [Meta #2](#meta-2) Stories slot ships. |
 | 19 | 18 Oct 2026 | Sun | Content–SEO |  |  |  |  |  |  |  |  |  |  | Rest / catch-up. No sends. |
-| 20 | 19 Oct 2026 | Mon | Content–SEO + Paid–Social |  | Publish [B5 Vendor due diligence checklist](#b5) | [Teaser #3](#li-teaser-3) | [Short #4](#v-short-4) |  |  |  |  |  |  | **Q5 differentiators due** for B10 |
+| 20 | 19 Oct 2026 | Mon | Content–SEO + Paid–Social |  | Publish [B5 Vendor due diligence checklist](#b5) | [Teaser #3](#li-teaser-3) | [Short #4](#v-short-4) |  |  |  |  |  |  | **Open question Q5 (the three differentiators) due** for B10 |
 | 21 | 20 Oct 2026 | Tue | Paid–Social |  |  | [Carousel #3](#li-carousel-3) |  | [EDM #4 Agenda & speakers](#e4) |  |  |  |  |  | Speaker names only if on the page today |
 | 22 | 21 Oct 2026 | Wed | Content–SEO + Tech–GEO | Refresh [/eligibility-check](https://complylm.com.au/eligibility-check) + /pricing | Publish [B6 Summit preview](#b6) | [Post #4](#li-post-4) |  |  |  |  |  |  |  |  |
 | 23 | 22 Oct 2026 | Thu | Paid–Social |  |  |  | [YouTube #3](#yt-3) | [EDM #5 Last chance, early registration](#e5) |  |  |  |  |  |  |
@@ -422,7 +422,7 @@ utm_term      = (google search only) <exact matched/typed query>
 | 38 | 06 Nov 2026 | Fri | Paid–Social + Tech–GEO |  |  |  |  |  |  |  |  | Update | [Forum wave 2](#forum-2) | Mid-follow-up check |
 | 39 | 07 Nov 2026 | Sat | Paid–Social |  |  |  |  |  |  | [Meta #7](#meta-7) carousel 5 + Stories ×2 | [Meta #7](#meta-7) document |  |  | **[Meta #7](#meta-7) — the honest post.** What LawMatter commits to, not what it claims. |
 | 40 | 08 Nov 2026 | Sun | Content–SEO |  | Refresh weakest 2 pages |  |  |  |  |  |  |  |  | Rest. |
-| 41 | 09 Nov 2026 | Mon | Content–SEO + Paid–Social |  | Publish [B11 Comparison — behind the gate](#b11) | [Teaser #5](#li-teaser-5) | [Short #8](#v-short-8) |  |  |  |  |  |  | Q5 signed off or B11 does not ship |
+| 41 | 09 Nov 2026 | Mon | Content–SEO + Paid–Social |  | Publish [B11 Comparison — behind the gate](#b11) | [Teaser #5](#li-teaser-5) | [Short #8](#v-short-8) |  |  |  |  |  |  | Open question Q5 signed off, or B11 does not ship |
 | 42 | 10 Nov 2026 | Tue | Paid–Social |  |  |  |  | [EDM #9 Last call for demo](#p4-report) |  |  |  |  |  |  |
 | 43 | 11 Nov 2026 | Wed | Tech–GEO |  |  |  |  |  |  |  |  |  | [Day-43 AI-citation re-test](#p4-retest) | Identical query set to Day 1 |
 | 44 | 12 Nov 2026 | Thu | Tech–GEO + Paid–Social |  |  |  |  |  |  |  |  |  | [Full analytics pull](#p4-analytics) | GSC, GA4, YouTube, paid, CRM |
@@ -447,7 +447,7 @@ utm_term      = (google search only) <exact matched/typed query>
 
 **If a brief does not follow that shape, that is a problem with the brief, not with you.** Raise it rather than improvising, because the missing part is usually where the claim discipline lives.
 
-**Copy blocks are copy.** Any text shown inside a block quote is the wording to publish, not a suggestion. Bracketed placeholders — `[ORGANISER URL]`, `[Q7]`, `[TRACKED LINK]` — are unfilled facts, and each one is a blocker, not a blank to tidy before launch.
+**Copy blocks are copy.** Any text shown inside a block quote is the wording to publish, not a suggestion. Bracketed placeholders — `[ORGANISER URL]`, open question Q7, `[TRACKED LINK]` — are unfilled facts, and each one is a blocker, not a blank to tidy before launch.
 
 ---
 
@@ -660,7 +660,7 @@ context I know — but the above stands on its own."]
 
 **What to do, step by step:**
 
-1. **Build the query set.** Ten queries, phrased the way a buyer would type them, with no brand names.
+1. **Build the query set.** Ten queries, phrased the way a buyer would type them, with no brand names. **These ten are numbered Q1 to Q10, and they are not the same numbering as the thirteen open questions Q1 to Q13.** Throughout this document a *baseline query* always means one of the ten below, and an *open question* always means one of the thirteen client decisions. The distinction matters, because both are called Q and the two lists contain overlapping numbers.
 
 | # | Query | What it tests |
 |---|---|---|
@@ -685,7 +685,7 @@ context I know — but the above stands on its own."]
 
 6. **Read the "cited instead" column carefully.** It is the actual editorial instruction for the content plan: it shows which domains AI engines already treat as authoritative on this topic, and therefore which of them to study and cite.
 
-**The spot-checks on Days 8, 15 and 29** run Q1, Q3 and Q6 only, log the difference, and take ten minutes.
+**The spot-checks on Days 8, 15 and 29** run only three of the ten: *AML/CTF compliance software for Australian law firms* (Q1), *Tranche 2 compliance checklist for law firms* (Q3), and *LawTech AI Summit 2026 Sydney* (Q6), log the difference, and take ten minutes.
 
 **Day 43** re-runs all fifty, identically. The difference is the headline result.
 
@@ -712,7 +712,7 @@ context I know — but the above stands on its own."]
 
 1. **Absolute canonicals sitewide.** Every page's canonical becomes an absolute URL, for example `https://complylm.com.au/pricing`. Confirm the 301 behaviour is unchanged (verified working: `http://` to apex, `www` to apex).
 
-2. **Rebuild the homepage `Organization`.** Required properties: `@id` (`https://complylm.com.au/#organization`), `name`, `url` as an absolute URL, `logo` as an absolute URL with real dimensions, `description`, and `sameAs` — **only for profiles that actually exist**. Do not invent LinkedIn, X, Crunchbase or YouTube URLs; either create them or omit them. Add `foundingDate`, `numberOfEmployees` and `address` **only if Q3 answers them.** Add the ABN only once Q11 confirms registry status. Note that **`Comply.LM` is the product, not the organisation** — see step 3.
+2. **Rebuild the homepage `Organization`.** Required properties: `@id` (`https://complylm.com.au/#organization`), `name`, `url` as an absolute URL, `logo` as an absolute URL with real dimensions, `description`, and `sameAs` — **only for profiles that actually exist**. Do not invent LinkedIn, X, Crunchbase or YouTube URLs; either create them or omit them. Add `foundingDate`, `numberOfEmployees` and `address` **only if open question Q3 — founder name, team size, base and founding date — answers them.** Add the ABN only once open question Q11 confirms the ABN's registry status. Note that **`Comply.LM` is the product, not the organisation** — see step 3.
 
 3. **Add `SoftwareApplication` for Comply.LM** as a separate entity from the organisation. `@type: SoftwareApplication`, `applicationCategory: BusinessApplication`, `operatingSystem: Web`, `name: Comply.LM`, `url`, a `description` using the site's own wording, `offers` pointing at the pricing page, and `isAccessibleForFree: false`. **Put the beta status into the description field.** The schema is machine-read, so the disclosure has to exist in the machine-read version too, not only on the visible page.
 
@@ -803,7 +803,7 @@ context I know — but the above stands on its own."]
 
 **What result we expect.** A live, indexed, schema-valid page that attributes the event to Lawyers Weekly as organiser, links out to the organiser prominently, and is reachable from at least two other pages on the site. Indexed in Google Search Console on the day it ships.
 
-**Where the facts come from.** Every event fact on the page is copied from `lawyersweekly.com.au/lawtech-ai/` on the day of writing, attributed to the organiser. Speakers are populated only on Day 25, from that day's screenshot. Start time, street address and the registration URL come from Q7 and Q8, or the field is omitted. The event's `organizer` field names Lawyers Weekly because that is who runs it — attributing it to LawMatter would be a factual error in structured data, not a nicety.
+**Where the facts come from.** Every event fact on the page is copied from `lawyersweekly.com.au/lawtech-ai/` on the day of writing, attributed to the organiser. Speakers are populated only on Day 25, from that day's screenshot. Start time, street address and the registration URL come from open question Q7 (who staffs the LawMatter presence on 30 October) and open question Q8 (whether the partner badge, banner and logo are cleared for use on our own channels), or the field is omitted. The event's `organizer` field names Lawyers Weekly because that is who runs it — attributing it to LawMatter would be a factual error in structured data, not a nicety.
 
 **What to do, in order:**
 
@@ -812,11 +812,11 @@ context I know — but the above stands on its own."]
 2. **First sentence, answer-first and non-negotiable:**
    > LawMatter is an Event Partner of the Lawyers Weekly LawTech: AI Summit 2026, an executive forum for managing partners, legal operations leaders and C-suite executives in Australian legal practice, held on Friday 30 October 2026 at the Hyatt Regency, Sydney.
 
-3. **Add `Event` schema.** Properties: `name` — "Lawyers Weekly LawTech: AI Summit 2026 — The Modern Firm & AI" · `startDate` `[2026-10-30T09:00:00+11:00 — CONFIRM WITH Q7, do not assume a start time]` · `endDate` `[CONFIRM]` · `eventStatus: EventScheduled` · `eventAttendanceMode: OfflineEventAttendanceMode` · `location` → `Place` → `Hyatt Regency, Sydney` with `address` `[CONFIRM exact address]` · `image` · `description` · **`organizer`: `Organization` with `name: "Lawyers Weekly"`, `url: https://www.lawyersweekly.com.au/`, and an `@id`** — **attribute the event to its organiser, not to LawMatter** · `offers` → `Offer` with `price: "0"`, `priceCurrency: "AUD"`, `availability: LimitedAvailability`, and `url` set to the organiser's registration URL (only if Q8 permits) · `isAccessibleForFree: true` (the organiser states it is complimentary) · `performer`/`speaker` — see step 6.
+3. **Add `Event` schema.** Properties: `name` — "Lawyers Weekly LawTech: AI Summit 2026 — The Modern Firm & AI" · `startDate` `[2026-10-30T09:00:00+11:00 — CONFIRM WITH open question Q7, do not assume a start time]` · `endDate` `[CONFIRM]` · `eventStatus: EventScheduled` · `eventAttendanceMode: OfflineEventAttendanceMode` · `location` → `Place` → `Hyatt Regency, Sydney` with `address` `[CONFIRM exact address]` · `image` · `description` · **`organizer`: `Organization` with `name: "Lawyers Weekly"`, `url: https://www.lawyersweekly.com.au/`, and an `@id`** — **attribute the event to its organiser, not to LawMatter** · `offers` → `Offer` with `price: "0"`, `priceCurrency: "AUD"`, `availability: LimitedAvailability`, and `url` set to the organiser's registration URL (only if open question Q8 permits) · `isAccessibleForFree: true` (the organiser states it is complimentary) · `performer`/`speaker` — see step 6.
 
 4. **Link out to the organiser** prominently, in the first screen: `https://www.lawyersweekly.com.au/lawtech-ai/` and the organiser's registration page. The organiser is the source of truth; this page points at it rather than reproducing it.
 
-5. **Write the body** in this order: who the summit is for (quoting the organiser's audience description) → the three learning outcomes, quoted from the organiser's "What you will learn" section and attributed → LawMatter's own angle in one paragraph (**the bridge message**, see step 7) → what LawMatter is doing there (Q7) → how to register → a short **Comply.LM** paragraph with a **separate** call to action (compliance gate box 10 — one CTA per asset, see the split below) → an FAQ block of four to six questions with `FAQPage` schema matching the visible text.
+5. **Write the body** in this order: who the summit is for (quoting the organiser's audience description) → the three learning outcomes, quoted from the organiser's "What you will learn" section and attributed → LawMatter's own angle in one paragraph (**the bridge message**, see step 7) → what LawMatter is doing there (open question Q7) → how to register → a short **Comply.LM** paragraph with a **separate** call to action (compliance gate box 10 — one CTA per asset, see the split below) → an FAQ block of four to six questions with `FAQPage` schema matching the visible text.
 
 6. **Speakers.** Use `[SPEAKER NAME]` placeholders in the page, and populate them **only** from the organiser's page, on Day 25, after re-verification. **Do not hardcode a speaker on Day 3.** Currently listed on the organiser's page: Kim Trajer, Iain McGuire, Mary McEachern, Jenae Webb, Lisa Ziegert, Rebecca Kelly. **Gary Adler is not listed — `about.md` is out of date on this. Do not use him.**
 
@@ -831,7 +831,7 @@ context I know — but the above stands on its own."]
 
 11. Submit the URL for indexing in Google Search Console the day it goes live.
 
-**Before you publish — checklist:** the organiser is attributed as `organizer` in schema · every event fact copied from the organiser's page on the day of writing · no speaker hardcoded before Day 25 · start time and address confirmed with Q7, not assumed · the organiser's registration URL used, not a self-hosted form, unless Q8 says otherwise · beta disclosed in any product mention · one CTA per section · the page is linked from at least two other pages · present in `sitemap.xml` and `llms.txt` · indexing requested · the Founder has signed the compliance gate.
+**Before you publish — checklist:** the organiser is attributed as `organizer` in schema · every event fact copied from the organiser's page on the day of writing · no speaker hardcoded before Day 25 · start time and address confirmed with open question Q7, not assumed · the organiser's registration URL used, not a self-hosted form, unless open question Q8 says otherwise · beta disclosed in any product mention · one CTA per section · the page is linked from at least two other pages · present in `sitemap.xml` and `llms.txt` · indexing requested · the Founder has signed the compliance gate.
 
 <a id="p1-gsc"></a>
 
@@ -879,7 +879,7 @@ context I know — but the above stands on its own."]
 
 **Why it matters.** This is the one task in Phase 1 that cannot be delegated and cannot be inferred. If it is done badly, every other asset inherits the error, and the error surfaces in public in a legal publication.
 
-**What result we expect.** Every row has an honest status and a named owner. The product-claim wording is written once, in one place, so that nobody re-invents it per asset. Q1, Q6, Q8, Q9 and Q10 are answered or explicitly deferred with a decision recorded. Everyone who publishes has signed the sourcing rules in writing.
+**What result we expect.** Every row has an honest status and a named owner. The product-claim wording is written once, in one place, so that nobody re-invents it per asset. open questions Q1, Q6, Q8, Q9 and Q10 are answered or explicitly deferred with a decision recorded. Everyone who publishes has signed the sourcing rules in writing.
 
 **Where the facts come from.** Each row's source column names the page it was read from: AUSTRAC for regulatory facts, the live Comply.LM site for product and pricing facts, the organiser's page for event facts, and `about.md` for anything client-supplied. A row is marked `Verified` only if a named person has personally read it on the primary source. Anything that cannot be sourced becomes `Prohibited`, not "probably fine".
 
@@ -891,15 +891,15 @@ context I know — but the above stands on its own."]
 
 3. **Add the missing rows for your own product claims.** Every capability listed on the site gets a row with its exact approved wording. Write the wording here, once, so nobody re-invents it per asset.
 
-4. **Answer Q1** (approved AUSTRAC advert wording). This one blocks every paid and partner asset. Get a written answer from the person who owns that decision. If no answer is available, the approved wording is the descriptive one: *"supports your firm's AML/CTF obligations"* and *"built for Australian Tranche 2 designated service providers"* — both already on your own site — and **"AUSTRAC compliant" is not used anywhere.**
+4. **Answer open question Q1** — which advert wording is approved. This one blocks every paid and partner asset. Get a written answer from the person who owns that decision. If no answer is available, the approved wording is the descriptive one: *"supports your firm's AML/CTF obligations"* and *"built for Australian Tranche 2 designated service providers"* — both already on your own site — and **"AUSTRAC compliant" is not used anywhere.**
 
-5. **Answer Q6** (whether the push is optimised for registrations or demonstrations, and whether there is a summit-only offer). If there is a summit-only offer, it needs its own approved terms before it appears in an advert.
+5. **Answer open question Q6** (whether the push is optimised for registrations or demonstrations, and whether there is a summit-only offer). If there is a summit-only offer, it needs its own approved terms before it appears in an advert.
 
-6. **Answer Q8** (whether the Lawyers Weekly partner badge, banner and logo are cleared for use on LawMatter's own channels). If unclear, use **text only** — "Event Partner of the Lawyers Weekly LawTech: AI Summit 2026" — and no logo. Text attribution is almost always permitted; logo reuse is not automatic.
+6. **Answer open question Q8** (whether the Lawyers Weekly partner badge, banner and logo are cleared for use on LawMatter's own channels). If unclear, use **text only** — "Event Partner of the Lawyers Weekly LawTech: AI Summit 2026" — and no logo. Text attribution is almost always permitted; logo reuse is not automatic.
 
-7. **Answer Q9** (whether LawMatter owns a mailing list). This determines whether the EDM briefs are sendable at all, or must be rewritten as paid-media briefs.
+7. **Answer open question Q9** (whether LawMatter owns a mailing list). This determines whether the EDM briefs are sendable at all, or must be rewritten as paid-media briefs.
 
-8. **Answer Q10** (the Privacy Act position on the forms). If the EOI form collects personal information, it needs a privacy notice and a consent basis **before** it goes live, not after.
+8. **Answer open question Q10** (the Privacy Act position on the forms). If the EOI form collects personal information, it needs a privacy notice and a consent basis **before** it goes live, not after.
 
 9. **Get the AUSTRAC and event sourcing rules accepted in writing** by everyone who publishes. Sign the gate.
 
@@ -922,7 +922,7 @@ GATE 10 CTAs           [pass/fail]  Initials: __
 RELEASE: [approved / held — reason]
 ```
 
-**Before you publish — checklist:** every ledger row has an honest status and an owner · product claim wording written once and recorded · Q1, Q6, Q8, Q9 and Q10 answered or explicitly deferred with a decision · the sign-off block above is in the tracker · everyone who publishes has signed the sourcing rules.
+**Before you publish — checklist:** every ledger row has an honest status and an owner · product claim wording written once and recorded · Open questions Q1, Q6, Q8, Q9 and Q10 answered or explicitly deferred with a decision · the sign-off block above is in the tracker · everyone who publishes has signed the sourcing rules.
 
 <a id="p1-tracking"></a>
 
@@ -951,7 +951,7 @@ RELEASE: [approved / held — reason]
 
 4. **Build the daily dashboard** — one sheet, one tab per channel, refreshed at 17:00 AEDT. Minimum rows: spend · impressions · clicks · landing-page views · EOI submissions · demo bookings · cost per EOI · cost per demo.
 
-5. **Set the budget split** (Q12) and load it into each platform. Default proposed if the Founder does not change it: **LinkedIn Sponsored Content and Message Ads A$3,500 · Google Search A$2,000 · Meta retargeting A$500 (held at zero until Day 18).**
+5. **Set the budget split** (open question Q12) and load it into each platform. Default proposed if the Founder does not change it: **LinkedIn Sponsored Content and Message Ads A$3,500 · Google Search A$2,000 · Meta retargeting A$500 (held at zero until Day 18).**
 
 6. **Build the three shift thresholds** and put them in the dashboard as a decision row, not in someone's head. Default proposal, to be confirmed with real cost-per-EOI numbers on Day 6:
    - If **LinkedIn cost per EOI exceeds $[X]** after 30 landing-page sessions → move 30% of the LinkedIn budget to Google Search branded.
@@ -966,7 +966,7 @@ RELEASE: [approved / held — reason]
    - **Google Business Profile:** UTM the CTA-button destination (`utm_source=google&utm_medium=organic&utm_content=gbp-event`). **Read GBP results from the platform's own Performance report, not from GA4** — it is a separate measurement model, calls and direction requests have no GA4 equivalent, and reporting one against the other produces a number that means nothing. Add a separate `GBP (platform-reported, not GA4)` tab to the dashboard so the two are never summed.
    - **One sheet, three new tabs, before the first post goes out.**
 
-**Before you publish — checklist:** all three tags fire and arrive in GA4 · both conversion events tested end to end with a real submission · UTM on every outbound link · dashboard built and populated with Day 1 to Day 3 data · budget loaded per Q12 · shift thresholds written into the dashboard · the tracking gap around organiser-owned registration is documented honestly · **the Instagram bio link is set and UTM-tagged, Facebook page posting rights are confirmed, and the `GBP (platform-reported)` tab exists — before the first Meta post on Day 11** · **Q13 answered and the GBP decision recorded either way.**
+**Before you publish — checklist:** all three tags fire and arrive in GA4 · both conversion events tested end to end with a real submission · UTM on every outbound link · dashboard built and populated with Day 1 to Day 3 data · budget loaded per open question Q12 · shift thresholds written into the dashboard · the tracking gap around organiser-owned registration is documented honestly · **the Instagram bio link is set and UTM-tagged, Facebook page posting rights are confirmed, and the `GBP (platform-reported)` tab exists — before the first Meta post on Day 11** · **Open question Q13 answered, and the GBP decision recorded either way.**
 
 <a id="p1-drafting"></a>
 
@@ -993,7 +993,7 @@ RELEASE: [approved / held — reason]
 
 4. Write the **FAQ blocks** — four to six real questions per post, each matching the visible text exactly.
 
-5. Draft the **LinkedIn and Short copy** that repackages B1, so Day 7's teaser and Short are ready to schedule.
+5. Draft the **LinkedIn and Short copy** that repackages BLOG #1 (the Tranche 2 obligations article), so Day 7's teaser and Short are ready to schedule.
 
 6. Hand the drafts to the Founder for a compliance read. **The read happens on Day 5, not on the publish day.**
 
@@ -1030,7 +1030,7 @@ RELEASE: [approved / held — reason]
 | 10 | GSC + Bing verified; sitemaps submitted; event page indexing requested | GSC UI | ☐ |
 | 11 | Google Ads, LinkedIn and Meta tags fire; both conversion events tested end to end | Test submission | ☐ |
 | 12 | UTMs on every outbound link | Link check | ☐ |
-| 13 | **Claims Ledger built; every asset-usable claim is `Verified`; Q1 answered** | Ledger | ☐ |
+| 13 | **Claims Ledger built; every asset-usable claim is `Verified`; open question Q1 answered** | Ledger | ☐ |
 | 14 | Q12 budget numbers set; funnel inputs set; shift thresholds written | Dashboard | ☐ |
 | 15 | B1, B2, B3 drafted, claim-checked and compliance-read | Tracker | ☐ |
 | 16 | Compliance gate sign-off block in the tracker and understood by all four owners | Tracker | ☐ |
@@ -1068,11 +1068,11 @@ RELEASE: [approved / held — reason]
 
 **What this is.** The foundational article of the whole campaign: a source-attributed checklist of the seven obligations an Australian law firm has had since 1 July 2026, with the first action for each one.
 
-**Why we are doing it.** AI assistants quote checklists. A well-structured, source-attributed, copy-pasteable checklist is the format most likely to be extracted verbatim and attributed back to a domain. This post is the foundation of LawMatter's topical authority on Tranche 2, and every other post in the cluster links back to it. It targets *Tranche 2 compliance checklist for law firms* and *what does a law firm need for AUSTRAC Tranche 2*, and it feeds queries Q2 and Q3 of the [AI-citation baseline](#p1-baseline).
+**Why we are doing it.** AI assistants quote checklists. A well-structured, source-attributed, copy-pasteable checklist is the format most likely to be extracted verbatim and attributed back to a domain. This post is the foundation of LawMatter's topical authority on Tranche 2, and every other post in the cluster links back to it. It targets *Tranche 2 compliance checklist for law firms* and *what does a law firm need for AUSTRAC Tranche 2*. It is written to answer two of the ten queries in the [AI-citation baseline](#p1-baseline): baseline query Q2 ("what does a law firm need for Tranche 2 AUSTRAC obligations"), and baseline query Q3 ("Tranche 2 compliance checklist for law firms").
 
 **Why it matters.** If only one asset in this campaign is cited by an AI assistant, it should be this one. It is also the asset the outbound sequence sends, the asset the emails hand over, and the asset the demonstration is built around. Its credibility therefore carries more weight than any advert in the plan.
 
-**What result we expect.** Indexed within the first week, cited in at least one of the Day 15 or Day 29 spot-checks for Q3, and used as the destination for outbound touch 2, EDM #2 and every product-adjacent call to action.
+**What result we expect.** Indexed within the first week, cited in at least one of the Day 15 or Day 29 spot-checks for baseline query Q3 ("Tranche 2 compliance checklist for law firms"), and used as the destination for outbound touch 2, EDM #2 and every product-adjacent call to action.
 
 **Where the facts come from.** The obligations and the compliance-officer requirement come from the Law Society of Tasmania in `about.md`, and **must be re-read on AUSTRAC's own pages and cited to AUSTRAC in the body.** The suspicious matter report timelines (24 hours and 3 business days) and the record-retention period are **blocked** in the [Claims Ledger](#claims-ledger) until confirmed on AUSTRAC.
 
@@ -1122,7 +1122,7 @@ RELEASE: [approved / held — reason]
 
 **What result we expect.** The highest open rate of the sprint, a measurable baseline open rate for EDMs #2 to #8, and a subject-line winner identified on Day 8 from the A/B split.
 
-**Where the facts come from.** The event date, venue, audience description and partner status come from the organiser's page, re-read on the day of sending. The Tranche 2 date comes from the [Claims Ledger](#claims-ledger) row verified on Day 1. Registration URL, physical address and unsubscribe link come from Q8, Q11 and Q9. No speaker is named in this send at all, which removes an entire category of risk from the first impression.
+**Where the facts come from.** The event date, venue, audience description and partner status come from the organiser's page, re-read on the day of sending. The Tranche 2 date comes from the [Claims Ledger](#claims-ledger) row verified on Day 1. Registration URL, physical address and unsubscribe link come from open question Q8 (partner-badge clearance), open question Q11 (the ABN's registry status) and open question Q9 (whether LawMatter owns the mailing list). No speaker is named in this send at all, which removes an entire category of risk from the first impression.
 
 **Subject lines (A/B, send 50/50, pick the winner on Day 8):**
 - A: `Managing partner? This one's for you (30 Oct, Sydney)`
@@ -1144,7 +1144,7 @@ RELEASE: [approved / held — reason]
 >
 > **Register your interest →** `[ORGANISER REGISTRATION URL]`
 >
-> LawMatter Pty Ltd · ABN [ABN — add only after Q11 confirms] · [PHYSICAL ADDRESS FOR SPAM ACT FOOTER]
+> LawMatter Pty Ltd · ABN [ABN — add only after open question Q11 confirms] · [PHYSICAL ADDRESS FOR SPAM ACT FOOTER]
 > [Unsubscribe] · [Privacy notice]
 
 **The daylight saving note.** Australian daylight saving begins on **Sunday 4 October 2026** — the first Sunday in October; verify against business.gov.au. **Every send from Day 7 onward is AEDT (+11:00).** Confirm the scheduling tool is set to Sydney time, not to your machine's local time.
@@ -1172,7 +1172,7 @@ RELEASE: [approved / held — reason]
 
 **Title:** `The 7 Tranche 2 obligations for Australian law firms`
 
-**Before you publish — checklist:** the hook lands in two seconds · subtitles are burned in · the transcript is uploaded · the link is in the first comment · every claim matches B1 · no blocked claim · the compliance gate is signed.
+**Before you publish — checklist:** the hook lands in two seconds · subtitles are burned in · the transcript is uploaded · the link is in the first comment · every claim matches the BLOG #1 wording · no blocked claim · the compliance gate is signed.
 
 <a id="li-teaser-1"></a>
 
@@ -1213,7 +1213,7 @@ RELEASE: [approved / held — reason]
 #### LINKEDIN CAROUSEL #1 — "Seven obligations, seven first actions"
 **Owner: Paid–Social. Day 8, Wednesday 7 October.**
 
-**What this is.** The checklist reformatted as a nine-slide LinkedIn document carousel. It feeds the same query as B1, at native LinkedIn format.
+**What this is.** The checklist reformatted as a nine-slide LinkedIn document carousel. It targets the same query as BLOG #1, at native LinkedIn format.
 
 **Why we are doing it.** Working assumption: carousels hold attention longer than text posts, and attention time is the strongest single lever on organic LinkedIn reach. Carousels are also the highest-save, highest-share format for a compliance audience — a managing partner saves one to bring to a team meeting. **Both claims are assumptions from previous campaigns in this repository, not measured findings for this account.** The Day 18 check tests them against real saves and reach data.
 
@@ -1408,13 +1408,13 @@ RELEASE: [approved / held — reason]
 #### BLOG #2 (tactical) — "What Is a Tranche 2 Designated Service Provider?"
 **Owner: Content–SEO. Day 9, Thursday 8 October. Target 1,200 to 1,500 words.**
 
-**What this is.** This is the definitional post of the campaign: a plain-English explanation, aimed at one search query, of who counts as a Tranche 2 designated service provider. The target query is *what is a Tranche 2 designated service provider*, and the post feeds Q2 of the [AI-citation baseline](#p1-baseline).
+**What this is.** This is the definitional post of the campaign: a plain-English explanation, aimed at one search query, of who counts as a Tranche 2 designated service provider. The target query is *what is a Tranche 2 designated service provider*, and it is written to answer one of the ten queries in the [AI-citation baseline](#p1-baseline): baseline query Q2 ("what does a law firm need for Tranche 2 AUSTRAC obligations").
 
 **Why we are doing it.** Definitional queries are the highest-yield AEO format, because an assistant answering "what is X?" needs a definition and can lift a clean one. It is also the exact question every visitor to `/eligibility-check` already has, so this post and that tool reinforce each other.
 
 **Why it matters.** Getting the definition wrong in either direction is the most common error in this market. Too broad and every firm believes it is covered; too narrow and firms that are covered believe they are exempt. Both errors are expensive for the reader, and a definition that AI engines cite is the single most durable asset this campaign can produce.
 
-**What result we expect.** Cited in the Day 15 or Day 29 spot-check for Q2, and used as the landing content for every inbound visit to `/eligibility-check`.
+**What result we expect.** Cited in the Day 15 or Day 29 spot-check for baseline query Q2 ("what does a law firm need for Tranche 2 AUSTRAC obligations"), and used as the landing content for every inbound visit to `/eligibility-check`.
 
 **Where the facts come from.** The definition of "professional designated services" must be read on AUSTRAC's own pages on Day 1 and **their framing used, not ours.** Do not paraphrase AUSTRAC's definition from memory — quote it and cite it. If the quote is too long to use in full, paraphrase and attribute explicitly, and have the Founder check the paraphrase.
 
@@ -1482,7 +1482,7 @@ RELEASE: [approved / held — reason]
 
 **Why it matters.** The compliance officer is the obligation most firms have not thought about, and it is the obligation that creates an internal champion for the product. A reader who follows this post and appoints someone becomes the person who evaluates vendors six months later.
 
-**What result we expect.** Cited in the Day 29 spot-check for Q8, and the origin of the highest-intent form submissions in the plan, because the reader is by definition the buyer.
+**What result we expect.** Cited in the Day 29 spot-check for baseline query Q8 ("how to appoint an AML/CTF compliance officer"), and the origin of the highest-intent form submissions in the plan, because the reader is by definition the buyer.
 
 **Where the facts come from.** The requirement to appoint a compliance officer is recorded in `about.md` via the Law Society of Tasmania, and **must be confirmed on AUSTRAC's own pages before the claim is made.** The five-step appointment process and the sample role description are the plan's own practical guidance, not regulatory text, and are labelled as guidance.
 
@@ -1616,7 +1616,7 @@ RELEASE: [approved / held — reason]
 | # | Question | The data it needs | The decision it produces |
 |---|---|---|---|
 | 1 | Are we indexed? | Google Search Console indexed-page count against Day 1, plus the event page's index status | If the event page is not indexed, escalate today — it is the plan's centrepiece. |
-| 2 | Are we being cited? | AI-citation spot-check #2 — Q1, Q3 and Q6 | If Q6, the summit query, does not return LawMatter at all, content alone will not fix it in 12 days. **Decision: add paid amplification specifically for the event query.** |
+| 2 | Are we being cited? | AI-citation spot-check #2, running baseline query Q1 ("AML/CTF compliance software for Australian law firms"), baseline query Q3 ("Tranche 2 compliance checklist for law firms") and baseline query Q6 ("LawTech AI Summit 2026 Sydney") | If baseline query Q6 ("LawTech AI Summit 2026 Sydney") summit query, does not return LawMatter at all, content alone will not fix it in 12 days. **Decision: add paid amplification specifically for the event query.** |
 | 3 | Is the content working? | Google Search Console impressions, clicks and positions for the 10 tracked queries | Identify the top three and bottom two posts. Refresh or interlink the bottom two. |
 | 4 | Is paid working? | Spend, EOI submissions and cost per EOI by platform | **Apply the three shift thresholds** written into the dashboard on Day 4. Execute the shift, do not debate it. |
 | 5 | Is outbound working? | Wave 1 replies and meetings booked | If the reply rate is under 5% on 40 sends, the personalisation rule is failing — fix the list, not the volume. |
@@ -1716,7 +1716,7 @@ RELEASE: [approved / held — reason]
 #### SHORT #3 — "Appoint the compliance officer"
 **Owners: Paid–Social with Tech–GEO. Day 13, Monday 12 October.**
 
-**What this is.** [B3](#b3) compressed into 30 seconds. Target query: *appoint AML CTF compliance officer*.
+**What this is.** This is the first Short: [BLOG #3](#b3), which explains how to appoint an AML/CTF compliance officer, re-cut into 30 seconds of vertical video. The target query is *appoint AML CTF compliance officer*.
 
 **Why we are doing it.** This is the one Tranche 2 obligation nobody in a small firm has thought about. A short, practical video about an overlooked task travels further than a post about a task everyone already knows.
 
@@ -1781,7 +1781,7 @@ RELEASE: [approved / held — reason]
 
 **Why it matters.** This is the post the last EDMs link to, and the post that makes the summit page rank for a planning query rather than only for the event name. It also gives a reader who will not attend a reason to engage with the brand, which is where most of the pipeline actually comes from.
 
-**What result we expect.** Indexed and cited in the Day 29 spot-check for Q6, and the destination for the final registration emails.
+**What result we expect.** Indexed and cited in the Day 29 spot-check for baseline query Q6 ("LawTech AI Summit 2026 Sydney"), and the destination for the final registration emails.
 
 **Where the facts come from.** Every event fact is re-read from the organiser's page on the day of writing and attributed throughout. The three learning outcomes are quoted or paraphrased with attribution. **Never write as if LawMatter is running the summit.**
 
@@ -1792,7 +1792,7 @@ RELEASE: [approved / held — reason]
 3. **The three learning outcomes**, attributed, paraphrased in plain English.
 4. **"What to think about before you walk in" — five questions for a managing partner.** This is the section that earns the read: a two-page brief a practice leader can use to make the day count. Questions like: *which of our workflows would we automate first, and who signs off? · what is our shadow-software exposure? · if we move to fixed fees, what does our compliance cost base do? · who owns AI risk in our firm — and is it a named person? · what would we have to evidence to a regulator in three years?*
 5. **The compliance thread**, honestly framed: Tranche 2 obligations have applied to Australian law firms since 1 July 2026, and any AI strategy built this year sits on that foundation. **The bridge message lives here.**
-6. **What LawMatter is doing there** — the Q7 answer. If it is "we will be there", say that. Do not imply a speaking slot, a booth or a presentation that has not been confirmed.
+6. **What LawMatter is doing there** — the open question Q7 answer. If it is "we will be there", say that. Do not imply a speaking slot, a booth or a presentation that has not been confirmed.
 7. **FAQ block — five questions**: who it is for · is it complimentary · what registration involves · what a first-time attendee should prioritise · what to bring.
 8. **One CTA** — **"Register your interest"**, pointing to the organiser's URL.
 
@@ -1928,17 +1928,17 @@ RELEASE: [approved / held — reason]
 #### LINKEDIN CAROUSEL #2 — "Twelve questions to ask any AML/CTF vendor"
 **Owner: Paid–Social. Day 14, Tuesday 13 October.**
 
-**What this is.** The carousel companion to [B5](#b5). Target query: *choosing AML compliance software*.
+**What this is.** This is the carousel that runs alongside [BLOG #5](#b5), the buyer's self-evaluation post. It repackages that post's twelve questions as a saveable LinkedIn document carousel. The target query is *choosing AML compliance software*.
 
 **Why we are doing it.** Working assumption from previous campaigns in this repository: "N questions to ask a vendor" is the most-saved LinkedIn format in business-to-business buying, and saves are the strongest organic reach signal on the platform. **This is a hypothesis, not a measured finding for this account** — the Day 18 check tests it against real save data.
 
 **Why it matters.** This carousel and the blog post carry the same content in two formats, so a reader who saves one has a reason to click the other. It is the cheapest amplification the plan contains.
 
-**What result we expect.** The highest save count in the campaign, and a measurable click-through to B5 from the first comment.
+**What result we expect.** The highest save count in the campaign, and a measurable click-through to BLOG #5 (the buyer's self-evaluation post) from the first comment.
 
 **Where the facts come from.** Every question traces to [B5](#b5) and its ledger rows. **No competitor is named or implied** — this is the questions carousel, not the comparison post.
 
-**The fifteen slides:** 1 cover — `12 questions to ask ANY AML/CTF software vendor` / sub: `Yes, including ours` · 2 the frame — `We published ours. Here they are.` · 3–5 **Coverage** (Q1–Q3) · 6–8 **Evidence** (Q4–Q6) · 9–11 **Fits your firm** (Q7–Q9) · 12–14 **Regulatory change** (Q10–Q12) · 15 close — `Full version, with our own answers: link in first comment`.
+**The fifteen slides:** 1 cover — `12 questions to ask ANY AML/CTF software vendor` / sub: `Yes, including ours` · 2 the frame — `We published ours. Here they are.` · 3–5 **Coverage** (questions 1 to 3 of the twelve) · 6–8 **Evidence** (questions 4 to 6) · 9–11 **Fits your firm** (questions 7 to 9) · 12–14 **Regulatory change** (questions 10 to 12) · 15 close — `Full version, with our own answers: link in first comment`.
 
 **Caption:**
 > We spent a few weeks working out what actually separates an AML/CTF platform from a convincing demo.
@@ -2056,7 +2056,7 @@ RELEASE: [approved / held — reason]
 
 **What result we expect.** The highest open rate of the sprint, plus a measurable number of day-of registrations from people who read nothing else.
 
-**Where the facts come from.** Venue and address from the organiser's page, **read on the morning of Day 30.** Start time only if [Q7](#open-questions) has confirmed it — **otherwise omit the line entirely.** No speaker is named.
+**Where the facts come from.** Venue and address from the organiser's page, **read on the morning of Day 30.** Start time only if open question Q7 has confirmed it — **otherwise omit the line entirely.** No speaker is named.
 
 **Subject lines (A/B):** A: `Tomorrow: the LawTech: AI Summit` · B: `30 October · What you need to know` · C: `See you tomorrow at the Hyatt Regency`
 
@@ -2075,14 +2075,14 @@ RELEASE: [approved / held — reason]
 > A few practical things:
 >
 > - Venue: Hyatt Regency, Sydney. `[EXACT ADDRESS — from the organiser's page, today. If they do not publish a street address, say "Hyatt Regency, Sydney" and nothing more.]`
-> - Start time: `[CONFIRM WITH Q7. Do not guess a time. If unknown, omit this line entirely.]`
+> - Start time: `[CONFIRM WITH open question Q7. Do not guess a time. If unknown, omit this line entirely.]`
 > - LawMatter will be there. Come and find us if AML/CTF governance is your thing — that's genuinely the only conversation we'll be having.
 >
 > LawMatter Pty Ltd · [ADDRESS] · [Unsubscribe] · [Privacy notice]
 
 **The one rule for this email:** **no new argument, no new claim, no new offer.** Logistics only.
 
-**Before you publish — checklist:** venue and address from the organiser's page today · **the start time is omitted unless [Q7](#open-questions) has confirmed it** · no speaker named · no new claim introduced · one CTA · no place count · the Spam Act footer is present · compliance gate signed · **scheduled for 16:00 AEDT, not AEST.**
+**Before you publish — checklist:** venue and address from the organiser's page today · **the start time is omitted unless open question Q7 has confirmed it** · no speaker named · no new claim introduced · one CTA · no place count · the Spam Act footer is present · compliance gate signed · **scheduled for 16:00 AEDT, not AEST.**
 
 <a id="b9"></a>
 
@@ -2097,21 +2097,21 @@ RELEASE: [approved / held — reason]
 
 **What result we expect.** Forwards and shares in the final 48 hours, and a measurable click-through to the organiser's registration page.
 
-**Where the facts come from.** The organiser's page, re-read on Day 29 for every logistical fact, and the [Q7](#open-questions) written answer for where LawMatter will be.
+**Where the facts come from.** The organiser's page, re-read on Day 29 for every logistical fact, and the open question Q7 written answer for where LawMatter will be.
 
 **What to include, in order:**
 
 1. **The first sentence** carries the essentials in one line: date, venue, organiser, and what LawMatter's presence is.
 2. **A three-item "what to bring" list:** a question · a specific example from your own practice · a decision you are actually trying to make.
 3. **A five-question list to ask anyone** in the compliance space — deliberately generic, so it is useful whether or not the person is LawMatter. **This is the ethical version of the ambush question and it works better.**
-4. **"Where we'll be"** — the [Q7](#open-questions) answer. If it is a booth, a stand or a person in a corridor, say exactly that. **Do not imply a meeting room, a private consultation slot or a speaking slot that has not been confirmed.**
+4. **"Where we'll be"** — the open question Q7 answer. If it is a booth, a stand or a person in a corridor, say exactly that. **Do not imply a meeting room, a private consultation slot or a speaking slot that has not been confirmed.**
 5. **Registration, clearly attributed to the organisers.**
 6. **No speaker names** unless verified today.
 7. **One CTA** — **"Register your interest"**.
 
 **[NOTE TO WRITER]:** keep it under 900 words. Length here is a miss, not a feature — a pre-event logistics post is consumed on a phone in two minutes.
 
-**Before you publish — checklist:** under 900 words · every logistical fact from the organiser's page today · the [Q7](#open-questions) answer stated exactly as it is · no implied booth, room or speaking slot · no unverified speaker · one CTA · schema complete · compliance gate signed.
+**Before you publish — checklist:** under 900 words · every logistical fact from the organiser's page today · the open question Q7 answer stated exactly as it is · no implied booth, room or speaking slot · no unverified speaker · one CTA · schema complete · compliance gate signed.
 
 <a id="out-3"></a>
 
@@ -2165,7 +2165,7 @@ RELEASE: [approved / held — reason]
 
 **Why it matters.** This is the highest-risk perception asset in the plan. A partner page that reads for a moment like LawMatter's own event is the single error most likely to produce a public correction. The freeze also means nothing changes on Day 30 except what the organiser changes.
 
-**What result we expect.** Every drift corrected the same day, the speaker block populated from today's screenshot or deliberately left empty, logistics added with the start time only if [Q7](#open-questions) confirms it, the schema re-validated, and the page read as a stranger and confirmed to read as a partner page.
+**What result we expect.** Every drift corrected the same day, the speaker block populated from today's screenshot or deliberately left empty, logistics added with the start time only if open question Q7 confirms it, the schema re-validated, and the page read as a stranger and confirmed to read as a partner page.
 
 **Where the facts come from.** The organiser's page, re-read in full today. Any change since Day 25 is recorded as a diff, not silently overwritten.
 
@@ -2174,7 +2174,7 @@ RELEASE: [approved / held — reason]
 1. **Re-read the organiser's page in full, today.** Re-verify: date · venue · audience description · the complimentary, limited and expression-of-interest wording · themes · speakers · registration URL. **Diff against what is on your summit page. Fix any drift the same day.**
 2. **Re-verify the speakers** using the same procedure as [Speaker re-verification #1](#speaker-check-1). If the list has changed again, update the summit page and every asset that names a speaker, in the same sitting.
 3. **Populate the speaker block** on the summit page **only now**, from today's screenshot. Attribute every name and title to the organiser. If no speaker may be named for any reason, the block stays empty and the page ships without it — **that is a valid outcome, not a failure.**
-4. **Add the logistical details** the summit page has been missing: venue, start time `[CONFIRM WITH Q7]`, registration URL, and "LawMatter will be there" as [Q7](#open-questions) allows.
+4. **Add the logistical details** the summit page has been missing: venue, start time `[CONFIRM WITH open question Q7]`, registration URL, and "LawMatter will be there" as open question Q7 allows.
 5. **Check the schema one last time** in the Rich Results Test. `Event` must validate. Confirm `organizer` still points to Lawyers Weekly and that nothing has implied LawMatter is the organiser.
 6. **Re-read the whole page once, as a stranger.** Does it read as a partner's page about someone else's event? If there is any moment where it reads as LawMatter's event, fix it. **This is the single highest-risk perception error in the plan.**
 7. **Freeze.** From this point, no copy changes to the summit page unless the organiser's page changes. Log the freeze with the date.
@@ -2190,7 +2190,7 @@ RELEASE: [approved / held — reason]
 
 **Why it is the strictest gate in the plan.** Every other day has slack. This one does not. A lead-capture form that fails on venue wifi loses the entire day's pipeline. A demo laptop with no audio loses every conversation it was meant to open. So each item below names not just what must be true but **how it is proven**, and most of those proofs are physical tests rather than assurances.
 
-**Where the facts come from.** Every row names the artefact that proves it: a platform screen, a screenshot, a tested device, a written answer to [Q7](#open-questions) or [Q10](#open-questions), a queue review. There is no row in this table satisfied by an assumption.
+**Where the facts come from.** Every row names the artefact that proves it: a platform screen, a screenshot, a tested device, a written answer to open question Q7 or open question Q10, a queue review. There is no row in this table satisfied by an assumption.
 
 | # | Item | Verified how | Pass? |
 |---|---|---|---|
@@ -2198,11 +2198,11 @@ RELEASE: [approved / held — reason]
 | 2 | Summit page live, fact-locked (the Day 25 freeze intact) and indexed | GSC index status | ☐ |
 | 3 | Organiser's page re-read **today**; no drift | Diff | ☐ |
 | 4 | Speakers verified today; every asset consistent | Screenshot + asset sweep | ☐ |
-| 5 | Venue, address and **start time** confirmed ([Q7](#open-questions)) or omitted | Q7 written answer | ☐ |
+| 5 | Venue, address and **start time** confirmed (open question Q7) or omitted | Q7 written answer | ☐ |
 | 6 | EDM #7 scheduled for 16:00 AEDT and previewed | Send test | ☐ |
 | 7 | Outbound wave 3 touches 1–3 scheduled, each personalised, each logged | Send queue review | ☐ |
-| 8 | **On-the-day staffing named** ([Q7](#open-questions)): who is at the stand, who captures leads, who answers technical questions | Names in the tracker | ☐ |
-| 9 | Lead capture ready: tablet or phone, the form, **the consent and privacy notice** ([Q10](#open-questions)), and a tested offline path if venue wifi fails | **Tested on the actual device** | ☐ |
+| 8 | **On-the-day staffing named** (open question Q7): who is at the stand, who captures leads, who answers technical questions | Names in the tracker | ☐ |
+| 9 | Lead capture ready: tablet or phone, the form, **the consent and privacy notice** (open question Q10), and a tested offline path if venue wifi fails | **Tested on the actual device** | ☐ |
 | 10 | Lead scoring rubric agreed — what counts as qualified, hot, nurture | Written rubric | ☐ |
 | 11 | Meeting script rehearsed; demo available on a device with working audio and screen share | **Rehearsed, not assumed** | ☐ |
 | 12 | Printed assets (if any) and the branding bar | Visually approved | ☐ |
@@ -2223,7 +2223,7 @@ RELEASE: [approved / held — reason]
 
 **Why it matters.** The company page and the personal profile are different channels with different jobs, and this lane carries the company-page half of the LinkedIn strategy. Each asset links to a specific blog post or the summit page, which is what moves a LinkedIn reader into a first-party session.
 
-**What result we expect.** The company page as a discovery surface for the summit, and the majority of the campaign's organic LinkedIn click volume into B1–B6.
+**What result we expect.** The company page as a discovery surface for the summit, and the majority of the campaign's organic LinkedIn click volume into the six Tranche 2 blog posts, BLOG #1 to BLOG #6.
 
 **Where the facts come from.** Every regulatory reference is ledger-sourced. Every event fact is verified against the organiser's page on the day of posting.
 
@@ -2237,7 +2237,7 @@ RELEASE: [approved / held — reason]
 | 22 | Standard post | `li-post-4` | **The pre-event thinking prompt.** Five questions to think about before the summit. No persuasion, no event CTA, no pressure. The first three are generic and useful to anyone. Link to [B6](#b6). | **Register your interest** |
 | 26 | Carousel | `li-carousel-2` | **"Seven obligations, seven first actions" is Day 8. This one is: "The five things a managing partner asks us that we can actually answer."** Real questions from real conversations, answered honestly, including two we cannot answer yet. | Book a demo |
 | 27 | Teaser | `li-teaser-4` | **Scarcity opener, sourced scarcity only.** "Four days until the LawTech: AI Summit. The organisers run it as an expression of interest with limited places, which means the real deadline is this week, not Friday." **No place count. No invented deadline.** Link to [B8](#b8). | **Register your interest** |
-| 28 | Carousel | `li-carousel-4` | **"Last week, in five slides"** — logistics as a carousel, because the person deciding this week is scanning on their phone. Slides: 1 cover · 2 what the day is and who it's for, attributed to the organiser · 3 where LawMatter will be, exactly as Q7 says · 4 what to bring (question, example, decision) · 5 registration, attributed. **Speakers only if verified today.** | **Register your interest** |
+| 28 | Carousel | `li-carousel-4` | **"Last week, in five slides"** — logistics as a carousel, because the person deciding this week is scanning on their phone. Slides: 1 cover · 2 what the day is and who it's for, attributed to the organiser · 3 where LawMatter will be, exactly as open question Q7 says · 4 what to bring (question, example, decision) · 5 registration, attributed. **Speakers only if verified today.** | **Register your interest** |
 | 29 | Standard post | `li-post-5` | **The day-before post.** "Tomorrow. If you're going, three things to bring: a question, a specific example, and a decision you're actually trying to make." Purely useful, no argument, no claim. | **Register your interest** |
 
 **The copy rules that apply to all ten:** the query phrase or the claim lands in lines 1–2 · the link goes in the first comment with a UTM · one CTA · no speaker name unless verified that day · no place count, deadline or start time unless sourced from the organiser · no product claim outside the [Claims Ledger](#claims-ledger) · no customer, count, logo or award claim · ends with a question someone in the audience can actually answer · brand template, no stock photography · compliance gate signed.
@@ -2281,7 +2281,7 @@ RELEASE: [approved / held — reason]
 >
 > If that's your problem, come and find us. If it isn't, come anyway — the first two sessions are the part of the programme I'd send anyone to.
 >
-> See you tomorrow. [ONE LINE — e.g. "We'll be by the [LOCATION — Q7]. Come and say hi."]
+> See you tomorrow. [ONE LINE — e.g. "We'll be by the [LOCATION — open question Q7]. Come and say hi."]
 
 **Rules for both.** Written by the Founder, in their own voice, not edited by anyone else · no product claim outside the [Claims Ledger](#claims-ledger) · beta disclosed if the product is mentioned · no customer, count, logo or award claim · no speaker named unless verified that day · one question, not two · one CTA · link in the first comment with a UTM · compliance gate signed.
 
@@ -2314,7 +2314,7 @@ RELEASE: [approved / held — reason]
 #### INSTAGRAM, FACEBOOK AND GOOGLE BUSINESS PROFILE — the repurposing lane
 **Owner: Paid–Social. Days 7–42, roughly two posts per week.**
 
-**What this is.** The week's strongest asset, re-cut for the three surfaces that are ranked **last** in this plan and never originate anything. Posts alternate between Instagram and Facebook, plus a Google Business Profile post wherever the week's asset has a local or on-the-day angle.
+**What this is.** This is the repurposing lane. Once a week we take that week's strongest asset, re-cut it for the three surfaces that are ranked **last** in this plan, and post the same asset to Instagram and Facebook on the same day. We add a Google Business Profile post in that week whenever the source asset has a local or an on-the-day angle. Nothing in this lane is ever written from scratch.
 
 **Why these three are in the plan at all.** They will not acquire the buyer. Comply.LM sells to managing partners, practice managers and compliance officers, and that audience is on LinkedIn and Google, not here. They are here for three honest reasons and no others:
 
@@ -2387,7 +2387,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 | 6 | 32 (Sat) | `meta-fu-recap` | [B9](#b9) | Carousel, 5 things | Document post | 2 frames | Book a demo |
 | 7 | 39 (Sat) | `meta-fu-lessons` | [B9](#b9) + [Carousel — five things we heard](#li-carousel-3) | Carousel, 5 slides | Document post | 2 frames | Book a demo |
 
-**Google Business Profile runs on its own clock, not this one.** GBP is the only search surface in the lane, so it is scheduled off the event date rather than the feed cadence. The **Event post goes live on Day 10**, two full weeks out, because Google needs the lead time to index it and it stays visible through the event. It is then **one Update post per week maximum** — Days 17, 24, 31 and 38 — reusing the same ledger-gated copy with no new claims. Every GBP post puts its link in the **CTA button field**, never the post body. All of it is conditional on [Q13](#open-questions).
+**Google Business Profile runs on its own clock, not this one.** GBP is the only search surface in the lane, so it is scheduled off the event date rather than the feed cadence. The **Event post goes live on Day 10**, two full weeks out, because Google needs the lead time to index it and it stays visible through the event. It is then **one Update post per week maximum** — Days 17, 24, 31 and 38 — reusing the same ledger-gated copy with no new claims. Every GBP post puts its link in the **CTA button field**, never the post body. All of it is conditional on open question Q13.
 
 **The re-cut routine, again, in full, for all seven steps.** Every asset follows the same sequence, so it is restated here rather than left to memory:
 
@@ -2431,7 +2431,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 
 *Alt text, slide 1:* `Carousel cover: "Tranche 2 — 7 obligations, 7 first actions", for Australian law firms and conveyancers, obligations live since 1 July 2026.`
 
-*Checklist:* 9 slides at 4:5 · every claim traced to a ledger row · both blocked claims omitted, not softened · caption answer-first · the bio link points at B1 with a UTM · the Stories sticker is on the last frame · the Facebook link is in the body · alt text on all nine · compliance gate signed.
+*Checklist:* 9 slides at 4:5 · every claim traced to a ledger row · both blocked claims omitted, not softened · caption answer-first · the bio link points at BLOG #1 with a UTM · the Stories sticker is on the last frame · the Facebook link is in the body · alt text on all nine · compliance gate signed.
 
 <a id="meta-2"></a>
 
@@ -2519,7 +2519,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 
 **This is the most time-critical asset in the lane, and it cannot be scheduled more than 48 hours ahead.** Event facts decay. Draft on Day 25, publish on Day 30, and re-verify every event fact against the organiser's page on the morning of Day 30 — the day of the check, not the day of the draft.
 
-*Prompt.* "Design a 5-slide Instagram carousel, 1080×1350 (4:5), dark navy `#1E2A38`, cyan and teal accents, bold white type, no photography, no people. **Slide 1** cover: 'Tomorrow — 3 things to bring to a one-day legal tech summit'. **Slide 2** what the day is and who it is for, attributed to the organiser. **Slide 3** where LawMatter will be, exactly as Q7 says. **Slide 4** what to bring: a question, a specific example, a decision you are actually trying to make. **Slide 5** registration, attributed to the organiser, footer 'Details and registration at Comply.LM · link in bio' plus the wordmark."
+*Prompt.* "Design a 5-slide Instagram carousel, 1080×1350 (4:5), dark navy `#1E2A38`, cyan and teal accents, bold white type, no photography, no people. **Slide 1** cover: 'Tomorrow — 3 things to bring to a one-day legal tech summit'. **Slide 2** what the day is and who it is for, attributed to the organiser. **Slide 3** where LawMatter will be, exactly as open question Q7 says. **Slide 4** what to bring: a question, a specific example, a decision you are actually trying to make. **Slide 5** registration, attributed to the organiser, footer 'Details and registration at Comply.LM · link in bio' plus the wordmark."
 
 *Instagram caption:*
 
@@ -2603,10 +2603,10 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 
 **Google Business Profile — the one surface here with local intent, and it is not a social channel.**
 
-- **Profile first, posts second.** Confirm on Day 5 that a LawMatter or Comply.LM GBP exists, is verified, and has the correct name, category, hours, website, phone and service area. **If no verified profile exists, this lane does not start** — do not create one during the sprint without [Q13](#open-questions), because GBP creation needs a real physical presence and a verification process that will not finish before Day 30. Log it as `direct` and move on.
+- **Profile first, posts second.** Confirm on Day 5 that a LawMatter or Comply.LM GBP exists, is verified, and has the correct name, category, hours, website, phone and service area. **If no verified profile exists, this lane does not start** — do not create one during the sprint without open question Q13, because GBP creation needs a real physical presence and a verification process that will not finish before Day 30. Log it as `direct` and move on.
 - **Event post, published by Day 10** — two weeks out, because Google needs the lead time to index it and it stays visible through the event end date. Type: **Event**. Title: `[LAW-TECH: AI SUMMIT — 30 OCT 2026]`. Start and end date and time from the organiser's page, today, not from memory. Image 720p+ or square/landscape — **a 4:5 Instagram crop gets cut here**, so export a separate GBP asset. CTA button: **`Learn more`**, pointing at the summit page with `utm_source=google&utm_medium=organic&utm_campaign=lawtech-ai-summit&utm_content=gbp-event`. **No URL and no phone number in the post body** — that is a policy breach and the post gets rejected.
 - **What it is worth.** GBP posts drive calls, direction requests and website clicks on a search surface, which is stronger than anything else in this lane. **It is also the only channel here that can surface for a non-branded local-ish search.** It gets a disproportionate share of the effort relative to its size.
-- **The service-area constraint.** A GBP is for a business with a real location. **If LawMatter is a remote or digital business with no verifiable Sydney address, a GBP post is not available and this whole subsection does not apply** — that is what [Q13](#open-questions) is for. Do not invent an address, and do not use a co-working or registered-agent address to qualify. Google removes profiles for exactly this.
+- **The service-area constraint.** A GBP is for a business with a real location. **If LawMatter is a remote or digital business with no verifiable Sydney address, a GBP post is not available and this whole subsection does not apply** — that is what open question Q13 is for. Do not invent an address, and do not use a co-working or registered-agent address to qualify. Google removes profiles for exactly this.
 - **One GBP post per week maximum, Update type in the follow-up weeks** — Days 17, 24, 31 and 38 — with the same copy discipline: no place count, no speaker name, no product claim outside the [Claims Ledger](#claims-ledger). **Never post an Offer post.** There is no offer, and an offer post on a compliance product is the fastest way to look like a spam listing to both Google and a managing partner.
 
 **Standing rules for the whole lane.** Answer or keyword in lines 1–2 · **no URL in an Instagram caption and no "link in bio"** · the Facebook link in the body with a UTM · the GBP link in the CTA button only · three to five hashtags, rotated · alt text on every slide and every GBP image · no speaker name unless verified today · no place count, deadline or start time unless sourced from the organiser today · no product claim outside the [Claims Ledger](#claims-ledger) · no stock photography, no AI faces · Australian English throughout · **never crosspost a watermarked Instagram Reel to Facebook** · compliance gate signed.
@@ -2626,7 +2626,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 | Sector / role | `#LegalCompliance` `#LawFirmManagement` `#LegalTech` `#PracticeManagers` `#Conveyancing` `#LegalOps` |
 | Event | `#LawTechSummit` `#SydneyEvents` |
 | Brand | `#ComplyLM` `#LawMatter` |
-| **Never use** | `#AUSTRACCompliant` — this is the **blocked claim** from [Q1](#open-questions), and a hashtag is a published claim. `#Tranche2Ready` or any implied-compliance variant until [Q1](#open-questions) is answered. `#LawFirmAI` only where a real claim supports it. |
+| **Never use** | `#AUSTRACCompliant` — this is the **blocked claim** from open question Q1, and a hashtag is a published claim. `#Tranche2Ready` or any implied-compliance variant until open question Q1 is answered. `#LawFirmAI` only where a real claim supports it. |
 
 ---
 
@@ -2635,7 +2635,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 #### OUTBOUND WAVE 2 — engaged and registered
 **Owner: Paid–Social. Day 14 (Tuesday 13 October). 50 accounts.**
 
-**What this is.** Everyone who has engaged since Day 7 — a LinkedIn comment, a reply, an email reply, a form start, a summit registration, or a demo enquiry. **Plus 20 new accounts**, so the top of the funnel keeps moving.
+**What this is.** This is outbound wave 2, and it goes to two groups. The first is everyone who has engaged since Day 7 — a LinkedIn comment, a reply, an email reply, a form start, a summit registration, or a demo enquiry. The second is **20 new accounts**, so the top of the funnel keeps moving.
 
 **Why this wave is smaller and warmer.** Engagement is the only reliable prioritisation signal available at zero cost. The same email converts worse to a cold list on Day 14 than it did on Day 8, so the plan deliberately narrows as the event approaches rather than widening.
 
@@ -2670,7 +2670,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 
 **The rule on representation.** LawMatter is a **partner, not the organiser.** Every piece of material, every badge, every spoken introduction says *Event Partner*. The temptation to be the summit's centre of gravity is exactly what gets a partner publicly corrected.
 
-**The run sheet — the hours are `[Q7]` placeholders unless confirmed:**
+**The run sheet — the hours are open question Q7 placeholders unless confirmed:**
 
 | Time | Action | Owner | Output |
 |---|---|---|---|
@@ -2699,7 +2699,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 
 **What to do, before the event — building on the [Day 30 gate](#gate-30):**
 
-1. **The form — minimum viable fields only.** Name · firm · role · work email · **consent checkbox, unticked by default, with a real privacy notice** ([Q10](#open-questions)) · one free-text field: "What is the one thing you need to solve?" That last field is the only one that reliably tells you anything, and it is what makes lead scoring possible at all.
+1. **The form — minimum viable fields only.** Name · firm · role · work email · **consent checkbox, unticked by default, with a real privacy notice** (open question Q10) · one free-text field: "What is the one thing you need to solve?" That last field is the only one that reliably tells you anything, and it is what makes lead scoring possible at all.
 2. **Never capture a card without a lead record, and never a lead record without consent.** If consent is declined, take the conversation and no data.
 3. **The scoring rubric — agreed on Day 30, not on the day:**
 
@@ -2740,7 +2740,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 
 **The verbal-promise discipline.** If you promise something at the summit — a document, a call, a quote — **write it down at the table, in front of them, and name the owner and the date.** Verbal promises made in a conference hall are the single largest source of lost trust in event marketing.
 
-**The "who staffs this" answer ([Q7](#open-questions)).** Whoever is answering, the answer is *LawMatter*. Never invent a role, a title or a seniority for anyone.
+**The "who staffs this" answer (open question Q7).** Whoever is answering, the answer is *LawMatter*. Never invent a role, a title or a seniority for anyone.
 
 <a id="d31-linkedin"></a>
 
@@ -2771,7 +2771,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 #### 48-HOUR ATTENDEE SEQUENCE
 **Owner: Paid–Social. Day 32 (Saturday 31 October) 09:00, Day 33 (Sunday 1 November) 10:00, Day 34 (Monday 2 November) 09:00.**
 
-**What this is.** Three sends to people who had a real conversation on Day 31.
+**What this is.** This is the post-summit follow-up sequence: three sends to the people who had a real conversation with LawMatter on Day 31 itself, aimed at turning event intent into a booked demo.
 
 **Why the window is 24 to 48 hours.** Attention decays fast after an event, and these three sends are the highest-value emails in the plan per recipient.
 
@@ -2893,7 +2893,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 #### EDM #8 — thank you and next step
 **Owner: Paid–Social. Day 35 (Tuesday 3 November), 08:30 AEDT.**
 
-**What this is.** The post-event thank-you to the full list — attendees, no-shows and non-registrants.
+**What this is.** This is the post-event thank-you email, sent to the full list: attendees, no-shows and people who registered but never attended. Everyone on it gets the same reply mechanism, so nobody is left without a route back in.
 
 **Why it is sent now.** The list is at its most engaged point in the 48 hours after the event, and it decays fast. One well-judged send here outperforms three in the month before.
 
@@ -2938,7 +2938,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 #### OUTBOUND WAVE 4 — post-event meetings
 **Owner: Paid–Social. Day 35 (Tuesday 3 November). Hot tier only.**
 
-**What this is.** Three touches over ten days to the Hot-tier summit leads.
+**What this is.** This is the summit-lead nurture, and it is three touches over ten days to the Hot-tier leads who attended the summit and are not yet in a demo conversation.
 
 **Why it is the highest-value pipeline in the plan.** These people gave fifteen minutes on the Saturday, said what their problem was, and were promised something. **The only question this wave answers is whether LawMatter is as good at following up as it was in the room.**
 
@@ -2999,7 +2999,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 
 **This post ships only if all four of these are true on Day 41:**
 
-1. **[Q5](#open-questions) answered and signed off** — three differentiators, in LawMatter's own words, defensible against a competitor's rebuttal.
+1. **open question Q5 answered and signed off** — three differentiators, in LawMatter's own words, defensible against a competitor's rebuttal.
 2. **Founder sign-off on the full text, line by line.**
 3. **Every claim about a competitor is quoted from that competitor's own public page, with a link, and dated.** Nothing is inferred from their marketing copy. No claim about their accuracy, coverage, reliability, customer service or product quality.
 4. **A reviewer who is not a marketer** — the founder, a lawyer, or whoever is closest to the customer — has read it and found it accurate.
@@ -3020,7 +3020,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 
 **[NOTE TO WRITER]:** **never state a competitor's limitation, weakness, gap or failure mode as your own conclusion.** If it appears on their site, quote and link it with a date. If it does not, you do not know it, and saying you do not know is permitted. Competitor performance claims quoted from their marketing are labelled as *their claim*, in those words, with a link.
 
-**Before you publish — checklist (all four gate conditions, plus):** [Q5](#open-questions) signed off · Founder line-by-line sign-off · an independent reviewer has signed off · every competitor cell is a dated link to their own page · no inferred competitor claim anywhere · "where we are weakest" present · "where they are stronger" present and genuine · beta disclosed in the criteria · last-checked date present · one CTA · compliance gate signed.
+**Before you publish — checklist (all four gate conditions, plus):** open question Q5 signed off · Founder line-by-line sign-off · an independent reviewer has signed off · every competitor cell is a dated link to their own page · no inferred competitor claim anywhere · "where we are weakest" present · "where they are stronger" present and genuine · beta disclosed in the criteria · last-checked date present · one CTA · compliance gate signed.
 
 ---
 
@@ -3050,7 +3050,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 
 4. **Report it straight.** If Comply.LM is now cited in 2 of 50 results where it was 0, that is a real result and it is reported as 2. **Do not round it to "significant improvement". Do not cherry-pick the queries that moved.**
 5. **Where it improved** — identify what caused it. This is the actual lesson.
-6. **Where it did not** — say so, and name the most likely reason. "Q6, the summit query, still returns only the organiser's domain" is a finding. Silence is not.
+6. **Where it did not** — say so, and name the most likely reason. "baseline query Q6 ("LawTech AI Summit 2026 Sydney") still returns only the organiser's domain" is a finding. Silence is not.
 7. **Check whether anything was described inaccurately.** AI engines get things wrong. If an engine describes Comply.LM in a way the [Claims Ledger](#claims-ledger) would not approve, that is an item for the next cycle and it goes in the report.
 
 **Checklist:** identical method · all 50 logged · all 50 screenshotted with matching filenames · delta table complete · improvements reported as raw counts, not adjectives · non-improvements named and explained · any inaccurate description logged · tracker row filled.
@@ -3085,7 +3085,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 #### DAY 46 REPORT AND DECISION
 **Owners: Founder with all four. Day 46 (Saturday 14 November).**
 
-**What this is.** The deliverable. **The sprint is not complete until the report is written, circulated, and a decision is recorded.**
+**What this is.** This is the deliverable: the written campaign report, and it is a decision document rather than a summary. **The sprint is not complete until the report is written, circulated, and a decision is recorded.**
 
 **Why the decision is part of the report.** A campaign report with no decision attached is a description, and the next cycle inherits nothing from it.
 
@@ -3098,7 +3098,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 3. **The AI-citation delta table** from [Day 43](#p4-retest), with causes.
 4. **Search results:** indexed pages, the summit page's own performance, positions on the 10 tracked queries, and the three posts that worked and two that did not — **with the reason**.
 5. **Channel verdicts, one line each.** LinkedIn, Google Search, **Google Business Profile**, Meta organic (Instagram and Facebook), paid Meta, email, outbound, forums, YouTube, earned and association, the summit page. For each: **worked / did not work / unmeasurable — and the reason.** Include the channels that did not work: that section is what the next cycle is built from. **The [Meta lane](#meta-lane) verdict is expected to be weak on reach — report it straight, and if it earned nothing, say so, because that is the finding that justifies cutting it next cycle.**
-6. **The budget.** Actual against [Q12](#open-questions), cost per EOI, cost per demo, and whether each shift threshold fired.
+6. **The budget.** Actual against open question Q12, cost per EOI, cost per demo, and whether each shift threshold fired.
 7. **Compliance record.** Assets published, gate sign-offs, **and any incident** — a fabricated or unsourced claim caught in the gate, a stale speaker name, a moderator action, a broken suppression. **State plainly: "N incidents, all caught, all fixed" is a good result. "No incidents" after 46 days of daily publishing is not believable — treat it as a sign the reporting was not honest.**
 8. **What we learned about the buyer.** The strongest section, and the one only available if the leads were actually captured: the free-text answers, the questions that kept coming, the objections that killed deals, the vocabulary people used. **Write down what buyers called things — it is usually not what you called them.**
 9. **The decision.** One of: **continue** (repeat this, unchanged) · **adjust** (name the specific changes) · **expand** (name the specific additions) · **stop** (name why). With the evidence for it.
@@ -3132,7 +3132,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 - **LinkedIn company page and personal profiles** are different channels with different voices. The page posts information; the profile posts judgement. **Never schedule an exec post that reads like a company post** — it halves the reach and the credibility simultaneously. The Founder writes their own posts.
 - **LinkedIn links go in the first comment**, always, on both pages. Put the URL in the post and you lose the reach; put it in the comment and you keep it.
 - **Instagram and Facebook** are repurposing lanes, and the full specification — cadence, captions, hashtags, formats, link mechanics — is the [Meta lane](#meta-lane). Take the week's best asset, reformat, post. Do not originate content for them. No stock photography. If the platform's feed is not a natural fit for a compliance audience, **post the carousel as a document post or do not post** — do not fill the calendar with filler. **The link mechanics differ per platform and getting them wrong is the usual failure:** an Instagram caption URL is not clickable (bio link or Stories sticker only), a Facebook link goes in the post body, and a Google Business Profile link goes in the CTA button field and **never in the post body, which is a policy breach.** Re-export at 4:5 for Instagram — the LinkedIn carousels are square and get cropped.
-- **Google Business Profile** is the one item in the [Meta lane](#meta-lane) that is a **search** surface rather than a social one, and it can surface for a non-branded local query. It is conditional on [Q13](#open-questions) — no verified profile with a real service address, no GBP. Never use a co-working or registered-agent address to qualify. Never post an Offer post: there is no offer.
+- **Google Business Profile** is the one item in the [Meta lane](#meta-lane) that is a **search** surface rather than a social one, and it can surface for a non-branded local query. It is conditional on open question Q13 — no verified profile with a real service address, no GBP. Never use a co-working or registered-agent address to qualify. Never post an Offer post: there is no offer.
 - **YouTube**: the transcript is the asset. Upload corrected captions, not auto-generated. The first 15 seconds are the answer. One CTA. `complylm.com.au` in the description.
 - **Email**: send at 08:30 AEDT for business audiences, Tuesday to Thursday. **AEST/AEDT changes on Sunday 4 October 2026** — after that it is AEDT (+11:00). Confirm the scheduling tool is on Sydney time, not machine time. The day-before email goes at **16:00**, not 08:30.
 - **Forums**: read the rules first, answer first, disclose in the same breath, one link maximum, stay in the thread. **A drive-by answer with no follow-up reads as spam and is treated as such by moderators.**
@@ -3168,10 +3168,10 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 ### Before Day 1 (Day 0)
 
 - [ ] Replace the four placeholder owners with real names at the top of this file.
-- [ ] Answer [Q1](#open-questions), Q6, Q8, Q9, Q10 and Q12 — the six questions that block Day 4.
+- [ ] Answer open question Q1, Q6, Q8, Q9, Q10 and Q12 — the six questions that block Day 4.
 - [ ] Confirm Decision D1: legal-tech vendor only, or also a practising law firm?
-- [ ] Confirm budget numbers ([Q12](#open-questions)). The plan will not invent them.
-- [ ] Get Lawyers Weekly's partner-asset permissions ([Q8](#open-questions)) — badge, logo, banner, and whether you may name individual speakers at all.
+- [ ] Confirm budget numbers (open question Q12). The plan will not invent them.
+- [ ] Get Lawyers Weekly's partner-asset permissions (open question Q8) — badge, logo, banner, and whether you may name individual speakers at all.
 
 ### Accounts, logins and access
 
@@ -3185,8 +3185,8 @@ Verified state as at 29 September 2026, confirmed again on Day 1:
 - [ ] Meta Business Manager + **Pixel (not currently installed)**
 - [ ] Instagram account confirmed, **bio link set and UTM-tagged** — this is the only clickable link on an Instagram feed post ([Meta lane](#meta-lane))
 - [ ] Facebook Page confirmed, posting rights checked (Page versus personal profile)
-- [ ] Google Business Profile: **exists, verified, and has a real service address?** → answer **[Q13](#open-questions)** by Day 5. If no, the GBP subsection is dropped, not improvised.
-- [ ] Email platform (and the **list ownership answer, [Q9](#open-questions)**) plus the EOI form platform
+- [ ] Google Business Profile: **exists, verified, and has a real service address?** → answer **open question Q13** by Day 5. If no, the GBP subsection is dropped, not improvised.
+- [ ] Email platform (and the **list ownership answer, open question Q9**) plus the EOI form platform
 - [ ] YouTube channel — **create or confirm**. If Comply.LM already has one, use it; do not create a second channel.
 - [ ] CRM or spreadsheet for lead capture, scoring and UTM storage
 - [ ] Redirect and short-link tool (Day 30+ short URLs for the summit)
@@ -3205,7 +3205,7 @@ Four items that run alongside the calendar and never get their own row. **Each i
 
 - **Association and directory work** — Australian law society member-benefit listings, specialist legal-technology associations, legal-tech directories. **Zero media cost, exact audience, strong trust signal. Start in Week 2 and keep it going** — this is the highest-return item in the plan that never gets a row in a schedule.
 - **Earned and partner placements** — Lawyers Weekly's own inventory, the 300×600 and 600×100 banners already in production, and the summit EDM assets. **Get the rotation approved on Day 4 so it is live before the Week 3 push.**
-- **Customer proof assembly** — [Q4](#open-questions) (beta firms, any quotable). **If a real, quotable customer exists, the two longest posts in this plan get easier and the comparison question gets smaller.** Chase it from Day 1; it is the highest-leverage unanswered question in the list.
+- **Customer proof assembly** — open question Q4 (beta firms, any quotable). **If a real, quotable customer exists, the two longest posts in this plan get easier and the comparison question gets smaller.** Chase it from Day 1; it is the highest-leverage unanswered question in the list.
 - **A law-reviewer relationship** — a qualified Australian lawyer who will read the [B4](#b4) privilege post and the [B5](#b5) and [B10](#b10) buyer posts before publication. **Required for B4. Very useful for the rest.**
 
 ---
@@ -3245,14 +3245,14 @@ Four items that run alongside the calendar and never get their own row. **Each i
 - **7-year record retention** — `about.md` §7, marked secondary; **prohibited until confirmed on AUSTRAC**
 - **31 March 2027** first annual compliance report date — `about.md` §7, marked partly truncated; **prohibited until confirmed**
 - **Any penalty amount** — **prohibited, no exceptions**
-- "AUSTRAC compliant" / "AUSTRAC-aligned" as advertising claims — **pending [Q1](#open-questions)**
+- "AUSTRAC compliant" / "AUSTRAC-aligned" as advertising claims — **pending open question Q1**
 - "Minutes not weeks" onboarding as a measured outcome — **pending product data from the Founder**
 
 ### Competitor material — attribution only, never adopted
 
 - https://www.leaplegalsoftware.com/au/resources/anti-money-laundering-compliance/ — LEAP's own page; its "existing processes get firms about 60% of the way" is **LEAP's claim**
 - https://www.amlcomply.com.au/ — "ready in under 45 minutes" is **AML Comply's claim**
-- easyAML, ClearAML, SimpleAML, PEXA Clear — named in `about.md` §9 as competitors. **No claim about any of them appears in this plan, and none may be added without [Q5](#open-questions).**
+- easyAML, ClearAML, SimpleAML, PEXA Clear — named in `about.md` §9 as competitors. **No claim about any of them appears in this plan, and none may be added without open question Q5.**
 
 ### Internal
 
