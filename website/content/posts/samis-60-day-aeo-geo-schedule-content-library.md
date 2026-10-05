@@ -1,7 +1,7 @@
 ---
 title: "Samudra Adjusting (samis.com.sg) — Full 60-Day Schedule & Content Library"
-date: 2026-09-29
-lastmod: 2026-09-29
+date: 2026-09-26
+lastmod: 2026-09-30
 tags: ["AEO", "GEO", "AI Search", "average adjusting", "marine insurance", "P&I", "Singapore", "technical SEO", "60-day plan", "content library"]
 categories: ["Samudra Adjusting"]
 summary: "The 60-day AEO/GEO and technical-marketing plan for Samudra Adjusting & Marine Insurance Solutions (samis.com.sg): day-by-day schedule, a click-through library of every deliverable brief, and the Source Ledger that gates every published claim."
