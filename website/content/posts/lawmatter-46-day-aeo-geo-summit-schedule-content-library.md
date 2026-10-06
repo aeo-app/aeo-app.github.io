@@ -664,16 +664,16 @@ context I know — but the above stands on its own."]
 
 | # | Query | What it tests |
 |---|---|---|
-| Q1 | AML/CTF compliance software for Australian law firms | The core commercial query |
-| Q2 | what does a law firm need for Tranche 2 AUSTRAC obligations | The definitional query |
-| Q3 | Tranche 2 compliance checklist for law firms | Whether the utility asset gets cited |
-| Q4 | how to lodge a suspicious matter report Australia | Informational, high-authority |
-| Q5 | AML compliance software for conveyancers | The second segment |
-| Q6 | LawTech AI Summit 2026 Sydney | **The event entity** |
-| Q7 | Lawyers Weekly LawTech AI Summit speakers | **The event entity** |
-| Q8 | how to appoint an AML/CTF compliance officer | Role-targeted |
-| Q9 | vendor due diligence questions AML compliance software | The meta buying query |
-| Q10 | [LAW MATTER BRAND NAME] AML compliance | Branded presence |
+| <a id="baseline-q1"></a>Q1 | AML/CTF compliance software for Australian law firms | The core commercial query |
+| <a id="baseline-q2"></a>Q2 | what does a law firm need for Tranche 2 AUSTRAC obligations | The definitional query |
+| <a id="baseline-q3"></a>Q3 | Tranche 2 compliance checklist for law firms | Whether the utility asset gets cited |
+| <a id="baseline-q4"></a>Q4 | how to lodge a suspicious matter report Australia | Informational, high-authority |
+| <a id="baseline-q5"></a>Q5 | AML compliance software for conveyancers | The second segment |
+| <a id="baseline-q6"></a>Q6 | LawTech AI Summit 2026 Sydney | **The event entity** |
+| <a id="baseline-q7"></a>Q7 | Lawyers Weekly LawTech AI Summit speakers | **The event entity** |
+| <a id="baseline-q8"></a>Q8 | how to appoint an AML/CTF compliance officer | Role-targeted |
+| <a id="baseline-q9"></a>Q9 | vendor due diligence questions AML compliance software | The meta buying query |
+| <a id="baseline-q10"></a>Q10 | [LAW MATTER BRAND NAME] AML compliance | Branded presence |
 
 2. **Run all ten queries in all five engines** — ChatGPT, Gemini, Perplexity, Claude and Copilot. Use a clean session each time, so one answer cannot influence the next. Note the model or version where the interface displays it.
 
@@ -1068,11 +1068,11 @@ RELEASE: [approved / held — reason]
 
 **What this is.** The foundational article of the whole campaign: a source-attributed checklist of the seven obligations an Australian law firm has had since 1 July 2026, with the first action for each one.
 
-**Why we are doing it.** AI assistants quote checklists. A well-structured, source-attributed, copy-pasteable checklist is the format most likely to be extracted verbatim and attributed back to a domain. This post is the foundation of LawMatter's topical authority on Tranche 2, and every other post in the cluster links back to it. It targets *Tranche 2 compliance checklist for law firms* and *what does a law firm need for AUSTRAC Tranche 2*. It is written to answer two of the ten queries in the [AI-citation baseline](#p1-baseline): baseline query Q2 ("what does a law firm need for Tranche 2 AUSTRAC obligations"), and baseline query Q3 ("Tranche 2 compliance checklist for law firms").
+**Why we are doing it.** AI assistants quote checklists. A well-structured, source-attributed, copy-pasteable checklist is the format most likely to be extracted verbatim and attributed back to a domain. This post is the foundation of LawMatter's topical authority on Tranche 2, and every other post in the cluster links back to it. It targets *Tranche 2 compliance checklist for law firms* and *what does a law firm need for AUSTRAC Tranche 2*. It is written to answer two of the ten queries in the [AI-citation baseline](#p1-baseline): [baseline query Q2](#baseline-q2) ("what does a law firm need for Tranche 2 AUSTRAC obligations"), and [baseline query Q3](#baseline-q3) ("Tranche 2 compliance checklist for law firms").
 
 **Why it matters.** If only one asset in this campaign is cited by an AI assistant, it should be this one. It is also the asset the outbound sequence sends, the asset the emails hand over, and the asset the demonstration is built around. Its credibility therefore carries more weight than any advert in the plan.
 
-**What result we expect.** Indexed within the first week, cited in at least one of the Day 15 or Day 29 spot-checks for baseline query Q3 ("Tranche 2 compliance checklist for law firms"), and used as the destination for outbound touch 2, EDM #2 and every product-adjacent call to action.
+**What result we expect.** Indexed within the first week, cited in at least one of the Day 15 or Day 29 spot-checks for [baseline query Q3](#baseline-q3) ("Tranche 2 compliance checklist for law firms"), and used as the destination for outbound touch 2, EDM #2 and every product-adjacent call to action.
 
 **Where the facts come from.** The obligations and the compliance-officer requirement come from the Law Society of Tasmania in `about.md`, and **must be re-read on AUSTRAC's own pages and cited to AUSTRAC in the body.** The suspicious matter report timelines (24 hours and 3 business days) and the record-retention period are **blocked** in the [Claims Ledger](#claims-ledger) until confirmed on AUSTRAC.
 
@@ -1408,13 +1408,13 @@ RELEASE: [approved / held — reason]
 #### BLOG #2 (tactical) — "What Is a Tranche 2 Designated Service Provider?"
 **Owner: Content–SEO. Day 9, Thursday 8 October. Target 1,200 to 1,500 words.**
 
-**What this is.** This is the definitional post of the campaign: a plain-English explanation, aimed at one search query, of who counts as a Tranche 2 designated service provider. The target query is *what is a Tranche 2 designated service provider*, and it is written to answer one of the ten queries in the [AI-citation baseline](#p1-baseline): baseline query Q2 ("what does a law firm need for Tranche 2 AUSTRAC obligations").
+**What this is.** This is the definitional post of the campaign: a plain-English explanation, aimed at one search query, of who counts as a Tranche 2 designated service provider. The target query is *what is a Tranche 2 designated service provider*, and it is written to answer one of the ten queries in the [AI-citation baseline](#p1-baseline): [baseline query Q2](#baseline-q2) ("what does a law firm need for Tranche 2 AUSTRAC obligations").
 
 **Why we are doing it.** Definitional queries are the highest-yield AEO format, because an assistant answering "what is X?" needs a definition and can lift a clean one. It is also the exact question every visitor to `/eligibility-check` already has, so this post and that tool reinforce each other.
 
 **Why it matters.** Getting the definition wrong in either direction is the most common error in this market. Too broad and every firm believes it is covered; too narrow and firms that are covered believe they are exempt. Both errors are expensive for the reader, and a definition that AI engines cite is the single most durable asset this campaign can produce.
 
-**What result we expect.** Cited in the Day 15 or Day 29 spot-check for baseline query Q2 ("what does a law firm need for Tranche 2 AUSTRAC obligations"), and used as the landing content for every inbound visit to `/eligibility-check`.
+**What result we expect.** Cited in the Day 15 or Day 29 spot-check for [baseline query Q2](#baseline-q2) ("what does a law firm need for Tranche 2 AUSTRAC obligations"), and used as the landing content for every inbound visit to [the eligibility checker](https://complylm.com.au/eligibility-check).
 
 **Where the facts come from.** The definition of "professional designated services" must be read on AUSTRAC's own pages on Day 1 and **their framing used, not ours.** Do not paraphrase AUSTRAC's definition from memory — quote it and cite it. If the quote is too long to use in full, paraphrase and attribute explicitly, and have the Founder check the paraphrase.
 
@@ -1482,7 +1482,7 @@ RELEASE: [approved / held — reason]
 
 **Why it matters.** The compliance officer is the obligation most firms have not thought about, and it is the obligation that creates an internal champion for the product. A reader who follows this post and appoints someone becomes the person who evaluates vendors six months later.
 
-**What result we expect.** Cited in the Day 29 spot-check for baseline query Q8 ("how to appoint an AML/CTF compliance officer"), and the origin of the highest-intent form submissions in the plan, because the reader is by definition the buyer.
+**What result we expect.** Cited in the Day 29 spot-check for [baseline query Q8](#baseline-q8) ("how to appoint an AML/CTF compliance officer"), and the origin of the highest-intent form submissions in the plan, because the reader is by definition the buyer.
 
 **Where the facts come from.** The requirement to appoint a compliance officer is recorded in `about.md` via the Law Society of Tasmania, and **must be confirmed on AUSTRAC's own pages before the claim is made.** The five-step appointment process and the sample role description are the plan's own practical guidance, not regulatory text, and are labelled as guidance.
 
@@ -1616,7 +1616,7 @@ RELEASE: [approved / held — reason]
 | # | Question | The data it needs | The decision it produces |
 |---|---|---|---|
 | 1 | Are we indexed? | Google Search Console indexed-page count against Day 1, plus the event page's index status | If the event page is not indexed, escalate today — it is the plan's centrepiece. |
-| 2 | Are we being cited? | AI-citation spot-check #2, running baseline query Q1 ("AML/CTF compliance software for Australian law firms"), baseline query Q3 ("Tranche 2 compliance checklist for law firms") and baseline query Q6 ("LawTech AI Summit 2026 Sydney") | If baseline query Q6 ("LawTech AI Summit 2026 Sydney") summit query, does not return LawMatter at all, content alone will not fix it in 12 days. **Decision: add paid amplification specifically for the event query.** |
+| 2 | Are we being cited? | AI-citation spot-check #2, running [baseline query Q1](#baseline-q1) ("AML/CTF compliance software for Australian law firms"), [baseline query Q3](#baseline-q3) ("Tranche 2 compliance checklist for law firms") and [baseline query Q6](#baseline-q6) ("LawTech AI Summit 2026 Sydney") | If [baseline query Q6](#baseline-q6) ("LawTech AI Summit 2026 Sydney") summit query, does not return LawMatter at all, content alone will not fix it in 12 days. **Decision: add paid amplification specifically for the event query.** |
 | 3 | Is the content working? | Google Search Console impressions, clicks and positions for the 10 tracked queries | Identify the top three and bottom two posts. Refresh or interlink the bottom two. |
 | 4 | Is paid working? | Spend, EOI submissions and cost per EOI by platform | **Apply the three shift thresholds** written into the dashboard on Day 4. Execute the shift, do not debate it. |
 | 5 | Is outbound working? | Wave 1 replies and meetings booked | If the reply rate is under 5% on 40 sends, the personalisation rule is failing — fix the list, not the volume. |
@@ -1781,7 +1781,7 @@ RELEASE: [approved / held — reason]
 
 **Why it matters.** This is the post the last EDMs link to, and the post that makes the summit page rank for a planning query rather than only for the event name. It also gives a reader who will not attend a reason to engage with the brand, which is where most of the pipeline actually comes from.
 
-**What result we expect.** Indexed and cited in the Day 29 spot-check for baseline query Q6 ("LawTech AI Summit 2026 Sydney"), and the destination for the final registration emails.
+**What result we expect.** Indexed and cited in the Day 29 spot-check for [baseline query Q6](#baseline-q6) ("LawTech AI Summit 2026 Sydney"), and the destination for the final registration emails.
 
 **Where the facts come from.** Every event fact is re-read from the organiser's page on the day of writing and attributed throughout. The three learning outcomes are quoted or paraphrased with attribution. **Never write as if LawMatter is running the summit.**
 
@@ -3050,7 +3050,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 
 4. **Report it straight.** If Comply.LM is now cited in 2 of 50 results where it was 0, that is a real result and it is reported as 2. **Do not round it to "significant improvement". Do not cherry-pick the queries that moved.**
 5. **Where it improved** — identify what caused it. This is the actual lesson.
-6. **Where it did not** — say so, and name the most likely reason. "baseline query Q6 ("LawTech AI Summit 2026 Sydney") still returns only the organiser's domain" is a finding. Silence is not.
+6. **Where it did not** — say so, and name the most likely reason. "[baseline query Q6](#baseline-q6) ("LawTech AI Summit 2026 Sydney") still returns only the organiser's domain" is a finding. Silence is not.
 7. **Check whether anything was described inaccurately.** AI engines get things wrong. If an engine describes Comply.LM in a way the [Claims Ledger](#claims-ledger) would not approve, that is an item for the next cycle and it goes in the report.
 
 **Checklist:** identical method · all 50 logged · all 50 screenshotted with matching filenames · delta table complete · improvements reported as raw counts, not adjectives · non-improvements named and explained · any inaccurate description logged · tracker row filled.
