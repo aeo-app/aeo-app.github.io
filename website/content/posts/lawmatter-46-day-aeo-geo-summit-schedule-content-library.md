@@ -516,7 +516,7 @@ utm_term      = (google search only) <exact matched/typed query>
 **What result we expect.** Every day has either a deliverable or an explicit rest day. Rest days are Days 12, 19, 26 and 37. Thirteen blog posts, nine refreshes of existing pages, the event page, three YouTube videos, eight EDMs, five outbound waves and the 150-result panel are scheduled against four owners; the table says plainly that Days 13–24 assume full capacity, and the cut list in [Decision D7](#decision-log) is the escape hatch if it does not hold.
 
 | Day | Date | Wd | Assigned To | SEO / Site / Schema | Blog & Content | LinkedIn | YouTube | Email & Outbound | Paid & Partners | Instagram | Facebook | Google Business Profile | GEO / AI-Citation | Notes / Checkpoint |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | 30 Sep 2026 | Wed | Tech–GEO + Founder | [Technical fixes A: canonical, schema, article markup](#p1-fixes-a) |  |  |  |  |  |  |  |  | [Day-1 AI-citation baseline on K1–K30](#p1-baseline) | **Foundation opens.** 150-result panel. Record "no mention" honestly. |
 | 2 | 01 Oct 2026 | Thu | Tech–GEO | [Schema B: SoftwareApplication, Offer, FAQPage, WebApplication](#p1-schema-b) |  |  |  |  |  |  |  |  |  | Fix `llms.txt` plan-name error [same day](#p1-llmstxt) — it is a public, citable, wrong file. |
 | 3 | 02 Oct 2026 | Fri | Tech–GEO | [The Event Entity page + Event schema](#p1-event-entity) · [GSC + sitemap + indexing](#p1-gsc) |  |  |  |  |  |  |  |  |  | Highest-leverage day. **Add the three sitemap-orphaned blog URLs** (17 live vs 14 in `sitemap.xml`). |
@@ -1908,8 +1908,6 @@ RELEASE: [approved / held — reason]
 **[NOTE TO WRITER]:** **no competitor may be named anywhere in this post, in any form.** No implied comparison, no "competitors don't offer", no unnamed-but-obvious reference. If the post reads as a comparison without naming anyone, that is correct and safe. If it names or clearly implies a named competitor, delete it.
 
 **Before you publish — checklist:** "including us" is in the first sentence · all twelve are answered by LawMatter · every "no" and "not yet" is retained, not softened · no competitor is named or implied · the exit and data-portability question is answered honestly · beta is disclosed · the schema is complete · one CTA · the compliance gate is signed.
-
-<a id="b6"></a>
 
 <a id="b6"></a>
 
