@@ -7,6 +7,8 @@ categories: ["AEO Intel"]
 summary: "The full aeo-app.ai 90-day AEO/GEO content plan in one document: a day-by-day schedule table, all 20 blog prompts, and every carousel/poster brief."
 ---
 
+<p class="pdf-download"><button class="pdf-download-button" type="button" aria-label="Download as PDF" title="Download as PDF" onclick="window.print()"><img src="/images/pdf.png" alt="" aria-hidden="true"></button></p>
+
 Starts: **4 September 2026**. Everything in one downloadable file: the complete day-by-day task table, plus every blog/carousel/poster topic with its full detailed prompt, linked directly from the table below (click any blog task to jump straight to its brief in this same document).
 
 **Ownership key:** 

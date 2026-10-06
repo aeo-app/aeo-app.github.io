@@ -7,6 +7,8 @@ categories: ["LawMatter"]
 summary: "A plain-English operating plan for a 46-day AEO/GEO sprint for Comply.LM (a LawMatter product), built around a fixed panel of 30 long-tail AML/CTF keywords across six segments — lawyers, conveyancers, accountants, real estate, jewellers and general RegTech. Day-by-day schedule from 30 September to 14 November 2026, a library where every deliverable links to its own brief, the keyword-to-asset map, and the Claims Ledger that decides which claims are allowed to publish."
 ---
 
+<p class="pdf-download"><button class="pdf-download-button" type="button" aria-label="Download as PDF" title="Download as PDF" onclick="window.print()"><img src="/images/pdf.png" alt="" aria-hidden="true"></button></p>
+
 ## What this document is
 
 This is the working plan for a 46-day AEO/GEO sprint. The sprint runs from **Wednesday 30 September 2026 (Day 1)** to **Saturday 14 November 2026 (Day 46)**. Its purpose is to make **Comply.LM** the answer Australian AI assistants and search engines give for a fixed panel of **30 long-tail AML/CTF keywords** spread evenly across six buyer segments — lawyers, conveyancers, accountants and bookkeepers, real estate, jewellers and precious goods dealers, and general AML/CTF and RegTech. The Lawyers Weekly LawTech: AI Summit on **Friday 30 October 2026 (Day 31)** is a fixed date inside that window, not the purpose of it.
@@ -46,7 +48,7 @@ These abbreviations are used throughout. They are defined once here rather than 
 | **AEO** | Answer Engine Optimization. The practice of structuring a page so that an AI assistant can quote it directly as the answer to a question. |
 | **GEO** | Generative Engine Optimization. The same goal as AEO, emphasising how a generative model such as ChatGPT, Gemini, Perplexity, Claude or Copilot selects and cites a source. |
 | **AI citation** | The moment an AI assistant names a company or links to its website inside an answer. This is the primary thing this plan is trying to create. |
-| **Tranche 2** | The Australian regulatory reform that extended the anti-money-laundering and counter-terrorism financing regime to lawyers, conveyancers and other professional services providers. Its obligations have applied to law firms since **1 July 2026**. |
+| **Tranche 2** | The Australian regulatory reform that extended the anti-money-laundering and counter-terrorism financing regime to designated services commonly provided by legal professionals, accountants, conveyancers, real estate professionals and dealers in precious metals/stones/products. Its obligations have applied to law firms since **1 July 2026**. |
 | **DSP** | Designated Service Provider. An entity that provides one or more "designated services" and is therefore captured by Tranche 2. |
 | **SMR** | Suspicious Matter Report. A report a covered firm must lodge with AUSTRAC when it has reasonable grounds to suspect suspicious activity. |
 | **TTR** | Threshold Transaction Report. A report required for transfers of A$10,000 or more in physical currency. This threshold is verified; see the [Claims Ledger](#claims-ledger). |
@@ -369,7 +371,7 @@ These nine rules are the reason this plan can be executed by someone who has nev
 
 | Claim | Approved wording | Source | Status | Blocks if unverified |
 |---|---|---|---|---|
-| Tranche 2 extended the regime to legal practitioners from 1 July 2026 | "Since 1 July 2026, legal practitioners providing designated services are covered by the AML/CTF regime." | Law Society of Tasmania; confirm against AUSTRAC | `Verify Day 1` | B1, B2, B3, all EDMs |
+| Tranche 2 scope — which professions are covered from 1 July 2026 | "From 1 July 2026, new AML/CTF laws apply to designated services commonly provided by legal professionals, accountants, conveyancers, real estate professionals and dealers in precious metals/stones/products. AUSTRAC also recognises RegTech providers as part of the compliance ecosystem, but the reporting entity remains responsible for meeting its obligations." | Client-supplied AUSTRAC statement; confirm on `austrac.gov.au` Day 1 | `Verified — client-supplied 6 Oct 2026; re-confirm Day 1` | B1, B2, B3, B5, B7, B8, all EDMs |
 | Must appoint an AML/CTF compliance officer | "Your firm must appoint an AML/CTF compliance officer." | Law Society of Tasmania | `Verify Day 1` | B1, B3, Short #2 |
 | SMR timing | `[HOLD — DO NOT PUBLISH UNTIL READ OFF AUSTRAC]` About.md records 24 hours for terrorism financing and 3 business days otherwise. Confirm on `austrac.gov.au` before use. | AUSTRAC SMR guidance page | **Unverified — blocked** | Any SMR claim in ads/posts |
 | Record retention 7 years | **`PROHIBITED` until confirmed on AUSTRAC** | about.md §7 flags as secondary | **Unverified — blocked** | B4, B5 |
@@ -400,7 +402,7 @@ These nine rules are the reason this plan can be executed by someone who has nev
 | `llms.txt` plan-name error | `llms.txt` lists "Starter, Starter+, Pro, Enterprise"; `/pricing` lists Base, Trio, Penta and Exclusive Contract. Not publishable — it is a fix to make. | complylm.com.au/llms.txt vs /pricing, verified 6 Oct 2026 | `Verified 6 Oct 2026` | Phase-1 `llms.txt` fix |
 | Seamlss positioning | Quote only: "Client Onboarding Software for Accounting Firms" (page title and meta description). | seamlss.com.au, verified 6 Oct 2026 | `Verified 6 Oct 2026` | B13 only |
 | Syntrico claims | Quote only: "Trusted by 500+ Australian Tranche-2 Professional Practices"; Grow A$149/mo, Professional A$399/mo, Ultimate A$899/mo (plus GST); "generate a tailored AML/CTF program in less than 20 minutes"; "AUSTRAC-aligned". | syntrico.com.au, verified 6 Oct 2026 (note: served 403 to curl; content read via a browser fetch) | `Verified 6 Oct 2026` | B13 only; attributed quotes, no superiority claims |
-| LEAP and InfoTrack positioning | Quote only: "LEAP and InfoTrack build compliance into the workflows you already use, so client onboarding, record-keeping and reporting happen as part of the matter, not alongside it." | leaplegalsoftware.com.au/...anti-money-laundering-compliance/, verified 6 Oct 2026 | `Verified 6 Oct 2026` | B13 only |
+| LEAP and InfoTrack positioning | Quote only: "LEAP and InfoTrack build compliance into the workflows you already use, so client onboarding, record-keeping and reporting happen as part of the matter, not alongside it." | leaplegalsoftware.com/au/resources/anti-money-laundering-compliance/ + infotrack.com.au/aml-ctf-compliance-centre/, verified 6 Oct 2026 | `Verified 6 Oct 2026` | B13 only |
 | The 30 keywords | The panel is the client's list, reproduced in [The keyword panel](#keyword-panel). Not a factual claim and needs no source; its *ranking* is the campaign outcome to measure. | Client-supplied 6 Oct 2026 | `Verified — client list` | The whole plan; K1–K30 |
 
 ---
@@ -1635,7 +1637,7 @@ RELEASE: [approved / held — reason]
 6. **How the officer interacts with the AML/CTF program, the risk assessment and training** — one brief section each.
 7. **A sample role description**, in a code block, that the reader can copy.
 8. **FAQ block — five questions.**
-9. **One CTA** — **"Book a demo"**.
+9. **One CTA** — **"Enrol with AUSTRAC"** linking directly to AUSTRAC, with `/eligibility-check` kept as a separate link.
 
 **[NOTE TO WRITER]:** the sample role description must not imply that Comply.LM is required, recommended by any regulator, or necessary for compliance. It is a job description. If the product appears in it at all, it is described as a tool the officer may use, in Claims Ledger wording.
 
@@ -1696,7 +1698,7 @@ RELEASE: [approved / held — reason]
 
 **Title:** `Client Due Diligence for Law Firms: What to Collect and When`
 
-**Description:** answer-first, timestamps, one CTA (**Book a demo**), `complylm.com.au`, UTM. Ten tags.
+**Description:** answer-first, timestamps, one CTA (**"Enrol with AUSTRAC"** linking to AUSTRAC, `/eligibility-check` as a separate link), `complylm.com.au`, UTM. Ten tags.
 
 **Before you publish — checklist:** the answer is in the first 15 seconds · **a corrected transcript is uploaded** · every claim ledger-sourced · no blocked claim · no implied regulatory endorsement · one CTA · timestamps accurate · the compliance gate is signed.
 
@@ -1802,7 +1804,7 @@ RELEASE: [approved / held — reason]
 6. **A "what to document" section** — what a firm should record when it has considered and resolved a reporting question. Practical, and it links to the audit-trail story.
 7. **FAQ block — five questions** matching the visible text exactly.
 8. **A prominent disclaimer, above the fold and repeated at the foot:** general information only, not legal advice; obtain advice on your own circumstances.
-9. **One CTA** — **"Book a demo"**.
+9. **One CTA** — **"Enrol with AUSTRAC"** linking directly to AUSTRAC, with `/eligibility-check` kept as a separate link.
 
 **[NOTE TO WRITER — blocking]:** **do not paraphrase any AUSTRAC rule from memory or from a competitor's blog.** Quote AUSTRAC and link to it. Where you cannot quote, write *"AUSTRAC's guidance on this is here: [link]"* and stop. This post requires: (a) a read of AUSTRAC's legal professional privilege guidance page on Day 14, (b) a review by a qualified Australian lawyer, and (c) Founder sign-off. **Any one of the three missing means it does not publish on Day 15** — slip it to Day 16 rather than shipping it unreviewed.
 
@@ -1903,7 +1905,7 @@ RELEASE: [approved / held — reason]
 5. **A note on beta status** — the reason LawMatter answers some of these with caveats, stated plainly.
 6. **A short section on regulatory due diligence** — checking that a supplier is aligned with AUSTRAC's expectations, with AUSTRAC's own guidance linked and **no compliance claim made on anyone's behalf.**
 7. **FAQ block — six questions** matching the visible text exactly.
-8. **One CTA** — **"Book a demo"**, and the demonstration is positioned as "come and ask us the twelve".
+8. **One CTA** — **"Enrol with AUSTRAC"**, and the demonstration is positioned as "come and ask us the twelve".
 
 **[NOTE TO WRITER]:** **no competitor may be named anywhere in this post, in any form.** No implied comparison, no "competitors don't offer", no unnamed-but-obvious reference. If the post reads as a comparison without naming anyone, that is correct and safe. If it names or clearly implies a named competitor, delete it.
 
@@ -2103,17 +2105,6 @@ RELEASE: [approved / held — reason]
 **What must be true by the end of this week.** Every event fact verified and frozen, every speaker name verified, every paid channel at maximum spend, and the 15-item readiness gate passed with a written GO.
 
 ---
----
-
-# Week 5 — Days 25 to 30 · the "Scarcity" phase (Saturday 24 October to Thursday 29 October)
-
-**What this week is for.** To convert. Paid spend peaks, the sharpest emails land, the outbound sequence lengthens, and the summit page is frozen against factual drift.
-
-**Why scarcity belongs here and not earlier.** Urgency only works on a warm audience, and by Day 25 the audience has received six weeks of sourced material. It is also the last week in which a reader can still act on a countdown: diaries close in the final few days, which is why the day-before email is a logistics email rather than a persuasion email.
-
-**What must be true by the end of this week.** Every event fact verified and frozen, every speaker name verified, every paid channel at maximum spend, and the 15-item readiness gate passed with a written GO.
-
----
 
 <a id="b8"></a>
 
@@ -2139,7 +2130,7 @@ RELEASE: [approved / held — reason]
 5. **Where it genuinely hurts** — a human approving what they have not actually read; a summary that omits the fact that made a matter suspicious. Be genuinely critical of your own category; it is the most credible register available.
 6. **A "what good looks like" list of five practices.**
 7. **FAQ block — five questions**, including "does using AI to assist with compliance reduce my obligations" — answered **no**, and never claiming a regulator has said otherwise.
-8. **One CTA** — **"Book a demo"**. **Not the event.** This post is a product post for a non-attendee audience.
+8. **One CTA** — **"Enrol with AUSTRAC"** linking directly to AUSTRAC, with `/eligibility-check` kept as a separate link. **Not the event.** This post is a product post for a non-attendee audience.
 
 **Before you publish — checklist:** no claim about what a regulator has or has not said about AI · every product feature from the [Claims Ledger](#claims-ledger) · the self-critical section present and genuine · the FAQ includes the "does AI reduce my obligations" question answered as *no* · one CTA, product only · schema complete · compliance gate signed.
 
@@ -2368,13 +2359,13 @@ RELEASE: [approved / held — reason]
 
 | Day | Asset | Slug | Angle and required content | CTA |
 |---|---|---|---|---|
-| 9 | Standard post | `li-post-2` | **The definitional post.** Opens with the definition of a Tranche 2 designated service provider, in one sentence, ledger-sourced. Then: "most people get the definition wrong in one of two directions — either too broad or too narrow." Two examples of each. Links to [B2](#b2). | Book a demo |
-| 13 | Teaser | `li-teaser-2` | **The overlooked obligation.** "One of the seven Tranche 2 obligations has no owner in most firms we speak to. It's not the one you'd guess." One paragraph, then the reveal, then the link to [B3](#b3). | Book a demo |
-| 15 | Standard post | `li-post-3` | **The privilege conflict.** States the tension between client confidentiality and reporting obligations. Links to [B4](#b4). **Strict rule: state that AUSTRAC has guidance on it, quote it, and do not resolve it in the post.** A "get legal advice" line is permitted and encouraged. | Book a demo |
-| 20 | Teaser | `li-teaser-3` | **The buyer-helps-themselves post.** "We spent a few weeks working out what separates an AML/CTF platform from a convincing demo. We ended up with twelve questions. They're on the site, and we've answered all twelve — including the ones we don't get a clean answer to yet." Link to [B5](#b5). | Book a demo |
+| 9 | Standard post | `li-post-2` | **The definitional post.** Opens with the definition of a Tranche 2 designated service provider, in one sentence, ledger-sourced. Then: "most people get the definition wrong in one of two directions — either too broad or too narrow." Two examples of each. Links to [B2](#b2). | Enrol with AUSTRAC |
+| 13 | Teaser | `li-teaser-2` | **The overlooked obligation.** "One of the seven Tranche 2 obligations has no owner in most firms we speak to. It's not the one you'd guess." One paragraph, then the reveal, then the link to [B3](#b3). | Enrol with AUSTRAC |
+| 15 | Standard post | `li-post-3` | **The privilege conflict.** States the tension between client confidentiality and reporting obligations. Links to [B4](#b4). **Strict rule: state that AUSTRAC has guidance on it, quote it, and do not resolve it in the post.** A "get legal advice" line is permitted and encouraged. | Enrol with AUSTRAC |
+| 20 | Teaser | `li-teaser-3` | **The buyer-helps-themselves post.** "We spent a few weeks working out what separates an AML/CTF platform from a convincing demo. We ended up with twelve questions. They're on the site, and we've answered all twelve — including the ones we don't get a clean answer to yet." Link to [B5](#b5). | Enrol with AUSTRAC |
 | 21 | Carousel | `li-carousel-3` | **The three learning outcomes, paraphrased in plain English**, each attributed to the organisers, with "what to listen for" underneath each. **Never summarised as our own agenda.** | **Register your interest** |
 | 22 | Standard post | `li-post-4` | **The pre-event thinking prompt.** Five questions to think about before the summit. No persuasion, no event CTA, no pressure. The first three are generic and useful to anyone. Link to [B6](#b6). | **Register your interest** |
-| 26 | Carousel | `li-carousel-2` | **"Seven obligations, seven first actions" is Day 8. This one is: "The five things a managing partner asks us that we can actually answer."** Real questions from real conversations, answered honestly, including two we cannot answer yet. | Book a demo |
+| 26 | Carousel | `li-carousel-2` | **"Seven obligations, seven first actions" is Day 8. This one is: "The five things a managing partner asks us that we can actually answer."** Real questions from real conversations, answered honestly, including two we cannot answer yet. | Enrol with AUSTRAC |
 | 27 | Teaser | `li-teaser-4` | **Scarcity opener, sourced scarcity only.** "Four days until the LawTech: AI Summit. The organisers run it as an expression of interest with limited places, which means the real deadline is this week, not Friday." **No place count. No invented deadline.** Link to [B8](#b8). | **Register your interest** |
 | 28 | Carousel | `li-carousel-4` | **"Last week, in five slides"** — logistics as a carousel, because the person deciding this week is scanning on their phone. Slides: 1 cover · 2 what the day is and who it's for, attributed to the organiser · 3 where LawMatter will be, exactly as open question Q7 says · 4 what to bring (question, example, decision) · 5 registration, attributed. **Speakers only if verified today.** | **Register your interest** |
 | 29 | Standard post | `li-post-5` | **The day-before post.** "Tomorrow. If you're going, three things to bring: a question, a specific example, and a decision you're actually trying to make." Purely useful, no argument, no claim. | **Register your interest** |
@@ -2496,7 +2487,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 >
 > Which is harder to resource — the process, or the people?
 >
-> #Tranche2 #AMLAustralia #LegalCompliance #LawFirmManagement #ComplyLM
+> #Tranche2 #AustralianLawyers #SolicitorsAustralia #ComplyLM
 
 *Caption — Facebook (same asset, link in the body, one paragraph longer):*
 
@@ -2508,7 +2499,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 >
 > Which obligation is unowned in your firm right now?
 >
-> #Tranche2 #AMLAustralia #LegalCompliance #LawFirmManagement
+> #Tranche2 #AustralianLawyers #SolicitorsAustralia
 
 *Alt text for slide 1 — write this, do not copy the caption:* `Carousel cover: "Tranche 2 — 7 obligations, 7 first actions", for Australian law firms and conveyancers, obligations live since 1 July 2026.`
 
@@ -2564,7 +2555,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 >
 > Which obligation is unowned in your firm right now?
 
-*Hashtags:* `#Tranche2 #AMLAustralia #PracticeManagers #ComplyLM` — the **accountants/bookkeepers rotation**, per the [segment bank](#meta-hashtags); the lawyer tags are deliberately dropped on this re-cut.
+*Hashtags:* `#Tranche2 #AccountantsAustralia #BookkeepersAustralia #ComplyLM` — the **accountants/bookkeepers rotation**, per the [segment bank](#meta-hashtags); the lawyer tags are deliberately dropped on this re-cut.
 
 *Stories (2 frames):* frame 1 the cover slide with a `Swipe up` cue; frame 2 the first action only, with the **link sticker** on it.
 
@@ -2584,7 +2575,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 
 *Facebook caption:* Stories do not run on Facebook. **Post nothing on Facebook on Day 18** — this is a Stories-only slot and the Facebook feed is deliberately quiet.
 
-*Hashtags:* none on Stories. If the Story is reposted to a feed post, use the real-estate rotation `#Tranche2` (or `#AUSTRAC`) + `#ComplyLM` only — real-estate sector tags are pending [Founder confirmation](#meta-hashtags).
+*Hashtags:* none on Stories. If the Story is reposted to a feed post, use the real-estate rotation `#Tranche2` (or `#AUSTRAC`) + `#ComplyLM` per the [segment bank](#meta-hashtags).
 
 *Footer:* frame 4 only — `Enrol with AUSTRAC at austrac.gov.au` plus `Full detail at Comply.LM` and the link sticker.
 
@@ -2612,7 +2603,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 >
 > Which of your transactions currently has no paper trail at all?
 
-*Hashtags:* `#AUSTRAC` + `#ComplyLM` per the jewellers row of the [segment bank](#meta-hashtags) — jeweller sector tags are pending Founder confirmation and are not used until then.
+*Hashtags:* `#AUSTRAC` + `#ComplyLM` per the jewellers row of the [segment bank](#meta-hashtags).
 
 *Stories (2 frames):* frame 1 a 3-second clip of the hook with a `Watch the full reel` cue; frame 2 the end card with the link sticker.
 
@@ -2732,7 +2723,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 >
 > The honest post beats the impressive post — especially a week after an event.
 
-*Hashtags:* `#AUSTRAC` (or `#AMLAustralia`) + `#ComplyLM` per the general/RegTech row of the [segment bank](#meta-hashtags).
+*Hashtags:* `#AUSTRAC` (or `#AMLCompliance`) + `#ComplyLM` per the general/RegTech row of the [segment bank](#meta-hashtags).
 
 *Stories (2 frames):* frame 1 the four honest slides; frame 2 a question sticker — `Which cost surprised you most?` — with the replies logged.
 
@@ -2752,25 +2743,27 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 
 <a id="meta-hashtags"></a>
 
-#### Hashtag bank, rotated by segment
+## The hashtag bank, rotated by segment
 **Owner: Paid–Social. Standing reference.**
 
-**How to use it.** Rotate, do not stack; and rotate *by segment*, because the pillar posts target different reporting entities. Three to five per post: one broad, one sector, one brand, plus the event-adjacent tag for summit assets. A wall of hashtags reads as spam to a professional audience and to the platform. A hashtag is a published claim — it goes through the same gate as the caption. Tags already used by another asset this week are skipped, not repeated.
+**How to use it.** Rotate, do not stack; and rotate *by segment*, because the pillar posts target different reporting entities. Three to five per post: one broad regulatory tag, one sector tag, one brand tag (`#ComplyLM`), plus the event-adjacent tag for summit assets. A wall of hashtags reads as spam to a professional audience and to the platform. A hashtag is a published claim — it goes through the same gate as the caption. Tags already used by another asset this week are skipped, not repeated.
 
-| Context | Hashtags | Rule |
-|---|---|---|
-| Regulatory (any segment) | `#Tranche2` `#AMLAustralia` `#AMLCFT` `#AUSTRAC` `#CTF` | Pick **one** per post; rotate the pick across the week so the set is spread, never used together. |
-| Lawyers | `#LegalCompliance` `#LawFirmManagement` `#LegalTech` `#LegalOps` | Pair one with the regulatory pick. |
-| Conveyancers | `#Conveyancing` `#LegalOps` `#LegalCompliance` | Pair one with the regulatory pick. |
-| Accountants & bookkeepers | `#PracticeManagers` + the regulatory pick | Sector-specific tags for accountants pending Founder approval (see the Change Log) — do not invent new tags. |
-| Real estate | The regulatory pick + `#ComplyLM` | Sector-specific tags for real estate pending Founder approval. |
-| Jewellers | The regulatory pick + `#ComplyLM` | Sector-specific tags for jewellers pending Founder approval. |
-| General / RegTech | `#AMLAustralia` or `#AUSTRAC` + `#ComplyLM` | For non-segment assets. |
-| Event | `#LawTechSummit` `#SydneyEvents` | Summit assets only; drop after Week 5. |
-| Brand | `#ComplyLM` | Exactly one per post. `#LawMatter` is **not** used — the brand decision says Comply.LM first and LawMatter only where accuracy requires it, and a hashtag is everywhere. |
-| **Never use** | `#AUSTRACCompliant` — the **blocked claim** from open question Q1. `#Tranche2Ready` or any implied-compliance variant until Q1 is answered. `#LawFirmAI` only where a real claim supports it. Any sector tag not listed above until the Founder confirms it. |
+**Approved tag set** (client-supplied, verified 6 Oct 2026 — all rotational candidates, not a single-post list; three to five per asset):
 
-*Change Log:* the real-estate/jeweller/accountant sector rows above carry only validated tags because the segment-specific tags agreed for rotation were not captured in full at planning time. Confirm the missing per-segment tags with the Founder before the Jewellers post (Day 8 of the sprint) uses them.
+| Segment | Query examples that drive segment rotation | Approved tags | Rule |
+|---|---|---|---|
+| **Regulatory (any segment)** | Any compliance query | `#AMLCTF` `#Tranche2` `#AMLCompliance` `#RegulatoryCompliance` `#FinancialCrimeCompliance` | Pick **one** per post; rotate the pick so the set is spread, never used together. AUSTRAC-adjacent content may add `#AUSTRAC`. |
+| **Brand** | Comply.LM assets | `#ComplyLM` | Exactly one per post. `#LawMatter` is **not** used as a hashtag — Comply.LM is named first, LawMatter only where accuracy requires it, and a hashtag is permanent. |
+| **Lawyers** | "AML/CTF for lawyers" | `#LegalProfessionals` `#AustralianLawyers` `#SolicitorsAustralia` `#BarristersAustralia` `#PropertyLawyers` `#CommercialLawyers` `#BusinessLawyers` `#CorporateLawyers` `#WillsAndEstatesLawyers` `#ProbateLawyers` `#FamilyLawyers` `#MigrationLawyers` `#InHouseCounsel` `#NotariesPublic` | Pair one or two with the regulatory pick. Match the tag to the post's actual subject (e.g. `#PropertyLawyers` only on a property-law post). |
+| **Conveyancers** | "AML/CTF for conveyancers" | `#Conveyancers` `#SettlementAgents` `#LicensedConveyancers` `#LegalPracticeManagement` | Pair one with the regulatory pick. |
+| **Accountants & bookkeepers** | "AML/CTF for accountants" | `#AccountantsAustralia` `#PublicAccountants` `#CharteredAccountants` `#CertifiedPractisingAccountants` `#TaxAgents` `#TaxAdvisers` `#BookkeepersAustralia` `#BusinessAdvisers` `#FinancialControllers` `#ForensicAccountants` `#InsolvencyPractitioners` `#RegisteredLiquidators` `#TrustServiceProviders` `#CompanyServiceProviders` `#CorporateServiceProviders` `#CompanyFormation` `#TrustFormation` `#RegisteredOfficeServices` `#NomineeServices` `#CorporateAdministration` `#TrustAdministration` | Pair one or two with the regulatory pick. |
+| **Real estate** | "AML/CTF for real estate agents" | `#RealEstateProfessionals` `#RealEstateAgents` `#SalesAgents` `#BuyersAgents` `#PropertyAgents` `#ListingAgents` `#CommercialRealEstate` `#CommercialPropertyAgents` `#ResidentialRealEstate` `#PropertyDevelopers` `#RealEstateDevelopers` `#PropertyConsultants` `#Auctioneers` `#RealEstatePrincipals` `#AgencyOwners` `#PropertyProfessionals` `#RealEstateAustralia` | Pair one or two with the regulatory pick. |
+| **Jewellers & precious goods** | "AML/CTF for jewellers" | `#JewellersAustralia` `#JewelleryRetailers` `#JewelleryDesigners` `#DiamondDealers` `#GemstoneDealers` `#PreciousMetalDealers` `#GoldDealers` `#BullionDealers` `#LuxuryWatchDealers` `#PreciousStoneDealers` `#JewelleryIndustry` | Pair one or two with the regulatory pick. |
+| **Virtual assets / RegTech** | "AML/CTF for virtual asset service providers"; K30 category | `#VirtualAssetServices` `#VirtualAssetServiceProviders` `#VASP` `#CryptoCompliance` `#DigitalAssetCompliance` `#CryptoExchange` `#DigitalAssetsAustralia` `#BlockchainCompliance` | RegTech and VASP assets only. |
+| **Event** | Summit assets | `#LegalTech` `#LawTechSummit` `#SydneyEvents` `#AIAwareness` | Summit assets only; drop after Week 5. |
+| **Never use** | — | `#AUSTRACCompliant` — the **blocked claim** from open question Q1. `#Tranche2Ready` or any implied-compliance variant until Q1 is answered. `#LawMatter` as a hashtag. `#LawFirmAI` only where a real claim supports it. Any tag **not** in the approved set above. | — |
+
+*Change Log:* the accountant, real-estate and jeweller sector tags are **now approved** — the full rotational set above was supplied by the client on 6 Oct 2026 and replaces the earlier "pending Founder approval" provisional rows. The regulatory set adds `#AMLCompliance` `#RegulatoryCompliance` `#FinancialCrimeCompliance` to the original five and harmonises the pick rule. `#LawMatter` remains excluded as a hashtag per the brand split (Comply.LM first).
 
 ---
 
@@ -3026,7 +3019,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 6. **Three questions we are still thinking about** — the post's most-quoted section, because it is unfinished and honest.
 7. **A short "what we are doing about it"** — one product paragraph, [Claims Ledger](#claims-ledger) wording only, beta disclosed.
 8. **FAQ block — four questions** matching the visible text exactly: what was the summit · who was it for · what did LawMatter take away · how do I talk to LawMatter.
-9. **One CTA** — **"Book a demo"**.
+9. **One CTA** — **"Enrol with AUSTRAC"** linking directly to AUSTRAC, with `/eligibility-check` kept as a separate link.
 
 **[NOTE TO WRITER — blocking]:** **no number appears in this post that you have not verified.** No "over 300 attendees". No "20 conversations". No "we met 40 practice leaders". You may write what you know: the date, the venue, the published programme, what you personally heard, what you personally learned. **If you want to use an attendance or engagement figure, it must come from the organiser, in writing, and be attributed.** This is the most common failure in event recaps and the fastest route to a public correction.
 
@@ -3124,7 +3117,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 7. **A short "when to change category" section** — a firm that has outgrown its compliance approach, and the signs.
 8. **A brief, factual, sourced mention of Tranche 2** as the reason any of this is on the agenda.
 9. **FAQ block — six questions** matching the visible text exactly.
-10. **One CTA** — **"Book a demo"**.
+10. **One CTA** — **"Enrol with AUSTRAC"** linking directly to AUSTRAC, with `/eligibility-check` kept as a separate link.
 
 **[NOTE TO WRITER — the most important instruction in this brief]:** **no competitor may be named, implied, characterised or ranked in this post, in any form.** The four categories are named by *approach*, not by vendor. If a reader could identify a named vendor from a sentence, that sentence is out. This post is safe precisely because it is not a comparison — do not make it one, because someone will publish a rebuttal and a buyer's guide becomes a dispute.
 
@@ -3160,7 +3153,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 6. **Beta status stated plainly** in the LawMatter column, and in the criteria.
 7. **A dated "last checked" line and an undertaking to re-check.** Comparatives rot. Say when it was true.
 8. **FAQ block — five questions.**
-9. **One CTA** — **"Book a demo"**.
+9. **One CTA** — **"Enrol with AUSTRAC"** linking directly to AUSTRAC, with `/eligibility-check` kept as a separate link.
 
 **[NOTE TO WRITER]:** **never state a competitor's limitation, weakness, gap or failure mode as your own conclusion.** If it appears on their site, quote and link it with a date. If it does not, you do not know it, and saying you do not know is permitted. Competitor performance claims quoted from their marketing are labelled as *their claim*, in those words, with a link.
 
@@ -3261,7 +3254,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 5. **Beta disclosed** on every ad, page, email and post that mentions the product, including in the structured data.
 6. **No customer, count, testimonial, logo, award, headcount, founder name or funding** appears anywhere. **None exist.** This includes "trusted by", "leading", "the platform firms choose", and anything else that implies scale.
 7. **Australian English.** Organisations, modernising, behaviour, licence (noun) and practise (verb), organised, recognised. **Not** your practice *of* law — that is *practise*. Getting it wrong in a legal-industry asset is the first thing a reader notices.
-8. **One CTA per asset.** Event assets → "Register your interest". Product assets → "Book a demo". If both are genuinely needed, two clearly separated sections each with one CTA, and the Founder has approved it.
+8. **One CTA per asset.** Product and obligation assets → **"Enrol with AUSTRAC"** linking directly to AUSTRAC, with the `/eligibility-check` link kept visibly separate. Summit assets → "Register your interest". A demo may be offered in the body as a next step but is never the sole or competing CTA. If both an event and a product ask are genuinely needed, two clearly separated sections each with one CTA, and the Founder has approved it.
 9. **No stock photography of lawyers.** No AI-generated human faces. Navy `#1E2A38` with cyan and teal, bold type, geometric accents.
 10. **Every send** has a UTM, a Spam Act footer, a working unsubscribe, a real physical address, and a consent basis you can point to.
 11. **Publish on the assigned day.** A late post is a missed post. If it will be late, tell the owner before the day, not after.
@@ -3394,7 +3387,10 @@ Four items that run alongside the calendar and never get their own row. **Each i
 
 ### Competitor material — attribution only, never adopted
 
+- https://seamlss.com.au/ — "Client Onboarding Software for Accounting Firms" (page title and meta description) is **Seamlss's positioning**, verified 6 Oct 2026. B13 only.
+- https://syntrico.com.au/ — "Trusted by 500+ Australian Tranche-2 Professional Practices"; Grow A$149/mo, Professional A$399/mo, Ultimate A$899/mo (plus GST); "AUSTRAC-aligned" are **Syntrico's claims**, verified 6 Oct 2026 (served 403 to curl; read via a browser fetch). B13 only; attributed quotes, no superiority claims.
 - https://www.leaplegalsoftware.com/au/resources/anti-money-laundering-compliance/ — LEAP's own page; its "existing processes get firms about 60% of the way" is **LEAP's claim**
+- https://www.infotrack.com.au/aml-ctf-compliance-centre/ — InfoTrack's own AML/CTF compliance centre; verified 6 Oct 2026. B13 only.
 - https://www.amlcomply.com.au/ — "ready in under 45 minutes" is **AML Comply's claim**
 - easyAML, ClearAML, SimpleAML, PEXA Clear — named in `about.md` §9 as competitors. **No claim about any of them appears in this plan, and none may be added without open question Q5.**
 

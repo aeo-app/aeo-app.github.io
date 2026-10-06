@@ -7,6 +7,8 @@ categories: ["Samudra Adjusting"]
 summary: "The 60-day AEO/GEO and technical-marketing plan for Samudra Adjusting & Marine Insurance Solutions (samis.com.sg): day-by-day schedule, a click-through library of every deliverable brief, and the Source Ledger that gates every published claim."
 ---
 
+<p class="pdf-download"><button class="pdf-download-button" type="button" aria-label="Download as PDF" title="Download as PDF" onclick="window.print()"><img src="/images/pdf.png" alt="" aria-hidden="true"></button></p>
+
 Starts: **Day 1** → **Day 60**, 60 days inclusive. Everything in one file: the complete day-by-day task table, plus every deliverable's full brief — each one an in-file link, so any scheduled task jumps straight to its own instructions in this same document (topic, why, what to include in order, ready-to-use copy, publish checklist).
 
 **Every day in this plan is a Day number, not a date.** The whole schedule is written on Day 1–60 so that moving the start date cannot break it. To turn any Day number into a calendar date, take the agreed Day 1 and add the Day number minus one:

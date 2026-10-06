@@ -7,6 +7,8 @@ categories: ["APAC Relocation"]
 summary: "The aggressive 30-day AEO/GEO sprint for apacrelocation.com: day-by-day schedule, a click-through library of every deliverable brief, plus forums and backlink workstreams."
 ---
 
+<p class="pdf-download"><button class="pdf-download-button" type="button" aria-label="Download as PDF" title="Download as PDF" onclick="window.print()"><img src="/images/pdf.png" alt="" aria-hidden="true"></button></p>
+
 Starts: **22 September 2026** (Day 1) → **21 October 2026** (Day 30). Everything in one file: the day-by-day task table, and a click-through library where **every deliverable — blog post, LinkedIn post, Reel, YouTube video, Instagram/Facebook asset, Google Business Profile post, forum answer and backlink outreach wave — is a link to its own detailed brief** (topic, why, what to include in order, ready-to-use copy, and a publish checklist). Be detailed. The briefs are written so a non-expert can execute them without asking questions.
 
 **Goal (aggressive 30-day sprint):** make APAC Relocation visible and citable in ChatGPT, Gemini, Perplexity, Claude, and Microsoft Copilot for the 5 target queries **and** lift them in classic / local search:

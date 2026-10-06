@@ -7,6 +7,8 @@ categories: ["AEO Intel"]
 summary: "The live technical roadmap for the AEO Intel product platform (ploutos): finish Facebook, LinkedIn, YouTube and Google Business connections, ship DynamoDB + Cognito migration scripts, and simplify the marketing website."
 ---
 
+<p class="pdf-download"><button class="pdf-download-button" type="button" aria-label="Download as PDF" title="Download as PDF" onclick="window.print()"><img src="/images/pdf.png" alt="" aria-hidden="true"></button></p>
+
 ## What this is
 
 A public, versioned technical roadmap for the AEO Intel product platform — the FastAPI + React + AWS application behind aeo-app.ai. This post tracks only **non-content engineering work** and is grounded in the actual codebase state (paths below are real files in the `ploutos` repository).
