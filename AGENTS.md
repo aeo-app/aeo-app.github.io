@@ -25,6 +25,7 @@ Also read `.github/copilot-instructions.md` — it covers build/architecture/con
 - **`website/lawmatter/about.md` is gitignored** (`.gitignore:20`) and untracked. The LawMatter post cites it as the source for client-supplied facts and prohibitions, but a clean checkout/CI clone won't have it. It's working material with `[UNCONFIRMED]`/`[INFERRED]` evidence tags, never publishable copy — and where the post says "`about.md` is out of date", trust the post.
 - `n-day-plan` writes LawMatter-grade runbooks: it measures a baseline before planning, runs a red/blue adversarial round whose rulings land in a Decision Log, and emits 26 mandatory sections (ledger, publication gate, funnel maths, UTMs, pre-approved gate cut lists, standing playbooks). Two profiles — `aeo-geo` and `generic`; non-applicable sections get an explicit fallback, never a silent drop. It asks where to write and defaults to `website/content/posts/`.
 - `markdown-to-docx` requires an explicit input path; it fails rather than guessing one.
+- Both skills live in `.github/skills/` (Copilot, Copilot CLI, cloud agent). **OpenCode does not read that directory** — it scans `.opencode/skills/`, `.claude/skills/`, and `.agents/skills/`, so running this repo through OpenCode needs the skill mirrored to one of those.
 
 ## Content guardrails (client-specific, verified)
 - **Plan tables are canonical.** The day-by-day table in each post is the executable source for dates and cadence; where header prose conflicts, the table wins.

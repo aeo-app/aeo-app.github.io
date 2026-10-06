@@ -13,7 +13,7 @@
 - This is a content-first Hugo site, not an application. Markdown in `website/content/posts/` is the published source; `website/hugo.yaml` configures PaperMod, menus, taxonomies, and Markdown rendering, while `website/assets/css/extended/custom.css` contains site-specific styling.
 - `.github/workflows/hugo-deploy.yml` builds with Hugo 0.165.0 extended and publishes `website/public/` to the `gh-pages` branch. Build output and Hugo caches are generated and ignored; never hand-edit or commit them.
 - Most long-form posts are operational client runbooks: their day-by-day tables define the schedule and cadence, with linked briefs supplying execution details. Treat the table as the executable source of truth when prose conflicts with it.
-- `AGENTS.md` contains client-specific source, phase-gate, and publishing constraints. Read it before editing a client plan. OpenCode workflows are in `.opencode/skills/`; the exemplars they cite are the posts in `website/content/posts/`.
+- `AGENTS.md` contains client-specific source, phase-gate, and publishing constraints. Read it before editing a client plan. Agent skills are in `.github/skills/`; the exemplars they cite are the posts in `website/content/posts/`.
 
 ## Content conventions and guardrails
 
