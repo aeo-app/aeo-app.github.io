@@ -201,7 +201,7 @@ The weight of the campaign still sits in **Days 7 to 30**, because that is where
 
 **Channels that run across every sprint:** [Instagram, Facebook and Google Business Profile — the repurposing lane](#meta-lane) · [Hashtag bank](#meta-hashtags)
 
-**The Meta schedule — seven assets, each with its caption, hashtags, design prompt and footer:** [#1 Day 11 — the due-diligence checklist](#meta-1) · [#2 Day 18 — Stories only](#meta-2) · [#3 Day 25 — the jewellers Reel](#meta-3) · [#4 Day 29 — twelve questions](#meta-4) · [#5 Day 30 — the day before](#meta-5) · [#6 Day 32 — what we heard](#meta-6) · [#7 Day 39 — a week after](#meta-7)
+**The Meta schedule — seven assets, each with its caption, hashtags, design prompt and footer:** [#1 Day 11 — the seven obligations, accountants rotation](#meta-1) · [#2 Day 18 — Stories only, real estate rotation](#meta-2) · [#3 Day 25 — the jewellers Reel](#meta-3) · [#4 Day 29 — what CDD actually asks of you](#meta-4) · [#5 Day 30 — the day before](#meta-5) · [#6 Day 32 — what we heard](#meta-6) · [#7 Day 39 — the honest post](#meta-7)
 
 **Phase 1 — Foundation, Days 1 to 6:** [Day 1 AI-citation baseline on the 30-keyword panel](#p1-baseline) · [Technical fixes A: canonical tags, schema and article markup](#p1-fixes-a) · [Rebuild `llms.txt` so it is truthful](#p1-llmstxt) · [Schema B: SoftwareApplication, Offer, FAQPage, WebApplication](#p1-schema-b) · [The summit event page and its Event schema](#p1-event-entity) · [Google Search Console, sitemaps and indexing](#p1-gsc) · [Building the Claims Ledger and answering the open questions](#p1-claims) · [Tracking and conversion setup](#p1-tracking) · [Week-2 content drafting](#p1-drafting)
 
@@ -511,57 +511,57 @@ utm_term      = (google search only) <exact matched/typed query>
 
 **How to read this table.** Each row is one calendar day. The **Owner** column names the accountable person. The channel columns name where work lands. A cell containing a link points to the brief that explains how to do that task; an empty cell means nothing is scheduled on that channel that day. The **Notes** column carries the checkpoint, deadline or reason for the day's shape.
 
-**Why the campaign is weighted this way.** Awareness has to come before urgency: you cannot be scarce with an audience that has never heard of you, and scarcity messaging sent to a cold list reads as desperate rather than urgent. So the *content* compounds from front to back — obligation explainers early, buying-decision content from Week 4 — while the *pressure* is concentrated into Days 25 to 30. The two curves are deliberately out of phase.
+**Why the campaign is weighted this way.** The panel is the point, so *content* is front-loaded: six of the seven pillar pages publish between Days 7 and 24, because a page published later than that has no runway to be crawled and cited before the Day 43 re-test. The *commercial pressure* is a separate, deliberate curve — the summit is fixed for 30 October, so the sharpest emails, the heaviest outbound and the maximum paid spend land in Days 25 to 30. The two curves overlap in Days 17–24, and that overlap is the tightest stretch of the sprint; it is stated here rather than hidden.
 
-**What result we expect.** Every day has either a deliverable or an explicit rest day. Rest days are Days 12, 19, 26 and 37, and the weekend days are deliberately light. Twenty-four ramp days against four owners is tight, and the table says so rather than pretending otherwise.
+**What result we expect.** Every day has either a deliverable or an explicit rest day. Rest days are Days 12, 19, 26 and 37. Thirteen blog posts, nine refreshes of existing pages, the event page, three YouTube videos, eight EDMs, five outbound waves and the 150-result panel are scheduled against four owners; the table says plainly that Days 13–24 assume full capacity, and the cut list in [Decision D7](#decision-log) is the escape hatch if it does not hold.
 
 | Day | Date | Wd | Assigned To | SEO / Site / Schema | Blog & Content | LinkedIn | YouTube | Email & Outbound | Paid & Partners | Instagram | Facebook | Google Business Profile | GEO / AI-Citation | Notes / Checkpoint |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 30 Sep 2026 | Wed | Tech–GEO + Founder | [Technical fixes A: canonical, schema, article markup](#p1-fixes-a) |  |  |  |  |  |  |  |  | [Day-1 AI-citation baseline](#p1-baseline) | **Foundation opens.** Record "no mention" honestly. |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 30 Sep 2026 | Wed | Tech–GEO + Founder | [Technical fixes A: canonical, schema, article markup](#p1-fixes-a) |  |  |  |  |  |  |  |  | [Day-1 AI-citation baseline on K1–K30](#p1-baseline) | **Foundation opens.** 150-result panel. Record "no mention" honestly. |
 | 2 | 01 Oct 2026 | Thu | Tech–GEO | [Schema B: SoftwareApplication, Offer, FAQPage, WebApplication](#p1-schema-b) |  |  |  |  |  |  |  |  |  | Fix `llms.txt` plan-name error [same day](#p1-llmstxt) — it is a public, citable, wrong file. |
-| 3 | 02 Oct 2026 | Fri | Tech–GEO | [The Event Entity page + Event schema](#p1-event-entity) · [GSC + sitemap + indexing](#p1-gsc) |  |  |  |  |  |  |  |  |  | Highest-leverage day of Phase 1. |
-| 4 | 03 Oct 2026 | Sat | Founder + Paid–Social |  |  |  |  |  |  |  |  |  |  | [Claims Ledger + open questions](#p1-claims) (Founder) · [Tracking & conversions](#p1-tracking) (Paid–Social). **Open questions Q1, Q6, Q8, Q9 and Q10 due.** |
-| 5 | 04 Oct 2026 | Sun | Content–SEO + Tech–GEO |  | [Week-2 content drafting](#p1-drafting) |  |  |  |  |  |  | [Open question Q13 verified](#gate-18): exists, verified, real service address |  Open questions Q2 and Q11 due. Every drafted claim pre-checked against the ledger. **Open question Q13 (a verified GBP exists + real address?) due** — the [Meta lane](#meta-lane) needs it on Day 5 |
-| 6 | 05 Oct 2026 | Mon | Founder + all |  |  |  |  |  |  |  |  |  |  | **[PHASE 1 GATE — GO/NO-GO](#gate-6)**. Open question Q12 (budget figures) set. Funnel inputs set. |
-| 7 | 06 Oct 2026 | Tue | Content–SEO + Paid–Social |  | Publish [B1 Tranche 2 Compliance Checklist](#b1) | [Teaser #1](#li-teaser-1) | [Short #1](#v-short-1) | [EDM #1 Invitation](#e1) | EOI page live · Paid ON |  |  |  |  | First day the machine runs. |
-| 8 | 07 Oct 2026 | Wed | Paid–Social + Tech–GEO |  |  | [Carousel #1](#li-carousel-1) |  | [Outbound wave 1](#out-1) (wave sends) |  |  |  |  | [AI-citation spot-check #1](#p1-baseline) |  |
-| 9 | 08 Oct 2026 | Thu | Content–SEO + Paid–Social |  | Publish [B2 What Is a Tranche 2 DSP](#b2) | [Post #2](#li-post-2) |  | Outbound touch 2 |  |  |  |  |  |  |
-| 10 | 09 Oct 2026 | Fri | Paid–Social + Tech–GEO |  |  |  | [YouTube #1](#yt-1) + [Short #2](#v-short-2) | [Exec post #1](#li-exec-1) · [Forum wave 1](#forum-1) |  |  |  | **Event post** — two weeks out, CTA-button link |  | Fill tracker; 15-min review. **GBP Event post live if open question Q13 answers yes** ([Meta lane](#meta-lane)) — two weeks out, Google needs the lead time. |
-| 11 | 10 Oct 2026 | Sat | Paid–Social |  |  |  |  |  |  | [Meta #1](#meta-1) carousel 9 + Stories ×2 | [Meta #1](#meta-1) document |  |  | **9-slide Tranche 2 checklist re-cut.** Caption, hashtags, prompt and footer are in the [Meta #1](#meta-1) brief. Weekend — lightest channel day. |
-| 12 | 11 Oct 2026 | Sun | Founder |  |  |  |  |  |  |  |  |  |  | [Rest / catch-up](#gate-18). Open questions Q3, Q4 and Q7 due. Analytics pull. |
-| 13 | 12 Oct 2026 | Mon | Content–SEO + Paid–Social |  | Publish [B3 Appointing an AML/CTF Officer](#b3) | [Teaser #2](#li-teaser-2) | [Short #3](#v-short-3) |  | Paid optimised against Day 8 data |  |  |  |  |  |
+| 3 | 02 Oct 2026 | Fri | Tech–GEO | [The Event Entity page + Event schema](#p1-event-entity) · [GSC + sitemap + indexing](#p1-gsc) |  |  |  |  |  |  |  |  |  | Highest-leverage day. **Add the three sitemap-orphaned blog URLs** (17 live vs 14 in `sitemap.xml`). |
+| 4 | 03 Oct 2026 | Sat | Founder + Paid–Social |  |  |  |  |  |  |  |  |  |  | [Claims Ledger + open questions](#p1-claims) (Founder) · [Tracking & conversions](#p1-tracking) (Paid–Social). **Q1, Q6, Q8, Q9, Q10 and Q14 due.** |
+| 5 | 04 Oct 2026 | Sun | Content–SEO + Tech–GEO |  | [Week-2 content drafting](#p1-drafting) — pillars B1–B3 |  |  |  |  |  |  | [Q13 verified](#gate-18) |  | Q2, Q11, Q15 and Q16 due. Every drafted claim pre-checked against the ledger. |
+| 6 | 05 Oct 2026 | Mon | Founder + all |  |  |  |  |  |  |  |  |  |  | **[PHASE 1 GATE — GO/NO-GO](#gate-6)**. Q12 (budget) set. Funnel inputs set. |
+| 7 | 06 Oct 2026 | Tue | Content–SEO + Paid–Social |  | Publish [B1 Lawyers pillar — program template & checklist (K2)](#b1) | [Teaser #1](#li-teaser-1) | [Short #1](#v-short-1) | [EDM #1 Invitation](#e1) | EOI page live · LinkedIn demand-gen ON |  |  |  |  | First day the machine runs. |
+| 8 | 07 Oct 2026 | Wed | Paid–Social + Tech–GEO | Refresh `/blog/tranche-2-is-live-law-firms-checklist` (K2, K7) |  | [Carousel #1](#li-carousel-1) |  | [Outbound wave 1](#out-1) |  |  |  |  | [Spot-check #1](/ "six-query sample") |  |
+| 9 | 08 Oct 2026 | Thu | Content–SEO + Paid–Social |  | Publish [B2 Which services are covered (K3, K12, K13, K19)](#b2) | [Post #2](#li-post-2) |  | Outbound touch 2 |  |  |  |  |  |  |
+| 10 | 09 Oct 2026 | Fri | Paid–Social + Tech–GEO | Refresh `/blog/july-2026-aml-ctf-roadmap` (K28) |  |  | [YouTube #1](#yt-1) + [Short #2](#v-short-2) | [Exec post #1](#li-exec-1) · [Forum wave 1](#forum-1) |  |  |  | **Event post** — two weeks out, CTA-button link |  | **GBP Event post live if Q13 answers yes** — Google needs the lead time. |
+| 11 | 10 Oct 2026 | Sat | Paid–Social |  |  |  |  |  |  | [Meta #1](#meta-1) carousel + Stories ×2 | [Meta #1](#meta-1) document |  |  | **First segment-rotated Meta asset** — B1 (lawyers pillar, published Day 7) re-cut to the accountants/bookkeepers rotation. Every Meta asset from here rotates by the segment of its nearest pillar. |
+| 12 | 11 Oct 2026 | Sun | Founder |  |  |  |  |  |  |  |  |  |  | [Rest / catch-up](#gate-18). Q3, Q4 and Q7 due. Analytics pull. |
+| 13 | 12 Oct 2026 | Mon | Content–SEO + Paid–Social | Refresh `/blog/suspicious-matter-reports-guide-for-lawyers` (K5) | Publish [B3 Accountants & bookkeepers pillar (K11–K15)](#b3) | [Teaser #2](#li-teaser-2) | [Short #3](#v-short-3) |  | Paid optimised against Day 8 data |  |  |  |  |  |
 | 14 | 13 Oct 2026 | Tue | Paid–Social |  |  | [Carousel #2](#li-carousel-2) |  | [EDM #2 Topic-led](#e2) · [Outbound wave 2](#out-2) |  |  |  |  |  |  |
-| 15 | 14 Oct 2026 | Wed | Content–SEO + Tech–GEO |  | Publish [B4 LPP and AUSTRAC reporting](#b4) | [Post #3](#li-post-3) |  |  | [AI-citation spot-check #2](#gate-18) |  |  |  |  |  |
+| 15 | 14 Oct 2026 | Wed | Content–SEO + Tech–GEO |  | Publish [B4 Lawyers SMR (K5)](#b4) | [Post #3](#li-post-3) |  |  |  |  |  |  | [Dear-day-two spot-check #2](#gate-18) |  |
 | 16 | 15 Oct 2026 | Thu | Paid–Social |  |  |  | [YouTube #2](#yt-2) | [EDM #3 Limited places](#e3) |  |  |  |  |  |  |
-| 17 | 16 Oct 2026 | Fri | Founder + Paid–Social |  |  | [Exec post #2](#li-exec-2) |  |  | [PR pitch to legal media](#pr-1) |  |  | Update |  | Original 16 Oct campaign window opens |
-| 18 | 17 Oct 2026 | Sat | Founder + all |  |  |  |  |  |  | [Meta #2](#meta-2) Stories ×4 (feed rests) |  |  | [MID-RAMP CHECK — Day 18](#gate-18) | **Spend-shift decision made here — the gate above. Paid Meta only; it does not touch this lane.** [Meta #2](#meta-2) Stories slot ships. |
+| 17 | 16 Oct 2026 | Fri | Content–SEO + Founder + Paid–Social |  | Publish [B5 Real-estate pillar (K16–K20)](#b5) | [Exec post #2](#li-exec-2) |  |  | [PR pitch to legal media](#pr-1) |  |  | Update |  | Original 16 Oct campaign window opens. RE pillar lands mid-ramp. |
+| 18 | 17 Oct 2026 | Sat | Founder + all |  |  |  |  |  |  | [Meta #2](#meta-2) Stories ×4 (feed rests) |  |  | [MID-RAMP CHECK — Day 18](#gate-18) | **Spend-shift decision made here.** Paid Meta only with Day-18 evidence; this lane does not run paid. |
 | 19 | 18 Oct 2026 | Sun | Content–SEO |  |  |  |  |  |  |  |  |  |  | Rest / catch-up. No sends. |
-| 20 | 19 Oct 2026 | Mon | Content–SEO + Paid–Social |  | Publish [B5 Vendor due diligence checklist](#b5) | [Teaser #3](#li-teaser-3) | [Short #4](#v-short-4) |  |  |  |  |  |  | **Open question Q5 (the three differentiators) due** for B10 |
-| 21 | 20 Oct 2026 | Tue | Paid–Social |  |  | [Carousel #3](#li-carousel-3) |  | [EDM #4 Agenda & speakers](#e4) |  |  |  |  |  | Speaker names only if on the page today |
-| 22 | 21 Oct 2026 | Wed | Content–SEO + Tech–GEO | Refresh [/eligibility-check](https://complylm.com.au/eligibility-check) + /pricing | Publish [B6 Summit preview](#b6) | [Post #4](#li-post-4) |  |  |  |  |  |  |  |  |
-| 23 | 22 Oct 2026 | Thu | Paid–Social |  |  |  | [YouTube #3](#yt-3) | [EDM #5 Last chance, early registration](#e5) |  |  |  |  |  |  |
-| 24 | 23 Oct 2026 | Fri | Founder + Paid–Social |  |  | [Exec post #3](#li-exec-3) |  |  |  |  |  | Update | [Speaker re-verify #1](#speaker-check-1) | **Verify, then freeze speaker list for Week 5** |
-| 25 | 24 Oct 2026 | Sat | Tech–GEO + Founder | [Event page lock + speaker re-verify #2](#speaker-check-2) | Refresh B1 with event cross-link |  |  |  |  | [Meta #3](#meta-3) Reel + Stories ×2 | [Meta #3](#meta-3) native upload |  |  | Event page frozen against fact drift. **Draft [Meta #5](#meta-5) today, publish Day 30** — the day-before asset cannot be scheduled more than 48h out. |
+| 20 | 19 Oct 2026 | Mon | Content–SEO + Paid–Social | Refresh `/blog/conveyancing-cdd-onboarding` (K9, K10) | Publish [B6 CDD vs VOI pillar, all segments (K4, K8, K9, K14, K18, K25, K29)](#b6) | [Teaser #3](#li-teaser-3) | [Short #4](#v-short-4) |  |  |  |  |  |  | **Q5 due** for B13. |
+| 21 | 20 Oct 2026 | Tue | Paid–Social |  |  | [Carousel #3](#li-carousel-3) |  | [EDM #4 Agenda & speakers](#e4) |  |  |  |  |  | Speaker names only if on the page today. |
+| 22 | 21 Oct 2026 | Wed | Content–SEO + Tech–GEO | [Refresh sweep — five URLs](#refreshes) incl. `/eligibility-check` + `/pricing` FAQ (K27) | Publish [B7 Conveyancers pillar (K6–K10)](#b7) | [Post #4](#li-post-4) |  |  |  |  |  |  |  | Refresh `/blog/why-do-you-need-my-id...` (K29) today. |
+| 23 | 22 Oct 2026 | Thu | Paid–Social + Tech–GEO | Refresh `/blog/threshold-transaction-reports-conveyancers` (K23) |  |  | [YouTube #3](#yt-3) | [EDM #5 Last chance, early registration](#e5) |  |  |  |  |  |  |
+| 24 | 23 Oct 2026 | Fri | Content–SEO + Founder + Paid–Social |  | Publish [B8 Jewellers pillar (K21–K25)](#b8) | [Exec post #3](#li-exec-3) |  |  |  |  |  | Update | [Speaker re-verify #1](#speaker-check-1) | **Verify, then freeze speaker list for Week 5.** Last segment pillar — from here the panel waits for the event and follow-up. |
+| 25 | 24 Oct 2026 | Sat | Tech–GEO + Founder | [Event page lock + speaker re-verify #2](#speaker-check-2) | Refresh B1 with event cross-link |  |  |  |  | [Meta #3](#meta-3) Reel + Stories ×2 | [Meta #3](#meta-3) native upload |  |  | Event page frozen against fact drift. **Draft [Meta #5](#meta-5) today, publish Day 30** — cannot be scheduled more than 48h out. |
 | 26 | 25 Oct 2026 | Sun | Paid–Social |  |  |  |  |  |  |  |  |  |  | Rest. Final assets proofread. |
-| 27 | 26 Oct 2026 | Mon | Content–SEO + Paid–Social |  | Publish [B7 Event-tied: compliance for an AI-enabled firm](#b7) | [Teaser #4](#li-teaser-4) | [Short #5](#v-short-5) | [EDM #6 Places remaining](#e6) | Paid to peak |  |  |  |  | **Scarcity phase.** |
-| 28 | 27 Oct 2026 | Tue | Paid–Social |  |  | [Carousel #4](#li-carousel-4) |  | [Outbound wave 3 — hot accounts](#out-3) |  |  |  |  |  | Longest outbound sequence of the sprint |
-| 29 | 28 Oct 2026 | Wed | Content–SEO + Tech–GEO |  | Publish [B8 Day-before logistics](#b8) | [Post #5](#li-post-5) | [Short #6](#v-short-6) |  |  | [Meta #4](#meta-4) carousel 12 + Stories ×2 | [Meta #4](#meta-4) document |  | [AI-citation spot-check #3](#gate-18) | **Last content day before the event.** [AI-citation spot-check #3](#gate-18). |
-| 30 | 29 Oct 2026 | Thu | Founder + all |  |  | [Exec post #4](#li-exec-4) |  | [EDM #7 Day-before](#e7) | Paid at max | [Meta #5](#meta-5) carousel 5 + Stories ×3 | [Meta #5](#meta-5) document |  |  | **[EVENT READINESS GATE](#gate-30)**. EOIs in hand reported. **Re-verify every [Meta #5](#meta-5) event fact against the organiser's page this morning, not on Day 25.** |
+| 27 | 26 Oct 2026 | Mon | Content–SEO + Paid–Social |  | Publish [B9 Summit preview (event)](#b9) | [Teaser #4](#li-teaser-4) | [Short #5](#v-short-5) | [EDM #6 Places remaining](#e6) | Paid to peak |  |  |  |  | **Scarcity phase.** |
+| 28 | 27 Oct 2026 | Tue | Paid–Social |  |  | [Carousel #4](#li-carousel-4) |  | [Outbound wave 3 — hot accounts](#out-3) |  |  |  |  |  | Longest outbound sequence of the sprint. |
+| 29 | 28 Oct 2026 | Wed | Content–SEO + Tech–GEO |  | Publish [B10 Day-before logistics (event)](#b10) | [Post #5](#li-post-5) | [Short #6](#v-short-6) |  |  | [Meta #4](#meta-4) carousel + Stories ×2 | [Meta #4](#meta-4) document |  | [Spot-check #3](#gate-18) | **Last content day before the event.** |
+| 30 | 29 Oct 2026 | Thu | Founder + all |  |  | [Exec post #4](#li-exec-4) |  | [EDM #7 Day-before](#e7) | Paid at max | [Meta #5](#meta-5) carousel + Stories ×3 | [Meta #5](#meta-5) document |  |  | **[EVENT READINESS GATE](#gate-30)**. EOIs reported. **Re-verify every event fact today, not on Day 25.** |
 | 31 | **30 Oct 2026** | **Fri** | **Founder + all** |  |  | [Event-day LinkedIn](#d31-linkedin) | [Live clips](#d31-runsheet) | [Thank-you capture](#d31-leads) |  |  |  | Update | [Re-run baseline live](#p1-baseline) | **THE SUMMIT.** Hyatt Regency Sydney. |
-| 32 | 31 Oct 2026 | Sat | Paid–Social |  |  | Publish [B9 Event recap](#b9) | [Recap cut](#b9) | [48-hour attendee sequence](#fu-attendee) |  | [Meta #6](#meta-6) carousel 5 + Stories ×2 | [Meta #6](#meta-6) document |  |  | Post-event content spike begins. [Meta #6](#meta-6): **no attendee identifiable without consent captured.** |
+| 32 | 31 Oct 2026 | Sat | Paid–Social |  |  | Publish [B11 Event recap (event)](#b11) | [Recap cut](#b11) | [48-hour attendee sequence](#fu-attendee) |  | [Meta #6](#meta-6) carousel + Stories ×2 | [Meta #6](#meta-6) document |  |  | Post-event content spike begins. **No attendee identifiable without consent.** |
 | 33 | 01 Nov 2026 | Sun | Paid–Social |  |  |  |  | [No-show / registered-non-attendee sequence](#fu-noshow) |  |  |  |  |  |  |
-| 34 | 02 Nov 2026 | Mon | Content–SEO + Paid–Social | Refresh B1 + B2 with event signal |  | [Carousel — five things we heard](#li-carousel-3) | [Short #7](#v-short-7) |  | Paid shifts to demand capture |  |  |  |  |  |
-| 35 | 03 Nov 2026 | Tue | Paid–Social |  |  |  |  | [EDM #8 Thank you + next step](#e8) · [Outbound wave 4 — post-event meetings](#out-3) |  |  |  |  |  | Event conversations become pipeline |
-| 36 | 04 Nov 2026 | Wed | Content–SEO |  | Publish [B10 Why act now](#b10) | [Post #6](#li-post-6) |  |  |  |  |  |  |  |  |
+| 34 | 02 Nov 2026 | Mon | Content–SEO + Paid–Social | Refresh B1 + B2 with event signal | Refresh `/blog/choosing-aml-ctf-software-austrac-expectations` (K26, K28) | [Carousel — five things we heard](#li-carousel-3) | [Short #7](#v-short-7) |  | Paid shifts to demand capture |  |  |  |  |  |
+| 35 | 03 Nov 2026 | Tue | Paid–Social |  |  |  |  | [EDM #8 Thank you + next step](#e8) · [Outbound wave 4 — post-event meetings](#out-3) |  |  |  |  |  | Event conversations become pipeline. |
+| 36 | 04 Nov 2026 | Wed | Content–SEO |  | Publish [B12 Cost and the AUSTRAC starter kit (K26–K28)](#b12) | [Post #6](#li-post-6) |  |  |  |  |  |  |  |  |
 | 37 | 05 Nov 2026 | Thu | Founder |  |  |  |  |  |  |  |  |  |  | Rest / catch-up. Full analytics pull. |
-| 38 | 06 Nov 2026 | Fri | Paid–Social + Tech–GEO |  |  |  |  |  |  |  |  | Update | [Forum wave 2](#forum-2) | Mid-follow-up check |
-| 39 | 07 Nov 2026 | Sat | Paid–Social |  |  |  |  |  |  | [Meta #7](#meta-7) carousel 5 + Stories ×2 | [Meta #7](#meta-7) document |  |  | **[Meta #7](#meta-7) — the honest post.** What LawMatter commits to, not what it claims. |
-| 40 | 08 Nov 2026 | Sun | Content–SEO |  | Refresh weakest 2 pages |  |  |  |  |  |  |  |  | Rest. |
-| 41 | 09 Nov 2026 | Mon | Content–SEO + Paid–Social |  | Publish [B11 Comparison — behind the gate](#b11) | [Teaser #5](#li-teaser-5) | [Short #8](#v-short-8) |  |  |  |  |  |  | Open question Q5 signed off, or B11 does not ship |
+| 38 | 06 Nov 2026 | Fri | Content–SEO + Tech–GEO | Refresh `/blog/low-smr-volume-austrac-red-flag` (K5 support) |  |  |  |  |  |  |  | Update | [Forum wave 2](#forum-2) | Mid-follow-up check. |
+| 39 | 07 Nov 2026 | Sat | Paid–Social |  |  |  |  |  |  | [Meta #7](#meta-7) carousel + Stories ×2 | [Meta #7](#meta-7) document |  |  | **[Meta #7](#meta-7) — the honest post.** What Comply.LM commits to, not what it claims. |
+| 40 | 08 Nov 2026 | Sun | Content–SEO |  | Refresh weakest 2 pillar pages |  |  |  |  |  |  |  |  | Rest. |
+| 41 | 09 Nov 2026 | Mon | Content–SEO + Paid–Social |  | Publish [B13 Comparison — names Seamlss, Syntrico, LEAP, InfoTrack (K1, K26, K30)](#b13) | [Teaser #5](#li-teaser-5) | [Short #8](#v-short-8) |  |  |  |  |  |  | Q5 signed off, or B13 ships unnamed as "choosing software in 2026". |
 | 42 | 10 Nov 2026 | Tue | Paid–Social |  |  |  |  | [EDM #9 Last call for demo](#p4-report) |  |  |  |  |  |  |
-| 43 | 11 Nov 2026 | Wed | Tech–GEO |  |  |  |  |  |  |  |  |  | [Day-43 AI-citation re-test](#p4-retest) | Identical query set to Day 1 |
-| 44 | 12 Nov 2026 | Thu | Tech–GEO + Paid–Social |  |  |  |  |  |  |  |  |  | [Full analytics pull](#p4-analytics) | GSC, GA4, YouTube, paid, CRM |
-| 45 | 13 Nov 2026 | Fri | Founder + Content–SEO |  | Refresh B1 with final CTA + date stamp |  |  |  |  |  |  |  |  | Draft the report |
+| 43 | 11 Nov 2026 | Wed | Tech–GEO |  |  |  |  |  |  |  |  |  | [Day-43 AI-citation re-test](#p4-retest) | Identical 150-result panel to Day 1, plus the two event-watch queries. |
+| 44 | 12 Nov 2026 | Thu | Tech–GEO + Paid–Social |  |  |  |  |  |  |  |  |  | [Full analytics pull](#p4-analytics) | GSC positions for K1–K30, GA4, YouTube, paid, CRM. |
+| 45 | 13 Nov 2026 | Fri | Founder + Content–SEO | Refresh B1 with final CTA + date stamp |  |  |  |  |  |  |  |  |  | Draft the report. |
 | 46 | 14 Nov 2026 | Sat | Founder + all |  |  |  |  |  |  |  |  |  | [Day 46 report and decision](#p4-report) | **Continue / adjust / expand.** Close the sprint. |
 
 ---
@@ -610,7 +610,7 @@ These are not briefs for one asset. They are the rules that hold across all twel
 
 7. **A "last reviewed" date in the footer with a real review date**, and the post genuinely re-reviewed on that date. *Why:* a false freshness signal is worse than no signal.
 
-8. **One soft call to action at the end, one only.** "Register your interest" for event-led posts, "Book a demo" for product-led posts. *Why:* two competing asks reduce the response to both.
+8. **One soft call to action at the end, one only.** "Enrol with AUSTRAC" for product and obligation assets, linking directly to AUSTRAC, with `/eligibility-check` kept as a separate visible link; "Register your interest" for event-led posts. A demo may be offered in the body as a next step but is never the sole or competing CTA. *Why:* two competing asks reduce the response to both, and the single-CTA discipline is what makes the enrol/eligibility sequence measurable.
 
 ### The LinkedIn company post template
 
@@ -958,7 +958,7 @@ context I know — but the above stands on its own."]
 7. **The bridge message** — the single idea that connects the summit to the product. Use it here, in the EDMs, and on the event page:
    > "AI in legal practice needs governance and compliance behind it." The summit is where Australian legal leaders set that direction. Comply.LM is the AML/CTF layer that keeps a firm audit-ready while the rest of the stack changes.
 
-8. **The call-to-action split (compliance gate box 10).** The **event** CTA on this page is **"Register your interest"**, pointing at the organiser's registration page. The **product** CTA is **"Book a demo"**, on a clearly separate section, linking to `/request-consultation`. Two CTAs on one page is a violation; two *sections*, each with one CTA, is not. If the Founder decides this is too close to the line, ship the event CTA only and move the product block to its own page.
+8. **The call-to-action split (compliance gate box 10).** The **event** CTA on this page is **"Register your interest"**, pointing at the organiser's registration page. The **product** CTA is **"Enrol with AUSTRAC"** linking directly to AUSTRAC's enrolment page, on a clearly separate section, with `/eligibility-check` carried as a separate visible link. Two CTAs on one page is a violation; two *sections*, each with one CTA, is not. If the Founder decides this is too close to the line, ship the event CTA only and move the product block to its own page.
 
 9. **Cross-link from** `/` (a partner strip or a single line in the footer), `/pricing` and `/eligibility-check`. A page reachable only from the sitemap is not indexed reliably.
 
@@ -1198,39 +1198,42 @@ RELEASE: [approved / held — reason]
 
 <a id="b1"></a>
 
-#### BLOG #1 (pillar) — "Tranche 2 Compliance Checklist for Australian Law Firms (2026)"
+#### BLOG #1 (pillar) — Lawyers — "Tranche 2 compliance checklist for Australian law firms" · targets **K2**
 **Owner: Content–SEO. Publishes Day 7, Tuesday 6 October. Target 1,600 to 2,000 words.**
 
 **What this is.** The foundational article of the whole campaign: a source-attributed checklist of the seven obligations an Australian law firm has had since 1 July 2026, with the first action for each one.
 
-**Why we are doing it.** AI assistants quote checklists. A well-structured, source-attributed, copy-pasteable checklist is the format most likely to be extracted verbatim and attributed back to a domain. This post is the foundation of LawMatter's topical authority on Tranche 2, and every other post in the cluster links back to it. It targets *Tranche 2 compliance checklist for law firms* and *what does a law firm need for AUSTRAC Tranche 2*. It is written to answer two of the ten queries in the [AI-citation baseline](#p1-baseline): [baseline query Q2](#baseline-q2) ("what does a law firm need for Tranche 2 AUSTRAC obligations"), and [baseline query Q3](#baseline-q3) ("Tranche 2 compliance checklist for law firms").
+**Why we are doing it.** This post is the primary asset for keyword **K2 — "AML/CTF program template for Australian law firms"** and, within the client's panel, the anchor of the lawyers segment. AI assistants quote checklists. A well-structured, source-attributed, copy-pasteable checklist is the format most likely to be extracted verbatim and attributed back to a domain. Every other post in the cluster links back to it.
 
 **Why it matters.** If only one asset in this campaign is cited by an AI assistant, it should be this one. It is also the asset the outbound sequence sends, the asset the emails hand over, and the asset the demonstration is built around. Its credibility therefore carries more weight than any advert in the plan.
 
-**What result we expect.** Indexed within the first week, cited in at least one of the Day 15 or Day 29 spot-checks for [baseline query Q3](#baseline-q3) ("Tranche 2 compliance checklist for law firms"), and used as the destination for outbound touch 2, EDM #2 and every product-adjacent call to action.
+**What result we expect.** Ranked or cited for **K2 (AML/CTF program template — Lawyers)** in the Day 43 re-test, indexed within the first week, cited in at least one of the Day 15 or Day 29 spot-checks, and used as the destination for outbound touch 2, EDM #2 and every product-adjacent call to action.
 
-**Where the facts come from.** The obligations and the compliance-officer requirement come from the Law Society of Tasmania in `about.md`, and **must be re-read on AUSTRAC's own pages and cited to AUSTRAC in the body.** The suspicious matter report timelines (24 hours and 3 business days) and the record-retention period are **blocked** in the [Claims Ledger](#claims-ledger) until confirmed on AUSTRAC.
+**Where the facts come from.** The obligations come from the Law Society of Tasmania in `lawmatter/about.md` (single source, gitignored), and **must be re-read on AUSTRAC's own pages and cited to AUSTRAC in the body.** The suspicious matter report timelines (24 hours and 3 business days) and the record-retention period are **blocked** in the [Claims Ledger](#claims-ledger) until confirmed on AUSTRAC.
+
+**The K2 answer, and where it must sit.** The H1 is *"Tranche 2 compliance checklist for Australian law firms"*. The first paragraph answers the program-template query outright: the checklist *is* the skeleton of an AML/CTF program — the seven obligations, in order, work as the program's sections. Include one dedicated, downloadable program-template section (a copy-pasteable shell with the seven headings), because that is the artifact a lawyer searching for a template is trying to take away.
 
 **What to include, in order:**
 
-1. **The first sentence answers the query:** "Since 1 July 2026, Australian law firms and conveyancers that provide designated services must meet these AML/CTF obligations." Then the headline count of obligations.
+1. **The first sentence answers the query:** "Since 1 July 2026, Australian law firms that provide designated services must meet these AML/CTF obligations." Then the headline count of obligations.
 2. **A summary table at the top** — obligation · who it applies to · when it applies · where the guidance is. **Tables are extracted verbatim. Put this above the fold.**
 3. **The numbered checklist, one item per obligation**, each in this exact shape: the obligation in plain language → who it applies to → the primary-source reference → how Comply.LM helps **[only in a clearly labelled product block, never inside the obligation itself]** → what to do this week.
-4. Work through the obligations confirmed on 29 September 2026: verify client identity · report suspicious matters · maintain an AML/CTF program · maintain a risk assessment · **appoint an AML/CTF compliance officer** · enrolment · records · training. **Do not state the record-retention period or the annual report date** — both are blocked in the Claims Ledger.
-5. **A section on which obligations apply to conveyancers specifically** — they have distinct designated services and are a named segment on the site.
-6. **An "if you read nothing else" three-item section** near the top. This is the block most likely to be quoted.
-7. **A "what to do in the first 30 days" ordered plan.**
-8. **A 30-day, 60-day and 90-day progression table.**
-9. **FAQ block — six questions**, matching the visible text exactly: what is Tranche 2 · does my firm need to comply · who must be the compliance officer · do we need to report if we have no concerns · what happens if we missed enrolment · how long does implementation take **[answered qualitatively, with no fabricated duration]**.
-10. **One CTA.** This is a product-adjacent post, so the CTA is **"Book a demo"**.
-11. **A last-reviewed date** in the footer.
+4. Work through the obligations confirmed on 6 October 2026: verify client identity · report suspicious matters · maintain an AML/CTF program · maintain a risk assessment · **appoint an AML/CTF compliance officer** · enrolment · records · training. **Do not state the record-retention period, the annual report date or any penalty amount** — all are blocked in the Claims Ledger.
+5. **The program-template section for K2** — a shell with the seven headings a Tranche 2 AML/CTF program needs (program document, risk assessment, CDD procedure, SMR procedure, TTR procedure, staff training, oversight and review), each with a blank field and a pointer to the relevant obligation. This is the shareable artifact.
+6. **A section on which obligations apply to conveyancers specifically** — they have distinct designated services and are a named segment on the site; link to [B7](#b7).
+7. **An "if you read nothing else" three-item section** near the top. This is the block most likely to be quoted.
+8. **A "what to do in the first 30 days" ordered plan.**
+9. **A 30-day, 60-day and 90-day progression table.**
+10. **FAQ block — six questions**, matching the visible text exactly: what is Tranche 2 · does my firm need to comply · who must be the compliance officer · do we need to report if we have no concerns · what happens if we missed enrolment · how long does implementation take **[answered qualitatively, with no fabricated duration]**.
+11. **One CTA.** Product-adjacent post, so the CTA is **"Enrol with AUSTRAC"** linking directly to AUSTRAC, with `/eligibility-check` kept as a separate link. **Not "Book a demo".**
+12. **A last-reviewed date** in the footer.
 
-**[NOTE TO WRITER — mandatory before publish]:** every regulatory statement needs a primary AUSTRAC citation. `about.md` §7 records the Law Society of Tasmania as the source for the Tranche 2 obligations, the compliance-officer requirement and the enrolment deadline; **re-read those on AUSTRAC's own pages and cite AUSTRAC, not the Law Society, in the body.** The suspicious matter report timelines and the record-retention period are **blocked** until confirmed on AUSTRAC. If you cannot source it, cut the sentence — do not soften it into a guess.
+**[NOTE TO WRITER — mandatory before publish]:** every regulatory statement needs a primary AUSTRAC citation. `about.md` §7 records the Law Society of Tasmania as the source for the Tranche 2 obligations; **re-read those on AUSTRAC's own pages and cite AUSTRAC, not the Law Society, in the body.** The suspicious matter report timelines and the record-retention period are **blocked** until confirmed on AUSTRAC. If you cannot source it, cut the sentence — do not soften it into a guess.
 
 **Ready-to-use copy — the opening:**
-> Since 1 July 2026, Australian law firms and conveyancers that provide designated services are covered by the AML/CTF regime. If you are not sure whether your firm provides a designated service, that question comes first.
+> Since 1 July 2026, Australian law firms that provide designated services are covered by the AML/CTF regime. If you are not sure whether your firm provides a designated service, that question comes first.
 >
-> **The short version:** enrol with AUSTRAC, appoint a compliance officer, verify client identity, report suspicious matters, run a written risk assessment, keep records, and train your people. Seven obligations. Here is what each one actually asks of your practice.
+> **The short version:** enrol with AUSTRAC, appoint a compliance officer, verify client identity, report suspicious matters, run a written risk assessment, keep records, and train your people. Seven obligations. The checklist below doubles as the skeleton of your AML/CTF program.
 >
 > | # | Obligation | Who it applies to | First action |
 > |---|---|---|---|
@@ -1242,7 +1245,7 @@ RELEASE: [approved / held — reason]
 > | 6 | Keep a risk assessment | Every covered firm | A living document with a review date |
 > | 7 | Train personnel | Every covered firm | Role-specific, recorded |
 
-**Before you publish — checklist:** the first sentence answers the query · the summary table is above the fold · every regulatory claim has an AUSTRAC citation in the body · no blocked claim is present · the compliance-officer requirement is sourced · `Article` + `datePublished` + `dateModified` + `FAQPage` schema · the author is a named person · three or more money-page links and two or more sibling links · visible dates · one CTA (*Book a demo*) · the compliance gate is signed.
+**Before you publish — checklist:** the H1 and first paragraph answer **K2** and name it in the tracker · the summary table is above the fold · every regulatory claim has an AUSTRAC citation in the body · no blocked claim is present · the compliance-officer requirement is sourced · the program-template section is present and downloadable · `Article` + `datePublished` + `dateModified` + `FAQPage` schema · the author is a named person · three or more money-page links and two or more sibling links · visible dates · one CTA (*Enrol with AUSTRAC*, `/eligibility-check` separate) · the compliance gate is signed.
 
 <a id="e1"></a>
 
@@ -1540,31 +1543,32 @@ RELEASE: [approved / held — reason]
 
 <a id="b2"></a>
 
-#### BLOG #2 (tactical) — "What Is a Tranche 2 Designated Service Provider?"
+#### BLOG #2 (support) — "Which Legal Services Are Covered by AML/CTF Laws in Australia?" · targets **K3** (also **K12, K13, K19**)
 **Owner: Content–SEO. Day 9, Thursday 8 October. Target 1,200 to 1,500 words.**
 
-**What this is.** This is the definitional post of the campaign: a plain-English explanation, aimed at one search query, of who counts as a Tranche 2 designated service provider. The target query is *what is a Tranche 2 designated service provider*, and it is written to answer one of the ten queries in the [AI-citation baseline](#p1-baseline): [baseline query Q2](#baseline-q2) ("what does a law firm need for Tranche 2 AUSTRAC obligations").
+**What this is.** The definitional post of the campaign: a plain-English explanation of which legal services are covered by the AML/CTF regime, built around the client's query **K3 — "Which legal services are covered by AML/CTF laws Australia"**, and extended to the parallel covered-services questions for accountants (**K12, K13**) and property developers (**K19**, via [B5](#b5)). The title, H1 and first paragraph answer K3.
 
-**Why we are doing it.** Definitional queries are the highest-yield AEO format, because an assistant answering "what is X?" needs a definition and can lift a clean one. It is also the exact question every visitor to `/eligibility-check` already has, so this post and that tool reinforce each other.
+**Why we are doing it.** Definitional queries are the highest-yield AEO format, because an assistant answering "which X are covered?" needs a list it can lift. It is also the exact question every visitor to `/eligibility-check` already has, so this post and that tool reinforce each other.
 
-**Why it matters.** Getting the definition wrong in either direction is the most common error in this market. Too broad and every firm believes it is covered; too narrow and firms that are covered believe they are exempt. Both errors are expensive for the reader, and a definition that AI engines cite is the single most durable asset this campaign can produce.
+**Why it matters.** Getting the coverage boundary wrong in either direction is the most common error in this market. Too broad and every firm believes it is covered; too narrow and firms that are covered believe they are exempt. Both errors are expensive for the reader, and a coverage list that AI engines cite is the single most durable asset this campaign can produce.
 
-**What result we expect.** Cited in the Day 15 or Day 29 spot-check for [baseline query Q2](#baseline-q2) ("what does a law firm need for Tranche 2 AUSTRAC obligations"), and used as the landing content for every inbound visit to [the eligibility checker](https://complylm.com.au/eligibility-check).
+**What result we expect.** Ranked or cited for **K3** in the Day 43 re-test, and used as the landing content for every inbound visit to [the eligibility checker](https://complylm.com.au/eligibility-check).
 
-**Where the facts come from.** The definition of "professional designated services" must be read on AUSTRAC's own pages on Day 1 and **their framing used, not ours.** Do not paraphrase AUSTRAC's definition from memory — quote it and cite it. If the quote is too long to use in full, paraphrase and attribute explicitly, and have the Founder check the paraphrase.
+**Where the facts come from.** The definition of "professional designated services" must be read on AUSTRAC's own pages on Day 1 and **their framing used, not ours.** Do not paraphrase AUSTRAC's definition from memory — quote it and cite it. If the quote is too long to use in full, paraphrase and attribute explicitly, and have the Founder check the paraphrase. The property-developer extension (K19) is sourced in [B5](#b5).
 
 **What to include, in order:**
 
-1. **The first sentence is a clean definition**, in the form an engine can lift: "A Tranche 2 designated service provider is an Australian entity that provides one or more designated services and is therefore required to comply with the AML/CTF regime." **[Verify this exact characterisation against AUSTRAC's own definition of "professional designated services" on Day 1 and use their framing, not ours.]**
-2. **The designated services, listed plainly**, with a table: service · who typically provides it · why it is designated.
-3. **Law firms and conveyancers specifically** — their designated services, and the difference between them. This is the segment most vendors write badly.
-4. **A decision tree:** does my firm provide a designated service? → what follows. Rendered as a numbered list so it is extractable.
-5. **What changes on Day 1 of coverage** — enrol, appoint an officer, client due diligence, reporting, program, risk assessment, training.
-6. **"How to find out if you're covered"** — a short section pointing to `/eligibility-check`, which is the money-page internal link for this post.
-7. **FAQ block — five questions** matching the visible text exactly.
-8. **One CTA.** This post feeds a diagnostic tool, so the CTA is either **"Book a demo"** if it ends on the product, or a soft link to `/eligibility-check` with **"Check if you're covered"** if it ends on the tool. **Pick one and stick to it.**
+1. **The first sentence is a clean, list-ready answer**, in the form an engine can lift: "In Australia, the legal services covered by the AML/CTF regime are the designated services that legal practitioners provide — and not everything a law firm does is covered." **[Verify this exact characterisation against AUSTRAC's own definition of "professional designated services" on Day 1 and use their framing, not ours.]**
+2. **A "covered / not covered" table** — the single most liftable artefact on the page: service · covered? · why. Rows for: executing transactions, real-property transfers, managing money/assets, creating legal entities, providing registered-office services, acting as trustee, and a "not covered" row for ordinary legal advice. Cite AUSTRAC per row.
+3. **Which the accountants ask (K12, K13)** — a short subsection answering "which accounting services trigger" and "do bookkeepers need to comply", each one-sentence, ledger-sourced, linking to [B3](#b3).
+4. **Which the property developers ask (K19)** — one subsection answering "property developers selling directly", linking to [B5](#b5).
+5. **A decision tree:** does my firm provide a designated service? → what follows. Rendered as a numbered list so it is extractable.
+6. **What changes on Day 1 of coverage** — enrol, appoint an officer, client due diligence, reporting, program, risk assessment, training.
+7. **"How to find out if you're covered"** — a short section pointing to `/eligibility-check`, which is the money-page internal link for this post.
+8. **FAQ block — five questions** matching the visible text exactly.
+9. **One CTA.** This post feeds a diagnostic tool. The CTA is a soft link to `/eligibility-check` with **"Check if you're covered"** if it ends on the tool; if it ends on the product it is **"Enrol with AUSTRAC"** with the eligibility link separate. **Pick one and stick to it.**
 
-**Before you publish — checklist:** the definition is in sentence one and ledger-sourced · the designated services table is present · the decision tree is extractable · the post links to `/eligibility-check` · the FAQ matches the visible text · the schema is complete · one CTA · the compliance gate is signed.
+**Before you publish — checklist:** the covered-list is in sentence one and ledger-sourced · the covered/not-covered table is present · K12, K13, K19 subsections answer their own query in one sentence each · the decision tree is extractable · the post links to `/eligibility-check` · the FAQ matches the visible text · the schema is complete · one CTA · the compliance gate is signed.
 
 <a id="e2"></a>
 
@@ -1904,6 +1908,8 @@ RELEASE: [approved / held — reason]
 **[NOTE TO WRITER]:** **no competitor may be named anywhere in this post, in any form.** No implied comparison, no "competitors don't offer", no unnamed-but-obvious reference. If the post reads as a comparison without naming anyone, that is correct and safe. If it names or clearly implies a named competitor, delete it.
 
 **Before you publish — checklist:** "including us" is in the first sentence · all twelve are answered by LawMatter · every "no" and "not yet" is retained, not softened · no competitor is named or implied · the exit and data-portability question is answered honestly · beta is disclosed · the schema is complete · one CTA · the compliance gate is signed.
+
+<a id="b6"></a>
 
 <a id="b6"></a>
 
@@ -2514,13 +2520,13 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 
 | # | Day | Slug | Source | IG | FB | Stories | One CTA |
 |---|---|---|---|---|---|---|---|
-| 1 | 11 (Sat) | `meta-w2-checklist` | [B1](#b1) + [Carousel #1](#li-carousel-1) | Carousel, 9 slides | Document post | 2 frames | Book a demo |
-| 2 | 18 (Sat) | `meta-w2-story` | [B2](#b2) | — (feed rests) | — (Stories do not run on FB) | 4 frames, tip + poll | Book a demo |
-| 3 | 25 (Sat) | `meta-w3-officer` | [B3](#b3) + [Short #3](#v-short-3) | Reel | Native video upload | 2 frames | Book a demo |
-| 4 | 29 (Wed) | `meta-w4-vendor` | [B5](#b5) + [Short #4](#v-short-4) | Carousel, 12 slides | Document post | 2 frames | Book a demo |
-| 5 | 30 (Thu) | `meta-w5-daybefore` | [B8](#b8) + [Carousel #4](#li-carousel-4) | Carousel, 5 slides | Document post | 3 frames | Register your interest |
-| 6 | 32 (Sat) | `meta-fu-recap` | [B9](#b9) | Carousel, 5 things | Document post | 2 frames | Book a demo |
-| 7 | 39 (Sat) | `meta-fu-lessons` | [B9](#b9) + [Carousel — five things we heard](#li-carousel-3) | Carousel, 5 slides | Document post | 2 frames | Book a demo |
+| 1 | 11 (Sat) | `meta-w2-checklist` | [B1](#b1) + [Carousel #1](#li-carousel-1) | Carousel, 9 slides | Document post | 2 frames | Enrol with AUSTRAC |
+| 2 | 18 (Sat) | `meta-w3-realestate` | [B5](#b5) | — (feed rests) | — (Stories do not run on FB) | 4 frames, tip + poll | Enrol with AUSTRAC |
+| 3 | 25 (Sat) | `meta-w4-jewellers` | [B8](#b8) | Reel | Native video upload | 2 frames | Enrol with AUSTRAC |
+| 4 | 29 (Wed) | `meta-w5-cdd` | [B6](#b6) + [Carousel #2](#li-carousel-2) | Carousel, 8 slides | Document post | 2 frames | Enrol with AUSTRAC |
+| 5 | 30 (Thu) | `meta-w6-daybefore` | [B10](#b10) + [Carousel #4](#li-carousel-4) | Carousel, 5 slides | Document post | 3 frames | Register your interest |
+| 6 | 32 (Sat) | `meta-fu-recap` | [B11](#b11) | Carousel, 5 things | Document post | 2 frames | Enrol with AUSTRAC |
+| 7 | 39 (Sat) | `meta-fu-starterkit` | [B12](#b12) + [B11](#b11) | Carousel, 5 slides | Document post | 2 frames | Enrol with AUSTRAC |
 
 **Google Business Profile runs on its own clock, not this one.** GBP is the only search surface in the lane, so it is scheduled off the event date rather than the feed cadence. The **Event post goes live on Day 10**, two full weeks out, because Google needs the lead time to index it and it stays visible through the event. It is then **one Update post per week maximum** — Days 17, 24, 31 and 38 — reusing the same ledger-gated copy with no new claims. Every GBP post puts its link in the **CTA button field**, never the post body. All of it is conditional on open question Q13.
 
@@ -2560,101 +2566,99 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 >
 > Which obligation is unowned in your firm right now?
 
-*Hashtags:* `#Tranche2 #AMLAustralia #LegalCompliance #LawFirmManagement #ComplyLM`
+*Hashtags:* `#Tranche2 #AMLAustralia #PracticeManagers #ComplyLM` — the **accountants/bookkeepers rotation**, per the [segment bank](#meta-hashtags); the lawyer tags are deliberately dropped on this re-cut.
 
 *Stories (2 frames):* frame 1 the cover slide with a `Swipe up` cue; frame 2 the first action only, with the **link sticker** on it.
 
 *Alt text, slide 1:* `Carousel cover: "Tranche 2 — 7 obligations, 7 first actions", for Australian law firms and conveyancers, obligations live since 1 July 2026.`
 
-*Checklist:* 9 slides at 4:5 · every claim traced to a ledger row · both blocked claims omitted, not softened · caption answer-first · the bio link points at BLOG #1 with a UTM · the Stories sticker is on the last frame · the Facebook link is in the body · alt text on all nine · compliance gate signed.
+*Checklist:* 9 slides at 4:5 · every claim traced to a ledger row · both blocked claims omitted, not softened · caption answer-first · the bio link points at [B1](#b1) with a UTM · the Stories sticker is on the last frame · the Facebook link is in the body · alt text on all nine · one CTA (*Enrol with AUSTRAC*, with `/eligibility-check` separate) · compliance gate signed.
 
 <a id="meta-2"></a>
 
-**2 · Day 18 (Saturday 17 October) — `meta-w2-story` · Stories only, the feed rests**
+**2 · Day 18 (Saturday 17 October) — `meta-w3-realestate` · Stories only — the real-estate rotation, the feed rests**
 
-*Prompt.* "Design 4 Instagram Story frames, 1080×1920, dark navy `#1E2A38` with cyan and teal accents, bold white type, no photography. **Frame 1** a single definition, one line: what a Tranche 2 designated service provider is. **Frame 2** the same definition, expanded to two lines — this is the 'aha' frame. **Frame 3** a poll: 'Is your firm enrolled?' options 'Yes' / 'Not yet'. **Frame 4** the first action, plus the footer 'Full detail at Comply.LM · link in bio' and the link sticker target. One idea per frame, generous margins, text inside the safe area."
+*Prompt.* "Design 4 Instagram Story frames, 1080×1920, dark navy `#1E2A38` with cyan and teal accents, bold white type, no photography. **Frame 1** a single line: real estate agents and property developers are reporting entities under Australia's AML/CTF regime. **Frame 2** the same idea expanded to two lines — facilitating the transfer of Australian property puts you in scope, on the same obligations as every other reporting entity. **Frame 3** a poll: 'Have you built onboarding checks into your property deals yet?' options 'Yes' / 'Not yet'. **Frame 4** the first action: enrol with AUSTRAC, plus the footer 'Full detail at Comply.LM · link in bio' and the link sticker target. One idea per frame, generous margins, text inside the safe area."
 
 *Instagram caption (Stories caption — one or two lines, no URL, no hashtags):*
 
-> One definition, one question, thirty seconds. Swipe up.
+> Property payments are in scope. One poll, thirty seconds. Swipe up.
 
 *Facebook caption:* Stories do not run on Facebook. **Post nothing on Facebook on Day 18** — this is a Stories-only slot and the Facebook feed is deliberately quiet.
 
-*Hashtags:* none on Stories. If the Story is reposted to a feed post, use `#Tranche2 #AMLAustralia #LegalCompliance` only.
+*Hashtags:* none on Stories. If the Story is reposted to a feed post, use the real-estate rotation `#Tranche2` (or `#AUSTRAC`) + `#ComplyLM` only — real-estate sector tags are pending [Founder confirmation](#meta-hashtags).
 
-*Footer:* frame 4 only — `Full detail at Comply.LM` plus the link sticker.
+*Footer:* frame 4 only — `Enrol with AUSTRAC at austrac.gov.au` plus `Full detail at Comply.LM` and the link sticker.
 
-*Checklist:* the definition matches [B2](#b2) word for word · poll results screen-captured for the Day 18 check · the link sticker is on the final frame only · no product claim beyond the definition · compliance gate signed.
+*Checklist:* the definitions match [B5](#b5) word for word · poll results screen-captured for the Day 18 gate · the link sticker is on the final frame only · no product claim beyond the sourced definitions · the enrol CTA links to AUSTRAC, never to Comply.LM · compliance gate signed.
 
 <a id="meta-3"></a>
 
-**3 · Day 25 (Saturday 24 October) — `meta-w3-officer` · the compliance officer, as a Reel**
+**3 · Day 25 (Saturday 24 October) — `meta-w4-jewellers` · the jewellers Reel**
 
-*Prompt.* "Re-cut an existing 30-second vertical video into an Instagram Reel, 1080×1920. Keep the burned-in subtitles and the corrected captions file. **Hook frame, 0:00–0:02:** the title 'Appoint the compliance officer', large, over the first shot. **0:02–0:07:** the real workflow. **0:07–0:22:** the appointment decision, three on-screen labels. **0:22–0:28:** the takeaway line. **0:28–0:30:** a dark navy `#1E2A38` end card, Comply.LM wordmark, footer text 'Full detail at Comply.LM · link in bio' with the link sticker on the final frame. Brand colours only, no stock photography, no AI faces."
+*Prompt.* "Write and produce an original 30-second vertical Reel from [B8](#b8) (the jewellers pillar, published Day 24), 1080×1920, burned-in subtitles, corrected captions file. **Hook frame, 0:00–0:02:** the title 'Cash purchases over $10,000 — the duty every jeweller carries', large, over the first shot. **0:02–0:07:** the frame — buying or selling precious metals and stones puts you in scope of Australia's AML/CTF regime, not just for cash. **0:07–0:22:** three on-screen labels with the real workflow: enrol with AUSTRAC · customer due diligence before the deal · report the threshold transactions and suspicious matters. **0:22–0:28:** the takeaway line — 'The regime is about following the money across the counter, and it applies to gold, silver, and gemstones.' **0:28–0:30:** a dark navy `#1E2A38` end card, Comply.LM wordmark, footer 'Full detail at Comply.LM · link in bio' with the link sticker on the final frame. Brand colours only, no stock photography, no AI faces."
 
 *Instagram caption:*
 
-> One of the seven Tranche 2 obligations needs a named person, with the authority to actually do the job.
+> Cash purchases over $10,000 carry a duty every jewellery business holds — but the regime is not only about cash.
 >
-> Appointing a compliance officer is not a paperwork task. It is a decision about who in the firm can say no to a client — and whether anyone currently can.
+> [B8](#b8) walks through which jewellery transactions are in scope, what customer due diligence asks of you before the deal, and what a threshold transaction report actually triggers.
 >
-> If nobody in your firm holds that, it is the gap to close first.
->
-> Who would it be at your practice?
+> If you take cash over the counter, this is your regulator.
 
 *Facebook caption (link in the body):*
 
-> One of the seven Tranche 2 obligations needs a named person with the authority to do the job — not a title on a compliance policy that nobody is allowed to enforce.
+> Any jewellery business that buys or sells precious metals or stones is inside Australia's AML/CTF regime, and the cash-transaction threshold is only one part of it.
 >
-> The appointment question, and what it actually changes: `[TRACKED LINK — …&utm_content=meta-w3-officer]`
+> The in-scope transactions, the due diligence step, and the reporting duty: `[TRACKED LINK — …&utm_content=meta-w4-jewellers]`
 >
-> Who would you appoint, and what would stop them?
+> Which of your transactions currently has no paper trail at all?
 
-*Hashtags:* `#Tranche2 #AMLAustralia #LegalCompliance #LegalOps #ComplyLM`
+*Hashtags:* `#AUSTRAC` + `#ComplyLM` per the jewellers row of the [segment bank](#meta-hashtags) — jeweller sector tags are pending Founder confirmation and are not used until then.
 
 *Stories (2 frames):* frame 1 a 3-second clip of the hook with a `Watch the full reel` cue; frame 2 the end card with the link sticker.
 
 **Uploading to Facebook.** Download the file and upload it **natively** to the Facebook page. Do not crosspost — an Instagram-watermarked Reel on Facebook reads as a repost and suppresses reach.
 
-*Checklist:* subtitles burned in · corrected captions file uploaded · the end card carries the sticker, not a typed URL · the Facebook upload is native and unwatermarked · beta disclosed if the product is shown · compliance gate signed.<a id="meta-4"></a>
+*Checklist:* subtitles burned in · corrected captions file uploaded · every in-scope/claim line traced to [B8](#b8) and its ledger rows · the end card carries the sticker, not a typed URL · the Facebook upload is native and unwatermarked · beta disclosed if the product is shown · one CTA (*Enrol with AUSTRAC*, with `/eligibility-check` separate) · compliance gate signed.<a id="meta-4"></a>
 
-**4 · Day 29 (Wednesday 28 October) — `meta-w4-vendor` · twelve questions, for the buyer**
+**4 · Day 29 (Wednesday 28 October) — `meta-w5-cdd` · what CDD actually asks of you, in one language across all six segments**
 
-*Prompt.* "Design a 12-slide Instagram carousel, 1080×1350 (4:5), dark navy `#1E2A38`, cyan and teal accent rules, bold white type, no photography. **Slide 1** cover: '12 questions to ask ANY AML/CTF vendor — including us'. **Slides 2–12** three questions per slide in a numbered list, hardest first: data location and residency, audit-trail export format, exit and data deletion on termination, SMR workflow and timing, screen-sharing controls, model training on client data, who can see a client's file, threshold configurability, regulatory change monitoring, support response time, penetration-test evidence, total cost over three years. **Slide 12** footer: 'All twelve, with our own answers to each, at Comply.LM · link in bio' plus the wordmark."
+*Prompt.* "Design an 8-slide Instagram carousel, 1080×1350 (4:5), dark navy `#1E2A38`, cyan and teal accent rules, bold white type, no photography. **Slide 1** cover: 'Customer due diligence — what it actually asks of you', subline 'One regime, six professions'. **Slide 2** the frame: 'CDD is not identity-checking. It is understanding who you are dealing with, before the deal.' **Slides 3–7** one profession per slide, identical template: profession · the moment CDD triggers for you · the verification step in practice. Professions in order: lawyer · conveyancer · accountant or bookkeeper · real-estate agent · jeweller. **Slide 8** footer: '[B6] works through all six, with sources, at Comply.LM · link in bio' plus the wordmark. Maximum 22 words per slide."
 
 *Instagram caption:*
 
-> Twelve questions. Ask them of every AML/CTF vendor — including us.
+> Customer due diligence is the obligation every reporting entity shares, and the way it triggers differs by profession.
 >
-> We spent a few weeks working out what separates a platform from a convincing demo. Here are twelve, hardest first.
+> The lawyer's moment is a matter in which you give advice that leads a transaction. The conveyancer's is the settlement. The jeweller's is the counter.
 >
-> We have published our own answers to all twelve, including the two we are not comfortable with yet.
+> We have written up all six at [B6](#b6), with the source for each.
 >
-> Which one would you put to a vendor first?
+> When does CDD trigger in your profession — and does your team know the exact moment?
 
 *Facebook caption (link in the body):*
 
-> Twelve questions separate an AML/CTF platform from a convincing demo. Data residency. Audit export. What happens to your client's data when you leave.
+> Customer due diligence is the one obligation every reporting entity shares. The trigger differs: a matter for a lawyer, a settlement for a conveyancer, a deal for an accountant, a transaction for a real-estate agent, a counter for a jeweller.
 >
-> All twelve, with our answers to each: `[TRACKED LINK — …&utm_content=meta-w4-vendor]`
+> All six, with the AUSTRAC source for each: `[TRACKED LINK — …&utm_content=meta-w5-cdd]`
 >
-> If you only ask one, make it the exit question.
+> If your onboarding starts from the document rather than the transaction, that is the gap to close first.
 
-*Hashtags:* `#AMLAustralia #LegalCompliance #VendorDueDiligence #LegalTech #ComplyLM`
+*Hashtags:* `#Tranche2` or `#AUSTRAC` (pick one) + `#ComplyLM` per the general/RegTech and cross-segment rows of the [segment bank](#meta-hashtags).
 
-*Stories (2 frames):* frame 1 the three hardest questions as a teaser; frame 2 a poll — 'Have you asked your vendor where your data is stored?' 'Yes' / 'No'.
+*Stories (2 frames):* frame 1 the six-profession list as a teaser; frame 2 a poll — 'Does your onboarding start with the document or the transaction?' 'Document' / 'Transaction'.
 
-*Alt text, slide 1:* `Carousel cover: "12 questions to ask any AML/CTF vendor, including us".`
+*Alt text, slide 1:* `Carousel cover: "Customer due diligence — what it actually asks of you. One regime, six professions."`
 
-*Checklist:* 12 slides at 4:5 · every question traceable to [B5](#b5) · **no competitor named and no differentiator claimed** — this is the questions post, not the comparison post · answers to all twelve published, or the claim is cut · compliance gate signed.
+*Checklist:* 8 slides at 4:5 · every trigger and verification claim traced to [B6](#b6) and its ledger rows · the CDD-vs-VOI distinction is drawn, not blurred · **no competitor named and no differentiator claimed** · the enrol CTA links to AUSTRAC, never to Comply.LM · compliance gate signed.
 
 <a id="meta-5"></a>
 
-**5 · Day 30 (Thursday 29 October) — `meta-w5-daybefore` · the day before the summit**
+**5 · Day 30 (Thursday 29 October) — `meta-w6-daybefore` · the day before the summit**
 
 **This is the most time-critical asset in the lane, and it cannot be scheduled more than 48 hours ahead.** Event facts decay. Draft on Day 25, publish on Day 30, and re-verify every event fact against the organiser's page on the morning of Day 30 — the day of the check, not the day of the draft.
 
-*Prompt.* "Design a 5-slide Instagram carousel, 1080×1350 (4:5), dark navy `#1E2A38`, cyan and teal accents, bold white type, no photography, no people. **Slide 1** cover: 'Tomorrow — 3 things to bring to a one-day legal tech summit'. **Slide 2** what the day is and who it is for, attributed to the organiser. **Slide 3** where LawMatter will be, exactly as open question Q7 says. **Slide 4** what to bring: a question, a specific example, a decision you are actually trying to make. **Slide 5** registration, attributed to the organiser, footer 'Details and registration at Comply.LM · link in bio' plus the wordmark."
+*Prompt.* "Design a 5-slide Instagram carousel, 1080×1350 (4:5), dark navy `#1E2A38`, cyan and teal accents, bold white type, no photography, no people. **Slide 1** cover: 'Tomorrow — 3 things to bring to a one-day legal tech summit'. **Slide 2** what the day is and who it is for, attributed to the organiser. **Slide 3** where Comply.LM will be, exactly as open question Q7 says — describe the Event Partner presence accurately, never as organiser. **Slide 4** what to bring: a question, a specific example, a decision you are actually trying to make. **Slide 5** registration, attributed to the organiser, footer 'Details and registration at Comply.LM · link in bio' plus the wordmark."
 
 *Instagram caption:*
 
@@ -2670,7 +2674,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 >
 > Three things to bring: a question, a specific example from your own practice, and a decision you are actually trying to make. That is the whole preparation.
 >
-> Details and registration: `[TRACKED LINK — …&utm_content=meta-w5-daybefore]`
+> Details and registration: `[TRACKED LINK — …&utm_content=meta-w6-daybefore]`
 >
 > What are you bringing?
 
@@ -2678,7 +2682,7 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 
 *Stories (3 frames):* frame 1 the three-things slide; frame 2 a `we're here today` frame with the link sticker; frame 3 an opening-hours frame, verified that morning.
 
-*Checklist:* **every event fact re-verified on the morning of Day 30 against the organiser's page** · no place count, no start time unless sourced today · **LawMatter described as Event Partner, never as organiser** · no speaker name unless on the organiser's page today · the GBP Event post is live with the CTA button set · compliance gate signed.
+*Checklist:* **every event fact re-verified on the morning of Day 30 against the organiser's page** · no place count, no start time unless sourced today · **Comply.LM described as Event Partner, never as organiser** · no speaker name unless on the organiser's page today · the GBP Event post is live with the CTA button set · compliance gate signed.
 
 <a id="meta-6"></a>
 
@@ -2702,39 +2706,39 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 >
 > If you were there and we got it wrong, tell us — we will correct it.
 
-*Hashtags:* `#LegalTech #LawTechSummit #AICompliance #Tranche2 #ComplyLM`
+*Hashtags:* `#LegalTech #LawTechSummit #Tranche2 #ComplyLM` — drop `#AICompliance` unless a real claim supports it.
 
 *Stories (2 frames):* frame 1 a 3-second clip from the day with a `what we heard` cue; frame 2 the link sticker.
 
-*Checklist:* **no attendee identifiable without explicit consent captured** · no speaker quoted unless they said it on a recorded microphone · themes attributed to the room, not claimed as LawMatter's position · partner status correct in every frame · compliance gate signed.
+*Checklist:* **no attendee identifiable without explicit consent captured** · no speaker quoted unless they said it on a recorded microphone · themes attributed to the room, not claimed as Comply.LM's position · recap copy traces to [B11](#b11) · one CTA (*Enrol with AUSTRAC* for the walk-through of the obligations; the recap itself stays event-attributed) · partner status correct in every frame · compliance gate signed.
 
 <a id="meta-7"></a>
 
-**7 · Day 39 (Saturday 7 November) — `meta-fu-lessons` · the honest version, a week on**
+**7 · Day 39 (Saturday 7 November) — `meta-fu-starterkit` · the honest post — cost and the starter kit, a week on**
 
-*Prompt.* "Design a 5-slide Instagram carousel, 1080×1350 (4:5), dark navy `#1E2A38`, cyan and teal accents, bold white type, no photography. **Slide 1** cover: 'A week after the summit — what actually changed'. **Slides 2–5** four commitments, each phrased as a thing LawMatter will do, not a thing it achieved: what we are publishing next · what we could not answer at the summit and are still working on · the question we now ask every vendor, including ourselves · what we will be doing before the next renewal. **Slide 5** footer: 'Follow along at Comply.LM · link in bio' plus the wordmark. **Do not put a number on any slide unless it is a ledger-verified figure.**"
+*Prompt.* "Design a 5-slide Instagram carousel, 1080×1350 (4:5), dark navy `#1E2A38`, cyan and teal accents, bold white type, no photography. **Slide 1** cover: 'What being AML/CTF-ready actually costs in 2026'. **Slides 2–5** four honest slides from [B12](#b12): what enrol-with-AUSTRAC costs nothing but time · what you must build regardless of vendor · where software genuinely saves a firm hours vs where it does not · the three-year cost question nobody asks. **Slide 5** footer: 'The full starter kit at Comply.LM · link in bio' plus the wordmark. **Do not put a number on any slide unless it is a ledger-verified figure — the published [pricing](https://complylm.com.au/pricing) is the only price source.**"
 
 *Instagram caption:*
 
-> A week after the summit. Here is what we are committing to, not what we are claiming.
+> Three weeks after the summit run. Enough distance to be worth saying plainly: being ready for the AML/CTF regime is a mix of free work, ordinary process, and one software decision.
 >
-> One of these is the question we could not answer in the room. We have not answered it since either. It is written down on the site so you can hold us to it.
+> Which parts are genuinely free, and which actually cost — including the three-year number the demo decks skip.
 >
-> Which of these would you have wanted answered on the day?
+> Which of these surprises you most?
 
 *Facebook caption (link in the body):*
 
-> A week after the LawTech: AI Summit, here is what LawMatter is committing to next — including the question we could not answer in the room and have not answered since.
+> A week after the summit, here is the honest breakdown of what being AML/CTF-ready costs: what is free, what is process you have to do anyway, and where the software decision actually pays for itself.
 >
-> Written down, with the gaps named: `[TRACKED LINK — …&utm_content=meta-fu-lessons]`
+> The full starter kit, with the price source: `[TRACKED LINK — …&utm_content=meta-fu-starterkit]`
 >
-> The honest post beats the impressive post. Especially the week after.
+> The honest post beats the impressive post — especially a week after an event.
 
-*Hashtags:* `#LegalTech #AICompliance #LegalCompliance #Tranche2 #ComplyLM`
+*Hashtags:* `#AUSTRAC` (or `#AMLAustralia`) + `#ComplyLM` per the general/RegTech row of the [segment bank](#meta-hashtags).
 
-*Stories (2 frames):* frame 1 the four commitments; frame 2 a question sticker — `What should we be publishing next?` — with the replies logged.
+*Stories (2 frames):* frame 1 the four honest slides; frame 2 a question sticker — `Which cost surprised you most?` — with the replies logged.
 
-*Checklist:* **no result claimed that is not measured** · the unanswered question stays unanswered and visible · no client named, no count claimed · compliance gate signed.
+*Checklist:* **no cost, plan-name or price figure that is not ledger-verified against [pricing](https://complylm.com.au/pricing) or AUSTRAC** · no result claimed that is not measured · no client named · one CTA (*Enrol with AUSTRAC*, with `/eligibility-check` separate) · compliance gate signed.
 
 **Google Business Profile — the one surface here with local intent, and it is not a social channel.**
 
@@ -2750,18 +2754,25 @@ If an asset does not fit one of those three reasons, it does not post. **Do not 
 
 <a id="meta-hashtags"></a>
 
-#### Hashtag bank
+#### Hashtag bank, rotated by segment
 **Owner: Paid–Social. Standing reference.**
 
-**How to use it.** Rotate, do not stack. Three to five per post. Mix one broad, one sector, one brand and one event-adjacent, and leave the rest out — a wall of hashtags reads as spam to a professional audience and to the platform.
+**How to use it.** Rotate, do not stack; and rotate *by segment*, because the pillar posts target different reporting entities. Three to five per post: one broad, one sector, one brand, plus the event-adjacent tag for summit assets. A wall of hashtags reads as spam to a professional audience and to the platform. A hashtag is a published claim — it goes through the same gate as the caption. Tags already used by another asset this week are skipped, not repeated.
 
-| Role | Hashtags |
-|---|---|
-| Regulatory (ledger-backed, safe to use) | `#Tranche2` `#AMLAustralia` `#AMLCFT` `#AUSTRAC` `#CTF` |
-| Sector / role | `#LegalCompliance` `#LawFirmManagement` `#LegalTech` `#PracticeManagers` `#Conveyancing` `#LegalOps` |
-| Event | `#LawTechSummit` `#SydneyEvents` |
-| Brand | `#ComplyLM` `#LawMatter` |
-| **Never use** | `#AUSTRACCompliant` — this is the **blocked claim** from open question Q1, and a hashtag is a published claim. `#Tranche2Ready` or any implied-compliance variant until open question Q1 is answered. `#LawFirmAI` only where a real claim supports it. |
+| Context | Hashtags | Rule |
+|---|---|---|
+| Regulatory (any segment) | `#Tranche2` `#AMLAustralia` `#AMLCFT` `#AUSTRAC` `#CTF` | Pick **one** per post; rotate the pick across the week so the set is spread, never used together. |
+| Lawyers | `#LegalCompliance` `#LawFirmManagement` `#LegalTech` `#LegalOps` | Pair one with the regulatory pick. |
+| Conveyancers | `#Conveyancing` `#LegalOps` `#LegalCompliance` | Pair one with the regulatory pick. |
+| Accountants & bookkeepers | `#PracticeManagers` + the regulatory pick | Sector-specific tags for accountants pending Founder approval (see the Change Log) — do not invent new tags. |
+| Real estate | The regulatory pick + `#ComplyLM` | Sector-specific tags for real estate pending Founder approval. |
+| Jewellers | The regulatory pick + `#ComplyLM` | Sector-specific tags for jewellers pending Founder approval. |
+| General / RegTech | `#AMLAustralia` or `#AUSTRAC` + `#ComplyLM` | For non-segment assets. |
+| Event | `#LawTechSummit` `#SydneyEvents` | Summit assets only; drop after Week 5. |
+| Brand | `#ComplyLM` | Exactly one per post. `#LawMatter` is **not** used — the brand decision says Comply.LM first and LawMatter only where accuracy requires it, and a hashtag is everywhere. |
+| **Never use** | `#AUSTRACCompliant` — the **blocked claim** from open question Q1. `#Tranche2Ready` or any implied-compliance variant until Q1 is answered. `#LawFirmAI` only where a real claim supports it. Any sector tag not listed above until the Founder confirms it. |
+
+*Change Log:* the real-estate/jeweller/accountant sector rows above carry only validated tags because the segment-specific tags agreed for rotation were not captured in full at planning time. Confirm the missing per-segment tags with the Founder before the Jewellers post (Day 8 of the sprint) uses them.
 
 ---
 
