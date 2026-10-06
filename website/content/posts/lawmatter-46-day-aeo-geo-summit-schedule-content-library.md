@@ -1,21 +1,23 @@
 ---
-title: "LawMatter — Full 46-Day AEO/GEO Schedule & Content Library"
+title: "Comply.LM — Full 46-Day AEO/GEO Schedule & Content Library (30-Keyword Panel)"
 date: 2026-09-29
-lastmod: 2026-10-05
-tags: ["AEO", "GEO", "AI Search", "AML and CTF", "Tranche 2", "AUSTRAC", "LawTech", "46-day sprint", "content library"]
+lastmod: 2026-10-06
+tags: ["AEO", "GEO", "AI Search", "AML and CTF", "Tranche 2", "AUSTRAC", "LawTech", "46-day sprint", "content library", "long-tail keywords"]
 categories: ["LawMatter"]
-summary: "A plain-English operating plan for a 46-day pre-event AEO/GEO push for LawMatter and Comply.LM ahead of the Lawyers Weekly LawTech: AI Summit. It contains a day-by-day schedule from 30 September to 14 November 2026, a library where every deliverable links to its own detailed brief, and the Claims Ledger that decides which claims are allowed to publish."
+summary: "A plain-English operating plan for a 46-day AEO/GEO sprint for Comply.LM (a LawMatter product), built around a fixed panel of 30 long-tail AML/CTF keywords across six segments — lawyers, conveyancers, accountants, real estate, jewellers and general RegTech. Day-by-day schedule from 30 September to 14 November 2026, a library where every deliverable links to its own brief, the keyword-to-asset map, and the Claims Ledger that decides which claims are allowed to publish."
 ---
 
 ## What this document is
 
-This is the working plan for a 46-day marketing sprint. The sprint runs from **Wednesday 30 September 2026 (Day 1)** to **Saturday 14 November 2026 (Day 46)**. Its purpose is to make LawMatter and its product Comply.LM the answer that AI assistants and search engines give when an Australian lawyer asks a Tranche 2 or AML/CTF compliance question, and to turn that visibility into summit registrations and product demonstrations.
+This is the working plan for a 46-day AEO/GEO sprint. The sprint runs from **Wednesday 30 September 2026 (Day 1)** to **Saturday 14 November 2026 (Day 46)**. Its purpose is to make **Comply.LM** the answer Australian AI assistants and search engines give for a fixed panel of **30 long-tail AML/CTF keywords** spread evenly across six buyer segments — lawyers, conveyancers, accountants and bookkeepers, real estate, jewellers and precious goods dealers, and general AML/CTF and RegTech. The Lawyers Weekly LawTech: AI Summit on **Friday 30 October 2026 (Day 31)** is a fixed date inside that window, not the purpose of it.
+
+**The correction this version makes.** The previous version of this plan was written around two assumptions that the client has since replaced: a ten-query hypothesis panel invented by the planner, and a strategy whose primary outcome was summit registrations. Neither is correct now. The measurement set is the client's own list of 30 long-tail keywords, the audience is all six segments with equal weight, and the primary outcome is being cited and ranked for those 30 queries. The summit, the registrations and the demonstrations remain in the plan; they are ranked behind keyword visibility rather than above it. Dates, gates and the 46-day spine do not change.
 
 Everything is in this one file. It contains three things:
 
-1. **The strategy**, explained in plain language: what we are trying to achieve, why this event is the cheapest opportunity available in this window, and what we are deliberately *not* doing.
+1. **The strategy**, explained in plain language: what we are trying to achieve, the 30-keyword panel we are measured against, why the summit still shapes the calendar, and what we are deliberately *not* doing.
 2. **The day-by-day schedule**, which is the executable source of truth. Each of the 46 days names who owns each task, which channel it belongs to, and which brief explains how to do it.
-3. **The content library**, where every deliverable — blog post, landing page, event page, LinkedIn post, YouTube video, short-form video, email, outbound sequence, forum answer, paid advert, Claims Ledger entry, and post-event follow-up — is a link to its own detailed brief.
+3. **The content library**, where every deliverable — pillar blog post, refresh of an existing page, event page, LinkedIn post, YouTube video, short-form video, email, outbound sequence, forum answer, paid advert, Claims Ledger entry, and post-event follow-up — is a link to its own detailed brief.
 
 The briefs are written so that an operator who has never met the client can execute them without having to ask a question.
 
@@ -27,11 +29,13 @@ The briefs are written so that an operator who has never met the client can exec
 
 ### The strategy, stated plainly
 
-The client asked for one outcome: *"We must be on top in search results before 30 October."* This plan answers that request with a number rather than an adjective, because "on top" is not something anyone can verify by reading a website. It defines what "on top" means, measures it on Day 1 before any work begins, measures it again on Day 43 with the identical method, and reports the difference in raw numbers. If the difference is small, the report says so.
+The client asked for one outcome: *"Rank and get cited for these 30 keywords."* This plan answers that request with a number rather than an adjective, because "we are visible" is not something anyone can verify by reading a website. It fixes the panel of 30 queries on Day 1, measures all 30 in five AI engines and in Google Search Console before any work begins, measures all 30 again on Day 43 with the identical method, and reports the difference query by query — including the queries where Comply.LM did not appear at all. If the difference is small, the report says so.
 
-The commercial argument is more specific. Lawyers Weekly already publishes an authoritative, indexable description of the LawTech: AI Summit 2026 — the date, the venue, the audience, the speakers, and how to register. **LawMatter's own website contains no mention of the summit whatsoever.** On 29 September 2026 we confirmed that `/summit`, `/events`, `/lawtech-ai` and `/register` all return HTTP 404, and that the word "summit" appears zero times in the homepage HTML.
+The panel is the client's list, not the planner's. It is reproduced in full, with its assigned asset for every query, in [The six segments and the 30-keyword panel](#keyword-panel). Six segments, five queries each: lawyers, conveyancers, accountants and bookkeepers, real estate, jewellers and precious goods dealers, and a general AML/CTF and RegTech group. Equal weight is a client instruction, and it is the reason this version differs structurally from the last one — four of those six segments had no content at all on 6 October 2026.
 
-That is the central opportunity. An event with a strong third-party web presence and no first-party web presence cannot rank for its own name, and an AI engine can only cite LawMatter as an outside mention rather than as the authority. Phase 1 of this plan builds the missing first-party page. Everything after Phase 1 feeds it.
+The measurement is honest about the starting position. On 6 October 2026 the Comply.LM blog held **17 posts**, every one of them written for lawyers or conveyancers, and the sitemap advertised only **14** of them. Not one page on the site targeted a jeweller, a real estate agent, an accountant or a bookkeeper. A plan that measured jeweller keywords without first building jeweller content would be measuring its own omission, so the content library is re-pointed at the panel before the baseline is taken.
+
+The summit remains a fixed date because it cannot move. Lawyers Weekly publishes an authoritative, indexable description of the LawTech: AI Summit 2026 — the date, the venue, the audience, the speakers, and how to register — and **the Comply.LM site contains no mention of the summit whatsoever.** On 29 September 2026 `/summit`, `/events`, `/lawtech-ai` and `/register` all returned HTTP 404 and the word "summit" appeared zero times in the homepage HTML; `/summit` was re-checked on 6 October 2026 and still returns 404. So the event page is still built in Phase 1, and event pressure still lands in Days 25 to 30 — but it serves priority 3 in the table below, not priority 1.
 
 ### Glossary — the terms this document uses
 
@@ -49,10 +53,17 @@ These abbreviations are used throughout. They are defined once here rather than 
 | **IFTI** | International Funds Transfer Instruction. One of the report types AUSTRAC accepts. |
 | **CBM** | Cross-Border Movement. A report type relating to movements of value across a border. |
 | **CDD** | Client Due Diligence. The process of verifying a client's identity before or during a matter. |
+| **VOI** | Verification of Identity. Confirming who a person is. It is a component of CDD, not a substitute for it — a distinction three of the 30 panel keywords turn on. |
+| **segment** | One of the six buyer groups the panel is split across: lawyers · conveyancers · accountants and bookkeepers · real estate · jewellers and precious goods dealers · general AML/CTF and RegTech. Five panel queries each. |
+| **the panel / K1–K30** | The client's fixed set of 30 long-tail keywords, numbered K1 to K30 in the order supplied. Every *K-number* in this document means a row of [the panel](#keyword-panel). It has nothing to do with the open questions Q1–Q16. |
+| **pillar** | A long, single page written to answer one segment's questions in full, with one H2 or FAQ block per panel query. Six of them, one per segment. |
+| **refresh** | Work on a page that already exists and already has some ranking: new H2s, an FAQ block, internal links, corrected schema and a `dateModified` bump. Cheaper than a new page and often faster to move. |
+| **enrolment** | Registering the business with AUSTRAC through AUSTRAC Online, which a business providing a designated service must do within 28 days of providing it. The plan's primary call to action points here. |
 | **LPP** | Legal Professional Privilege. The confidentiality a lawyer owes a client, which can conflict with a duty to report. |
 | **EOI** | Expression of Interest. How summit registration works: the organiser states that registration is an expression of interest rather than a confirmed ticket, and that places are limited. |
-| **EDM** | Electronic Direct Mail — a marketing email sent to a list LawMatter owns. |
-| **CTA** | Call To Action — the single thing an asset asks the reader to do. This plan allows exactly one per asset. |
+| **EDM** | Electronic Direct Mail — a marketing email sent to a list Comply.LM owns. |
+| **CTA** | Call To Action — the single thing an asset asks the reader to do. This plan allows exactly one per asset, and for product and obligation content that one CTA is **"Enrol with AUSTRAC"**. See [Standing playbooks](#standing-playbooks). |
+| **RegTech** | A technology service provider that helps reporting entities meet their AML/CTF obligations. AUSTRAC recognises RegTechs as part of the compliance ecosystem, but the reporting entity remains responsible for its own obligations. K30 targets this category. |
 | **UTM** | A standard set of query-string parameters added to a URL so that analytics can identify which campaign produced a visit. The convention is in [UTM and tracking convention](#utm--tracking-convention). |
 | **GSC / GA4 / Bing Webmaster Tools** | Google Search Console, Google Analytics 4, and Bing's equivalent of Search Console. |
 | **GBP** | Google Business Profile — the Google Maps listing for a business with a verified physical location. |
@@ -90,59 +101,125 @@ This plan draws on four kinds of source, and it labels which is which so a reade
 
 | Source type | What it means here | How it is marked in the text |
 |---|---|---|
-| **Direct verification** | We opened the page and recorded what it said. All site and event checks in this plan were performed on **29 September 2026**. | "Verified 29 Sep 2026", followed by the URL and what it returned. |
+| **Direct verification** | We opened the page and recorded what it said. The first pass was **29 September 2026**; the client-site, competitor, event and AUSTRAC checks that this version rests on were re-run on **6 October 2026**. Each claim carries the date of the check that supports it. | "Verified 29 Sep 2026" or "Verified 6 Oct 2026", followed by the URL and what it returned. |
 | **Primary regulatory source** | Any statement about what an Australian law firm must do comes from AUSTRAC. A law society page may corroborate, but AUSTRAC is cited in published copy. | "Source: AUSTRAC", with the guidance URL. |
 | **The Claims Ledger** | Any statement about the product, pricing, beta status, customers or competitive position. Nothing publishes without a ledger row. | A reference to the [Claims Ledger](#claims-ledger) row. |
 | **Operating assumption** | A belief about how a platform or an audience behaves, for example that a carousel earns more reach than a text post. These are **not** facts and are not presented as facts. They are the working hypotheses this plan tests at the Day 18 gate. | "Assumption" or "working hypothesis", with an instruction to confirm or abandon it. |
 
 The full source list, including every blocked claim and every competitor reference, is in [Sources](#sources) at the end of this document. Where a statement in this plan could be mistaken for a sourced fact but is not one, it is labelled as an assumption.
 
-### The four things this plan will not do
+### The six things this plan will not do
 
 1. **It will not publish a claim without a source.** Every factual sentence in every asset must map to a row in the Claims Ledger. If there is no row, the sentence is cut. See [Verification rules](#anti-hallucination-rules).
-2. **It will not invent a number.** Not in a placeholder, not in a worked example, not in a hypothetical. This includes funnel conversion rates, budget figures, competitor performance numbers and event attendance.
-3. **It will not claim anything about a competitor that is not quoted from that competitor's own public page, with a link and a date.**
+2. **It will not invent a number.** Not in a placeholder, not in a worked example, not in a hypothetical. This includes funnel conversion rates, budget figures, competitor performance numbers, enrolment counts and event attendance.
+3. **It will not claim anything about a competitor that is not quoted from that competitor's own public page, with a link and a retrieval date.** Four competitors — Seamlss, Syntrico, LEAP and InfoTrack — may be **named in exactly one asset, [B12](#b12)**, and only after open question Q5 is signed off. Everywhere else they are neither named nor implied.
 4. **It will not describe LawMatter as the organiser of the summit.** LawMatter is an Event Partner. Getting this wrong in a legal publication is a public correction, which costs more than every placement gains.
+5. **It will not let LawMatter and Comply.LM drift apart.** Comply.LM is the product; LawMatter Pty Ltd (ABN 52 696 453 433) is the company that publishes it — the footer of `complylm.com.au` says so, and `sales@lawmatter.com.au` is the address on the pricing page. Comply.LM is named first in copy; LawMatter appears where legal or contractual accuracy requires it, and always on summit assets as the Event Partner.
+6. **It will not chase a keyword with a page that does not answer it.** Every panel query has one assigned primary asset that answers that query in its title, H1 and first paragraph. A page written to *mention* a keyword in order to be counted is a defect, not a win — the reader it was aimed at bounces, and the ranking does not hold.
 
 ---
 
-**The campaign goal, stated as an outcome rather than a slogan.** Before the summit on Friday 30 October 2026, we want Australian AI assistants and search engines to answer Tranche 2 and AML/CTF compliance questions for law firms and conveyancers with LawMatter or Comply.LM in the answer. Then we want to convert that visibility into summit expressions of interest and Comply.LM demonstration bookings.
+**The campaign goal, stated as an outcome rather than a slogan.** By Day 46 we want Australian AI assistants and search engines to answer the 30 panel queries — across lawyers, conveyancers, accountants, real estate, jewellers and general AML/CTF — with Comply.LM in the answer, on a page that maps to the [keyword panel](#keyword-panel). The summit on Friday 30 October 2026 is a fixed date inside the window: it supplies the scarcity phase, the event page, the partner trust signal and a pipeline of meetings, but it is ranked below the keyword outcome because the client has said the keywords are the point.
 
-The weight of the campaign sits in **Days 7 to 30, not on the event day.** Registrations are the primary commercial objective, and the summit is a one-day event with fixed capacity. The heaviest paid spend, the sharpest emails and the longest outbound sequences therefore all land *before* 30 October. Event day is the conversation, not the acquisition.
+The weight of the campaign still sits in **Days 7 to 30**, because that is where the pillar content and the event pressure both land. The single heaviest week for *commercial* pressure — paid spend, the sharpest emails, the longest outbound sequences — is Days 25 to 30, before the event. Event day is the conversation, not the acquisition.
 
-**How success is measured.** These five outcomes are ranked. The ranking matters, because when two outcomes compete for the same hour of work, the higher one wins.
+**How success is measured.** These six outcomes are ranked. The ranking matters, because when two outcomes compete for the same hour of work, the higher one wins.
 
 | Priority | What we want to achieve | How it is measured, and where the number comes from |
 |---|---|---|
-| 1 | **Summit expressions of interest registered.** | Counted separately in the Lawyers Weekly organiser's registration system and in LawMatter's own landing page form, and reported by day. The pre-event target is agreed by the client on Day 6 and is never invented in this document — see [Funnel maths](#funnel-maths). |
-| 2 | **AI-citation presence.** | Ten buyer queries run in five AI engines, giving fifty results. The baseline is recorded on Day 1 and re-tested on Day 43. Every result is screenshotted, including the results where Comply.LM does not appear at all. |
-| 3 | **Search visibility.** | Google Search Console impressions, clicks and average positions for the tracked query set; the number of indexed pages; and whether the summit page qualifies for Google's Event rich result. |
-| 4 | **Comply.LM demonstration bookings.** | Demo form submissions, each tagged `pre_summit`, `at_summit` or `post_summit` so the three periods can be compared. |
-| 5 | **Pipeline.** | Demonstrations held, opportunities created and wins closed, reported at Day 46. |
+| 1 | **AI-citation presence on the 30-keyword panel.** | All 30 panel queries run in five AI engines — ChatGPT, Gemini, Perplexity, Claude and Copilot — giving 150 results on Day 1 and again, identically, on Day 43. Every result is screenshotted, including the results where Comply.LM does not appear at all. Panel in [The keyword panel](#keyword-panel); method in [the baseline brief](#p1-baseline). |
+| 2 | **Search visibility on the 30-keyword panel.** | Google Search Console impressions, clicks and average positions, one row per K-number, reported at Days 18, 30 and 46. Plus the indexed-page count and whether the summit page earns Google's Event rich result. |
+| 3 | **Summit expressions of interest registered.** | Counted in the Lawyers Weekly organiser's registration system and in Comply.LM's own landing-page form, reported by day. The pre-event target is agreed by the client on Day 6 — see [Funnel maths](#funnel-maths). |
+| 4 | **Enrolment-support actions.** | Submissions to the [`/eligibility-check`](https://complylm.com.au/eligibility-check) tool and clicks on the "Enrol with AUSTRAC" call to action, UTM-tagged, counted as the trust-arbitrage measure of the campaign's authority. |
+| 5 | **Comply.LM demonstration bookings.** | Demo form submissions, each tagged `pre_summit`, `at_summit` or `post_summit` so the three periods can be compared. |
+| 6 | **Pipeline.** | Demonstrations held, opportunities created and wins closed, reported at Day 46. |
+
+---
+
+<a id="keyword-panel"></a>
+
+## The six segments and the 30-keyword panel
+
+**What this section is.** The client supplied a list of 30 long-tail keywords and instructed that the sprint be measured against it. This section reproduces that list verbatim, records the one correction made to it, and assigns each keyword a primary asset and supporting assets. **It is the reference that every content, measurement and ranking decision in this document points back to.** If a page in this plan is not in this table, it is not part of the keyword outcome — it is event or pipeline support and is justified on those grounds.
+
+**Naming.** The keywords are numbered **K1 to K30** in the order the client supplied them, grouped into six segments of five. These numbers are load-bearing: the AI-citation baseline, the Google Search Console tracker and the Day 46 report all use them.
+
+**The one correction.** The client's list contained three typos in a supporting note ("AML / CTF obligations for jewllers, real estate agents, accountatns, lawyers, conveyarnce") that do not affect any keyword. No keyword was edited, reworded or re-scoped.
+
+**Where the keywords came from.** The list was written by the client, not derived from search-volume data. No volume or competition figures were available on 6 October 2026, so none are used. The plan treats every row as equally important on the client's instruction; segment priority rankings are not applied, and the one place the plan argues for one is recorded in the [Decision Log](#decision-log).
+
+**The market context we do have.** AUSTRAC publishes enrolment counts for the new reporting entities as of **17 September 2026** on its [Enrol with us overview](https://www.austrac.gov.au/new-austrac/enrol-us/enrol-us-overview) page (verified 6 Oct 2026): real estate **18,350** · accounting and professional services **13,780** · lawyers **6,580** · conveyancers **1,600** · jewellers and dealers in precious metals and goods **320**. These are regulatory data, not marketing claims, and they feed the [Claims Ledger](#claims-ledger) and the outbound targeting. They do not override the client's equal-weight instruction.
+
+### The keyword-to-asset map
+
+`Primary` is the page that must answer the query in its title, H1 and first paragraph. `Support` is where the query is additionally answered, linked or strengthened. Every K-number appears exactly once in `Primary`.
+
+| K | Segment | Query (client's wording) | Primary asset | Support |
+|---|---|---|---|---|
+| K1 | Lawyers | AML compliance software for small law firms Australia | [B13 comparison](#b13) | [B12 buyer's guide](#b12) · refresh `/blog/choosing-aml-ctf-software-austrac-expectations` |
+| K2 | Lawyers | AML/CTF program template for Australian law firms | [B1 lawyers pillar](#b1) | refresh `/blog/tranche-2-is-live-law-firms-checklist` |
+| K3 | Lawyers | Which legal services are covered by AML/CTF laws Australia | [B2 covered services](#b2) | refresh `/eligibility-check` |
+| K4 | Lawyers | Customer due diligence checklist for law firms Australia | [B6 CDD pillar](#b6) | [B2](#b2) |
+| K5 | Lawyers | When must lawyers submit a suspicious matter report Australia | [B4 SMR](#b4) | refresh `/blog/suspicious-matter-reports-guide-for-lawyers` |
+| K6 | Conveyancers | AML compliance software for conveyancers Australia | [B7 conveyancers pillar](#b7) | [B13](#b13) |
+| K7 | Conveyancers | AML/CTF program template for conveyancing businesses Australia | [B7 conveyancers pillar](#b7) | refresh `/blog/tranche-2-is-live-law-firms-checklist` |
+| K8 | Conveyancers | Is verification of identity enough for AML/CTF compliance Australia | [B7 conveyancers pillar](#b7) · [B6 CDD pillar](#b6) | — |
+| K9 | Conveyancers | Customer due diligence checklist for conveyancers Australia | [B6 CDD pillar](#b6) | refresh `/blog/conveyancing-cdd-onboarding` |
+| K10 | Conveyancers | When must conveyancers complete customer due diligence Australia | refresh `/blog/conveyancing-cdd-onboarding` | [B7](#b7) |
+| K11 | Accountants | AML compliance software for small accounting firms Australia | [B3 accountants pillar](#b3) | [B13](#b13) |
+| K12 | Accountants | Which accounting services trigger AML/CTF obligations Australia | [B3 accountants pillar](#b3) · [B2 covered services](#b2) | refresh `/eligibility-check` |
+| K13 | Accountants | Do bookkeepers need to comply with AML/CTF laws Australia | [B3 accountants pillar](#b3) | [B2](#b2) |
+| K14 | Accountants | Customer due diligence checklist for accountants Australia | [B3 accountants pillar](#b3) · [B6 CDD pillar](#b6) | — |
+| K15 | Accountants | Do accountants need AML checks for existing clients Australia | [B3 accountants pillar](#b3) | [B6](#b6) |
+| K16 | Real estate | AML compliance software for real estate agents Australia | [B5 real-estate pillar](#b5) | [B13](#b13) |
+| K17 | Real estate | AML compliance software for buyers agents Australia | [B5 real-estate pillar](#b5) | — |
+| K18 | Real estate | Customer due diligence checklist for real estate agents Australia | [B5 real-estate pillar](#b5) · [B6 CDD pillar](#b6) | — |
+| K19 | Real estate | AML/CTF requirements for property developers selling directly Australia | [B5 real-estate pillar](#b5) | refresh `/eligibility-check` |
+| K20 | Real estate | Can real estate agents rely on conveyancer customer due diligence Australia | [B5 real-estate pillar](#b5) | [B7](#b7) |
+| K21 | Jewellers | AML compliance software for jewellers Australia | [B8 jewellers pillar](#b8) | [B13](#b13) |
+| K22 | Jewellers | Do jewellers need AML compliance if they do not accept cash Australia | [B8 jewellers pillar](#b8) | — |
+| K23 | Jewellers | AML/CTF rules for jewellery cash payments of $10,000 or more Australia | [B8 jewellers pillar](#b8) | refresh `/blog/threshold-transaction-reports-conveyancers` |
+| K24 | Jewellers | How jewellers identify linked transactions under AML/CTF Australia | [B8 jewellers pillar](#b8) | — |
+| K25 | Jewellers | Customer due diligence checklist for jewellers Australia | [B8 jewellers pillar](#b8) · [B6 CDD pillar](#b6) | — |
+| K26 | General | AML/CTF software for Australian Tranche 2 businesses | [B12 buyer's guide](#b12) | refresh `/blog/choosing-aml-ctf-software-austrac-expectations` · [B13](#b13) |
+| K27 | General | How much does AML compliance software cost Australia | [B12 buyer's guide](#b12) | `/pricing` FAQ block |
+| K28 | General | AUSTRAC starter kit vs AML compliance software Australia | [B12 buyer's guide](#b12) | refresh `/blog/july-2026-aml-ctf-roadmap` |
+| K29 | General | Customer due diligence vs verification of identity Australia | [B6 CDD pillar](#b6) | refresh `/blog/why-do-you-need-my-id-how-to-handle-the-coming-aml-client-friction` |
+| K30 | General | RegTech company for Australian AML/CTF compliance | [B13 comparison](#b13) | organisation entity and `llms.txt` in [Technical fixes A](#p1-fixes-a) |
+
+**What the map implies.** Six of the 13 blog posts are **segment pillars** — one long page each for lawyers, accountants, real estate, conveyancers and jewellers, plus a cross-segment customer-due-diligence pillar. These six pages carry 24 of the 30 keywords as their primary target. The remaining six posts are support and event content, and the comparison post closes the panel with the three commercial and RegTech queries. Supporting assets above that already exist on the site are **refreshes**, not new work: a refresh adds an H2 or FAQ block answering the query, one or more internal links, corrected schema, and a `dateModified` bump.
+
+**The asset inventory finding.** The site advertises **14** blog URLs in `sitemap.xml` but the `/blog` index renders **17** (verified 6 Oct 2026). Three posts — `the-july-2026-clock-is-ticking-...`, `the-true-cost-of-non-compliance-...` and `why-do-you-need-my-id-...` — are live, linked and absent from the sitemap. That is an indexation defect, and one of the three happens to be a K29 support asset. Fixing the sitemap is a Phase 1 task.
+
+**How we know we are not already winning any of this.** The Day 1 baseline runs all 30 queries in five engines and records where Comply.LM does and does not appear, and the Google Search Console query report is pulled for all 30. The answers to "are we cited for K23 already?" and "are we on page one for K27?" are measured, not asserted.
 
 ---
 
 ## The click-through library: every deliverable links to its own brief
 
-**Read these five sections before you do anything else.** They are the rules that override every brief in this file: [Claims Ledger](#claims-ledger) · [Compliance Gate](#compliance-gate) · [Verification rules](#anti-hallucination-rules) · [Funnel maths](#funnel-maths) · [UTM and tracking convention](#utm--tracking-convention)
+**Read these six sections before you do anything else.** They are the rules that override every brief in this file: the [keyword panel](#keyword-panel) · [Claims Ledger](#claims-ledger) · [Compliance Gate](#compliance-gate) · [Verification rules](#anti-hallucination-rules) · [Funnel maths](#funnel-maths) · [UTM and tracking convention](#utm--tracking-convention)
 
 **Channels that run across every sprint:** [Instagram, Facebook and Google Business Profile — the repurposing lane](#meta-lane) · [Hashtag bank](#meta-hashtags)
 
-**The Meta schedule — seven assets, each with its caption, hashtags, design prompt and footer:** [#1 Day 11 — the seven obligations](#meta-1) · [#2 Day 18 — Stories only](#meta-2) · [#3 Day 25 — the compliance officer Reel](#meta-3) · [#4 Day 29 — twelve questions](#meta-4) · [#5 Day 30 — the day before](#meta-5) · [#6 Day 32 — what we heard](#meta-6) · [#7 Day 39 — a week after](#meta-7)
+**The Meta schedule — seven assets, each with its caption, hashtags, design prompt and footer:** [#1 Day 11 — the due-diligence checklist](#meta-1) · [#2 Day 18 — Stories only](#meta-2) · [#3 Day 25 — the jewellers Reel](#meta-3) · [#4 Day 29 — twelve questions](#meta-4) · [#5 Day 30 — the day before](#meta-5) · [#6 Day 32 — what we heard](#meta-6) · [#7 Day 39 — a week after](#meta-7)
 
-**Phase 1 — Foundation, Days 1 to 6:** [Day 1 AI-citation baseline](#p1-baseline) · [Technical fixes A: canonical tags, schema and article markup](#p1-fixes-a) · [Rebuild `llms.txt` so it is truthful](#p1-llmstxt) · [Schema B: SoftwareApplication, Offer, FAQPage, WebApplication](#p1-schema-b) · [The summit event page and its Event schema](#p1-event-entity) · [Google Search Console, sitemaps and indexing](#p1-gsc) · [Building the Claims Ledger and answering the open questions](#p1-claims) · [Tracking and conversion setup](#p1-tracking) · [Week 2 content drafting](#p1-drafting)
+**Phase 1 — Foundation, Days 1 to 6:** [Day 1 AI-citation baseline on the 30-keyword panel](#p1-baseline) · [Technical fixes A: canonical tags, schema and article markup](#p1-fixes-a) · [Rebuild `llms.txt` so it is truthful](#p1-llmstxt) · [Schema B: SoftwareApplication, Offer, FAQPage, WebApplication](#p1-schema-b) · [The summit event page and its Event schema](#p1-event-entity) · [Google Search Console, sitemaps and indexing](#p1-gsc) · [Building the Claims Ledger and answering the open questions](#p1-claims) · [Tracking and conversion setup](#p1-tracking) · [Week-2 content drafting](#p1-drafting)
 
-**Week 2, Days 7 to 12 — the "Open" phase:** [Blog #1 Tranche 2 Compliance Checklist](#b1) · [EDM #1 Invitation](#e1) · [Short #1](#v-short-1) · [LinkedIn teaser #1](#li-teaser-1) · [LinkedIn carousel #1](#li-carousel-1) · [Outbound wave 1](#out-1) · [YouTube #1](#yt-1) · [Exec LinkedIn post #1](#li-exec-1) · [Forum wave 1](#forum-1)
+**The pillars and posts — one brief per K-group:** [B1 Day 7 — Lawyers pillar (K1–K4)](#b1) · [B2 Day 9 — Which services are covered (K3, K12, K13, K19)](#b2) · [B3 Day 13 — Accountants & bookkeepers pillar (K11–K15)](#b3) · [B4 Day 15 — Lawyers SMR (K5)](#b4) · [B5 Day 17 — Real-estate pillar (K16–K20)](#b5) · [B6 Day 20 — CDD vs VOI pillar, all segments (K4, K8, K9, K14, K18, K25, K29)](#b6) · [B7 Day 22 — Conveyancers pillar (K6–K10)](#b7) · [B8 Day 24 — Jewellers pillar (K21–K25)](#b8) · [B9 Day 27 — Summit preview (event)](#b9) · [B10 Day 29 — Day-before logistics (event)](#b10) · [B11 Day 32 — Event recap (event)](#b11) · [B12 Day 36 — Cost and the AUSTRAC starter kit (K26–K28)](#b12) · [B13 Day 41 — Comparison, names four competitors (K1, K26, K30)](#b13)
 
-**Week 3, Days 13 to 18 — the "Consider" phase:** [Blog #2 What Is a Tranche 2 designated service provider](#b2) · [EDM #2 Topic-led](#e2) · [Short #2](#v-short-2) · [LinkedIn post #2](#li-post-2) · [Blog #3 Appointing an AML/CTF compliance officer](#b3) · [EDM #3 Limited places](#e3) · [YouTube #2](#yt-2) · [PR pitch to legal media](#pr-1) · [Day 18 mid-ramp check](#gate-18)
+**Existing-page refreshes:** `tranche-2-is-live` (K2, K7) · `conveyancing-cdd-onboarding` (K9, K10) · `threshold-transaction-reports-conveyancers` (K23) · `suspicious-matter-reports-guide-for-lawyers` (K5) · `july-2026-aml-ctf-roadmap` (K28) · `choosing-aml-ctf-software-austrac-expectations` (K26, K28) · `why-do-you-need-my-id` (K29) · `/pricing` FAQ (K27) · `/eligibility-check` (K3, K12, K13, K19). The full run sheet is in [the Day-22 refresh sweep](#refreshes).
 
-**Week 4, Days 19 to 24 — the "Decide" phase:** [Blog #4 Legal professional privilege and AUSTRAC reporting](#b4) · [EDM #4 Agenda and speakers](#e4) · [Short #3](#v-short-3) · [LinkedIn carousel #2](#li-carousel-2) · [Outbound wave 2](#out-2) · [Blog #5 Vendor due diligence checklist](#b5) · [EDM #5 Last chance for early registration](#e5) · [YouTube #3](#yt-3) · [Exec LinkedIn post #2](#li-exec-2) · [Speaker re-verification #1](#speaker-check-1)
+**Week 2, Days 7 to 12 — pillars open:** [B1](#b1) · [EDM #1 Invitation](#e1) · [Short #1](#v-short-1) · [LinkedIn teaser #1](#li-teaser-1) · [LinkedIn carousel #1](#li-carousel-1) · [Outbound wave 1](#out-1) · [YouTube #1](#yt-1) · [Exec LinkedIn post #1](#li-exec-1) · [Forum wave 1](#forum-1)
 
-**Week 5, Days 25 to 30 — the "Scarcity" phase:** [Summit page lock and speaker re-verification #2](#speaker-check-2) · [Blog #6 Summit preview](#b6) · [EDM #6 Places remaining](#e6) · [Short #4](#v-short-4) · [EDM #7 The day before](#e7) · [Blog #7 Day-before logistics](#b7) · [Day 30 event readiness gate](#gate-30)
+**Week 3, Days 13 to 18 — the segment run:** [B3](#b3) · [B4](#b4) · [B5](#b5) · [EDM #2 Topic-led](#e2) · [Short #2](#v-short-2) · [LinkedIn post #2](#li-post-2) · [EDM #3 Limited places](#e3) · [YouTube #2](#yt-2) · [PR pitch to legal media](#pr-1) · [Day 18 mid-ramp check](#gate-18)
+
+**Week 4, Days 19 to 24 — the CDD and conveyancer run:** [B6](#b6) · [B7](#b7) · [B8](#b8) · [EDM #4 Agenda and speakers](#e4) · [Short #3](#v-short-3) · [Short #4](#v-short-4) · [LinkedIn carousel #2](#li-carousel-2) · [Outbound wave 2](#out-2) · [EDM #5 Last chance for early registration](#e5) · [YouTube #3](#yt-3) · [Exec LinkedIn post #2](#li-exec-2) · [Speaker re-verification #1](#speaker-check-1)
+
+**Week 5, Days 25 to 30 — the "Scarcity" phase:** [Summit page lock and speaker re-verification #2](#speaker-check-2) · [B9 Summit preview](#b9) · [EDM #6 Places remaining](#e6) · [Short #5](#v-short-5) · [EDM #7 The day before](#e7) · [B10 Day-before logistics](#b10) · [Day 30 event readiness gate](#gate-30)
 
 **Event Day, Day 31 (Friday 30 October):** [Event-day run sheet](#d31-runsheet) · [Event-day LinkedIn and live clips](#d31-linkedin) · [Lead capture and scoring](#d31-leads) · [Booth and meeting scripts](#d31-scripts)
 
-**Follow-up, Days 32 to 42:** [48-hour attendee sequence](#fu-attendee) · [No-show sequence](#fu-noshow) · [Blog #8 Event recap](#b8) · [LinkedIn carousel — five things we heard](#li-carousel-3) · [EDM #8 Thank you and next step](#e8) · [Outbound wave 3 — post-event meetings](#out-3) · [Blog #9 Why act now](#b9) · [Blog #10 Comparison — behind the gate](#b10) · [Forum wave 2](#forum-2)
+**Follow-up, Days 32 to 42:** [48-hour attendee sequence](#fu-attendee) · [No-show sequence](#fu-noshow) · [B11 Event recap](#b11) · [LinkedIn carousel — five things we heard](#li-carousel-3) · [EDM #8 Thank you and next step](#e8) · [Outbound wave 3 — post-event meetings](#out-3) · [B12 Cost and the starter kit](#b12) · [B13 Comparison — behind the gate](#b13) · [Forum wave 2](#forum-2)
 
 **Close, Days 43 to 46:** [Day 43 AI-citation re-test](#p4-retest) · [Analytics pull](#p4-analytics) · [Day 46 report and decision](#p4-report)
 
@@ -152,10 +229,10 @@ The weight of the campaign sits in **Days 7 to 30, not on the event day.** Regis
 
 The four owner names below are **placeholders**. Replace each one with a real person's name in a single pass at the top of this file before Day 1. Assignments are meaningless if two people both believe they are "Content".
 
-- **Founder** — the sole approver of every claim, every advert and every published sentence. Supplies the answers to the twelve open questions. Owns the Claims Ledger and the compliance sign-off. Runs the Day 6, Day 18 and Day 30 gates, and makes the Day 46 decision. This is the only person who can say "we are allowed to claim X". The Founder is deliberately a bottleneck: the ledger exists so that sign-off is fast and does not have to be repeated for every asset.
-- **Content–SEO** — all twelve blog posts, page refreshes, the internal-link graph, FAQ blocks, on-page work, `Article` schema markup and indexability. Definition of Done for each post: the first sentence answers the query directly; every regulatory fact is sourced to AUSTRAC; `Article`, `datePublished`, `dateModified` and `FAQPage` schema are present; three or more internal links; published on its assigned day.
-- **Paid–Social** — all LinkedIn activity on both the company page and the founder's profile, Meta repurposing, Google Search advertising, EDM sends, outbound sequences, Lawyers Weekly placements, partner and association outreach, and UTM discipline.
-- **Tech–GEO** — schema, `llms.txt`, sitemaps, Google Search Console and Bing Webmaster Tools, analytics, the AI-citation test harness, page speed and Core Web Vitals, YouTube channel operations, forum accounts and tracker maintenance.
+- **Founder** — the sole approver of every claim, every advert and every published sentence. Supplies the answers to the open questions, including the panel's K-mapping sign-off and the [enrolment-promise](#compliance-gate) decision. Owns the Claims Ledger and the compliance sign-off. Runs the Day 6, Day 18 and Day 30 gates, and makes the Day 46 decision. This is the only person who can say "we are allowed to claim X". The Founder is deliberately a bottleneck: the ledger exists so that sign-off is fast and does not have to be repeated for every asset.
+- **Content–SEO** — the six segment pillar posts (B1–B3, B5–B8), the definitional post (B2), the SMR post (B4), every existing-page refresh, the internal-link graph, FAQ blocks, on-page work, `Article` schema markup and indexability. Definition of Done for each post: the first sentence answers its assigned K-query directly; every regulatory fact is sourced to AUSTRAC; the target K-number is named in the tracker and in the H1; `Article`, `datePublished`, `dateModified` and `FAQPage` schema are present; three or more internal links including one to the owning pillar; published on its assigned day.
+- **Paid–Social** — all LinkedIn activity on both the company page and the founder's profile, Meta repurposing, Google Search advertising, EDM sends, outbound sequences, Lawyers Weekly placements, partner and association outreach, and UTM discipline. Owns the "Enrol with AUSTRAC" CTA click log and the eligibility-check funnel.
+- **Tech–GEO** — schema, `llms.txt`, sitemaps, Google Search Console and Bing Webmaster Tools, analytics, the 30-keyword AI-citation test harness, page speed and Core Web Vitals, YouTube channel operations, forum accounts and tracker maintenance.
 
 **There is exactly one accountable owner per deliverable, with no exceptions.** Where a task lists two people, the first name owns it and the second assists.
 
@@ -181,7 +258,41 @@ Each note below answers a question a reader is entitled to ask: why this length,
 
 - **Why paid advertising is LinkedIn-first.** LinkedIn is where managing partners, practice managers, legal operations leads and heads of risk actually are. Google Search captures people who are already searching. LinkedIn Sponsored Content and Message Ads create the demand; Google captures it.
 
-- **Why the Law Society and association listings are worth more than advertisements.** Australian law society and specialist legal-technology association listings reach exactly the right audience and carry a strong trust signal, at zero media cost. They are treated as a workstream, not a footnote.
+- **Why the Law Society and association listings are worth more than advertisements.** Australian law society and specialist legal-technology association listings reach exactly the right audience and carry a strong trust signal, at zero media cost. They are treated as a workstream, not a footnote. For the two largest enrolment groups — real estate (18,350) and accounting (13,780) — the equivalent professional bodies (REIA and its state counterparts, Chartered Accountants ANZ, CPA Australia and the IPA) matter even more proportionally than law societies do.
+
+- **Why the plan now lives on a 30-keyword panel rather than a ten-query hypothesis.** The previous version invented its own query set because no volume data existed. The client has since supplied a fixed list of 30. A client-supplied list beats a planner-supplied list for one decisive reason: it is the set the client is willing to be held against on Day 46. The plan no longer gets to move the goalposts by editing the queries.
+
+- **Why six segment pillars instead of thirty short posts.** Thirty posts could not be written, published, interlinked and left to compound in 46 days by four owners, and `dateModified` churn across thirty fresh URLs would dilute the site's authority. Six long pillars — one for each segment plus the cross-segment CDD pillar — give every query an owning page that is large enough to answer all five of its segment's questions, plus refreshes of pages that already hold rankings. The trade the plan accepts: a single page can rank for five related queries only if its sections genuinely answer each one, which is why each pillar's Q&A blocks are written to the exact K-wording in [the panel](#keyword-panel).
+
+- **Why "Enrol with AUSTRAC" is every asset's call to action.** The most valuable action a reader in six of these segments can take is not booked by LawMatter at all — it is registering with AUSTRAC, the step 18,350 real estate businesses, 13,780 accounting businesses and 6,580 law firms have already taken, and the step every newly regulated business now has a legal deadline for. A campaign that sends each segment to the regulator's own enrolment page first is trusted in a way a campaign that sends everyone to a demo form is not. The measured funnel still exists: the CTA sits above a UTM-tagged "check if you're regulated" step on `/eligibility-check`, which gates the demo and the EOI. This is the trust-arbitrage strategy; it is also completely honest, which is the point.
+
+- **Why four competitors are named exactly once, in one post.** Seamlss, Syntrico, LEAP and InfoTrack all publish accessible pages describing what they do and what they cost; AUSTRAC's own guidance acknowledges RegTech providers but does not recommend or endorse any of them. One attributed, sourced comparison post (B13) can own K1, K26 and K30 without the campaign's other 40 assets being slowed by the sign-off cost of comparative claims. Naming is a privilege, not a default: B13 sits behind open question Q5 and the compliance gate, and its failure mode is a public rebuttal, which is why no other asset in the file may name or imply a competitor.
+
+- **Why the event content was trimmed to three posts.** In the previous version, five of eleven posts served the summit. With the panel now the primary outcome, the summit gets the event page, three posts, the video clips, the EDMs and the Day 25–30 pressurised envelope — and that is still a proportionate share, because the summit is the partner signal and the pipeline source. The two heaviest non-panel posts (the compliance-officer post and the legal-professional-privilege post) were folded into pillars as sections rather than published standalone, freeing their day slots for the accountant, real-estate and jeweller pillars.
+
+- **Why the run is 13 posts when the old version was 11.** Six segments of five queries need six pillars, and a 46-day run is the minimum that gives a Day-24-published pillar a fortnight to be crawled and cited before the Day 43 re-test. The plan says plainly that Days 13 to 24 are the tightest stretch for Content–SEO, and the pre-approved cut list removes the day-before post (B10) before any pillar.
+
+---
+
+<a id="decision-log"></a>
+
+## The Decision Log — what was contested, and how it was ruled
+
+This plan was put through an adversarial review before the schedule was drafted. Red assumes the plan fails and names how; Blue must answer with a mechanism, never with confidence; the Referee rules and records the reversal condition. This table is the review's record. If a ruling is reversed, the plan changes where the reversal lands.
+
+| # | Decision | Red's objection | Blue's reply | Ruling | Reverses if |
+|---|---|---|---|---|---|
+| D1 | Length and start date | 46 days is thin for a six-segment panel; a Jewellers pillar publishing on Day 24 has only 19 days to rank before the Day 43 re-test | The dates cannot move: 30 October is the summit and the client's end timeline is fixed. The answer is not a longer sprint but an earlier pillar: five of six pillars publish by Day 22 | Keep 46 days, 30 Sep–14 Nov. Jewellers at Day 24 is the last pillar, deliberately, and the five earlier pillars are what carry Days 13–22 | Capacity falls below four owners, then the cut list at D7 runs |
+| D2 | Foundation length | Six days cannot hold a 30-query baseline, six-pillar drafting, technical fixes and the event page | The site needs correctness work, not unblocking: home 200 with server-rendered HTML, robots open, sitemap and `llms.txt` 200 (verified 29 Sep, re-checked 6 Oct). The 150-result baseline is a morning's work; drafting runs Days 5–6 | Foundation Days 1–6, shorter than the 16% default, with drafting overlapping the weekend | Day 1 shows the site is not crawlable after all — not expected |
+| D3 | Six segments at equal weight | 18,350 real-estate and 13,780 accounting enrolments versus 320 jeweller enrolments means equal weight wastes the larger markets | Equal weight is the client's instruction, and the jeweller cluster is structurally undefended — no established competitor covers it, which is precisely a query set an entrant can own cheaply | Equal weight as instructed; AUSTRAC enrolment counts size the outbound and GBP work, they do not starve content | The client resets the instruction |
+| D4 | Which channels earn a row | Instagram and Facebook cannot reach managing partners; they were ranked last for that reason in the previous version | The six-segment audience changes the mix: jewellers, real-estate agents and bookkeepers are Meta and GBP audiences, not LinkedIn audiences. The Meta lane becomes segment-specific repurposing; GBP stays conditional on Q13 | Keep every channel. Meta is repurposing-only but now segment-rotated; LinkedIn remains the law-firm spine; paid Meta stays zero until Day 18 | Day 18 check shows no audience response — then the segment-rotated posts stop |
+| D5 | Paid budget | Paid spend lands on pillar pages that are not published until Days 7–24, so early spend buys clicks that cannot rank | Hold paid for the commercial keywords until the owning pillar exists. LinkedIn demand-generation runs against the summit page from Day 7. Google Search holds until B12 (Day 36) and releases gated | Hold-to-gate: LinkedIn against the summit page from Day 7; Google Search after B12 publishes; Meta paid only after Day 18 with evidence | The client sets a different budget profile on Day 6 |
+| D6 | The highest-risk asset: B13 naming competitors | Naming Seamlss, Syntrico, LEAP and InfoTrack invites a public rebuttal; Syntrico publishes lower sticker prices and "Trusted by 500+" customer claims | B13 is attributed-only — every competitor sentence is a quote of their own page with a retrieval date; LawMatter's own pricing is published verbatim; the post ships Day 41, after the summit, so a rebuttal cannot kill registrations | Ship B13 behind Q5 and the compliance gate; quotes only, no reliability or price-comparison claims without Founder-signed wording | Q5 is unsigned by Day 38, then B13 ships without names as a plain "choosing software in 2026" post |
+| D7 | Cadence versus capacity | Thirteen posts plus nine refreshes plus the event machine in 46 days silently assumes overtime | The cost is explicit: pillar drafts run on Days 5–6 and 12; a refresh is an H2, a schema touch and two internal links — about an hour; the pre-approved cut list removes B10, then two refreshes, then Short #4 | Days 13–24 are stated as the tight stretch; the cut list is pre-approved and protects the pillars and B12 first | Four owners confirmed and still slipping a pillar by Day 20 — then B10 is cut immediately, not debated |
+| D8 | Objective ranking | Putting keyword visibility above registrations starves the funnel whose date is fixed | The client set the priority, and there is no real conflict at the hour level: the same pillar pages that must rank are the pages the EDMs, outbound and summit page convert | Panel first (P1–P2), EOI third, enrolment fourth, demos fifth, pipeline sixth | The client re-states that registrations outrank the panel |
+| D9 | Peak placement | The heaviest content stretch (Days 13–24) overlaps the pre-summit scarcity window and competes for the same hours | Both must be live before Day 30, so the overlap is structural; the day is split — Content publishes in the morning, Paid sends in the late afternoon — and the scarcity pushes land on the pillar pages rather than a dedicated landing page | Accept the overlap and segregate the day | The split fails to hold once, then the afternoon sends are pushed a day |
+| D10 | Follow-up length | Fifteen days of follow-up is long for a one-day event | The panel runs to Day 46 with the re-test on Day 43; B11, B12 and B13 all land in the follow-up and most of the keyword outcome is won or lost there | Keep Days 32–46 as follow-up; the close report answers for the whole panel, not just the summit | Day 40 shows zero post-event pipeline, then outbound wave 3 is cut and the report focuses the last week on the panel |
+| D11 | Measurement | A 150-result AI-citation panel in five engines is not repeatable — model versions drift and the engines change link behaviour | Model versions are recorded per result, screenshots are dated, the day-43 run uses the same query strings and clean sessions, and GSC positions on the same 30 queries are the second, machine-counted measure; the drift is logged, not hidden | Both measures are reported together per K-number. "This did not work" is defined in advance: no query improves on both measures | A named model version changes its citation behaviour — that becomes a logged note, not a retest |
 
 ---
 
@@ -191,9 +302,11 @@ Each note below answers a question a reader is entitled to ask: why this length,
 
 **Decision D1 — is LawMatter a legal technology vendor, a law firm, or both?** `about.md` describes LawMatter as **legal technology**: it *sells* compliance software to law firms. But the live `/request-consultation` page has an H1 reading **"Get help from a lawyer."** Those two facts imply different regulatory regimes. **The default applied throughout this plan is the strictest combination of both** — solicitors' conduct rules covering inadvertent advertising, confidentiality and outcome guarantees, *and* vendor marketing rules — applied to every asset. If LawMatter also holds a practising certificate, add a lane for it; nothing else in the plan changes.
 
+**Decision D2 — the product-brand split.** Comply.LM is the product this plan sells; LawMatter Pty Ltd is the company behind it. Verified 6 Oct 2026: the site footer reads "© 2026 Comply.LM — All rights reserved - LawMatter Pty Ltd, ABN: 52696453433" and the pricing page mailto is `sales@lawmatter.com.au`. The default: **Comply.LM is named first in copy; LawMatter appears only where legal or contractual accuracy requires it** — the summit page, where LawMatter is the Event Partner, and any formal attribution. The homepage's `Organization` schema is currently named "Comply.LM" with relative URLs and no `parentOrganization`; fixing that is Phase 1 work.
+
 **Assumptions are labelled, not hidden.** No founder names, headcount, base, funding, customers, testimonials, logos or awards exist in any source material, so this plan never uses them. Comply.LM is **in beta** — its own site states "features, limits, and policies may change" — and every advert, page and call to action discloses that.
 
-### The thirteen open questions, and what each one blocks
+### The sixteen open questions, and what each one blocks
 
 **None of these may be invented to fill the gap.** If an answer is not supplied by its deadline, the dependent asset ships without the claim it needed.
 
@@ -203,15 +316,18 @@ Each note below answers a question a reader is entitled to ask: why this length,
 | Q2 | Are the Daily Insights Manager, the report-ready XML export and the SMR-ready records actually **live in the beta**? (`about.md` §2 lists them as banner claims, unconfirmed) | **Day 5** | B6, B9, LinkedIn adverts, YouTube |
 | Q3 | Founder names, team size, base, founding date | Day 12 | About page, PR, "who we are" |
 | Q4 | How many firms are in the beta, and may any of them be quoted by name? | Day 12 | Proof points, case copy |
-| Q5 | What are the top three differentiators against LEAP/InfoTrack, AML Comply, easyAML, ClearAML, SimpleAML and PEXA Clear — in LawMatter's own words, and defensible against a competitor's rebuttal? | **Day 20** | B10, the comparison post |
+| Q5 | What are the top three differentiators against Seamlss, Syntrico, LEAP and InfoTrack — in Comply.LM's own words, defensible against a competitor's rebuttal — and does the founder approve **naming those four in B13**, with quotes attributed to their own pages? | **Day 20** | B13, the comparison post |
 | Q6 | Is the summit push optimised for registrations, for demonstrations, or for both? Is there a summit-only offer? | Day 4 | Funnel maths, EDMs, landing pages |
-| Q7 | Who staffs the LawMatter presence on 30 October? Is there a booth, meeting space or speaking slot? | **Day 12** | Event-day run sheet, lead capture |
-| Q8 | Are the Lawyers Weekly partner badge, banner and logo cleared for use on LawMatter's own channels? | Day 4 | Event page, all summit assets |
-| Q9 | Is there a mailing list that LawMatter owns, or is EDM delivery paid and organiser-owned? | Day 4 | Every EDM brief |
+| Q7 | Who staffs the Comply.LM presence on 30 October? Is there a booth, meeting space or speaking slot? | **Day 12** | Event-day run sheet, lead capture |
+| Q8 | Are the Lawyers Weekly partner badge, banner and logo cleared for use on Comply.LM's own channels? | Day 4 | Event page, all summit assets |
+| Q9 | Is there a mailing list that Comply.LM owns, or is EDM delivery paid and organiser-owned? | Day 4 | Every EDM brief |
 | Q10 | Australian Privacy Act position: does the EOI form collect personal information, and what is the consent and notice text? | Day 4 | Event page, demo page, forms |
-| Q11 | ABN 52 696 453 433 — registry status unconfirmed. Confirm it is active before printing it on any page. | Day 5 | Footer, schema, event page |
+| Q11 | ABN 52 696 453 433 — registry status. The ABN is already printed in the site footer as "LawMatter Pty Ltd, ABN: 52696453433" (verified 6 Oct 2026). Confirm the registry record is active before using it on any new page. | Day 5 | Footer, schema, event page |
 | Q12 | Budget figures: LinkedIn, Google and Meta. Set live on Day 6, never invented in this document. | **Day 6** | All paid briefs and the budget shift rules |
-| Q13 | Does a **verified Google Business Profile** exist for LawMatter or Comply.LM, and does the business have a real, verifiable physical service location? GBP is only available to a business with an actual address — do not create one on a co-working or registered-agent address. | **Day 5** | The entire GBP subsection of the [Meta lane](#meta-lane). **If the answer is no, that subsection is dropped, not improvised.** |
+| Q13 | Does a **verified Google Business Profile** exist for Comply.LM or LawMatter, and does the business have a real, verifiable physical service location? GBP is only available to a business with an actual address — do not create one on a co-working or registered-agent address. | **Day 5** | The entire GBP subsection of the [Meta lane](#meta-lane). **If the answer is no, that subsection is dropped, not improvised.** |
+| Q14 | Is the **"Enrol with AUSTRAC"** call to action approved as the primary CTA of all product and obligation assets, with the first-party measured step being the `/eligibility-check` page? The pre-event summit assets keep their own CTA ("Register your interest"). | **Day 4** | Every CTA in the file, funnel maths, tracking |
+| Q15 | Can Comply.LM add blog posts and edit pages on `complylm.com.au` without a publisher gate of their own? (The site is a hosted build; the plan assumes posts can be added freely.) | **Day 5** | All 13 briefs, the refreshes, the event page |
+| Q16 | Enrolment-count facts: may the six-segment enrolment numbers published by AUSTRAC (real estate 18,350, accounting 13,780, lawyers 6,580, conveyancers 1,600, jewellers 320, as of 17 Sep 2026) be cited with the AUSTRAC source URL? | **Day 5** | B2, B5, B8, EDMs, outbound copy |
 
 ---
 
@@ -223,13 +339,17 @@ These nine rules are the reason this plan can be executed by someone who has nev
 
 1. **Nothing publishes that is not in the Claims Ledger.** Every factual assertion — regulatory, product, event or comparative — must have a row in the ledger with a source URL and a verification status. If there is no row, there is no claim.
 2. **AUSTRAC facts come from AUSTRAC**, not from a vendor blog and not from us. The first-party source is `austrac.gov.au`. Law Society pages are acceptable secondary corroboration. A competitor's blog is never a source for a regulatory fact.
-3. **Event facts come from Lawyers Weekly**, not from us. The date, venue, audience, speakers, themes and agenda are quoted from `lawyersweekly.com.au/lawtech-ai/`. If we assert an event fact that Lawyers Weekly does not publish, we have invented it.
+3. **Event facts come from Lawyers Weekly**, not from us. The date, venue, audience, speakers, themes and agenda are quoted from `lawyersweekly.com.au/lawtech-ai/`. If we assert an event fact that Lawyers Weekly does not publish, we have invented it. Summit assets use the organiser's own phrase **"Register your interest"** as their call to action; they never reuse the product CTA.
 4. **Speaker names are re-verified twice**, on Day 24 and Day 29, and never published in the gap between verification and sending. This is not paranoia. `about.md` records **Gary Adler of MinterEllison** as a named speaker, and he **does not appear on the organiser's current page**. Speaker line-ups change.
-5. **Never state a penalty, a threshold or a date that has not been read off a primary source during this sprint.** Specifically flagged as unverified in `about.md` and therefore banned until confirmed: the **seven-year record retention period**, the **31 March 2027** first annual compliance report date, and **any penalty amount**.
+5. **Never state a penalty, a threshold or a date that has not been read off a primary source during this sprint.** Specifically flagged as unverified in `about.md` and therefore banned until confirmed: the **seven-year record retention period**, the **31 March 2027** first annual compliance report date, and **any penalty amount**. Enrolment facts (the 28-day window, the 29 July 2026 due date, and the enrolment counts) are AUSTRAC-published and cited to AUSTRAC with an as-of date.
 6. **No claims about maturity, reliability or completeness.** Comply.LM is a beta. No "reliable", "secure", "complete", "fully compliant", "trusted by", customer counts, testimonials, logos, awards or case studies. None of these exist, and none may be implied.
-7. **No comparative claims about competitors without a signed-off differentiator (open question Q5).** A competitor's own marketing numbers are *their* claims: LEAP's "existing processes get firms about 60% of the way" and AML Comply's "ready in under 45 minutes" may be **quoted and attributed to them**, but never restated as fact or used as a comparison baseline. Never characterise a competitor's product quality, coverage or accuracy.
+7. **No comparative claims about competitors outside B13, and none at all without a signed-off differentiator (open question Q5).** Within B13, a competitor's own marketing numbers are *their* claims: Syntrico's "Trusted by 500+ Australian Tranche-2 Professional Practices", its $149/$399/$899 monthly prices, and its "< 20 minutes" program builder may be **quoted and attributed to their own pages**, never restated as fact, never used as a superiority or price comparison, never a characterisation of their quality. LEAP and InfoTrack's "build compliance into the workflows you already use" claim gets the same treatment.
 8. **No invented people, dates, numbers or customer stories.** Not in a placeholder, not in an example, not in a "hypothetical". Placeholders are written in square brackets and are never filled with a plausible-sounding value.
 9. **Invention is treated as a defect, not a rounding error.** One unsourced number in a published asset is an incident: pull the asset, find every other asset that shares the number, correct all of them, and log it in the Day 46 report.
+10. **The keyword-to-asset map is a no-trespass rule, not a suggestion.** A K-number's primary asset is the only page in this plan allowed to answer that query as its H1 and first paragraph. A second page may link in support but must not duplicate the primary's answer shape; duplicate targeting is how competing pages on one domain split each other's ranks.
+11. **The "Enrol with AUSTRAC" CTA is a direct pointer, not a funnel trick.** It links to AUSTRAC's enrolment pages (`austrac.gov.au/.../enrol-us-overview`). No redirect, no intermediate landing page, no "before you enrol, talk to us" interstitial. The measured step is a separate, clearly separate UTM-tagged link to `/eligibility-check` placed beside it.
+12. **The brand split is a fixed relationship, not a style choice.** Comply.LM is the product and is named first. LawMatter Pty Ltd is the publisher and appears only where accuracy requires it. No asset may imply the two are rivals, alternatives or separate companies, and none may use "LawMatter" where "Comply.LM" is meant.
+13. **Market numbers are labelled with their issuer and their date.** An AUSTRAC-published enrolment count is "AUSTRAC enrolment counts for the new reporting entities as of 17 September 2026". A competitor's customer count is "Syntrico's published customer claim". Neither floats as an untethered statistic, because tetherless numbers are exactly how a plan becomes a lie with a percentage sign.
 
 ---
 
@@ -245,7 +365,7 @@ These nine rules are the reason this plan can be executed by someone who has nev
 
 **What result we expect.** Every row reaches `Verified` status with a source URL and a date, or is marked `Prohibited` and removed from all briefs. Nothing sits in an ambiguous state after Day 4.
 
-**Where the facts come from.** The rows below are pre-seeded from the verification pass of 29 September 2026. **The statuses are honest as of that date and the client must sign them off.** Regulatory rows are sourced to AUSTRAC or, where noted, corroborated by the Law Society of Tasmania. Product rows are sourced to the live Comply.LM site. Event rows are sourced to the organiser's page. Full URLs are in [Sources](#sources).
+**Where the facts come from.** The rows below are pre-seeded from the verification passes of **29 September 2026** (client site, event) and **6 October 2026** (client site, event, AUSTRAC, competitors). **The statuses are honest as of those dates and the client must sign them off. Rows marked `Verified 6 Oct 2026` were fetched during this revision.** Regulatory rows are sourced to AUSTRAC. Product rows are sourced to the live Comply.LM site. Event rows are sourced to the organiser's page. Competitor rows are quoted only from the competitor's own page. Full URLs are in [Sources](#sources).
 
 | Claim | Approved wording | Source | Status | Blocks if unverified |
 |---|---|---|---|---|
@@ -270,7 +390,18 @@ These nine rules are the reason this plan can be executed by someone who has nev
 | "Minutes not weeks" onboarding | **Only with Founder-supplied product data.** Currently a site claim, not a measured outcome | complylm.com.au banners | **Unverified — blocked** | Every ad using speed claims |
 | "AUSTRAC compliant" / "AUSTRAC-aligned at launch" | `[Open question Q1 — awaiting approved wording]` | — | **Blocked** | All paid and partner assets |
 | Trust, customers, testimonials, logos, awards, headcount, founders | **NONE EXIST — never used** | about.md §1 "Not publicly found" | **Prohibited** | — |
-| ABN 52 696 453 433 | Print only after Q11 confirms registry status | about.md §1 | **Unverified** | Footer, schema, event page |
+| ABN 52 696 453 433 | Print only after Q11 confirms registry status. The ABN already appears in the site footer as "LawMatter Pty Ltd, ABN: 52696453433" (verified 6 Oct 2026). | complylm.com.au footer | **Verified 6 Oct 2026** | Footer, schema, event page |
+| Comply.LM is a LawMatter product | "Comply.LM is the compliance product of LawMatter Pty Ltd." | complylm.com.au footer · pricing page mailto `sales@lawmatter.com.au` | `Verified 6 Oct 2026` | Every asset; the brand split rule |
+| Enrolment counts by industry | "As of 17 September 2026, AUSTRAC-reported enrolment counts for the new reporting entities were: real estate 18,350 · accounting and professional services 13,780 · lawyers 6,580 · conveyancers 1,600 · jewellers and dealers in precious metals and goods 320." | AUSTRAC "Enrol with us overview" | `Verified 6 Oct 2026` | B2, B5, B8, EDMs, outbound copy |
+| Enrolment deadline | "Enrol with AUSTRAC within 28 days of providing a designated service; for the new designated services this is typically 29 July 2026." | AUSTRAC fact sheet for Tranche 2 reporting entities | `Verified 6 Oct 2026` | Every "Enrol with AUSTRAC" CTA asset |
+| RegTech recognition | "AUSTRAC recognises that RegTechs play an important role in helping reporting entities meet their AML/CTF obligations, but does not recommend or endorse any specific RegTech business or product." | AUSTRAC "RegTechs" + "Guidance for engaging a RegTech" | `Verified 6 Oct 2026` | B12, B13, all RegTech claims; K30 |
+| Reporting entity remains responsible | "If you outsource AML/CTF functions you remain responsible for complying with your obligations under the Act and Rules, and remain legally liable for any breach." | AUSTRAC "Using outsourcing to help meet your AML/CTF obligations" | `Verified 6 Oct 2026` | B12, B13, product copy — no asset may imply Comply.LM removes the firm's responsibility |
+| Homepage schema defect | Not a publishable claim — a technical finding. `Organization` schema named "Comply.LM", relative `url:"/"`, no `parentOrganization`. | complylm.com.au, verified 6 Oct 2026 | `Verified 6 Oct 2026` | Phase-1 fixes; the brand entity |
+| `llms.txt` plan-name error | `llms.txt` lists "Starter, Starter+, Pro, Enterprise"; `/pricing` lists Base, Trio, Penta and Exclusive Contract. Not publishable — it is a fix to make. | complylm.com.au/llms.txt vs /pricing, verified 6 Oct 2026 | `Verified 6 Oct 2026` | Phase-1 `llms.txt` fix |
+| Seamlss positioning | Quote only: "Client Onboarding Software for Accounting Firms" (page title and meta description). | seamlss.com.au, verified 6 Oct 2026 | `Verified 6 Oct 2026` | B13 only |
+| Syntrico claims | Quote only: "Trusted by 500+ Australian Tranche-2 Professional Practices"; Grow A$149/mo, Professional A$399/mo, Ultimate A$899/mo (plus GST); "generate a tailored AML/CTF program in less than 20 minutes"; "AUSTRAC-aligned". | syntrico.com.au, verified 6 Oct 2026 (note: served 403 to curl; content read via a browser fetch) | `Verified 6 Oct 2026` | B13 only; attributed quotes, no superiority claims |
+| LEAP and InfoTrack positioning | Quote only: "LEAP and InfoTrack build compliance into the workflows you already use, so client onboarding, record-keeping and reporting happen as part of the matter, not alongside it." | leaplegalsoftware.com.au/...anti-money-laundering-compliance/, verified 6 Oct 2026 | `Verified 6 Oct 2026` | B13 only |
+| The 30 keywords | The panel is the client's list, reproduced in [The keyword panel](#keyword-panel). Not a factual claim and needs no source; its *ranking* is the campaign outcome to measure. | Client-supplied 6 Oct 2026 | `Verified — client list` | The whole plan; K1–K30 |
 
 ---
 
@@ -278,13 +409,13 @@ These nine rules are the reason this plan can be executed by someone who has nev
 
 ## The Compliance Gate
 
-**What this is.** A ten-point check that every publishable asset passes before it goes out. The check is recorded in writing, in a tracker, by the person who performed it. A verbal sign-off does not count. **An asset that has not been through this gate is not scheduled — it is only drafted.**
+**What this is.** A fourteen-point check that every publishable asset passes before it goes out. The check is recorded in writing, in a tracker, by the person who performed it. A verbal sign-off does not count. **An asset that has not been through this gate is not scheduled — it is only drafted.**
 
 **Why we are doing it.** LawMatter's buyers are regulated professionals who are personally exposed to the rules being discussed. Advertising rules for solicitors prohibit inadvertent advertising — drawing attention to specific clients or matters — and prohibit misleading claims. At the same time, the Spam Act and Privacy Act apply to every email and every form. These are legal obligations, not brand preferences.
 
 **Why it matters.** The named failure this gate prevents is a public correction. In a niche where every firm reads the same legal trade press, a published claim that has to be withdrawn costs more credibility than the claim earned, and it is very hard to recover from.
 
-**What result we expect.** Ten initials per asset, in the tracker, before publication. Any unticked box stops the asset.
+**What result we expect.** Fourteen initials per asset, in the tracker, before publication. Any unticked box stops the asset.
 
 **Where the facts come from.** The rules in this table come from the Australian regulatory sources listed in [Sources](#sources): the Solicitors' Conduct Rules on inadvertent advertising, the Trade Practices Act 1973 and the Australian Consumer Law on misleading conduct and false representations, the Spam Act 2003 on consent and identification, the Privacy Act 1988 and the Australian Privacy Principles on collection and notice, and AUSTRAC guidance on what a law firm must do. These are pointers to rules, not legal advice, and none of them replaces the review the Founder is required to obtain before this campaign runs.
 
@@ -297,9 +428,13 @@ These nine rules are the reason this plan can be executed by someone who has nev
 | 5. Privacy Act 1988 | Forms have a clear privacy notice, a purpose statement, and consent where required. Collection is minimised. | Founder initials + Q10 |
 | 6. Spam Act 2003 | Every send has a consent basis, accurate sender identification, a working unsubscribe and a physical address footer. The suppression list is honoured. | Paid–Social initials |
 | 7. Event accuracy | Every event fact is re-read from the organiser's page on the day of publication. Speaker names appear only if they are on the page that day. | Founder initials + screenshot |
-| 8. Competitor references | No comparative claim without a signed-off open question Q5. Competitor quotes are attributed, never adopted. | Founder initials |
-| 9. Brand | Dark navy and near-black technology look, cyan and teal accents, site theme `#1E2A38`, no stock photography of generic lawyers, no AI-generated people, Australian English (organisations, modernising, behaviour, licence, practise as a verb). | Owner initials |
-| 10. Links and calls to action | Exactly one call to action per asset. Event assets use "Register your interest". Product assets use "Book a demo". Never both. | Owner initials |
+| 8. Competitor references | Comparative and competitor claims occur **only in B13**, quote the competitor's own page word-for-word, carry the retrieval date, and are gated on a signed-off open question Q5. Everywhere else no competitor is named or implied. | Founder initials + Q5 |
+| 9. Keyword map | The asset names its target K-number in the tracker; the H1 and first paragraph answer that query; no K-number's primary is duplicated by this asset. | Content–SEO initials + tracker row |
+| 10. Call to action | Exactly one CTA per asset. Product and obligation assets use **"Enrol with AUSTRAC"** linking directly to AUSTRAC, with the `/eligibility-check` link kept visibly separate; summit assets use **"Register your interest"**. Never both. | Owner initials |
+| 11. Brand | Comply.LM is named first and named correctly throughout; LawMatter appears only where accuracy requires it; no stock photography of generic professionals, no AI-generated people, Australian English, site theme `#1E2A38`. | Owner initials |
+| 12. Beta disclosure | Product adverts, pages and calls to action state beta status. | Founder initials |
+| 13. Privacy Act 1988 | Forms have a clear privacy notice, a purpose statement, and consent where required. Collection is minimised. | Founder initials + Q10 |
+| 14. Spam Act 2003 | Every send has a consent basis, accurate sender identification, a working unsubscribe and a physical address footer. The suppression list is honoured. | Paid–Social initials |
 
 **If any box is unticked, do not publish. There are no exceptions, no "just this once", and no event-day exceptions.**
 
