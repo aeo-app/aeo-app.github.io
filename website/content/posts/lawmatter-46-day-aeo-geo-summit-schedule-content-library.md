@@ -3398,7 +3398,6 @@ Four items that run alongside the calendar and never get their own row. **Each i
 
 - `projects/lawmatter/about.md` — the client brief. **Verified 29 September 2026 and partly out of date:** the speaker list has changed, the blog inventory is larger than recorded (14 in the sitemap, 17 in the index, 4 in `llms.txt`), and the 12 open questions in §12 are still open and are tracked in this plan.
 - `AGENTS.md` — the operating rules for this repository.
-- Sibling plans used as the format reference: `projects/AEO-Intel_Full_Schedule_and_Content_Library.md` (N=90) and `projects/APAC-Relocation_30-Day_AEO-GEO_Schedule_and_Content_Library.md` (N=30, the keyword and GEO variant this one follows).
 
 ### Regulatory and advertising compliance references — read before the first ad goes live
 
