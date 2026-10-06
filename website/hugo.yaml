@@ -15,7 +15,6 @@ params:
   title: "AEO APP Scheduler"
   description: "Living public runbooks for the aeo-app.ai 90-day AEO/GEO growth sprint and the APAC Relocation 30-day AEO/GEO sprint — schedules, content libraries, and prompts."
   keywords: [AEO, GEO, SEO, AI Search, ChatGPT, Gemini, Perplexity, Content Marketing, APAC]
-  author: "AEO Intel + APAC Relocation"
   defaultTheme: auto
   disableThemeToggle: false
   ShowReadingTime: false
