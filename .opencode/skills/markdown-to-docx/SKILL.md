@@ -16,7 +16,7 @@ Convert a Markdown source file into a Microsoft Word document while keeping gene
 
 ## Procedure
 
-1. Resolve the input path from the user's argument. If no input is supplied, use the repository's primary Markdown content file, `projects/AEO-Intel_Full_Schedule_and_Content_Library.md`. The repo also ships `projects/APAC-Relocation_30-Day_AEO-GEO_Schedule_and_Content_Library.md` — a valid alternative input when the user names it.
+1. Resolve the input path from the user's argument. **Always require an explicit argument** — if none is supplied, stop and ask which document to convert rather than guessing. The published plan documents live in `website/content/posts/`, for example `website/content/posts/lawmatter-46-day-aeo-geo-summit-schedule-content-library.md` and `website/content/posts/samis-60-day-aeo-geo-schedule-content-library.md`.
 2. Resolve the output name from the user's argument. If no name is supplied, use the input filename with its extension changed to `.docx`.
 3. Create the output directory if it does not exist:
 
