@@ -24,7 +24,7 @@ A public, versioned technical roadmap for the AEO Intel product platform — the
 
 The social-publishing backend already shares one execution pipeline (`backend/services/social_publish/publish_service.py` + `scheduler.py` on APScheduler), so every "connection" item is mostly **new OAuth + a platform adapter against that shared pipeline** — not a new architecture each time.
 
-**Schedule:** a **15-day sprint**, Day 1 = **Mon 28 Sep 2026** → Day 15 = **Fri 16 Oct 2026**. Full day-by-day table in the [Schedule & time frames](#schedule--time-frames) section below. Runs concurrently with the APAC Relocation sprint (ends 21 Oct) — Friday tasks double as that week's cadence review; Wed/Fri blog days are unaffected (different owners).
+**Schedule:** a **15-day sprint**, Day 1 = **Mon 28 Sep 2026** → Day 15 = **Fri 16 Oct 2026**. Full day-by-day table in the [Schedule & time frames](#schedule--time-frames) section below. Friday tasks double as that week's cadence review.
 
 ---
 
@@ -47,7 +47,7 @@ The social-publishing backend already shares one execution pipeline (`backend/se
 
 **What's left to call this complete:**
 
-- Decide the target: **personal profile** (works today, self-serve) or **Company Page** (`w_organization_social` — needs Community Management API partner approval). The APAC Relocation runbook posts to a brand, not a person, so plan for the company page and start the review early — it's the long pole.
+- Decide the target: **personal profile** (works today, self-serve) or **Company Page** (`w_organization_social` — needs Community Management API partner approval). The product publishes on behalf of brands, not individuals, so plan for the company page and start the review early — it's the long pole.
 - Wire the company-page variant into the invite/selection flow (the frontend `ConnectPageApprovalPage.js` already lists LinkedIn; extend it to a page picker like the Meta flow).
 - Verify image upload → post create sequence against a real company page, plus the token-expiry reconnect path already centralised in `publish_service.py`.
 
@@ -118,7 +118,7 @@ Note: uploading video through a store-and-forward scheduler needs the video URL 
 | **Home** | One-screen value proposition ("Get found and cited by AI search engines") + a single primary CTA (book a demo / start free) with one real output sample. |
 | **Product / How it works** | Three blocks only — AI SEO intelligence, AI content generation, one-click social publishing (the 5 platforms above) — each with a real screenshot, not marketing copy. |
 | **Pricing** | The 2–3 real plans with what each unlocks and an honest "free preview → pay to unlock" note; no feature bloat or fake urgency. |
-| **About** | Who builds this, who it's for (APAC companies / relocation + SEO agencies), and the link to these public runbooks as proof of method. |
+| **About** | Who builds this, who it's for (marketing and SEO agencies), and the link to these public runbooks as proof of method. |
 | **Blog / Resources** | The SEO/AEO content library — this Hugo site is already the crawlable, citable proof vault; link to it from a visible footer and nav link. |
 | **Contact / Book a demo** | One form, one email, one demo slot; nothing else. |
 | **Legal** | Privacy policy + terms (a `privacy-policy.html` already exists in the frontend — give it a real page and a URL). |
