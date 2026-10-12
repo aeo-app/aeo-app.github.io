@@ -1,10 +1,10 @@
 ---
 title: "Comply.LM-test — Full 46-Day AEO/GEO Schedule & Content Library (30-Keyword Panel)"
 date: 2026-09-29
-lastmod: 2026-10-06
+lastmod: 2026-10-12
 tags: ["AEO", "GEO", "AI Search", "AML and CTF", "Tranche 2", "AUSTRAC", "LawTech", "46-day sprint", "content library", "long-tail keywords"]
 categories: ["LawMatter"]
-summary: "A plain-English operating plan for a 46-day AEO/GEO sprint for Comply.LM-test, built around a fixed panel of 30 long-tail AML/CTF keywords across six segments — lawyers, conveyancers, accountants, real estate, jewellers and general RegTech. Day-by-day schedule from 30 September to 14 November 2026, a library where every deliverable links to its own brief, the keyword-to-asset map, and the Claims Ledger that decides which claims are allowed to publish, with added weekly social amplification and visual creative packs for every platform."
+summary: "A plain-English operating plan for a 46-day AEO/GEO sprint for Comply.LM-test, built around a fixed panel of 30 long-tail AML/CTF keywords across six segments — lawyers, conveyancers, accountants, real estate, jewellers and general RegTech. The schedule runs from 30 September to 14 November 2026 and publishes two blogs in each full seven-day sprint week, with the summit preview and logistics combined as one post."
 ---
 
 <p class="pdf-download"><button class="pdf-download-button" type="button" aria-label="Download as PDF" title="Download as PDF" onclick="window.print()"><img src="/images/pdf.png" alt="" aria-hidden="true"></button></p>
@@ -189,7 +189,7 @@ The weight of the campaign still sits in **Days 7 to 30**, because that is where
 | K29 | General | Customer due diligence vs verification of identity Australia | [B6 CDD pillar](#b6) | refresh `/blog/why-do-you-need-my-id-how-to-handle-the-coming-aml-client-friction` |
 | K30 | General | RegTech company for Australian AML/CTF compliance | [B13 comparison](#b13) | organisation entity and `llms.txt` in [Technical fixes A](#p1-fixes-a) |
 
-**What the map implies.** Six of the 13 blog posts are **segment pillars** — one long page each for lawyers, accountants, real estate, conveyancers and jewellers, plus a cross-segment customer-due-diligence pillar. These six pages carry 24 of the 30 keywords as their primary target. The remaining six posts are support and event content, and the comparison post closes the panel with the three commercial and RegTech queries. Supporting assets above that already exist on the site are **refreshes**, not new work: a refresh adds an H2 or FAQ block answering the query, one or more internal links, corrected schema, and a `dateModified` bump.
+**What the map implies.** Six of the 12 scheduled blog publications are **segment pillars** — one long page each for lawyers, accountants, real estate, conveyancers and jewellers, plus a cross-segment customer-due-diligence pillar. These six pages carry 24 of the 30 keywords as their primary target. The remaining six publications are support and event content, and the comparison post closes the panel with the three commercial and RegTech queries. The summit preview and logistics are combined into one post. Supporting assets above that already exist on the site are **refreshes**, not new work: a refresh adds an H2 or FAQ block answering the query, one or more internal links, corrected schema, and a `dateModified` bump.
 
 **The asset inventory finding.** The site advertises **14** blog URLs in `sitemap.xml` but the `/blog` index renders **17** (verified 6 Oct 2026). Three posts — `the-july-2026-clock-is-ticking-...`, `the-true-cost-of-non-compliance-...` and `why-do-you-need-my-id-...` — are live, linked and absent from the sitemap. That is an indexation defect, and one of the three happens to be a K29 support asset. Fixing the sitemap is a Phase 1 task.
 
@@ -205,9 +205,9 @@ The weight of the campaign still sits in **Days 7 to 30**, because that is where
 
 **The Meta schedule — seven assets, each with its caption, hashtags, design prompt and footer:** [#1 Day 11 — the seven obligations, accountants rotation](#meta-1) · [#2 Day 18 — Stories only, real estate rotation](#meta-2) · [#3 Day 25 — the jewellers Reel](#meta-3) · [#4 Day 29 — what CDD actually asks of you](#meta-4) · [#5 Day 30 — the day before](#meta-5) · [#6 Day 32 — what we heard](#meta-6) · [#7 Day 39 — the honest post](#meta-7)
 
-**Phase 1 — Foundation, Days 1 to 6:** [Day 1 AI-citation baseline on the 30-keyword panel](#p1-baseline) · [Technical fixes A: canonical tags, schema and article markup](#p1-fixes-a) · [Rebuild `llms.txt` so it is truthful](#p1-llmstxt) · [Schema B: SoftwareApplication, Offer, FAQPage, WebApplication](#p1-schema-b) · [The summit event page and its Event schema](#p1-event-entity) · [Google Search Console, sitemaps and indexing](#p1-gsc) · [Building the Claims Ledger and answering the open questions](#p1-claims) · [Tracking and conversion setup](#p1-tracking) · [Week-2 content drafting](#p1-drafting)
+**Phase 1 — Foundation, Days 1 to 6:** [Day 1 AI-citation baseline on the 30-keyword panel](#p1-baseline) · [Technical fixes A: canonical tags, schema and article markup](#p1-fixes-a) · [Rebuild `llms.txt` so it is truthful](#p1-llmstxt) · [Schema B: SoftwareApplication, Offer, FAQPage, WebApplication](#p1-schema-b) · [The summit event page and its Event schema](#p1-event-entity) · [Google Search Console, sitemaps and indexing](#p1-gsc) · [Building the Claims Ledger and answering the open questions](#p1-claims) · [Tracking and conversion setup](#p1-tracking) · [Week-2 content drafting](#p1-drafting) · [B2 publish on Day 6, only after gate GO](#b2)
 
-**The pillars and posts — one brief per K-group:** [B1 Day 7 — Lawyers pillar (K1–K4)](#b1) · [B2 Day 9 — Which services are covered (K3, K12, K13, K19)](#b2) · [B3 Day 13 — Accountants & bookkeepers pillar (K11–K15)](#b3) · [B4 Day 15 — Lawyers SMR (K5)](#b4) · [B5 Day 17 — Real-estate pillar (K16–K20)](#b5) · [B6 Day 20 — CDD vs VOI pillar, all segments (K4, K8, K9, K14, K18, K25, K29)](#b6) · [B7 Day 22 — Conveyancers pillar (K6–K10)](#b7) · [B8 Day 24 — Jewellers pillar (K21–K25)](#b8) · [B9 Day 27 — Summit preview (event)](#b9) · [B10 Day 29 — Day-before logistics (event)](#b10) · [B11 Day 32 — Event recap (event)](#b11) · [B12 Day 36 — Cost and the AUSTRAC starter kit (K26–K28)](#b12) · [B13 Day 41 — Comparison, names four competitors (K1, K26, K30)](#b13)
+**The pillars and posts — one brief per K-group:** [B1 Day 7 — Lawyers pillar (K1–K4)](#b1) · [B2 Day 6 — Which services are covered (K3, K12, K13, K19)](#b2) · [B3 Day 13 — Accountants & bookkeepers pillar (K11–K15)](#b3) · [B4 Day 14 — Lawyers SMR (K5)](#b4) · [B5 Day 17 — Real-estate pillar (K16–K20)](#b5) · [B6 Day 20 — CDD vs VOI pillar, all segments (K4, K8, K9, K14, K18, K25, K29)](#b6) · [B7 Day 22 — Conveyancers pillar (K6–K10)](#b7) · [B8 Day 24 — Jewellers pillar (K21–K25)](#b8) · [Day 29 — Summit preview and practical logistics (one combined post)](#b9) · [B11 Day 32 — Event recap (event)](#b11) · [B12 Day 36 — Cost and the AUSTRAC starter kit (K26–K28)](#b12) · [B13 Day 41 — Comparison, names four competitors (K1, K26, K30)](#b13)
 
 **Existing-page refreshes:** `tranche-2-is-live` (K2, K7) · `conveyancing-cdd-onboarding` (K9, K10) · `threshold-transaction-reports-conveyancers` (K23) · `suspicious-matter-reports-guide-for-lawyers` (K5) · `july-2026-aml-ctf-roadmap` (K28) · `choosing-aml-ctf-software-austrac-expectations` (K26, K28) · `why-do-you-need-my-id` (K29) · `/pricing` FAQ (K27) · `/eligibility-check` (K3, K12, K13, K19). The full run sheet is in [the Day-22 refresh sweep](#refreshes).
 
@@ -217,7 +217,7 @@ The weight of the campaign still sits in **Days 7 to 30**, because that is where
 
 **Week 4, Days 19 to 24 — the CDD and conveyancer run:** [B6](#b6) · [B7](#b7) · [B8](#b8) · [EDM #4 Agenda and speakers](#e4) · [Short #3](#v-short-3) · [Short #4](#v-short-4) · [LinkedIn carousel #2](#li-carousel-2) · [Outbound wave 2](#out-2) · [EDM #5 Last chance for early registration](#e5) · [YouTube #3](#yt-3) · [Exec LinkedIn post #2](#li-exec-2) · [Speaker re-verification #1](#speaker-check-1)
 
-**Week 5, Days 25 to 30 — the "Scarcity" phase:** [Summit page lock and speaker re-verification #2](#speaker-check-2) · [B9 Summit preview](#b9) · [EDM #6 Places remaining](#e6) · [Short #5](#v-short-5) · [EDM #7 The day before](#e7) · [B10 Day-before logistics](#b10) · [Day 30 event readiness gate](#gate-30)
+**Week 5, Days 25 to 30 — the "Scarcity" phase:** [Summit page lock and speaker re-verification #2](#speaker-check-2) · [Merged summit preview and logistics post](#b9) · [EDM #6 Places remaining](#e6) · [Short #5](#v-short-5) · [EDM #7 The day before](#e7) · [Day 30 event readiness gate](#gate-30)
 
 **Event Day, Day 31 (Friday 30 October):** [Event-day run sheet](#d31-runsheet) · [Event-day LinkedIn and live clips](#d31-linkedin) · [Lead capture and scoring](#d31-leads) · [Booth and meeting scripts](#d31-scripts)
 
@@ -270,9 +270,9 @@ Each note below answers a question a reader is entitled to ask: why this length,
 
 - **Why four competitors are named exactly once, in one post.** Seamlss, Syntrico, LEAP and InfoTrack all publish accessible pages describing what they do and what they cost; AUSTRAC's own guidance acknowledges RegTech providers but does not recommend or endorse any of them. One attributed, sourced comparison post (B13) can own K1, K26 and K30 without the campaign's other 40 assets being slowed by the sign-off cost of comparative claims. Naming is a privilege, not a default: B13 sits behind open question Q5 and the compliance gate, and its failure mode is a public rebuttal, which is why no other asset in the file may name or imply a competitor.
 
-- **Why the event content was trimmed to three posts.** In the previous version, five of eleven posts served the summit. With the panel now the primary outcome, the summit gets the event page, three posts, the video clips, the EDMs and the Day 25–30 pressurised envelope — and that is still a proportionate share, because the summit is the partner signal and the pipeline source. The two heaviest non-panel posts (the compliance-officer post and the legal-professional-privilege post) were folded into pillars as sections rather than published standalone, freeing their day slots for the accountant, real-estate and jeweller pillars.
+- **Why the event content is limited to two blog publications.** The summit gets the event page, one combined preview-and-logistics post, the event recap, video clips, EDMs and the Day 25–30 pressurised envelope. Combining the two pre-event drafts avoids competing URLs and preserves the requested two-post weekly cadence without dropping practical guidance. The compliance-officer and legal-professional-privilege posts remain folded into pillar content rather than taking separate publication slots.
 
-- **Why the run is 13 posts when the old version was 11.** Six segments of five queries need six pillars, and a 46-day run is the minimum that gives a Day-24-published pillar a fortnight to be crawled and cited before the Day 43 re-test. The plan says plainly that Days 13 to 24 are the tightest stretch for Content–SEO, and the pre-approved cut list removes the day-before post (B10) before any pillar.
+- **Why the run is 12 posts when the old version was 11.** Six segments of five queries need six pillars, and a 46-day run is the minimum that gives the last pillar a fortnight to be crawled and cited before the Day 43 re-test. The schedule holds two posts in each full seven-day sprint week (Days 1–42); the final four days are reserved for evaluation. The summit preview and logistics are one article rather than two separate URLs.
 
 ---
 
@@ -290,7 +290,7 @@ This plan was put through an adversarial review before the schedule was drafted.
 | D4 | Which channels earn a row | Instagram and Facebook cannot reach managing partners; they were ranked last for that reason in the previous version | The six-segment audience changes the mix: jewellers, real-estate agents and bookkeepers are Meta and GBP audiences, not LinkedIn audiences. The Meta lane becomes segment-specific repurposing; GBP stays conditional on Q13 | Keep every channel. Meta is repurposing-only but now segment-rotated; LinkedIn remains the law-firm spine; paid Meta stays zero until Day 18 | Day 18 check shows no audience response — then the segment-rotated posts stop |
 | D5 | Paid budget | Paid spend lands on pillar pages that are not published until Days 7–24, so early spend buys clicks that cannot rank | Hold paid for the commercial keywords until the owning pillar exists. LinkedIn demand-generation runs against the summit page from Day 7. Google Search holds until B12 (Day 36) and releases gated | Hold-to-gate: LinkedIn against the summit page from Day 7; Google Search after B12 publishes; Meta paid only after Day 18 with evidence | The client sets a different budget profile on Day 6 |
 | D6 | The highest-risk asset: B13 naming competitors | Naming Seamlss, Syntrico, LEAP and InfoTrack invites a public rebuttal; Syntrico publishes lower sticker prices and "Trusted by 500+" customer claims | B13 is attributed-only — every competitor sentence is a quote of their own page with a retrieval date; LawMatter's own pricing is published verbatim; the post ships Day 41, after the summit, so a rebuttal cannot kill registrations | Ship B13 behind Q5 and the compliance gate; quotes only, no reliability or price-comparison claims without Founder-signed wording | Q5 is unsigned by Day 38, then B13 ships without names as a plain "choosing software in 2026" post |
-| D7 | Cadence versus capacity | Thirteen posts plus nine refreshes plus the event machine in 46 days silently assumes overtime | The cost is explicit: pillar drafts run on Days 5–6 and 12; a refresh is an H2, a schema touch and two internal links — about an hour; the pre-approved cut list removes B10, then two refreshes, then Short #4 | Days 13–24 are stated as the tight stretch; the cut list is pre-approved and protects the pillars and B12 first | Four owners confirmed and still slipping a pillar by Day 20 — then B10 is cut immediately, not debated |
+| D7 | Cadence versus capacity | Twelve posts plus nine refreshes and the event machine in 46 days may still exceed four owners' capacity | The schedule has 12 publications, two in each full seven-day sprint week; the preview and logistics are one event post. Pillar drafts run on Days 5–6 and 12, and a refresh is an H2, a schema touch and two internal links — about an hour | Keep the two-post weekly cadence and protect the pillars; the separate logistics post is merged into the summit preview before other work is cut | Four owners confirmed and a pillar is still slipping by Day 20 — run the existing ordered cut list immediately |
 | D8 | Objective ranking | Putting keyword visibility above registrations starves the funnel whose date is fixed | The client set the priority, and there is no real conflict at the hour level: the same pillar pages that must rank are the pages the EDMs, outbound and summit page convert | Panel first (P1–P2), EOI third, enrolment fourth, demos fifth, pipeline sixth | The client re-states that registrations outrank the panel |
 | D9 | Peak placement | The heaviest content stretch (Days 13–24) overlaps the pre-summit scarcity window and competes for the same hours | Both must be live before Day 30, so the overlap is structural; the day is split — Content publishes in the morning, Paid sends in the late afternoon — and the scarcity pushes land on the pillar pages rather than a dedicated landing page | Accept the overlap and segregate the day | The split fails to hold once, then the afternoon sends are pushed a day |
 | D10 | Follow-up length | Fifteen days of follow-up is long for a one-day event | The panel runs to Day 46 with the re-test on Day 43; B11, B12 and B13 all land in the follow-up and most of the keyword outcome is won or lost there | Keep Days 32–46 as follow-up; the close report answers for the whole panel, not just the summit | Day 40 shows zero post-event pipeline, then outbound wave 3 is cut and the report focuses the last week on the panel |
@@ -328,7 +328,7 @@ This plan was put through an adversarial review before the schedule was drafted.
 | Q12 | Budget figures: LinkedIn, Google and Meta. Set live on Day 6, never invented in this document. | **Day 6** | All paid briefs and the budget shift rules |
 | Q13 | Does a **verified Google Business Profile** exist for Comply.LM or LawMatter, and does the business have a real, verifiable physical service location? GBP is only available to a business with an actual address — do not create one on a co-working or registered-agent address. | **Day 5** | The entire GBP subsection of the [Meta lane](#meta-lane). **If the answer is no, that subsection is dropped, not improvised.** |
 | Q14 | Is the **"Enrol with AUSTRAC"** call to action approved as the primary CTA of all product and obligation assets, with the first-party measured step being the `/eligibility-check` page? The pre-event summit assets keep their own CTA ("Register your interest"). | **Day 4** | Every CTA in the file, funnel maths, tracking |
-| Q15 | Can Comply.LM add blog posts and edit pages on `complylm.com.au` without a publisher gate of their own? (The site is a hosted build; the plan assumes posts can be added freely.) | **Day 5** | All 13 briefs, the refreshes, the event page |
+| Q15 | Can Comply.LM add blog posts and edit pages on `complylm.com.au` without a publisher gate of their own? (The site is a hosted build; the plan assumes posts can be added freely.) | **Day 5** | All 12 scheduled blog publications, the refreshes, the event page |
 | Q16 | Enrolment-count facts: may the six-segment enrolment numbers published by AUSTRAC (real estate 18,350, accounting 13,780, lawyers 6,580, conveyancers 1,600, jewellers 320, as of 17 Sep 2026) be cited with the AUSTRAC source URL? | **Day 5** | B2, B5, B8, EDMs, outbound copy |
 
 ---
@@ -515,7 +515,9 @@ utm_term      = (google search only) <exact matched/typed query>
 
 **Why the campaign is weighted this way.** The panel is the point, so *content* is front-loaded: six of the seven pillar pages publish between Days 7 and 24, because a page published later than that has no runway to be crawled and cited before the Day 43 re-test. The *commercial pressure* is a separate, deliberate curve — the summit is fixed for 30 October, so the sharpest emails, the heaviest outbound and the maximum paid spend land in Days 25 to 30. The two curves overlap in Days 17–24, and that overlap is the tightest stretch of the sprint; it is stated here rather than hidden.
 
-**What result we expect.** Every day has either a deliverable or an explicit rest day. Rest days are Days 12, 19, 26 and 37. Thirteen blog posts, nine refreshes of existing pages, the event page, three YouTube videos, eight EDMs, five outbound waves and the 150-result panel are scheduled against four owners; the table says plainly that Days 13–24 assume full capacity, and the cut list in [Decision D7](#decision-log) is the escape hatch if it does not hold.
+**What result we expect.** Every day has either a deliverable or an explicit rest day. Rest days are Days 12, 19, 26 and 37. Twelve blog publications, nine refreshes of existing pages, the event page, three YouTube videos, eight EDMs, five outbound waves and the 150-result panel are scheduled against four owners. The blog cadence is two in each full seven-day sprint week: Days 1–7, 8–14, 15–21, 22–28, 29–35 and 36–42. The two pre-event summit pieces are merged into one post in Week 5; Days 43–46 are reserved for measurement and closeout. The table says plainly that Days 13–24 assume full capacity, and the cut list in [Decision D7](#decision-log) is the escape hatch if it does not hold.
+
+**Weekly blog cadence (canonical).** Week boundaries are seven-day sprint blocks, not Monday-to-Sunday calendar weeks. Publish [B2](#b2) on Day 6 only after the Day 6 gate passes, then [B1](#b1) on Day 7; publish [B3](#b3) and [B4](#b4) in Days 8–14; [B5](#b5) and [B6](#b6) in Days 15–21; B7 and [B8](#b8) in Days 22–28; the merged summit preview/logistics post in Days 29–35 plus [B11](#b11); and B12 plus B13 in Days 36–42. The final four-day evaluation window has no new blog publication. The Day 6 post is blocked on a GO at the foundation gate; if that gate is NO-GO, the pre-approved reduced cadence applies instead. Any other publication gate that blocks an asset takes precedence over the cadence; record the missed slot and do not publish unverified claims to preserve a count.
 
 | Day | Date | Wd | Assigned To | SEO / Site / Schema | Blog & Content | LinkedIn | YouTube | Email & Outbound | Paid & Partners | Instagram | Facebook | Google Business Profile | GEO / AI-Citation | Notes / Checkpoint |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -524,33 +526,33 @@ utm_term      = (google search only) <exact matched/typed query>
 | 3 | 02 Oct 2026 | Fri | Tech–GEO | [The Event Entity page + Event schema](#p1-event-entity) · [GSC + sitemap + indexing](#p1-gsc) |  |  |  |  |  |  |  |  |  | Highest-leverage day. **Add the three sitemap-orphaned blog URLs** (17 live vs 14 in `sitemap.xml`). |
 | 4 | 03 Oct 2026 | Sat | Founder + Paid–Social |  |  |  |  |  |  |  |  |  |  | [Claims Ledger + open questions](#p1-claims) (Founder) · [Tracking & conversions](#p1-tracking) (Paid–Social). **Q1, Q6, Q8, Q9, Q10 and Q14 due.** |
 | 5 | 04 Oct 2026 | Sun | Content–SEO + Tech–GEO |  | [Week-2 content drafting](#p1-drafting) — pillars B1–B3 |  |  |  |  |  |  | [Q13 verified](#gate-18) |  | Q2, Q11, Q15 and Q16 due. Every drafted claim pre-checked against the ledger. |
-| 6 | 05 Oct 2026 | Mon | Founder + all |  |  |  |  |  |  |  |  |  |  | **[PHASE 1 GATE — GO/NO-GO](#gate-6)**. Q12 (budget) set. Funnel inputs set. |
+| 6 | 05 Oct 2026 | Mon | Founder + all |  | Publish [B2 Which services are covered (K3, K12, K13, K19)](#b2) **only after the Phase 1 gate returns GO** |  |  |  |  |  |  |  |  | **[PHASE 1 GATE — GO/NO-GO](#gate-6)**. Q12 (budget) set. Funnel inputs set. The blog does not publish on NO-GO. |
 | 7 | 06 Oct 2026 | Tue | Content–SEO + Paid–Social |  | Publish [B1 Lawyers pillar — program template & checklist (K2)](#b1) | [Teaser #1](#li-teaser-1) | [Short #1](#v-short-1) | [EDM #1 Invitation](#e1) | EOI page live · LinkedIn demand-gen ON |  |  |  |  | First day the machine runs. |
 | 8 | 07 Oct 2026 | Wed | Paid–Social + Tech–GEO | Refresh `/blog/tranche-2-is-live-law-firms-checklist` (K2, K7) |  | [Carousel #1](#li-carousel-1) |  | [Outbound wave 1](#out-1) |  |  |  |  | [Spot-check #1](/ "six-query sample") |  |
-| 9 | 08 Oct 2026 | Thu | Content–SEO + Paid–Social |  | Publish [B2 Which services are covered (K3, K12, K13, K19)](#b2) | [Post #2](#li-post-2) |  | Outbound touch 2 |  |  |  |  |  |  |
+| 9 | 08 Oct 2026 | Thu | Content–SEO + Paid–Social |  |  | [Post #2](#li-post-2) |  | Outbound touch 2 |  |  |  |  |  |  |
 | 10 | 09 Oct 2026 | Fri | Paid–Social + Tech–GEO | Refresh `/blog/july-2026-aml-ctf-roadmap` (K28) |  |  | [YouTube #1](#yt-1) + [Short #2](#v-short-2) | [Exec post #1](#li-exec-1) · [Forum wave 1](#forum-1) |  |  |  | **Event post** — two weeks out, CTA-button link |  | **GBP Event post live if Q13 answers yes** — Google needs the lead time. |
 | 11 | 10 Oct 2026 | Sat | Paid–Social |  |  |  |  |  |  | [Meta #1](#meta-1) carousel + Stories ×2 | [Meta #1](#meta-1) document |  |  | **First segment-rotated Meta asset** — B1 (lawyers pillar, published Day 7) re-cut to the accountants/bookkeepers rotation. Every Meta asset from here rotates by the segment of its nearest pillar. |
 | 12 | 11 Oct 2026 | Sun | Founder |  |  |  |  |  |  |  |  |  |  | [Rest / catch-up](#gate-18). Q3, Q4 and Q7 due. Analytics pull. |
 | 13 | 12 Oct 2026 | Mon | Content–SEO + Paid–Social | Refresh `/blog/suspicious-matter-reports-guide-for-lawyers` (K5) | Publish [B3 Accountants & bookkeepers pillar (K11–K15)](#b3) | [Teaser #2](#li-teaser-2) | [Short #3](#v-short-3) |  | Paid optimised against Day 8 data |  |  |  |  |  |
-| 14 | 13 Oct 2026 | Tue | Paid–Social |  |  | [Carousel #2](#li-carousel-2) |  | [EDM #2 Topic-led](#e2) · [Outbound wave 2](#out-2) |  |  |  |  |  |  |
-| 15 | 14 Oct 2026 | Wed | Content–SEO + Tech–GEO |  | Publish [B4 Lawyers SMR (K5)](#b4) | [Post #3](#li-post-3) |  |  |  |  |  |  | [Dear-day-two spot-check #2](#gate-18) |  |
+| 14 | 13 Oct 2026 | Tue | Content–SEO + Paid–Social |  | Publish [B4 Lawyers privilege and reporting (K5)](#b4) | [Carousel #2](#li-carousel-2) |  | [EDM #2 Topic-led](#e2) · [Outbound wave 2](#out-2) |  |  |  |  |  |  |
+| 15 | 14 Oct 2026 | Wed | Content–SEO + Tech–GEO |  |  | [Post #3](#li-post-3) |  |  |  |  |  |  | [Dear-day-two spot-check #2](#gate-18) |  |
 | 16 | 15 Oct 2026 | Thu | Paid–Social |  |  |  | [YouTube #2](#yt-2) | [EDM #3 Limited places](#e3) |  |  |  |  |  |  |
 | 17 | 16 Oct 2026 | Fri | Content–SEO + Founder + Paid–Social |  | Publish [B5 Real-estate pillar (K16–K20)](#b5) | [Exec post #2](#li-exec-2) |  |  | [PR pitch to legal media](#pr-1) |  |  | Update |  | Original 16 Oct campaign window opens. RE pillar lands mid-ramp. |
 | 18 | 17 Oct 2026 | Sat | Founder + all |  |  |  |  |  |  | [Meta #2](#meta-2) Stories ×4 (feed rests) |  |  | [MID-RAMP CHECK — Day 18](#gate-18) | **Spend-shift decision made here.** Paid Meta only with Day-18 evidence; this lane does not run paid. |
 | 19 | 18 Oct 2026 | Sun | Content–SEO |  |  |  |  |  |  |  |  |  |  | Rest / catch-up. No sends. |
 | 20 | 19 Oct 2026 | Mon | Content–SEO + Paid–Social | Refresh `/blog/conveyancing-cdd-onboarding` (K9, K10) | Publish [B6 CDD vs VOI pillar, all segments (K4, K8, K9, K14, K18, K25, K29)](#b6) | [Teaser #3](#li-teaser-3) | [Short #4](#v-short-4) |  |  |  |  |  |  | **Q5 due** for B13. |
 | 21 | 20 Oct 2026 | Tue | Paid–Social |  |  | [Carousel #3](#li-carousel-3) |  | [EDM #4 Agenda & speakers](#e4) |  |  |  |  |  | Speaker names only if on the page today. |
-| 22 | 21 Oct 2026 | Wed | Content–SEO + Tech–GEO | [Refresh sweep — five URLs](#refreshes) incl. `/eligibility-check` + `/pricing` FAQ (K27) | Publish [B7 Conveyancers pillar (K6–K10)](#b7) | [Post #4](#li-post-4) |  |  |  |  |  |  |  | Refresh `/blog/why-do-you-need-my-id...` (K29) today. |
+| 22 | 21 Oct 2026 | Wed | Content–SEO + Tech–GEO | [Refresh sweep — five URLs](#refreshes) incl. `/eligibility-check` + `/pricing` FAQ (K27) | Publish [B7 Conveyancers pillar (K6–K10)](#b7) · draft the [strategic-preview module for the merged summit post](#b6) | [Post #4](#li-post-4) |  |  |  |  |  |  |  | Refresh `/blog/why-do-you-need-my-id...` (K29) today. |
 | 23 | 22 Oct 2026 | Thu | Paid–Social + Tech–GEO | Refresh `/blog/threshold-transaction-reports-conveyancers` (K23) |  |  | [YouTube #3](#yt-3) | [EDM #5 Last chance, early registration](#e5) |  |  |  |  |  |  |
 | 24 | 23 Oct 2026 | Fri | Content–SEO + Founder + Paid–Social |  | Publish [B8 Jewellers pillar (K21–K25)](#b8) | [Exec post #3](#li-exec-3) |  |  |  |  |  | Update | [Speaker re-verify #1](#speaker-check-1) | **Verify, then freeze speaker list for Week 5.** Last segment pillar — from here the panel waits for the event and follow-up. |
 | 25 | 24 Oct 2026 | Sat | Tech–GEO + Founder | [Event page lock + speaker re-verify #2](#speaker-check-2) | Refresh B1 with event cross-link |  |  |  |  | [Meta #3](#meta-3) Reel + Stories ×2 | [Meta #3](#meta-3) native upload |  |  | Event page frozen against fact drift. **Draft [Meta #5](#meta-5) today, publish Day 30** — cannot be scheduled more than 48h out. |
 | 26 | 25 Oct 2026 | Sun | Paid–Social |  |  |  |  |  |  |  |  |  |  | Rest. Final assets proofread. |
-| 27 | 26 Oct 2026 | Mon | Content–SEO + Paid–Social |  | Publish [B9 Summit preview (event)](#b9) | [Teaser #4](#li-teaser-4) | [Short #5](#v-short-5) | [EDM #6 Places remaining](#e6) | Paid to peak |  |  |  |  | **Scarcity phase.** |
+| 27 | 26 Oct 2026 | Mon | Content–SEO + Paid–Social |  |  | [Teaser #4](#li-teaser-4) | [Short #5](#v-short-5) | [EDM #6 Places remaining](#e6) | Paid to peak |  |  |  |  | **Scarcity phase.** |
 | 28 | 27 Oct 2026 | Tue | Paid–Social |  |  | [Carousel #4](#li-carousel-4) |  | [Outbound wave 3 — hot accounts](#out-3) |  |  |  |  |  | Longest outbound sequence of the sprint. |
-| 29 | 28 Oct 2026 | Wed | Content–SEO + Tech–GEO |  | Publish [B10 Day-before logistics (event)](#b10) | [Post #5](#li-post-5) | [Short #6](#v-short-6) |  |  | [Meta #4](#meta-4) carousel + Stories ×2 | [Meta #4](#meta-4) document |  | [Spot-check #3](#gate-18) | **Last content day before the event.** |
+| 29 | 28 Oct 2026 | Wed | Content–SEO + Tech–GEO |  | Publish the **merged B9/B10 summit preview and logistics post** [as one URL](#b9) | [Post #5](#li-post-5) | [Short #6](#v-short-6) |  |  | [Meta #4](#meta-4) carousel + Stories ×2 | [Meta #4](#meta-4) document |  | [Spot-check #3](#gate-18) | One pre-event blog publication combines the preview and practical logistics; no separate B10 post. |
 | 30 | 29 Oct 2026 | Thu | Founder + all |  |  | [Exec post #4](#li-exec-4) |  | [EDM #7 Day-before](#e7) | Paid at max | [Meta #5](#meta-5) carousel + Stories ×3 | [Meta #5](#meta-5) document |  |  | **[EVENT READINESS GATE](#gate-30)**. EOIs reported. **Re-verify every event fact today, not on Day 25.** |
 | 31 | **30 Oct 2026** | **Fri** | **Founder + all** |  |  | [Event-day LinkedIn](#d31-linkedin) | [Live clips](#d31-runsheet) | [Thank-you capture](#d31-leads) |  |  |  | Update | [Re-run baseline live](#p1-baseline) | **THE SUMMIT.** Hyatt Regency Sydney. |
-| 32 | 31 Oct 2026 | Sat | Paid–Social |  |  | Publish [B11 Event recap (event)](#b11) | [Recap cut](#b11) | [48-hour attendee sequence](#fu-attendee) |  | [Meta #6](#meta-6) carousel + Stories ×2 | [Meta #6](#meta-6) document |  |  | Post-event content spike begins. **No attendee identifiable without consent.** |
+| 32 | 31 Oct 2026 | Sat | Content–SEO + Paid–Social |  | Publish [B11 Event recap (event)](#b11) |  | [Recap cut](#b11) | [48-hour attendee sequence](#fu-attendee) |  | [Meta #6](#meta-6) carousel + Stories ×2 | [Meta #6](#meta-6) document |  |  | Post-event content spike begins. **No attendee identifiable without consent.** |
 | 33 | 01 Nov 2026 | Sun | Paid–Social |  |  |  |  | [No-show / registered-non-attendee sequence](#fu-noshow) |  |  |  |  |  |  |
 | 34 | 02 Nov 2026 | Mon | Content–SEO + Paid–Social | Refresh B1 + B2 with event signal | Refresh `/blog/choosing-aml-ctf-software-austrac-expectations` (K26, K28) | [Carousel — five things we heard](#li-carousel-3) | [Short #7](#v-short-7) |  | Paid shifts to demand capture |  |  |  |  |  |
 | 35 | 03 Nov 2026 | Tue | Paid–Social |  |  |  |  | [EDM #8 Thank you + next step](#e8) · [Outbound wave 4 — post-event meetings](#out-3) |  |  |  |  |  | Event conversations become pipeline. |
@@ -1172,7 +1174,7 @@ RELEASE: [approved / held — reason]
 | 15 | B1, B2, B3 drafted, claim-checked and compliance-read | Tracker | ☐ |
 | 16 | Compliance gate sign-off block in the tracker and understood by all four owners | Tracker | ☐ |
 
-**GO** → Day 7 runs the machine. Post the gate result in the tracker with the date and the sixteen ticks.
+**GO** → Publish B2 after the gate on Day 6, then Day 7 runs the machine. Post the gate result in the tracker with the date and the sixteen ticks.
 
 **NO-GO — the pre-approved cut list, in this order, with no new discussion required:**
 
@@ -1181,7 +1183,7 @@ RELEASE: [approved / held — reason]
 3. **Cut paid Meta to zero permanently.** It is already zero.
 4. **Move the entire paid budget to LinkedIn and Google Search**, weighted to whichever had the better cost per EOI at the time.
 5. **Delay EDM #2 and #3 by two days each.** Never delay EDM #1 — the list is warmest at the start.
-6. **Drop B11, the comparison post, and B10 if it is not drafted.** Comparative content is the highest-risk asset and the lowest-volume asset. It is the first thing to go.
+6. **Drop B13, the comparison post, if capacity requires it.** Comparative content is the highest-risk asset and the lowest-volume asset. The pre-event preview and logistics are already one publication; do not restore a separate pre-event post as a substitute.
 7. **The summit page and the Claims Ledger are never cut.** Everything else yields to those.
 
 **If the NO-GO is caused by the site failing line 1** — not serving HTML, an unlikely case given the 29 September verification, but a case the plan is built to survive — Days 7 to 9 convert to a developer sprint and the ramp compresses to one blog post per week instead of two. **Do not start paid until line 1 passes.**
@@ -1546,7 +1548,7 @@ RELEASE: [approved / held — reason]
 <a id="b2"></a>
 
 #### BLOG #2 (support) — "Which Legal Services Are Covered by AML/CTF Laws in Australia?" · targets **K3** (also **K12, K13, K19**)
-**Owner: Content–SEO. Day 9, Thursday 8 October. Target 1,200 to 1,500 words.**
+**Owner: Content–SEO. Day 6, Monday 5 October, only after the Phase 1 gate returns GO. Target 1,200 to 1,500 words.**
 
 **What this is.** The definitional post of the campaign: a plain-English explanation of which legal services are covered by the AML/CTF regime, built around the client's query **K3 — "Which legal services are covered by AML/CTF laws Australia"**, and extended to the parallel covered-services questions for accountants (**K12, K13**) and property developers (**K19**, via [B5](#b5)). The title, H1 and first paragraph answer K3.
 
@@ -1782,7 +1784,7 @@ RELEASE: [approved / held — reason]
 <a id="b4"></a>
 
 #### BLOG #4 (tactical) — "Legal professional privilege and AUSTRAC reporting: what solicitors can and cannot do"
-**Owner: Content–SEO. Day 15, Wednesday 14 October. Target 1,500 to 1,800 words.**
+**Owner: Content–SEO. Day 14, Tuesday 13 October. Target 1,500 to 1,800 words.**
 
 **What this is.** This is the privilege post: it sets out the tension between a solicitor's duty of confidentiality and the duty to report, and it says what a practitioner can actually do about that tension. The target query is *legal professional privilege AUSTRAC reporting*.
 
@@ -1914,15 +1916,15 @@ RELEASE: [approved / held — reason]
 <a id="b6"></a>
 
 #### BLOG #6 — "LawTech: AI Summit 2026 — what Sydney's managing partners are being asked to decide"
-**Owner: Content–SEO. Day 22, Wednesday 21 October. Target 1,200–1,500 words.**
+**Owner: Content–SEO. Draft source module on Day 22; publish only as part of the merged pre-event article on Day 29. Target 1,200–1,500 words within the combined article.**
 
-**What this is.** This is the event-tied post: it explains the summit and gives the audience the questions worth thinking about beforehand. The target query is *LawTech AI Summit 2026*, alongside the planning questions the audience actually has.
+**What this is.** This is the strategic-preview source module for the single pre-event article. It explains the summit and gives the audience the questions worth thinking about beforehand; its copy is combined with the practical logistics module below and is not published as a separate URL. The target query is *LawTech AI Summit 2026*, alongside the planning questions the audience actually has.
 
 **Why we are doing it.** It builds a second first-party entity for the summit. The [summit page](#p1-event-entity) covers the *what* — date, venue, who for. This covers the *why attend and what to think about beforehand*. Two pages on the same subject is what allows the topic to rank beyond the organiser's own domain.
 
 **Why it matters.** This is the post the last EDMs link to, and the post that makes the summit page rank for a planning query rather than only for the event name. It also gives a reader who will not attend a reason to engage with the brand, which is where most of the pipeline actually comes from.
 
-**What result we expect.** Indexed and cited in the Day 29 spot-check for [baseline query Q6](#baseline-q6) ("LawTech AI Summit 2026 Sydney"), and the destination for the final registration emails.
+**What result we expect.** The combined pre-event article is indexed and cited in the Day 29 spot-check for [baseline query Q6](#baseline-q6) ("LawTech AI Summit 2026 Sydney"), and is the destination for the final registration emails.
 
 **Where the facts come from.** Every event fact is re-read from the organiser's page on the day of writing and attributed throughout. The three learning outcomes are quoted or paraphrased with attribution. **Never write as if LawMatter is running the summit.**
 
@@ -1939,7 +1941,7 @@ RELEASE: [approved / held — reason]
 
 **[NOTE TO WRITER]:** **no speaker names in this post unless Speaker re-verification #1 has passed and every name is on the organiser's page on the day of writing.** Prefer the "questions to think about" framing over a speaker list — it is more useful to the reader and it cannot go stale. Never state a session title, agenda slot or talk content the organiser has not published.
 
-**Before you publish — checklist:** the organiser is attributed throughout, with no impression that LawMatter is the organiser · every event fact verified on the organiser's page today · the five pre-event questions are present · the bridge message is present · **speakers are either verified-today or absent** · no invented session or agenda detail · one CTA pointing to the organiser · the schema is complete · the compliance gate is signed.
+**Before you publish — checklist:** combine this preview module with the practical logistics module below in one URL · the organiser is attributed throughout, with no impression that LawMatter is the organiser · every event fact verified on the organiser's page today · the five pre-event questions and practical checklist are present · the bridge message is present · **speakers are either verified-today or absent** · no invented session or agenda detail · one CTA pointing to the organiser · one Article schema block · the compliance gate is signed.
 
 <a id="e5"></a>
 
@@ -2216,10 +2218,10 @@ RELEASE: [approved / held — reason]
 
 <a id="b9"></a>
 
-#### BLOG #8 — "Summit day: what to bring, what to ask, and where we will be"
-**Owner: Content–SEO. Day 29 (Wednesday 28 October). Target query:** *law tech summit Sydney 30 October*. Target 700–900 words.
+#### Pre-event blog module — "Summit day: what to bring, what to ask, and where we will be" (merged into the single summit post)
+**Owner: Content–SEO. Day 29 (Wednesday 28 October), combined with the strategic-preview module above. Target query:** *law tech summit Sydney 30 October*. This is not a second blog URL.
 
-**What this is.** This is the practical pre-read, published on the last content day before the event, when the audience is actively planning what to do on the Friday.
+**What this is.** This practical pre-read is the logistics section of the combined pre-event article. Publish it together with the strategic-preview module above as one post, one URL and one Article schema record; do not publish or count it separately.
 
 **Why it is short.** Nobody reads a long post the night before an event. This one is consumed on a phone in two minutes, which is exactly why it is useful rather than merely tolerable.
 

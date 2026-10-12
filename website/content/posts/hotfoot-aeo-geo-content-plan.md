@@ -133,6 +133,10 @@ The plan therefore aims to do three things at once:
 
 ## Why this plan is shaped this way
 
+### Why the schedule includes two blogs per full sprint week
+
+The 30-day sprint includes two distinct blog publications in each complete seven-day block (Days 1–7, 8–14, 15–21 and 22–28). Commercial service and product landing pages are separate deliverables and do not count toward this cadence. Days 29–30 are the closeout window, not a fifth full week; the Day 29 supporting article remains optional and does not replace measurement. Blog claims about product performance, safety, bird behaviour, installation, price, ROI or damage must be sourced and approved before publication; otherwise, omit them.
+
 ### Why the campaign is built around a small, specific keyword cluster
 
 There are five core queries, but they sit inside a much larger category: bird deterrent, pigeon control, rooftop bird control, solar panel bird deterrent, warehouse bird control, and non-invasive deterrent systems. A small cluster is enough if each page is strong and well-linked. There is no need to overbuild a large generic pest-content library.
@@ -168,37 +172,39 @@ This is a simple ownership model because the business is small and the content c
 
 ## 30-Day AEO/GEO schedule
 
+Publish exactly two blog articles in each complete seven-day sprint week. The linked blog brief is a separate article deliverable from any product, service or landing page shown on the same day. Each article requires its own editorial review and claim verification.
+
 | Day | Date | Focus | Primary output | Goal |
 |---|---|---|---|---|
 | 1 | Day 1 | Audit current site and keyword baseline | Baseline report | Confirm current pages, metadata, crawlability and page gaps |
 | 2 | Day 2 | Keyword mapping and page architecture | Keyword-to-page map | Assign each target query to a page or cluster |
 | 3 | Day 3 | Review conversion flow | Quote / assessment flow map | Identify the strongest CTA and lead capture point |
 | 4 | Day 4 | SEO technical audit | Crawl and index review | Check page titles, H1s, internal links and headings |
-| 5 | Day 5 | Homepage messaging refresh | Updated homepage copy | Make the company story clearer and more search-relevant |
+| 5 | Day 5 | Homepage messaging refresh; publish Blog 1 | Updated homepage copy; [Blog 1](#blog-1) | Make the company story clearer and publish the first weekly article |
 | 6 | Day 6 | Publish solar page brief | Draft page | Build the flagship commercial page around solar deterrents |
-| 7 | Day 7 | Publish flagship solar page | `/best-bird-deterrent-for-rooftop-solar-panels-singapore/` | Own the top commercial keyword |
+| 7 | Day 7 | Publish flagship solar page; publish Blog 2 | `/best-bird-deterrent-for-rooftop-solar-panels-singapore/`; [Blog 2](#blog-2) | Own the top commercial keyword and complete the first weekly pair |
 | 8 | Day 8 | Add FAQ and supporting content | Solar panel FAQ block | Capture answer engine queries and clarify product fit |
 | 9 | Day 9 | Draft EMP product page | Product page brief | Define the Asia-level category message |
-| 10 | Day 10 | Publish EMP product page | `/pigeon-control-electromagnetic-pulse-system-asia/` | Own category/technology intent |
+| 10 | Day 10 | Publish EMP product page; publish Blog 3 | `/pigeon-control-electromagnetic-pulse-system-asia/`; [Blog 3](#blog-3) | Own category/technology intent and start the second weekly pair |
 | 11 | Day 11 | Build “how to stop pigeons landing on building” article | Educational article draft | Answer the problem-first search query |
-| 12 | Day 12 | Publish building article | `/how-to-stop-pigeons-landing-on-building-singapore/` | Capture local building problem intent |
+| 12 | Day 12 | Publish building article as Blog 4 | `/how-to-stop-pigeons-landing-on-building-singapore/`; [Blog 4](#blog-4) | Capture local building problem intent and complete the second weekly pair |
 | 13 | Day 13 | Build no-netting/no-spikes page | Alternative-solution page draft | Capture the “without spikes or netting” intent |
 | 14 | Day 14 | Publish no-netting/no-spikes page | `/bird-deterrent-without-netting-or-spikes-singapore/` | Rank for solution alternatives |
 | 15 | Day 15 | Build warehouse cost page | Cost guide draft | Cover high-intent purchase and ROI discussion |
 | 16 | Day 16 | Publish warehouse cost page | `/warehouse-bird-control-solutions-singapore-cost/` | Capture cost/quote intent |
-| 17 | Day 17 | Add schema | FAQPage + Service + Organization schema | Improve AI visibility and SERP clarity |
+| 17 | Day 17 | Add schema; publish Blog 5 | FAQPage + Service + Organization schema; [Blog 5](#blog-5) | Improve AI visibility and begin the third weekly pair |
 | 18 | Day 18 | Internal linking pass | Content cluster links | Connect all pages into a topical cluster |
 | 19 | Day 19 | Create problem and benefits article | “Why pigeons choose rooftops and solar arrays” | Strengthen educational content depth |
-| 20 | Day 20 | Publish problem article | Supporting article | Add topic authority and common searches |
+| 20 | Day 20 | Publish problem article as Blog 6 | Supporting article; [Blog 6](#blog-6) | Add topic authority and complete the third weekly pair |
 | 21 | Day 21 | Build local proof content | Location-specific service copy | Improve relevance for Singapore service searches |
 | 22 | Day 22 | Create FAQ cluster | 8–12 common Q&A blocks | Improve answer extraction and AI citation chances |
 | 23 | Day 23 | Add before/after content or case study summary | Social proof page or section | Increase trust and conversion |
-| 24 | Day 24 | Review and tighten CTAs | All core pages | Increase lead capture clarity |
+| 24 | Day 24 | Review and tighten CTAs; publish Blog 7 | All core pages; [Blog 7](#blog-7) | Increase lead capture clarity and begin the fourth weekly pair |
 | 25 | Day 25 | Search-console and AI search test | Visibility check | Review impressions, click-through, and AI citation presence |
 | 26 | Day 26 | Refresh older pages with keyword variants | On-page update | Improve semantic coverage |
 | 27 | Day 27 | Build related landing page | Façade / parapet / warehouse variant | Expand category coverage |
-| 28 | Day 28 | Build local service mention content | Singapore service page or “where it works” page | Strengthen local authority |
-| 29 | Day 29 | Publish one supporting article or comparison page | Comparison or myth-busting article | Reinforce topical relevance |
+| 28 | Day 28 | Build local service mention content; publish Blog 8 | Singapore service page or “where it works” page; [Blog 8](#blog-8) | Strengthen local authority and complete the fourth weekly pair |
+| 29 | Day 29 | Optional supporting article or comparison page, only if approved and capacity remains | Comparison or myth-busting article | Add support without displacing closeout measurement |
 | 30 | Day 30 | Reporting + next-quarter optimisation | Final scorecard | Review results, update page priorities, decide next sprint |
 
 ---
@@ -783,7 +789,11 @@ The content below is the working library for the sprint. Each asset should be tr
 
 **CTA:** Talk to a bird control specialist.
 
-### Brief 3 — How to stop pigeons landing on building Singapore
+<a id="blog-4"></a>
+
+### Brief 3 — Blog 4: How to stop pigeons landing on building Singapore
+
+**Publication:** Day 12. **Owner:** Content / SEO lead; Founder / commercial owner approves claims and CTA.
 
 **Primary keyword:** how to stop pigeons landing on building Singapore
 
@@ -800,6 +810,8 @@ The content below is the working library for the sprint. Each asset should be tr
 **Ideal tone:** helpful, practical and non-technical.
 
 **CTA:** Get a building assessment.
+
+**Source and claim gate:** Verify any claims about bird behaviour, local conditions, product suitability or deterrent performance before publication. Keep advice general where evidence is unavailable; do not present an unverified product benefit as fact.
 
 ### Brief 4 — Bird deterrent without netting or spikes Singapore
 
@@ -837,7 +849,11 @@ The content below is the working library for the sprint. Each asset should be tr
 
 **CTA:** Request a warehouse bird control quote.
 
-### Brief 6 — Why pigeons target rooftop solar arrays and what to do about it
+<a id="blog-6"></a>
+
+### Brief 6 — Blog 6: Why pigeons target rooftop solar arrays and what to do about it
+
+**Publication:** Day 20. **Owner:** Content / SEO lead; Founder / commercial owner approves claims and CTA.
 
 **Primary keyword:** solar panel bird deterrent / solar bird control
 
@@ -845,10 +861,14 @@ The content below is the working library for the sprint. Each asset should be tr
 
 **Recommended page structure:**
 1. Why pigeons like rooftops with solar arrays
-2. Damage caused by droppings and shading
+2. What site owners may want to inspect, without asserting damage or output effects unless evidenced
 3. Why a deterrent must be roof-safe and installation-safe
 4. Key decision checklist for solar owners
 5. CTA to a site assessment
+
+**CTA:** Request a solar rooftop assessment.
+
+**Source and claim gate:** Verify bird-behaviour, damage, shading, output, roof-safety and installation claims against approved sources or client records. Omit any claim that cannot be substantiated.
 
 ### Brief 7 — How Wingzaway EMP works
 
@@ -904,6 +924,102 @@ The content below is the working library for the sprint. Each asset should be tr
 - can be used across the website, social posts and lead conversion pages
 
 **Important:** keep this factual and site-appropriate; only publish claims that are verifiable by the business.
+
+---
+
+<a id="blog-1"></a>
+
+### Blog 1 — Rooftop solar bird-activity inspection checklist
+
+**Publication:** Day 5. **Owner:** Content / SEO lead; Founder / commercial owner approves claims and CTA.
+
+**Purpose:** Give a facilities or solar-site manager a practical checklist for documenting a bird-related concern before requesting an assessment.
+
+**Outline:** Site and roof access permissions; safe observation from approved locations; zones and equipment to record; dated photographs where permitted; existing deterrents and maintenance history; questions to bring to a supplier.
+
+**CTA:** Request a rooftop site assessment.
+
+**Source and claim gate:** Do not state that birds are present, causing damage, reducing output or creating a safety issue at a particular site without client evidence. Do not direct readers to access roofs without site authorization and appropriate safety procedures.
+
+---
+
+<a id="blog-2"></a>
+
+### Blog 2 — How to prepare a rooftop solar site for a bird-control assessment
+
+**Publication:** Day 7. **Owner:** Content / SEO lead; Founder / commercial owner approves claims and CTA.
+
+**Purpose:** Help commercial buyers prepare useful site information for an assessment, distinct from the solar commercial landing page.
+
+**Outline:** Confirm site contact and access rules; identify array and roof zones; gather existing plans or maintenance records if available; note operational constraints; list questions about survey, installation and follow-up; confirm what the supplier will inspect.
+
+**CTA:** Arrange a site assessment.
+
+**Source and claim gate:** Confirm the supplier's actual assessment process and required inputs before publication. Do not promise an assessment duration, installation method or outcome without approved evidence.
+
+---
+
+<a id="blog-3"></a>
+
+### Blog 3 — What to ask before choosing an EMP bird-deterrent system
+
+**Publication:** Day 10. **Owner:** Content / SEO lead; Founder / commercial owner approves technical statements and CTA.
+
+**Purpose:** Provide a buyer's question list that supports, but does not duplicate, the EMP product page.
+
+**Outline:** Ask what the system does and does not claim to do; request the proposed site survey and installation scope; clarify compatibility and site constraints; ask how performance is evaluated; confirm maintenance, warranty and service terms in writing.
+
+**CTA:** Discuss site suitability with the supplier.
+
+**Source and claim gate:** A technical reviewer must verify all system descriptions against approved product documentation. Do not assert humane outcomes, efficacy, coverage, safety, power requirements or comparative superiority unless directly substantiated and approved.
+
+---
+
+<a id="blog-5"></a>
+
+### Blog 5 — Choosing a bird-control approach without netting or spikes
+
+**Publication:** Day 17. **Owner:** Content / SEO lead; Founder / commercial owner approves comparisons and CTA.
+
+**Purpose:** Explain how commercial buyers can assess alternatives when netting or spikes are not suitable for their site.
+
+**Outline:** Start with the site's constraints; compare options by installation needs, appearance, access, maintenance and documented suitability; identify questions for a qualified supplier; explain why the right option depends on the site.
+
+**CTA:** Request an assessment of the site constraints.
+
+**Source and claim gate:** Present trade-offs neutrally and verify each product-specific comparison. Do not claim that a method is universally ineffective, unsafe or non-humane.
+
+---
+
+<a id="blog-7"></a>
+
+### Blog 7 — What a commercial bird-control assessment should consider
+
+**Publication:** Day 24. **Owner:** Content / SEO lead; Founder / commercial owner approves process details and CTA.
+
+**Purpose:** Set buyer expectations for a site-specific assessment across different commercial property types.
+
+**Outline:** Site use and operating hours; affected zones; access and safety requirements; existing measures; buyer priorities; written scope, exclusions and next steps.
+
+**CTA:** Request a site assessment.
+
+**Source and claim gate:** Confirm the company's actual assessment workflow before describing it. Frame the list as buyer questions if the company's process has not been verified; do not imply certification or inspection credentials.
+
+---
+
+<a id="blog-8"></a>
+
+### Blog 8 — What information helps scope a warehouse bird-control quote
+
+**Publication:** Day 28. **Owner:** Content / SEO lead; Founder / commercial owner approves quote inputs and CTA.
+
+**Purpose:** Help a warehouse operator prepare a quote request without inventing prices or implying a standard cost formula.
+
+**Outline:** Property and affected areas; operating constraints; access arrangements; available photos or plans; existing control measures; requested service scope; questions about exclusions and follow-up.
+
+**CTA:** Request a warehouse site assessment or quote.
+
+**Source and claim gate:** Confirm which inputs the business actually uses when preparing a quote. Do not publish price ranges, ROI, savings, damage costs or a fixed pricing formula without verified records.
 
 ---
 
